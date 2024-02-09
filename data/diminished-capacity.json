@@ -1,0 +1,24 @@
+{
+    "Diminished Capacity": {
+        "definition": "an abnormal mental condition that renders a person unable to form the specific intent necessary for the commission of a crime",
+        "sub_definitions": {
+            "1": {
+                "definition": "an abnormal mental condition that renders a person unable to form the specific intent necessary for the commission of a crime (as first-degree murder) but that does not amount to insanity called alsocompare,,,",
+                "compares": "insanity"
+            },
+            "2 a": {
+                "definition": "a defense based on a claim of diminished capacity",
+                "sub_terms": {
+                    "b": "the doctrine that diminished capacity may negate an element of a crime"
+                },
+                "note": " If diminished capacity is shown, negating an element of the crime with which a defendant is charged, the defendant can only be convicted of a lesser offense that does not include the element."
+            }
+        },
+        "references": {
+            "insanity": "https://dictionary.findlaw.com/definition/insanity.html",
+            "irresistible impulse test": "https://dictionary.findlaw.com/definition/irresistible-impulse-test.html",
+            "m'naghten test": "https://dictionary.findlaw.com/definition/m-naghten-test.html",
+            "substantial capacity test": "https://dictionary.findlaw.com/definition/substantial-capacity-test.html"
+        }
+    }
+}

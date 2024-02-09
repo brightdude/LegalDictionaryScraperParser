@@ -1,0 +1,16 @@
+{
+    "Exclude": {
+        "definition": "to prevent or restrict the entry or admission of [ hearsay evidence] 2",
+        "origin": "[ hearsay evidence]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to prevent or restrict the entry or admission of [ hearsay evidence]"
+            },
+            "2": {
+                "definition": "to remove from participation, consideration, or inclusion (as in insurance coverage) [theperils include acts of war]",
+                "excluded": "perils include acts of war]"
+            }
+        },
+        "references": {}
+    }
+}

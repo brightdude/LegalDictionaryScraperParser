@@ -1,0 +1,8 @@
+{
+    "Foreign Corporation": {
+        "definition": "Foreign Corporation",
+        "references": {
+            "corporation": "https://dictionary.findlaw.com/definition/corporation.html"
+        }
+    }
+}

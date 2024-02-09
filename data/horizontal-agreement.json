@@ -1,0 +1,16 @@
+{
+    "Horizontal Agreement": {
+        "definition": "an agreement among economic competitors on the same level of production or distribution compare vertical agreement NOTE",
+        "compare": "vertical agreement",
+        "sub_definitions": {
+            "1": {
+                "1": "an agreement among economic competitors on the same level of production or distribution compare",
+                "compares": "vertical agreement",
+                "note": " Horizontal agreements are generally considered illegal as violating antitrust laws."
+            }
+        },
+        "references": {
+            "vertical agreement": "https://dictionary.findlaw.com/definition/vertical-agreement.html"
+        }
+    }
+}

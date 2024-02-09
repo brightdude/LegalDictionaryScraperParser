@@ -1,0 +1,15 @@
+{
+    "Form Of Action": {
+        "definition": "any of the personal actions",
+        "sub_definitions": {
+            "1": {
+                "1": "any of the personal actions (as assumpsit, detinue, or replevin) formerly brought at common law see also",
+                "see also": "writ",
+                "note": " Rule 2 of the Federal Rules of Civil Procedure states “there shall be one form of action to be known as ‘civil action.’ ”"
+            }
+        },
+        "references": {
+            "writ": "https://dictionary.findlaw.com/definition/writ.html"
+        }
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "Transgress": {
+        "definition": "to go beyond limits set or prescribed by",
+        "sub_definitions": {
+            "1": {
+                "definition": "to violate a law"
+            },
+            "2": {
+                "definition": "to go beyond a boundary or limit"
+            }
+        },
+        "references": {
+            "violate": "https://dictionary.findlaw.com/definition/violate.html"
+        }
+    }
+}

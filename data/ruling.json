@@ -1,0 +1,24 @@
+{
+    "Ruling": {
+        "definition": "an official or authoritative determination",
+        "origin": "[followed a previous on the same question]",
+        "compare": "revenue ruling",
+        "sub_definitions": {
+            "1": {
+                "1": "an official or authoritative determination, decree, statement, or interpretation (as by a judge on a question of law) [followed a previous on the same question] see also",
+                "see also": "revenue ruling",
+                "compares": "decision"
+            }
+        },
+        "references": {
+            "revenue ruling": "https://dictionary.findlaw.com/definition/revenue-ruling.html",
+            "decision": "https://dictionary.findlaw.com/definition/decision.html",
+            "disposition": "https://dictionary.findlaw.com/definition/disposition.html",
+            "finding": "https://dictionary.findlaw.com/definition/finding.html",
+            "holding": "https://dictionary.findlaw.com/definition/holding.html",
+            "judgment": "https://dictionary.findlaw.com/definition/judgment.html",
+            "opinion": "https://dictionary.findlaw.com/definition/opinion.html",
+            "verdict": "https://dictionary.findlaw.com/definition/verdict.html"
+        }
+    }
+}

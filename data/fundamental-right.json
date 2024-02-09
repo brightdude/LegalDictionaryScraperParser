@@ -1,0 +1,12 @@
+{
+    "Fundamental Right": {
+        "definition": "a right that is considered by a court",
+        "sub_definitions": {
+            "1": {
+                "1": "a right that is considered by a court (as the U.S. Supreme Court) to be explicitly or implicitly expressed in a constitution (as the U.S. Constitution)",
+                "note": " A court must review a law that infringes on a fundamental right under a standard of strict scrutiny. A fundamental right can be limited by a law only if there is a compelling state interest."
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "Pain": {
+        "definition": "punishment 2 a",
+        "origin": "[ordered not to leave the country on pain of death]",
+        "sub_definitions": {
+            "2 a": {
+                "definition": "physical discomfort associated with bodily disorder (as disease or injury)",
+                "sub_terms": {
+                    "b": "acute mental or emotional suffering"
+                }
+            }
+        },
+        "references": {
+            "punishment": "https://dictionary.findlaw.com/definition/punishment.html"
+        }
+    }
+}

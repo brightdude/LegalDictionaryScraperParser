@@ -1,0 +1,18 @@
+{
+    "Jus Gentium": {
+        "definition": "a body of law recognized by nations that is binding and governs their relations with each other",
+        "origin": "[Latin, literally, law of nations]",
+        "sub_definitions": {
+            "1": {
+                "1": "a body of law recognized by nations that is binding and governs their relations with each other"
+            },
+            "2": {
+                "1": "international law",
+                "note": " In Roman lawjus gentiumreferred to the rules and laws that were common to the various nations or peoples under the Roman empire and were used in cases between non-Roman citizens or between a Roman and a non-Roman citizen."
+            }
+        },
+        "references": {
+            "international law": "https://dictionary.findlaw.com/definition/international-law.html"
+        }
+    }
+}

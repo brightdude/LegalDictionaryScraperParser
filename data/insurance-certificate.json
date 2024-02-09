@@ -1,0 +1,14 @@
+{
+    "Insurance Certificate": {
+        "definition": "a certificate issued by an insurer to a shipper as evidence that a shipment of merchandise is covered under a marine insurance policy 2",
+        "sub_definitions": {
+            "1": {
+                "definition": "a certificate issued by an insurer to a shipper as evidence that a shipment of merchandise is covered under a marine insurance policy"
+            },
+            "2": {
+                "definition": "a certificate issued in place of an insurance policy by an insurer to one insured as evidence of membership in an insurance or pension plan"
+            }
+        },
+        "references": {}
+    }
+}

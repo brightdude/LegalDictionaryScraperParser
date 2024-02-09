@@ -1,0 +1,15 @@
+{
+    "Curator": {
+        "definition": "a person appointed by a court to care for the property of an absent person or to care for the person or property of someone mentally incapable of doing so compare committee",
+        "origin": "[Latin, guardian, from curare to take care of]",
+        "compare": "committee",
+        "sub_definitions": {},
+        "references": {
+            "committee": "https://dictionary.findlaw.com/definition/committee.html",
+            "conservator": "https://dictionary.findlaw.com/definition/conservator.html",
+            "guardian": "https://dictionary.findlaw.com/definition/guardian.html",
+            "interdict": "https://dictionary.findlaw.com/definition/interdict.html",
+            "tutor": "https://dictionary.findlaw.com/definition/tutor.html"
+        }
+    }
+}

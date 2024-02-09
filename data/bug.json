@@ -1,0 +1,16 @@
+{
+    "Bug": {
+        "definition": "to plant a concealed microphone in [ an office] compare eavesdrop",
+        "origin": "[ an office]",
+        "sub_definitions": {
+            "bug·ging": {
+                "definition": "to plant a concealed microphone in [ an office] compare,",
+                "compares": "eavesdrop"
+            }
+        },
+        "references": {
+            "eavesdrop": "https://dictionary.findlaw.com/definition/eavesdrop.html",
+            "wiretap": "https://dictionary.findlaw.com/definition/wiretap.html"
+        }
+    }
+}

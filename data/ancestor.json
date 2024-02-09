@@ -1,0 +1,22 @@
+{
+    "Ancestor": {
+        "definition": "a person from whom an individual is descended",
+        "origin": "[ in title]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "a person from whom an individual is descended",
+                "sub_terms": {
+                    "b": "a person from whom an estate descends compare"
+                },
+                "compares": "heir"
+            },
+            "2": {
+                "definition": "one that precedes [ in title]"
+            }
+        },
+        "references": {
+            "ascendant": "https://dictionary.findlaw.com/definition/ascendant.html",
+            "heir": "https://dictionary.findlaw.com/definition/heir.html"
+        }
+    }
+}

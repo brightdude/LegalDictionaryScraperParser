@@ -1,0 +1,11 @@
+{
+    "After-Born": {
+        "definition": "born after a certain event",
+        "sub_definitions": {
+            "1": {
+                "1": "born after a certain event (as a father's death or the execution of a will)"
+            }
+        },
+        "references": {}
+    }
+}

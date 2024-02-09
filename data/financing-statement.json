@@ -1,0 +1,19 @@
+{
+    "Financing Statement": {
+        "definition": "a statement that contains information about a security interest in collateral used to secure a debt and that is filed to provide notice to other creditors of the security interest see also perfect Uniform Commercial Code in the Important Laws section compare financial statement NOTE",
+        "compare": "perfect",
+        "sub_definitions": {
+            "1": {
+                "1": "a statement that contains information about a security interest in collateral used to secure a debt and that is filed to provide notice to other creditors of the security interest see also",
+                "see also": "perfect",
+                "Uniform Commercial Code": "in the Important Laws section compare",
+                "compares": "financial statement",
+                "note": " Under Article 9 of the Uniform Commercial Code, a financing statement must 1) give the names of the debtor and the secured party, 2) be signed by the debtor, 3) give the address of the secured party, 4) give the address of the debtor, and 5) indicate the items of collateral."
+            }
+        },
+        "references": {
+            "perfect": "https://dictionary.findlaw.com/definition/perfect.html",
+            "financial statement": "https://dictionary.findlaw.com/definition/financial-statement.html"
+        }
+    }
+}

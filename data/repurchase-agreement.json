@@ -1,0 +1,11 @@
+{
+    "Repurchase Agreement": {
+        "definition": "a contract giving the seller of securities",
+        "sub_definitions": {
+            "1": {
+                "1": "a contract giving the seller of securities (as Treasury bills) the right to repurchase after a stated period and the buyer the right to retain interest earnings"
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "Not Guilty By Reason Of Insanity": {
+        "definition": "a plea by a criminal defendant who intends to raise an insanity defense used in jurisdictions that require such a plea in order for an insanity defense to be presented 2",
+        "sub_definitions": {
+            "1": {
+                "definition": "a plea by a criminal defendant who intends to raise an insanity defense used in jurisdictions that require such a plea in order for an insanity defense to be presented"
+            },
+            "2": {
+                "definition": "a verdict rendered by a jury in a criminal case that finds that the defendant was insane at the time of committing the crime as determined by application of the test for insanity used in the jurisdiction compare",
+                "note": " A verdict of not guilty by reason of insanity usually results in the commitment of the defendant to a mental institution. Such a verdict, however, may allow the defendant to be released, sometimes into the custody or care of another (as a family member).",
+                "compares": "guilty but mentally ill"
+            }
+        },
+        "references": {
+            "guilty but mentally ill": "https://dictionary.findlaw.com/definition/guilty-but-mentally-ill.html"
+        }
+    }
+}

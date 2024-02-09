@@ -1,0 +1,20 @@
+{
+    "X": {
+        "definition": "a mark used in place of a signature when the maker is incapable of signing his or her name",
+        "sub_definitions": {
+            "1": {
+                "definition": "ex-distribution"
+            },
+            "2": {
+                "definition": "ex-dividend"
+            },
+            "3": {
+                "definition": "ex-rights"
+            },
+            "4": {
+                "definition": "ex-warrants"
+            }
+        },
+        "references": {}
+    }
+}

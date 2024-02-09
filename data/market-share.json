@@ -1,0 +1,11 @@
+{
+    "Market Share": {
+        "definition": "the percentage of the market for a product or service that a company supplies",
+        "sub_definitions": {
+            "1": {
+                "1": "the percentage of the market for a product or service that a company supplies"
+            }
+        },
+        "references": {}
+    }
+}

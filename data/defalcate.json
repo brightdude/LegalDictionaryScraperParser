@@ -1,0 +1,15 @@
+{
+    "Defalcate": {
+        "definition": "to commit defalcation compare embezzle de·fal·ca·tor   [-kā-tər] n",
+        "origin": "[-kā-tər]",
+        "sub_definitions": {
+            "-cat·ing": {
+                "definition": "to commit defalcation compare",
+                "compares": "embezzle"
+            }
+        },
+        "references": {
+            "embezzle": "https://dictionary.findlaw.com/definition/embezzle.html"
+        }
+    }
+}

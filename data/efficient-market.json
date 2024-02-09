@@ -1,0 +1,15 @@
+{
+    "Efficient Market": {
+        "definition": "a securities and commodities market whose prices always reflect the most accurate and up-to-date information compare fraud on the market theory",
+        "compare": "fraud on the market theory",
+        "sub_definitions": {
+            "1": {
+                "1": "a securities and commodities market whose prices always reflect the most accurate and up-to-date information compare",
+                "compares": "fraud on the market theory"
+            }
+        },
+        "references": {
+            "fraud on the market theory": "https://dictionary.findlaw.com/definition/fraud-on-the-market-theory.html"
+        }
+    }
+}

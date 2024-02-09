@@ -1,0 +1,23 @@
+{
+    "Filiation": {
+        "definition": "a legal relationship of a parent and esp. a father and child that creates rights and obligations [used to help prove in a paternity suit \" LeBlanc v. LeBlanc",
+        "origin": "[Late Latin filiatio relationship of a son and father, from Latin filius son]",
+        "sub_definitions": {
+            "1": {
+                "definition": "a legal relationship of a parent and esp. a father and child that creates rights and obligations [used to help prove in a paternity suit \", 427 So. 2d 1361 (1986)\"] see alsocompare,",
+                "note": " The Louisiana Supreme Court has held that children not entitled to legitimate filiation to the alleged parent, or not legitimated or formally acknowledged by the alleged parent, may establish filiation in a filiation proceeding. This has led to some instances where the legitimate children of one father have been allowed to prove filiation to another father. Such an action does not make the children illegitimate but does create a status of dual paternity.",
+                "compares": "acknowledgment",
+                "see also": "legitimate filiation",
+                "LeBlanc v. LeBlanc": "427 So. 2d 1361 (1986)\"] see al"
+            },
+            "2": {
+                "definition": "adjudication of paternity or filiation [the court has made an order of \"\"]"
+            }
+        },
+        "references": {
+            "legitimate filiation": "https://dictionary.findlaw.com/definition/legitimate-filiation.html",
+            "acknowledgment": "https://dictionary.findlaw.com/definition/acknowledgment.html",
+            "paternity": "https://dictionary.findlaw.com/definition/paternity.html"
+        }
+    }
+}

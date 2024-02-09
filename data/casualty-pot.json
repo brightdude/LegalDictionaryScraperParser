@@ -1,0 +1,16 @@
+{
+    "Casualty Pot": {
+        "definition": "a step in calculating tax liability under Internal Revenue Code section 1231 in which qualified casualty gains and losses are added together to determine if the result is a net loss or net gain compare main pot NOTE",
+        "compare": "main pot",
+        "sub_definitions": {
+            "1": {
+                "1": "a step in calculating tax liability under Internal Revenue Code section 1231 in which qualified casualty gains and losses are added together to determine if the result is a net loss or net gain compare",
+                "compares": "main pot",
+                "note": " Property that qualifies for inclusion in the Casualty Pot consists of casualties of depreciable and real property used in a trade or business for more than one year and capital assets held for more than one year in connection with a trade or business or transaction made for profit. If the net result of the calculation is a loss, then the ordinary rules for gains and losses apply to the casualties. If the net result is a gain, the entire amount passes into the Main Pot."
+            }
+        },
+        "references": {
+            "main pot": "https://dictionary.findlaw.com/definition/main-pot.html"
+        }
+    }
+}

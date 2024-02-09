@@ -1,0 +1,34 @@
+{
+    "Battery": {
+        "definition": "the crime or tort of intentionally or recklessly causing offensive physical contact or bodily harm",
+        "origin": "[Old French batterie beating, from battre to beat, from Latin battuere ]",
+        "compare": "assault",
+        "sub_definitions": {
+            "aggravated battery": {
+                "definition": "criminal battery that is accompanied by aggravating factors",
+                "sub_terms": {
+                    "a": "criminal battery that causes or is intended to cause serious bodily injury esp. through the use of a dangerous weapon",
+                    "b": "criminal battery committed on a protected person (as a minor or a police officer) comparein this entry"
+                },
+                "note": " Aggravated battery is usually classified as a felony.",
+                "compares": "simple battery"
+            },
+            "sex·u·al battery": {
+                "definition": "intentional and offensive sexual contact and esp. sexual intercourse with a person who has not given or (as in the case of a child) is incapable of giving consentforced or coerced contact with the sexual parts of either the victim or the perpetrator see also",
+                "note": " This is a broad definition of the offense. The specific elements of this crime vary from state to state, and some states use more narrow definitions.",
+                "see also": "rape"
+            },
+            "simple battery": {
+                "definition": "criminal battery that is not accompanied by aggravating factors (as a dangerous weapon) comparein this entry",
+                "note": " Simple battery is usually classified as a misdemeanor.",
+                "compares": "aggravated battery"
+            }
+        },
+        "references": {
+            "assault": "https://dictionary.findlaw.com/definition/assault.html",
+            "simple battery": "https://dictionary.findlaw.com/definition/simple-battery.html",
+            "rape": "https://dictionary.findlaw.com/definition/rape.html",
+            "aggravated battery": "https://dictionary.findlaw.com/definition/aggravated-battery.html"
+        }
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "Coupon Bond": {
+        "definition": "Coupon Bond",
+        "references": {
+            "bond": "https://dictionary.findlaw.com/definition/bond.html"
+        }
+    }
+}

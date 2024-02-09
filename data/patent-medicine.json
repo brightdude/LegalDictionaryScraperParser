@@ -1,0 +1,14 @@
+{
+    "Patent Medicine": {
+        "definition": "a packaged nonprescription drug which is protected by a trademark and whose contents are incompletely disclosed ;also",
+        "sub_definitions": {
+            "1": {
+                "1": "a packaged nonprescription drug which is protected by a trademark and whose contents are incompletely disclosed"
+            },
+            "2": {
+                "1": "any drug that is a proprietary"
+            }
+        },
+        "references": {}
+    }
+}

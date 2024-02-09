@@ -1,0 +1,15 @@
+{
+    "Undue": {
+        "definition": "not due",
+        "origin": "[an bill]",
+        "sub_definitions": {
+            "1": {
+                "definition": "not duenot yet payable [an bill]"
+            },
+            "2": {
+                "definition": "exceeding or violating propriety or fitness [would impose hardship on the debtors] [such a requirement would place an burden on employers]"
+            }
+        },
+        "references": {}
+    }
+}

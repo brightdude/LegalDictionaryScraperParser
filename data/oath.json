@@ -1,0 +1,17 @@
+{
+    "Oath": {
+        "definition": "a solemn attestation of the truth of one's words or the sincerity of one's intentions ;specif",
+        "sub_definitions": {
+            "1": {
+                "definition": "a solemn attestation of the truth of one's words or the sincerity of one's intentionsone accompanied by calling upon a deity as a witness"
+            },
+            "2": {
+                "definition": "a promise (as to perform official duties faithfully) corroborated by an oath compare",
+                "compares": "perjury"
+            }
+        },
+        "references": {
+            "perjury": "https://dictionary.findlaw.com/definition/perjury.html"
+        }
+    }
+}

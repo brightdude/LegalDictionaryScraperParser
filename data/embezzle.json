@@ -1,0 +1,15 @@
+{
+    "Embezzle": {
+        "definition": "to convert",
+        "origin": "[Anglo-French embeseiller to make away with, from en -, prefix stressing completion + beseller to snatch, misappropriate, from Old French, to destroy]",
+        "sub_definitions": {
+            "em·bez·zling": {
+                "definition": "[Anglo-Frenchto make away with, from-, prefix stressing completion +to snatch, misappropriate, from Old French, to destroy]to convert (property entrusted to one's care) fraudulently to one's own use compare",
+                "compares": "defalcate"
+            }
+        },
+        "references": {
+            "defalcate": "https://dictionary.findlaw.com/definition/defalcate.html"
+        }
+    }
+}

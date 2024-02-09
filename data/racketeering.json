@@ -1,0 +1,18 @@
+{
+    "Racketeering": {
+        "definition": "the extortion of money or advantage by threat or force 2",
+        "sub_definitions": {
+            "1": {
+                "definition": "the extortion of money or advantage by threat or force"
+            },
+            "2": {
+                "definition": "a pattern of illegal activity (as extortion and murder) that is carried out in furtherance of an enterprise (as a criminal syndicate) which is owned or controlled by those engaged in such activity see alsoin the Important Laws section compare",
+                "compares": "organized crime",
+                "Racketeer Influenced and Corrupt Organizations Act": "in the Important Laws section compare"
+            }
+        },
+        "references": {
+            "organized crime": "https://dictionary.findlaw.com/definition/organized-crime.html"
+        }
+    }
+}

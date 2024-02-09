@@ -1,0 +1,14 @@
+{
+    "Habeas": {
+        "definition": "habeas corpus ad subjiciendum at habeas corpus",
+        "sub_definitions": {
+            "1": {
+                "1": "habeas corpus ad subjiciendum"
+            }
+        },
+        "references": {
+            "habeas corpus ad subjiciendum": "https://dictionary.findlaw.com/definition/habeas-corpus-ad-subjiciendum.html",
+            "habeas corpus": "https://dictionary.findlaw.com/definition/habeas-corpus.html"
+        }
+    }
+}

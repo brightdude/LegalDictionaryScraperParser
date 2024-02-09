@@ -1,0 +1,26 @@
+{
+    "Chancery": {
+        "definition": "the court having equity jurisdiction in England and Wales and presided over by the Lord Chancellor of Great Britain NOTE",
+        "origin": "[Middle English chauncery , alteration of chancellerie chancellor's office]",
+        "sub_definitions": {
+            "1": {
+                "definition": "the court having equity jurisdiction in England and Wales and presided over by the Lord Chancellor of Great Britain",
+                "note": " Formerly a separate court, the Chancery is now a division of the Supreme Court of Judicature in England."
+            },
+            "2 a": {
+                "definition": "[cases decided in ]",
+                "sub_terms": {
+                    "b": "the principles and practice of judicial equity [court of ] see alsocompare"
+                },
+                "note": " There are chancery courts in Arkansas, Delaware, Mississippi, New Jersey, and Tennessee.",
+                "compares": "law",
+                "see also": "equity"
+            }
+        },
+        "references": {
+            "court of equity": "https://dictionary.findlaw.com/definition/court-of-equity.html",
+            "equity": "https://dictionary.findlaw.com/definition/equity.html",
+            "law": "https://dictionary.findlaw.com/definition/law.html"
+        }
+    }
+}

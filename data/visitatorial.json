@@ -1,0 +1,13 @@
+{
+    "Visitatorial": {
+        "definition": "visitorial",
+        "sub_definitions": {
+            "1": {
+                "1": "visitorial"
+            }
+        },
+        "references": {
+            "visitorial": "https://dictionary.findlaw.com/definition/visitorial.html"
+        }
+    }
+}

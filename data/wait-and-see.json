@@ -1,0 +1,16 @@
+{
+    "Wait And See": {
+        "definition": "a doctrine in property law that postpones determining the question of validity of a future interest that has not yet vested",
+        "compare": "rule against perpetuities",
+        "sub_definitions": {
+            "1": {
+                "1": "a doctrine in property law that postpones determining the question of validity of a future interest that has not yet vested (as a contingent remainder) until circumstances make clear whether or not the interest will vest within a time limit compare",
+                "compares": "rule against perpetuities",
+                "note": " A minority of states have adopted the wait and see doctrine."
+            }
+        },
+        "references": {
+            "rule against perpetuities": "https://dictionary.findlaw.com/definition/rule-against-perpetuities.html"
+        }
+    }
+}

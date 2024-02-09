@@ -1,0 +1,13 @@
+{
+    "Capital Punishment": {
+        "definition": "death penalty",
+        "sub_definitions": {
+            "1": {
+                "1": "death penalty"
+            }
+        },
+        "references": {
+            "death penalty": "https://dictionary.findlaw.com/definition/death-penalty.html"
+        }
+    }
+}

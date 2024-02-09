@@ -1,0 +1,15 @@
+{
+    "Legal Name": {
+        "definition": "a person's name that is usually the name given at birth and recorded on the birth certificate but that may be a different name that is used by a person consistently and independently or that has been declared the person's name by a court NOTE",
+        "sub_definitions": {
+            "1": {
+                "definition": "a person's name that is usually the name given at birth and recorded on the birth certificate but that may be a different name that is used by a person consistently and independently or that has been declared the person's name by a court",
+                "note": " If a person seeks to change a name by judicial process, the court may not deny the change absent any indication of a fraudulent purpose. In some states, a woman's legal name is presumed to include her husband's last name."
+            },
+            "2": {
+                "definition": "the designation chosen by a business entity (as a corporation) and reported to the state (as in the articles of incorporation)"
+            }
+        },
+        "references": {}
+    }
+}

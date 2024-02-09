@@ -1,0 +1,22 @@
+{
+    "Amortize": {
+        "definition": "to reduce",
+        "origin": "[ the machinery over five years]",
+        "sub_definitions": {
+            "-tiz·ing": {
+                "definition": "to reduce (an amount) gradually",
+                "sub_terms": {
+                    "a": "to pay off (as a loan) gradually usually by periodic payments of principal and interest or payments to a sinking fund",
+                    "b": "to gradually reduce the cost of (as an asset) esp. for tax purposes by making periodic charges to income over a time span [ the machinery over five years] see alsocompare,"
+                },
+                "compares": "capitalize",
+                "see also": "depreciation"
+            }
+        },
+        "references": {
+            "depreciation": "https://dictionary.findlaw.com/definition/depreciation.html",
+            "capitalize": "https://dictionary.findlaw.com/definition/capitalize.html",
+            "deduct": "https://dictionary.findlaw.com/definition/deduct.html"
+        }
+    }
+}

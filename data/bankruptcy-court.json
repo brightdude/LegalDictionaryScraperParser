@@ -1,0 +1,12 @@
+{
+    "Bankruptcy Court": {
+        "definition": "a court that is a unit of a federal District Court and has original jurisdiction over bankruptcy cases NOTE",
+        "sub_definitions": {
+            "1": {
+                "1": "a court that is a unit of a federal District Court and has original jurisdiction over bankruptcy cases",
+                "note": " Bankruptcy courts were created by Congress as part of the 1898 Bankruptcy Act. Article I, Section 8 of the U.S. Constitution gives Congress the power to establish “uniform laws on the subject of bankruptcies throughout the United States.”"
+            }
+        },
+        "references": {}
+    }
+}

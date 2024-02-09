@@ -1,0 +1,11 @@
+{
+    "Surtax": {
+        "definition": "an additional tax over and above a normal tax",
+        "sub_definitions": {
+            "1": {
+                "1": "an additional tax over and above a normal tax"
+            }
+        },
+        "references": {}
+    }
+}

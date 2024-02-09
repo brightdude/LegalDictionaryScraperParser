@@ -1,0 +1,16 @@
+{
+    "Nonclaim Statute": {
+        "definition": "a statute prohibiting the initiation of a suit beyond a particular time period",
+        "sub_definitions": {
+            "1": {
+                "1": "a statute prohibiting the initiation of a suit beyond a particular time period"
+            },
+            "2": {
+                "1": "statute of limitations"
+            }
+        },
+        "references": {
+            "statute of limitations": "https://dictionary.findlaw.com/definition/statute-of-limitations.html"
+        }
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "Reckless Disregard Of The Truth": {
+        "definition": "disregard of the truth or falsity of a defamatory statement by a person who is highly aware of its probable falsity or entertains serious doubts about its truth or when there are obvious reasons to doubt the veracity and accuracy of a source [the knowingly false statement and the false statement made with reckless disregard of the truth",
+        "origin": "[the knowingly false statement and the false statement made with reckless disregard of the truth , do not enjoy constitutional protection \" Garrison v. Louisiana , 379 U.S. 64 (1964)\"]",
+        "sub_definitions": {
+            "1": {
+                "definition": "disregard of the truth or falsity of a defamatory statement by a person who is highly aware of its probable falsity or entertains serious doubts about its truth or when there are obvious reasons to doubt the veracity and accuracy of a source [the knowingly false statement and the false statement made with, do not enjoy constitutional protection \", 379 U.S. 64 (1964)\"]",
+                "Garrison v. Louisiana": "379 U.S. 64 (1964)"
+            },
+            "2": {
+                "definition": "a reckless lack of attention to the truth that misleads or deceives another (as a magistrate) [whether false statements were made intentionally or inin support of the warrant \", 879 P.2d 950 (1994)\"]",
+                "reckless disregard of the truth": "in support of the warrant \"",
+                "State v. O'Neil": "879 P.2d 950 (1994)"
+            }
+        },
+        "references": {}
+    }
+}

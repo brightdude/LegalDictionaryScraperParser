@@ -1,0 +1,19 @@
+{
+    "Comparative Fault": {
+        "definition": "a doctrine in torts in which the fault attributable to each party is compared and any award to the plaintiff is reduced in proportion to the plaintiff's share of the fault",
+        "compare": "comparative negligence",
+        "sub_definitions": {
+            "1": {
+                "1": "a doctrine in torts in which the fault attributable to each party is compared and any award to the plaintiff is reduced in proportion to the plaintiff's share of the fault"
+            },
+            "2": {
+                "1": "comparative negligence"
+            }
+        },
+        "references": {
+            "comparative negligence": "https://dictionary.findlaw.com/definition/comparative-negligence.html",
+            "negligence": "https://dictionary.findlaw.com/definition/negligence.html",
+            "liability": "https://dictionary.findlaw.com/definition/liability.html"
+        }
+    }
+}

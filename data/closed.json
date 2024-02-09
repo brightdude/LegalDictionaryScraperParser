@@ -1,0 +1,15 @@
+{
+    "Closed": {
+        "definition": "confined to a few [ membership] 2",
+        "origin": "[ membership]",
+        "sub_definitions": {
+            "1": {
+                "definition": "confined to a few [ membership]"
+            },
+            "2": {
+                "definition": "excluding outsiders or witnessesconducted in secrecy [ hearings]"
+            }
+        },
+        "references": {}
+    }
+}

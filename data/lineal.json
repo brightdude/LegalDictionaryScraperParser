@@ -1,0 +1,16 @@
+{
+    "Lineal": {
+        "definition": "consisting of or being in a direct male or female line of ancestry [a descendant] compare collateral",
+        "origin": "[a descendant]",
+        "compare": "collateral",
+        "sub_definitions": {
+            "1": {
+                "1": "consisting of or being in a direct male or female line of ancestry [a descendant] compare",
+                "compares": "collateral"
+            }
+        },
+        "references": {
+            "collateral": "https://dictionary.findlaw.com/definition/collateral.html"
+        }
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "Interpretive Rule": {
+        "definition": "a rule issued by an administrative agency that only clarifies or explains existing laws or regulations called also interpretative rule compare legislative rule NOTE",
+        "compare": "legislative rule",
+        "sub_definitions": {
+            "1": {
+                "1": "a rule issued by an administrative agency that only clarifies or explains existing laws or regulations called also",
+                "compares": "legislative rule",
+                "note": " An interpretive rule does not have to meet the requirements set out in the Administrative Procedure Act for notice to the public and opportunity for comment that apply to legislative rules. An interpretive rule does not have the force of law."
+            }
+        },
+        "references": {
+            "legislative rule": "https://dictionary.findlaw.com/definition/legislative-rule.html"
+        }
+    }
+}

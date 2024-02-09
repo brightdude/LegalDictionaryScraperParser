@@ -1,0 +1,15 @@
+{
+    "Dwelling": {
+        "definition": "a structure where a person lives and esp. sleeps called also dwelling house see also burglary NOTE",
+        "sub_definitions": {
+            "1": {
+                "1": "a structure where a person lives and esp. sleeps called also",
+                "see also": "burglary",
+                "note": " Courts disagree as to how permanent or consistent the habitation of a structure must be in order for it to be considered a dwelling, but most courts agree that a dwelling includes its curtilage."
+            }
+        },
+        "references": {
+            "burglary": "https://dictionary.findlaw.com/definition/burglary.html"
+        }
+    }
+}

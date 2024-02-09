@@ -1,0 +1,16 @@
+{
+    "Usufruct": {
+        "definition": "the right to the use and enjoyment of another's property and its profits [a in the crops of the estate] ;esp in the civil law of Louisiana",
+        "origin": "[Latin ususfructus from usus et fructus , literally, use and enjoyment]",
+        "sub_definitions": {
+            "1": {
+                "1": "the right to the use and enjoyment of another's property and its profits [a in the crops of the estate]"
+            },
+            "2": {
+                "1": "a personal servitude of limited duration that confers the right of use and full enjoyment of another's property and its fruits",
+                "note": " Under the civil law of Louisiana, one having a usufruct in land must deliver it to the owner with its basic substance undiminished at the end of the term; one having a usufruct in consumables acquires ownership of them, but must return their value or things of the same quantity or quality at the end of the usufruct."
+            }
+        },
+        "references": {}
+    }
+}

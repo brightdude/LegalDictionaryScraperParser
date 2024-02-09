@@ -1,0 +1,11 @@
+{
+    "Vendee": {
+        "definition": "one to whom a thing is sold",
+        "sub_definitions": {
+            "1": {
+                "1": "one to whom a thing is sold"
+            }
+        },
+        "references": {}
+    }
+}

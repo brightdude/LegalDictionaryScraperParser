@@ -1,0 +1,14 @@
+{
+    "Z-Bond": {
+        "definition": "accrual bond at bond",
+        "sub_definitions": {
+            "1": {
+                "1": "accrual bond"
+            }
+        },
+        "references": {
+            "accrual bond": "https://dictionary.findlaw.com/definition/accrual-bond.html",
+            "bond": "https://dictionary.findlaw.com/definition/bond.html"
+        }
+    }
+}

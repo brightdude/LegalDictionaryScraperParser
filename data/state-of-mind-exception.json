@@ -1,0 +1,11 @@
+{
+    "State Of Mind Exception": {
+        "definition": "an exception to the hearsay rule that allows the use of hearsay evidence regarding the state of mind of the declarant",
+        "sub_definitions": {
+            "1": {
+                "1": "an exception to the hearsay rule that allows the use of hearsay evidence regarding the state of mind of the declarant (as in a statement of intent or motive)"
+            }
+        },
+        "references": {}
+    }
+}

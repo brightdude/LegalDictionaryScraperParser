@@ -1,0 +1,15 @@
+{
+    "Court Of Criminal Appeals": {
+        "definition": "a court of appeals in some states",
+        "sub_definitions": {
+            "1": {
+                "definition": "a court of appeals in some states (as Alabama, Oklahoma, Tennessee, and Texas) that hears criminal appeals"
+            },
+            "2": {
+                "definition": "the intermediate appellate military court made up of military personnel and having the power to review questions of fact as well as law",
+                "note": " This court was called the Court of Military Review until 1994."
+            }
+        },
+        "references": {}
+    }
+}

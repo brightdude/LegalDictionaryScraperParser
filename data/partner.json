@@ -1,0 +1,31 @@
+{
+    "Partner": {
+        "definition": "one of two or more persons associated as joint principals in carrying on a business for the purpose of enjoying a joint profit",
+        "origin": "[-in-kə-men-dəm, -kō-men-dÄ m]",
+        "compare": "silent partner",
+        "sub_definitions": {
+            "dormant partner": {
+                "definition": "in this entry"
+            },
+            "general partner": {
+                "definition": "a partner whose liability for partnership debts and obligations is unlimited comparein this entry",
+                "compares": "limited partner"
+            },
+            "lim·it·ed partner": {
+                "definition": "a partner in a venture who has no management authority and whose liability is limited to the amount of his or her investment comparein this entry",
+                "compares": "general partner"
+            },
+            "partner in com·men·dam": {
+                "definition": "[-in-kə-men-dəm, -kō-men-dÄ m]in this entry"
+            },
+            "si·lent partner": {
+                "definition": "a partner who takes no active part in conducting the partnership business but who receives a share of its profits and whose existence is often not made public called also"
+            }
+        },
+        "references": {
+            "silent partner": "https://dictionary.findlaw.com/definition/silent-partner.html",
+            "limited partner": "https://dictionary.findlaw.com/definition/limited-partner.html",
+            "general partner": "https://dictionary.findlaw.com/definition/general-partner.html"
+        }
+    }
+}

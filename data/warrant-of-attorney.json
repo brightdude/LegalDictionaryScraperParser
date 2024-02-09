@@ -1,0 +1,11 @@
+{
+    "Warrant Of Attorney": {
+        "definition": "a power of attorney authorizing another",
+        "sub_definitions": {
+            "1": {
+                "1": "a power of attorney authorizing another (as an attorney) to appear in court and confess judgment on the grantor's behalf"
+            }
+        },
+        "references": {}
+    }
+}

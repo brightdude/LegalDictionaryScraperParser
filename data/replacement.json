@@ -1,0 +1,17 @@
+{
+    "Replacement": {
+        "definition": "the act of replacing",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "the act of replacingthe state of being replaced",
+                "sub_terms": {
+                    "b": "an insurer's option under a policy to replace or repair damaged property rather than pay the insured for the loss"
+                }
+            },
+            "2": {
+                "definition": "something that replacesa new fixed asset or portion of an asset that takes the place of one discarded (as because of deterioration)"
+            }
+        },
+        "references": {}
+    }
+}

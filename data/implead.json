@@ -1,0 +1,21 @@
+{
+    "Implead": {
+        "definition": "to bring into a lawsuit ;specif",
+        "origin": "[Anglo-French empleder , from Old French emplaidier , from en- thoroughly + plaidier to plead]",
+        "compare": "interplead",
+        "sub_definitions": {
+            "1": {
+                "1": "to bring into a lawsuit"
+            },
+            "2": {
+                "1": "to bring (a third party who is or may be liable to the plaintiff or defendant) into a suit compare",
+                "compares": "interplead"
+            }
+        },
+        "references": {
+            "interplead": "https://dictionary.findlaw.com/definition/interplead.html",
+            "intervene": "https://dictionary.findlaw.com/definition/intervene.html",
+            "join": "https://dictionary.findlaw.com/definition/join.html"
+        }
+    }
+}

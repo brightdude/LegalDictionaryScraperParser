@@ -1,0 +1,42 @@
+{
+    "Benefit": {
+        "definition": "something that provides an advantage or gain ;specif",
+        "sub_definitions": {
+            "1": {
+                "definition": "something that provides an advantage or gainan enhancement of property value, enjoyment of facilities, or increase in general prosperity arising from a public improvement"
+            },
+            "general benefit": {
+                "definition": "a benefit to the community at large resulting from a public improvement"
+            },
+            "special benefit": {
+                "definition": "a benefit from a public improvement that directly enhances the value of particular property and is not shared by the community at large",
+                "note": " In proceedings for a partial taking for the purpose of a public improvement, the condemning authority may use a special benefit to the remaining land as a set-off against the landowner's damages for the taking."
+            },
+            "2": {
+                "definition": "a right esp. that serves to limit a person's liability"
+            },
+            "benefit of dis·cus·sion": {
+                "definition": "the right of a surety being sued to compel the suing creditor to sue the principal first"
+            },
+            "benefit of di·vi·sion": {
+                "definition": "the right of a surety being sued to compel the suing creditor to also sue the cosuretiesthe right of the surety to be liable only for his or her proportionate share of the debt"
+            },
+            "benefit of inventory": {
+                "definition": "the right of an heir to be held liable for the debts of the estate only to the extent of the assets in the estate",
+                "note": " The heir obtains the benefit of inventory by having a qualified public officer (as a notary public) make an inventory of the assets in the estate within the time period set by statute."
+            },
+            "3 a": {
+                "definition": "financial help in time of disability, sickness, old age, or unemployment",
+                "sub_terms": {
+                    "b": "payment or service provided for under an annuity, pension plan, or insurance policy see also",
+                    "c": ""
+                },
+                "see also": "death benefit"
+            }
+        },
+        "references": {
+            "death benefit": "https://dictionary.findlaw.com/definition/death-benefit.html",
+            "fringe benefit": "https://dictionary.findlaw.com/definition/fringe-benefit.html"
+        }
+    }
+}

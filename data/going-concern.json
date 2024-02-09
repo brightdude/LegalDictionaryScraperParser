@@ -1,0 +1,11 @@
+{
+    "Going Concern": {
+        "definition": "a business that is in operation",
+        "sub_definitions": {
+            "1": {
+                "1": "a business that is in operation"
+            }
+        },
+        "references": {}
+    }
+}

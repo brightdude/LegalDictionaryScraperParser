@@ -1,0 +1,8 @@
+{
+    "Grand Larceny": {
+        "definition": "Grand Larceny",
+        "references": {
+            "larceny": "https://dictionary.findlaw.com/definition/larceny.html"
+        }
+    }
+}

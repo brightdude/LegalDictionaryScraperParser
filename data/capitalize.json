@@ -1,0 +1,28 @@
+{
+    "Capitalize": {
+        "definition": "to convert into capital [ the company's earnings] b",
+        "origin": "[ the company's earnings]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "to convert into capital [ the company's earnings]",
+                "sub_terms": {
+                    "b": "to treat as a capital expenditure rather than an ordinary and necessary expense [the cost of the merger must be]"
+                }
+            },
+            "2 a": {
+                "definition": "to compute the present value of (an income extended over a period of time) compare",
+                "sub_terms": {
+                    "b": "to convert (a periodic payment) into an equivalent capital sum [annuities]"
+                },
+                "compares": "amortize"
+            },
+            "3": {
+                "definition": "to supply capital for [hadthe business with her own savings]",
+                "capitalized": "the business with her own savings]"
+            }
+        },
+        "references": {
+            "amortize": "https://dictionary.findlaw.com/definition/amortize.html"
+        }
+    }
+}

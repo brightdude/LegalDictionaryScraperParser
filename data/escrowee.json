@@ -1,0 +1,11 @@
+{
+    "Escrowee": {
+        "definition": "the one holding an escrow",
+        "sub_definitions": {
+            "1": {
+                "1": "the one holding an escrow"
+            }
+        },
+        "references": {}
+    }
+}

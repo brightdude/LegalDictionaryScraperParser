@@ -1,0 +1,24 @@
+{
+    "Premeditation": {
+        "definition": "an act or instance of premeditating ;specif",
+        "origin": "[designed so that it requires to tamper with it]",
+        "compare": "cold blood",
+        "sub_definitions": {
+            "1": {
+                "1": "an act or instance of premeditating"
+            },
+            "2": {
+                "1": "consideration or planning of an act beforehand [designed so that it requires to tamper with it] [murder in the first degree is the killing of a human being committed…intentionally and with \"",
+                "Kansas Statutes Annotated": "\"] see also",
+                "see also": "cold blood",
+                "compares": "intent",
+                "note": " The termspremeditationmalice aforethoughtdeliberate, andwillfulare often used in statutes either along with or instead ofintentto describe the necessary mental state for a crime. In some jurisdictions the premeditation has to occur only moments before the act, while in others it must precede the act by an appreciable amount of time."
+            }
+        },
+        "references": {
+            "cold blood": "https://dictionary.findlaw.com/definition/cold-blood.html",
+            "murder": "https://dictionary.findlaw.com/definition/murder.html",
+            "intent": "https://dictionary.findlaw.com/definition/intent.html"
+        }
+    }
+}

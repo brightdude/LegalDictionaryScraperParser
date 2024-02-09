@@ -1,0 +1,14 @@
+{
+    "Nonexclusive Listing": {
+        "definition": "open listing at listing",
+        "sub_definitions": {
+            "1": {
+                "1": "open listing"
+            }
+        },
+        "references": {
+            "open listing": "https://dictionary.findlaw.com/definition/open-listing.html",
+            "listing": "https://dictionary.findlaw.com/definition/listing.html"
+        }
+    }
+}

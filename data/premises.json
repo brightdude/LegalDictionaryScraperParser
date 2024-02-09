@@ -1,0 +1,18 @@
+{
+    "Premises": {
+        "definition": "matters previously stated",
+        "sub_definitions": {
+            "1": {
+                "definition": "matters previously stated",
+                "sub_terms": {
+                    "a": "the preliminary part of a deed that includes a description of the real estate and that precedes the habendum",
+                    "b": "the preliminary part of a bill in equity that states the facts, names the wrongs, and identifies the defendants"
+                }
+            },
+            "2": {
+                "definition": "a tract of land with its component parts (as buildings)a building or part of a building usually with its appurtenances (as grounds or easements)"
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "Implied In Fact Contract": {
+        "definition": "implied contract at contract",
+        "references": {
+            "implied contract": "https://dictionary.findlaw.com/definition/implied-contract.html",
+            "contract": "https://dictionary.findlaw.com/definition/contract.html"
+        }
+    }
+}

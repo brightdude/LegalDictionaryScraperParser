@@ -1,0 +1,21 @@
+{
+    "Restriction": {
+        "definition": "something that restricts",
+        "sub_definitions": {
+            "1": {
+                "definition": "something that restricts",
+                "sub_terms": {
+                    "a": "a regulation that restricts or restrains",
+                    "b": "a limitation on the use or enjoyment of property or a facility"
+                }
+            },
+            "2 a": {
+                "definition": "an act of restricting",
+                "sub_terms": {
+                    "b": "the state of being restricted"
+                }
+            }
+        },
+        "references": {}
+    }
+}

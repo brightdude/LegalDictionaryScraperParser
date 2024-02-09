@@ -1,0 +1,11 @@
+{
+    "Stop And Frisk Statute": {
+        "definition": "a state law that allows a police officer to stop any person without making an arrest based on a reasonable suspicion that the person has committed or is about to commit a crime",
+        "sub_definitions": {
+            "1": {
+                "1": "a state law that allows a police officer to stop any person without making an arrest based on a reasonable suspicion that the person has committed or is about to commit a crime"
+            }
+        },
+        "references": {}
+    }
+}

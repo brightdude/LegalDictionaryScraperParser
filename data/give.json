@@ -1,0 +1,39 @@
+{
+    "Give": {
+        "definition": "to make a gift of [I the remainder of my estate to my wife] compare convey",
+        "origin": "[I the remainder of my estate to my wife]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "to make a gift of [I the remainder of my estate to my wife] compare,",
+                "sub_terms": {
+                    "b": "to grant or bestow by formal action [the lawcitizens the right to vote]"
+                },
+                "compares": "convey",
+                "s": "citizens the right to vote]"
+            },
+            "2 a": {
+                "definition": "to transfer from one's authority or custody [the sheriffthe prisoner to the warden]",
+                "sub_terms": {
+                    "b": "to execute and deliver [all officers must bond]",
+                    "c": "to communicate or impart to another [failed to adequate notice]",
+                    "d": "to offer or submit for the consideration of another [ testimony in court]"
+                },
+                "gave": "the prisoner to the warden]"
+            },
+            "3": {
+                "definition": "to yield possession of by way of exchange [will top dollar for your used car]"
+            },
+            "4 a": {
+                "definition": "to impose as punishment",
+                "sub_terms": {
+                    "b": "to award by formal verdict [judgment wasagainst the plaintiff]"
+                },
+                "given": "against the plaintiff]"
+            }
+        },
+        "references": {
+            "convey": "https://dictionary.findlaw.com/definition/convey.html",
+            "sell": "https://dictionary.findlaw.com/definition/sell.html"
+        }
+    }
+}

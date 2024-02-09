@@ -1,0 +1,15 @@
+{
+    "Cy Pres": {
+        "definition": "a rule in the law of trusts and estates that provides for the interpretation of instruments as nearly as possible in conformity with the intention of the testator when literal construction is illegal",
+        "origin": "[Anglo-French, as near (as possible)]",
+        "sub_definitions": {
+            "1": {
+                "1": "a rule in the law of trusts and estates that provides for the interpretation of instruments as nearly as possible in conformity with the intention of the testator when literal construction is illegal, impracticable, or impossible"
+            },
+            "2": {
+                "1": "in accordance with the rule of cy pres"
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "Standard": {
+        "definition": "something established by authority",
+        "origin": "[the of the reasonable person]",
+        "sub_definitions": {
+            "1": {
+                "definition": "something established by authority, custom, or general consent as a model, example, or point of reference [the of the reasonable person]"
+            },
+            "2": {
+                "definition": "something established by authority as a rule for the measure of quantity, weight, extent, value, or quality"
+            },
+            "3": {
+                "definition": "the basis of value in a monetary system"
+            }
+        },
+        "references": {}
+    }
+}

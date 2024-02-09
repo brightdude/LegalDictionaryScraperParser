@@ -1,0 +1,11 @@
+{
+    "Feoffee": {
+        "definition": "a person to whom a feoffment is made",
+        "sub_definitions": {
+            "1": {
+                "1": "a person to whom a feoffment is made"
+            }
+        },
+        "references": {}
+    }
+}

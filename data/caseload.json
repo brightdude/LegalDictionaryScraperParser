@@ -1,0 +1,11 @@
+{
+    "Caseload": {
+        "definition": "the number of cases handled",
+        "sub_definitions": {
+            "1": {
+                "1": "the number of cases handled (as by a court or a lawyer) often in a particular period"
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "Countersign": {
+        "definition": "a signature attesting the authenticity of a document already signed by another",
+        "sub_definitions": {
+            "1": {
+                "1": "a signature attesting the authenticity of a document already signed by another"
+            }
+        },
+        "references": {}
+    }
+}

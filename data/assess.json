@@ -1,0 +1,22 @@
+{
+    "Assess": {
+        "definition": "to determine the rate or amount of",
+        "origin": "[each property owner was ed an additional five dollars]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to determine the rate or amount of (as a tax)"
+            },
+            "2 a": {
+                "definition": "to impose (as a tax) according to an established rate",
+                "sub_terms": {
+                    "b": "to subject to a tax, charge, or levy [each property owner wasan additional five dollars]"
+                },
+                "ed": "an additional five dollars]"
+            },
+            "3": {
+                "definition": "to make an official valuation of (property) for the purposes of taxation"
+            }
+        },
+        "references": {}
+    }
+}

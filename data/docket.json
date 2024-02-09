@@ -1,0 +1,26 @@
+{
+    "Docket": {
+        "definition": "a formal abridged record of the proceedings",
+        "origin": "[earlier doggette docquet summary, abstract, of unknown origin]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "a formal abridged record of the proceedings (as motions, orders, and judgments) in a legal action [the clerk shall keep a in each case \"\"]",
+                "sub_terms": {
+                    "b": "a register of such records"
+                }
+            },
+            "2 a": {
+                "definition": "a list of legal actions to be heard by a court [the nearly 500 such cases on court\"Rorie Sherman\"] compare",
+                "sub_terms": {
+                    "b": "the caseload of a court [a great part of our consisted of regulatory agency cases \"R. H. Bork\"]vtto enter in a docket (as of a case or a court) [closure motions must besufficiently in advance \"W. R. LaFave and J. H. Israel\"] compare"
+                },
+                "compares": "calendar",
+                "s": "\"Rorie Sherman\"] compare",
+                "ed": "sufficiently in advance \"W. R. LaFave and J. H. Israel\"] compare"
+            }
+        },
+        "references": {
+            "calendar": "https://dictionary.findlaw.com/definition/calendar.html"
+        }
+    }
+}

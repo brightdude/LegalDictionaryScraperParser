@@ -1,0 +1,30 @@
+{
+    "Surplus": {
+        "definition": "an amount that remains when a use or need is satisfied b",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "an amount that remains when a use or need is satisfied",
+                "sub_terms": {
+                    "b": "an excess of receipts over disbursements",
+                    "c": "the value of assets after subtracting liabilities"
+                }
+            },
+            "2": {
+                "definition": "an excess of the net worth of a corporation over the par value of its capital stock compare",
+                "compares": "undivided profits"
+            },
+            "capital surplus": {
+                "definition": "all surplus other than earned surplus"
+            },
+            "earned surplus": {
+                "definition": "the surplus that remains after deducting losses, distributions to stockholders, and transfers to capital stock accounts"
+            },
+            "paid-in surplus": {
+                "definition": "surplus resulting from the sale of stock at amounts above par"
+            }
+        },
+        "references": {
+            "undivided profits": "https://dictionary.findlaw.com/definition/undivided-profits.html"
+        }
+    }
+}

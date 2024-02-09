@@ -1,0 +1,22 @@
+{
+    "Initiative": {
+        "definition": "the esp. introductory series of steps taken to cause a desired result [the deposing party would ordinarily be required to take the in arranging a deposition \" Andrews v. Bradshaw",
+        "origin": "[the deposing party would ordinarily be required to take the in arranging a deposition \" Andrews v. Bradshaw , 895 P.2d 973 (1995)\"]",
+        "sub_definitions": {
+            "1": {
+                "definition": "the esp. introductory series of steps taken to cause a desired result [the deposing party would ordinarily be required to take the in arranging a deposition \", 895 P.2d 973 (1995)\"]",
+                "Andrews v. Bradshaw": "895 P.2d 973 (1995)"
+            },
+            "2 a": {
+                "definition": "the right to initiate legislative action",
+                "sub_terms": {
+                    "b": "a procedure enabling a specified number of voters by petition to propose a law and secure its submission to the electorate or to the legislature for approval see also"
+                },
+                "see also": "referendum"
+            }
+        },
+        "references": {
+            "referendum": "https://dictionary.findlaw.com/definition/referendum.html"
+        }
+    }
+}

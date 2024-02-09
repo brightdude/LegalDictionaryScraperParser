@@ -1,0 +1,36 @@
+{
+    "Divorce": {
+        "definition": "the dissolution of a valid marriage granted esp. on specified statutory grounds",
+        "origin": "[Middle French, from Latin divortium , from divortere divertere to leave one's marriage partner, from di- away, apart + vertere to turn]",
+        "compare": "annulment",
+        "sub_definitions": {
+            "absolute divorce": {
+                "definition": "a divorce that completely and permanently dissolves the marital relationship and terminates marital rights (as property rights) and obligations (as fidelity)"
+            },
+            "divorce a men·sa et tho·ro": {
+                "definition": "[-ā-men-sə-et-thȯr-ō, -Ä -men-sÄ -et-thō-rō]a separation governed by a court order"
+            },
+            "divorce a vin·cu·lo mat·ri·mo·nii": {
+                "definition": "[-ā-vi-ky-lō-ma-trə-mō-nē-ī, -Ä -vi-kü-lō-mÄ -trē-mō-nē-ē]in this entry"
+            },
+            "limited divorce": {
+                "definition": "an intentional cessation of cohabitation between spouses"
+            },
+            "no-fault divorce": {
+                "definition": "an absolute divorce that is not based on either spouse's fault and that is granted usually on the grounds of an irretrievable breakdown or when husband and wife have lived apart for a statutorily specified period of timevb"
+            },
+            "1": {
+                "definition": "to dissolve the marriage of (a husband and wife) by judgment or decree of divorce"
+            },
+            "2": {
+                "definition": "to sever the marital relationship with (a spouse) by a judgment or decree of divorceto obtain a divorce"
+            }
+        },
+        "references": {
+            "annulment": "https://dictionary.findlaw.com/definition/annulment.html",
+            "legal separation": "https://dictionary.findlaw.com/definition/legal-separation.html",
+            "absolute divorce": "https://dictionary.findlaw.com/definition/absolute-divorce.html",
+            "separation": "https://dictionary.findlaw.com/definition/separation.html"
+        }
+    }
+}

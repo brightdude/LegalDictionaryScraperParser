@@ -1,0 +1,8 @@
+{
+    "Finance Lease": {
+        "definition": "Finance Lease",
+        "references": {
+            "lease": "https://dictionary.findlaw.com/definition/lease.html"
+        }
+    }
+}

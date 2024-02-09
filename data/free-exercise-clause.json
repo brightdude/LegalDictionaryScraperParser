@@ -1,0 +1,17 @@
+{
+    "Free Exercise Clause": {
+        "definition": "the clause in the First Amendment to the U.S. Constitution prohibiting Congress from making any law prohibiting the free exercise of religion see also freedom of religion compare establishment clause",
+        "compare": "freedom of religion",
+        "sub_definitions": {
+            "1": {
+                "1": "the clause in the First Amendment to the U.S. Constitution prohibiting Congress from making any law prohibiting the free exercise of religion see also",
+                "see also": "freedom of religion",
+                "compares": "establishment clause"
+            }
+        },
+        "references": {
+            "freedom of religion": "https://dictionary.findlaw.com/definition/freedom-of-religion.html",
+            "establishment clause": "https://dictionary.findlaw.com/definition/establishment-clause.html"
+        }
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "Lineup": {
+        "definition": "a line of persons assembled by police esp. for possible identification of a suspect by a witness to a crime compare showup",
+        "compare": "showup",
+        "sub_definitions": {
+            "1": {
+                "1": "a line of persons assembled by police esp. for possible identification of a suspect by a witness to a crime compare",
+                "compares": "showup"
+            }
+        },
+        "references": {
+            "showup": "https://dictionary.findlaw.com/definition/showup.html"
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "Panel": {
+        "definition": "a group of community members summoned for jury service 2",
+        "sub_definitions": {
+            "1": {
+                "definition": "a group of community members summoned for jury service"
+            },
+            "2": {
+                "definition": "a group of usually three judges among the judges sitting on an appellate court who hear a particular appeal compare",
+                "compares": "full court"
+            }
+        },
+        "references": {
+            "full court": "https://dictionary.findlaw.com/definition/full-court.html"
+        }
+    }
+}

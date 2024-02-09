@@ -1,0 +1,12 @@
+{
+    "Preexisting Duty Rule": {
+        "definition": "a common-law rule of contracts",
+        "sub_definitions": {
+            "1": {
+                "1": "a common-law rule of contracts: a party's offer of a performance already required under an existing contract is insufficient consideration for modification of the contract",
+                "note": " This rule is not applicable to sales contracts in jurisdictions that have enacted the Uniform Commercial Code. It is also not applicable where there has been a rescission of the contract followed by a new contract."
+            }
+        },
+        "references": {}
+    }
+}

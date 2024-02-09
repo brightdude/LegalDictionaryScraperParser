@@ -1,0 +1,11 @@
+{
+    "City Council": {
+        "definition": "the legislative body of a city",
+        "sub_definitions": {
+            "1": {
+                "1": "the legislative body of a city"
+            }
+        },
+        "references": {}
+    }
+}

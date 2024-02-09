@@ -1,0 +1,24 @@
+{
+    "Fault": {
+        "definition": "a usually intentional act forbidden by law ;also",
+        "origin": "[Anglo-French faute lack, failing, ultimately from Latin fallere to deceive, disappoint]",
+        "sub_definitions": {
+            "1": {
+                "definition": "a usually intentional act forbidden by lawa usually intentional omission to do something (as to exercise due care) required by law see alsocompareat",
+                "note": " Sometimes whenfaultis used in legal contexts it includes negligence, sometimes it is considered synonymous withnegligence, and sometimes it is distinguished fromnegligence. Fault and negligence are the usual bases for liability in the law of torts.",
+                "compares": "no-fault",
+                "see also": "negligence"
+            },
+            "2": {
+                "definition": "responsibility for an act or omission that causes damage or injury to another [relative degrees of ] see also",
+                "see also": "comparative fault"
+            }
+        },
+        "references": {
+            "negligence": "https://dictionary.findlaw.com/definition/negligence.html",
+            "no-fault": "https://dictionary.findlaw.com/definition/no-fault.html",
+            "liability": "https://dictionary.findlaw.com/definition/liability.html",
+            "comparative fault": "https://dictionary.findlaw.com/definition/comparative-fault.html"
+        }
+    }
+}

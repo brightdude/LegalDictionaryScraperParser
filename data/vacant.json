@@ -1,0 +1,18 @@
+{
+    "Vacant": {
+        "definition": "not filled or occupied 2 a",
+        "origin": "[ land]",
+        "sub_definitions": {
+            "1": {
+                "definition": "not filled or occupied"
+            },
+            "2 a": {
+                "definition": "not put to use [ land]",
+                "sub_terms": {
+                    "b": "having no heir or claimant [a estate]"
+                }
+            }
+        },
+        "references": {}
+    }
+}

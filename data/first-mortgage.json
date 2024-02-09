@@ -1,0 +1,8 @@
+{
+    "First Mortgage": {
+        "definition": "First Mortgage",
+        "references": {
+            "mortgage": "https://dictionary.findlaw.com/definition/mortgage.html"
+        }
+    }
+}

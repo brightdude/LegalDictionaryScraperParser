@@ -1,0 +1,24 @@
+{
+    "Solicit": {
+        "definition": "to make petition to [ the court] 2",
+        "origin": "[ the court]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to make solicitation"
+            },
+            "2": {
+                "definition": "to offer to have sexual relations with someone for money"
+            },
+            "3": {
+                "definition": "to attempt to persuade (a person) to purchase something"
+            },
+            "4": {
+                "definition": "to attempt to bring about or obtain by soliciting a person [ bribes]"
+            }
+        },
+        "references": {
+            "coerce": "https://dictionary.findlaw.com/definition/coerce.html",
+            "importune": "https://dictionary.findlaw.com/definition/importune.html"
+        }
+    }
+}

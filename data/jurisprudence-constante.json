@@ -1,0 +1,19 @@
+{
+    "Jurisprudence Constante": {
+        "definition": "a doctrine in the civil law of Louisiana",
+        "origin": "[French, uniform jurisprudence]",
+        "compare": "stare decisis",
+        "sub_definitions": {
+            "1": {
+                "1": "a doctrine in the civil law of Louisiana: a long series of previous decisions applying a particular rule of law carries great weight and may be determinative in subsequent cases"
+            },
+            "2": {
+                "1": "the rule of law applied in the jurisprudence constante compare",
+                "compares": "stare decisis"
+            }
+        },
+        "references": {
+            "stare decisis": "https://dictionary.findlaw.com/definition/stare-decisis.html"
+        }
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "Taxable Income": {
+        "definition": "income that is subject to taxation and is characterized by the accrual of some gain or benefit to the taxpayer ;specif",
+        "sub_definitions": {
+            "1": {
+                "1": "income that is subject to taxation and is characterized by the accrual of some gain or benefit to the taxpayer"
+            },
+            "2": {
+                "1": "the total amount of income remaining as the basis of taxation for a given period after all allowable deductions have been applied to gross income"
+            }
+        },
+        "references": {}
+    }
+}

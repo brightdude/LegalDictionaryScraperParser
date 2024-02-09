@@ -1,0 +1,8 @@
+{
+    "Intermediary Bank": {
+        "definition": "Intermediary Bank",
+        "references": {
+            "bank": "https://dictionary.findlaw.com/definition/bank.html"
+        }
+    }
+}

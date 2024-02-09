@@ -1,0 +1,44 @@
+{
+    "Duty": {
+        "definition": "du·ties [Anglo-French deuté indebtedness",
+        "origin": "[Anglo-French deuté indebtedness, obligation, from deu owing, due, from Old French see due ]",
+        "sub_definitions": {
+            "du·ties": {
+                "definition": "[Anglo-Frenchindebtedness, obligation, fromowing, due, from Old French see]"
+            },
+            "1": {
+                "definition": "tasks, service, or functions that arise from one's position [performing a police officer's]a period of being on duty see also",
+                "see also": "jury duty"
+            },
+            "2": {
+                "definition": "an obligation assumed (as by contract) or imposed by law to conduct oneself in conformance with a certain standard or to act in a particular way [ of good faith] [a to warn of danger] see also,",
+                "see also": "public duty doctrine"
+            },
+            "duty of can·dor": {
+                "definition": "[-kan-dər]a duty obligating directors of a corporation to disclose all material facts known to them about a transaction when they are seeking shareholder approval"
+            },
+            "duty of care": {
+                "definition": "a duty to use due care toward others in order to protect them from unnecessary risk of harm"
+            },
+            "duty of fair representation": {
+                "definition": "a duty obligating a labor union to represent the employees in its collective bargaining unit fairly and in good faith"
+            },
+            "duty of loy·al·ty": {
+                "definition": "a duty obligating directors of a corporation to refrain from using their positions to further their own interests rather than the interests of the shareholders (as by self-dealing or fraud)"
+            },
+            "fiduciary duty": {
+                "definition": "a duty obligating a fiduciary (as an agent or trustee) to act with loyalty and honesty and in a manner consistent with the best interests of the beneficiary of the fiduciary relationship (as a principal or trust beneficiary)"
+            },
+            "3": {
+                "definition": "a tax on imports"
+            }
+        },
+        "references": {
+            "due": "https://dictionary.findlaw.com/definition/due.html",
+            "jury duty": "https://dictionary.findlaw.com/definition/jury-duty.html",
+            "public duty doctrine": "https://dictionary.findlaw.com/definition/public-duty-doctrine.html",
+            "special duty doctrine": "https://dictionary.findlaw.com/definition/special-duty-doctrine.html",
+            "tax": "https://dictionary.findlaw.com/definition/tax.html"
+        }
+    }
+}

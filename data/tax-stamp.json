@@ -1,0 +1,15 @@
+{
+    "Tax Stamp": {
+        "definition": "a stamp affixed to an item as evidence that a tax on it has been paid ;esp",
+        "origin": "[an additional count of failure to purchase a tax stamp ]",
+        "sub_definitions": {
+            "1": {
+                "1": "a stamp affixed to an item as evidence that a tax on it has been paid"
+            },
+            "2": {
+                "1": "one that the dealer of a controlled substance is required to purchase by payment of a tax according to a state law [an additional count of failure to purchase a"
+            }
+        },
+        "references": {}
+    }
+}

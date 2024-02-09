@@ -1,0 +1,12 @@
+{
+    "Retrial": {
+        "definition": "a trial of a matter already tried NOTE",
+        "sub_definitions": {
+            "1": {
+                "1": "a trial of a matter already tried",
+                "note": " A retrial is barred by double jeopardy following a mistrial for which there was no manifest necessity."
+            }
+        },
+        "references": {}
+    }
+}

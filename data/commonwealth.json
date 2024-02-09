@@ -1,0 +1,27 @@
+{
+    "Commonwealth": {
+        "definition": "a nation",
+        "sub_definitions": {
+            "1": {
+                "definition": "a nation, state, or other political unit",
+                "sub_terms": {
+                    "a": "one founded on law and united by compact or tacit agreement by the people for the common good",
+                    "b": "one in which supreme authority is vested in the people",
+                    "c": ""
+                }
+            },
+            "2": {
+                "definition": "a state of the U.S. used officially of Kentucky, Massachusetts, Pennsylvania, and Virginia"
+            },
+            "3": {
+                "definition": "an association of self-governing autonomous states more or less loosely associated in a common allegiance (as to the British crown)"
+            },
+            "4": {
+                "definition": "a political unit having local autonomy but voluntarily united with the U.S. used officially of Puerto Rico and the Northern Mariana Islands"
+            }
+        },
+        "references": {
+            "republic": "https://dictionary.findlaw.com/definition/republic.html"
+        }
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "Nisi": {
+        "definition": "taking effect at a later specified time unless previously modified or avoided by cause shown",
+        "origin": "[Latin, unless]",
+        "compare": "absolute",
+        "sub_definitions": {
+            "1": {
+                "1": "taking effect at a later specified time unless previously modified or avoided by cause shown, further proceedings, or a condition fulfilled [an order ] compare",
+                "compares": "absolute"
+            }
+        },
+        "references": {
+            "absolute": "https://dictionary.findlaw.com/definition/absolute.html"
+        }
+    }
+}

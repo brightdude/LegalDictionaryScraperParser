@@ -1,0 +1,11 @@
+{
+    "Trust Instrument": {
+        "definition": "a document",
+        "sub_definitions": {
+            "1": {
+                "1": "a document (as a formal declaration of trust or trust agreement) embodying the creation and provision of a trust"
+            }
+        },
+        "references": {}
+    }
+}

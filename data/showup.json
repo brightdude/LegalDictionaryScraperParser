@@ -1,0 +1,16 @@
+{
+    "Showup": {
+        "definition": "a presentation of a criminal defendant or arrestee individually to a witness for identification compare lineup NOTE",
+        "compare": "lineup",
+        "sub_definitions": {
+            "1": {
+                "1": "a presentation of a criminal defendant or arrestee individually to a witness for identification compare",
+                "compares": "lineup",
+                "note": " A showup identification may withstand a due process challenge when there is an emergency situation, when the presentation is accidental, or when otherwise the totality of the circumstances render it justifiable."
+            }
+        },
+        "references": {
+            "lineup": "https://dictionary.findlaw.com/definition/lineup.html"
+        }
+    }
+}

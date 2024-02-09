@@ -1,0 +1,18 @@
+{
+    "Criminal": {
+        "definition": "relating to",
+        "origin": "[ neglect]",
+        "sub_definitions": {
+            "1": {
+                "definition": "one who has committed a crime"
+            },
+            "2": {
+                "definition": "a person who has been convicted of a crime"
+            }
+        },
+        "references": {
+            "civil": "https://dictionary.findlaw.com/definition/civil.html",
+            "penal": "https://dictionary.findlaw.com/definition/penal.html"
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "Sabotage": {
+        "definition": "the willful destruction of an employer's property or the hindering of normal operations by other means 2",
+        "origin": "[French, from saboter to clatter with wooden shoes, botch, sabotage, from sabot wooden shoe]",
+        "sub_definitions": {
+            "1": {
+                "definition": "the willful destruction of an employer's property or the hindering of normal operations by other means"
+            },
+            "2": {
+                "definition": "the injury, destruction, or knowingly defective production of materials, premises, or utilities used for war or national defense compare,",
+                "compares": "criminal syndicalism"
+            }
+        },
+        "references": {
+            "criminal syndicalism": "https://dictionary.findlaw.com/definition/criminal-syndicalism.html",
+            "sedition": "https://dictionary.findlaw.com/definition/sedition.html"
+        }
+    }
+}

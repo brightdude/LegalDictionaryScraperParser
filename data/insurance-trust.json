@@ -1,0 +1,8 @@
+{
+    "Insurance Trust": {
+        "definition": "Insurance Trust",
+        "references": {
+            "trust": "https://dictionary.findlaw.com/definition/trust.html"
+        }
+    }
+}

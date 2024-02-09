@@ -1,0 +1,49 @@
+{
+    "Issue": {
+        "definition": "proceeds from a source of revenue",
+        "origin": "[rents, s , and profits]",
+        "sub_definitions": {
+            "1": {
+                "definition": "[profitsfrom the sale of the stock]",
+                "issuing": "from the sale of the stock]"
+            },
+            "2": {
+                "definition": "to become available or be put forth by authority [waited for the search warrant to ]to put forth or distribute usually officially [ a subpoena] [ bonds] [ credit]"
+            },
+            "3 a": {
+                "definition": "a vital question or problem [cited a national security ] [raised an of public safety]",
+                "sub_terms": {
+                    "b": "a matter of dispute between two or more partiesa single material point of fact or law in litigation that is affirmed by one side and denied by the other and that is a subject of the final determination (as by jury) of the proceedings"
+                }
+            },
+            "genuine issue": {
+                "definition": "an issue of fact that requires adjudication by trial rather than summary judgment because sufficient evidence exists to support a verdict for the party opposing the motion for summary judgment",
+                "note": " The burden is on the party moving for summary judgment to show that no genuine issue is in dispute."
+            },
+            "issue of fact": {
+                "definition": "a dispute about a material fact that is raised by pleadings and that must be resolved by a decision under the law in order to become res judicata"
+            },
+            "issue of law": {
+                "definition": "a question specifically regarding the application of law to a case [instructed the jury on various\", 41 F.3d 607 (1994)\"]",
+                "sub_terms": {
+                    "c": "the point at which a legal matter is ready for determination (as by trial) [filed pleadings and brought the case to ]"
+                },
+                "United States v. Levine": "41 F.3d 607 (1994)"
+            },
+            "4 a": {
+                "definition": "the offering or selling of a group of securities by a corporation or government [a new bond ]",
+                "sub_terms": {
+                    "b": "the securities offered or sold in such a group [sold the entire ]"
+                }
+            },
+            "at issuealsoin issue:under discussion or in dispute": {
+                "definition": "[i-shü] vb"
+            }
+        },
+        "references": {
+            "child": "https://dictionary.findlaw.com/definition/child.html",
+            "heir": "https://dictionary.findlaw.com/definition/heir.html",
+            "accrue": "https://dictionary.findlaw.com/definition/accrue.html"
+        }
+    }
+}

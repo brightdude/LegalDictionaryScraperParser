@@ -1,0 +1,14 @@
+{
+    "Ultrahazardous Activity": {
+        "definition": "an uncommon activity involving a risk of injury that cannot be eliminated by the exercise of the utmost care see also abnormally dangerous activity",
+        "sub_definitions": {
+            "1": {
+                "1": "an uncommon activity involving a risk of injury that cannot be eliminated by the exercise of the utmost care see also",
+                "see also": "abnormally dangerous activity"
+            }
+        },
+        "references": {
+            "abnormally dangerous activity": "https://dictionary.findlaw.com/definition/abnormally-dangerous-activity.html"
+        }
+    }
+}

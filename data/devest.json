@@ -1,0 +1,13 @@
+{
+    "Devest": {
+        "definition": "divest",
+        "sub_definitions": {
+            "1": {
+                "1": "divest"
+            }
+        },
+        "references": {
+            "divest": "https://dictionary.findlaw.com/definition/divest.html"
+        }
+    }
+}

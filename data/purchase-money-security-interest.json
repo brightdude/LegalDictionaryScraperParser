@@ -1,0 +1,8 @@
+{
+    "Purchase Money Security Interest": {
+        "definition": "Purchase Money Security Interest",
+        "references": {
+            "interest": "https://dictionary.findlaw.com/definition/interest.html"
+        }
+    }
+}

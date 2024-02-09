@@ -1,0 +1,22 @@
+{
+    "Convert": {
+        "definition": "to change from one form or use to another b",
+        "origin": "[if property…is compulsorily or involuntarily ed \" Internal Revenue Code \"]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "to change from one form or use to another",
+                "sub_terms": {
+                    "b": "to exchange (property) for another esp. of a different kind [if property…is compulsorily or involuntarily\"\"]to exercise the right of conversion by exchanging (preferred shares or bonds) for common stock"
+                }
+            },
+            "2": {
+                "definition": "to appropriate (another's property) by conversion [the baileethe goods to his own use] see also",
+                "see also": "embezzle",
+                "ed": "the goods to his own use] see also"
+            }
+        },
+        "references": {
+            "embezzle": "https://dictionary.findlaw.com/definition/embezzle.html"
+        }
+    }
+}

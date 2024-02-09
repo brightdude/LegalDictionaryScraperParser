@@ -1,0 +1,14 @@
+{
+    "Buy Out": {
+        "definition": "to purchase the share or interest of 2",
+        "sub_definitions": {
+            "1": {
+                "definition": "to purchase the share or interest of"
+            },
+            "2": {
+                "definition": "to purchase the entire tangible and intangible assets of (a business)"
+            }
+        },
+        "references": {}
+    }
+}

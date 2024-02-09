@@ -1,0 +1,14 @@
+{
+    "Joint And Survivorship Annuity": {
+        "definition": "joint-and-survivor annuity at annuity",
+        "sub_definitions": {
+            "1": {
+                "1": "joint-and-survivor annuity"
+            }
+        },
+        "references": {
+            "joint-and-survivor annuity": "https://dictionary.findlaw.com/definition/joint-and-survivor-annuity.html",
+            "annuity": "https://dictionary.findlaw.com/definition/annuity.html"
+        }
+    }
+}

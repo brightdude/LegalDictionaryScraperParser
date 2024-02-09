@@ -1,0 +1,16 @@
+{
+    "Counterletter": {
+        "definition": "a secret agreement that expresses the true intent of the parties to a simulation ;esp",
+        "origin": "[ can have no effects against third persons in good faith \" Louisiana Civil Code \"]",
+        "sub_definitions": {
+            "1": {
+                "1": "a secret agreement that expresses the true intent of the parties to a simulation"
+            },
+            "2": {
+                "1": "a writing embodying the agreement [ can have no effects against third persons in good faith \"",
+                "note": " An agreement stating that the conveyor of some land is still the owner, even though the other party has been given a bill of sale, is an example of a counterletter."
+            }
+        },
+        "references": {}
+    }
+}

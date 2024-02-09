@@ -1,0 +1,18 @@
+{
+    "Delict": {
+        "definition": "offense ;esp",
+        "origin": "[Latin delictum misdeed, offense, from neuter past participle of delinquere to commit (an offense), err]",
+        "sub_definitions": {
+            "1": {
+                "definition": "an offense other than breach of contract that creates an obligation for damages",
+                "note": "Delictis the civil law equivalent of the common-lawtort."
+            },
+            "2": {
+                "definition": "a criminal offense"
+            }
+        },
+        "references": {
+            "offense": "https://dictionary.findlaw.com/definition/offense.html"
+        }
+    }
+}

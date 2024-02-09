@@ -1,0 +1,11 @@
+{
+    "Criminal Lawyer": {
+        "definition": "a lawyer who specializes in criminal law",
+        "sub_definitions": {
+            "1": {
+                "1": "a lawyer who specializes in criminal law"
+            }
+        },
+        "references": {}
+    }
+}

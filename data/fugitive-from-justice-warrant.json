@@ -1,0 +1,14 @@
+{
+    "Fugitive From Justice Warrant": {
+        "definition": "fugitive warrant at warrant",
+        "sub_definitions": {
+            "1": {
+                "1": "fugitive warrant"
+            }
+        },
+        "references": {
+            "fugitive warrant": "https://dictionary.findlaw.com/definition/fugitive-warrant.html",
+            "warrant": "https://dictionary.findlaw.com/definition/warrant.html"
+        }
+    }
+}

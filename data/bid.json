@@ -1,0 +1,27 @@
+{
+    "Bid": {
+        "definition": "to offer",
+        "origin": "[a contractor bidding for a job]",
+        "sub_definitions": {
+            "bid·ding": {
+                "definition": "to offer (a price) for payment or acceptanceto make a bidstate what one will pay or take in payment [a contractorfor a job]"
+            },
+            "bid·dern": {
+                "definition": "n"
+            },
+            "1": {
+                "definition": "the act of one who bids"
+            },
+            "2 a": {
+                "definition": "a statement of what one will pay for something",
+                "sub_terms": {
+                    "b": "a statement of what one (as a contractor) will charge for something (as supplies or labor)"
+                }
+            },
+            "3": {
+                "definition": "an opportunity to bid"
+            }
+        },
+        "references": {}
+    }
+}

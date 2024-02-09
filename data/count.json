@@ -1,0 +1,17 @@
+{
+    "Count": {
+        "definition": "charge ;specif",
+        "origin": "[guilty on all s ]",
+        "sub_definitions": {
+            "1": {
+                "1": "charge"
+            },
+            "2": {
+                "1": "a charge (as in a complaint or indictment) that separately states a cause of action or esp. offense [guilty on all"
+            }
+        },
+        "references": {
+            "charge": "https://dictionary.findlaw.com/definition/charge.html"
+        }
+    }
+}

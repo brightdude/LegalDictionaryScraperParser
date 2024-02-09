@@ -1,0 +1,14 @@
+{
+    "Miranda Rights": {
+        "definition": "the rights",
+        "origin": "[from Miranda v. Arizona , the 1966 U.S. Supreme Court ruling establishing such rights]",
+        "sub_definitions": {
+            "1": {
+                "1": "the rights (as the right to remain silent, to have an attorney present, and to have an attorney appointed if indigent) of which an arresting officer must advise the person being arrested see also",
+                "Miranda v. Arizona": "in the Important Cases section",
+                "note": " A reading of the Miranda rights usually includes a warning that anything said could be used as evidence. No statements made by an arrested person or evidence obtained therefrom may be introduced at trial unless the person was advised of or validly waived these rights. A fresh reading of the Miranda rights may be required by the passage of time after the initial reading, as for example if a previously silent person begins to speak or police interrogate a person more than once."
+            }
+        },
+        "references": {}
+    }
+}

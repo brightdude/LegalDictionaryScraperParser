@@ -1,0 +1,21 @@
+{
+    "Foreclosure": {
+        "definition": "a legal proceeding that bars or extinguishes a mortgagor's equity of redemption in mortgaged real property see also deficiency judgment at judgment",
+        "sub_definitions": {
+            "1": {
+                "definition": "a legal proceeding that bars or extinguishes a mortgagor's equity of redemption in mortgaged real property see alsoat,,,,"
+            },
+            "2": {
+                "definition": "the extinguishment (as under the provisions of Article 9 of the Uniform Commercial Code) of the rights of a debtor in personal property subject to a security interest by judicial proceedings and esp. by judicial sale see also",
+                "see also": "strict foreclosure"
+            }
+        },
+        "references": {
+            "judgment": "https://dictionary.findlaw.com/definition/judgment.html",
+            "redeem": "https://dictionary.findlaw.com/definition/redeem.html",
+            "right of redemption": "https://dictionary.findlaw.com/definition/right-of-redemption.html",
+            "statutory foreclosure": "https://dictionary.findlaw.com/definition/statutory-foreclosure.html",
+            "strict foreclosure": "https://dictionary.findlaw.com/definition/strict-foreclosure.html"
+        }
+    }
+}

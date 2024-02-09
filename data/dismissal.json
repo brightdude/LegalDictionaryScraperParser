@@ -1,0 +1,27 @@
+{
+    "Dismissal": {
+        "definition": "removal from a position or service 2 a",
+        "origin": "[plaintiff filed a ]",
+        "sub_definitions": {
+            "1": {
+                "definition": "the dismissal of an action by the court because of the plaintiff's failure to pursue his or her case"
+            },
+            "2 a": {
+                "definition": "the termination of an action or claim usually before the presentation of evidence by the defendant"
+            },
+            "2": {
+                "definition": "the dismissal of an action by the court upon motion of the defendant after presentation of plaintiff's case made on the grounds that the plaintiff has shown no right to relief",
+                "note": " An involuntary dismissal under Federal Rule of Civil Procedure 41(b) prevents the plaintiff from bringing suit again based on the same claim."
+            },
+            "vo·lun·tary dismissal": {
+                "definition": "the dismissal of an action by the plaintiff",
+                "sub_terms": {
+                    "b": "the cancellation of an indictment, information, complaint, or charge",
+                    "c": "a document setting forth the request for a dismissal [plaintiff filed a ]"
+                },
+                "note": " Under Federal Rule of Criminal Procedure 48, the attorney for the government may dismiss the indictment, information, or complaint with the court's approval. The court may also dismiss it if there is unnecessary delay in the government's prosecution of the case."
+            }
+        },
+        "references": {}
+    }
+}

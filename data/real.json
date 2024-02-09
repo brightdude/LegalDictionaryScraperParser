@@ -1,0 +1,25 @@
+{
+    "Real": {
+        "definition": "of or relating to real property [a action] see also real property at property b in the civil law of Louisiana",
+        "origin": "[Anglo-French, concerning land, property, or things (rather than persons), from Middle French, from Medieval Latin and Late Latin; Medieval Latin realis relating to things (in law), from Late Latin, actual, from Latin res thing, fact]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "of or relating to real property [a action] see alsoat",
+                "sub_terms": {
+                    "b": "attached to a thing rather than a person [a obligation is transferred along with the thing to which it is attached] see alsocompare"
+                },
+                "compares": "personal",
+                "see also": "real right"
+            },
+            "3": {
+                "definition": "adjusted for inflation esp. to reflect actual purchasing power [ income]"
+            }
+        },
+        "references": {
+            "property": "https://dictionary.findlaw.com/definition/property.html",
+            "real right": "https://dictionary.findlaw.com/definition/real-right.html",
+            "personal": "https://dictionary.findlaw.com/definition/personal.html",
+            "actual": "https://dictionary.findlaw.com/definition/actual.html"
+        }
+    }
+}

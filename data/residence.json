@@ -1,0 +1,24 @@
+{
+    "Residence": {
+        "definition": "the act or fact of living in a place 2 a",
+        "origin": "[a person can have more than one but only one domicile]",
+        "sub_definitions": {
+            "1": {
+                "definition": "the act or fact of living in a place"
+            },
+            "2 a": {
+                "definition": "the place where one actually lives as distinguished from a domicile or place of temporary sojourn [a person can have more than one but only one domicile]",
+                "sub_terms": {
+                    "b": "a place in which a corporation does business or is licensed to do business"
+                },
+                "note": " A distinction is usually maintained betweendomicileandresidencebased on the relative permanency of a domicile and the intent to make it a principal place of abode. In some contexts, however, such as for determining proper venuedomicileandresidenceare used as synonyms. Similarlyresidenceanddomicileare sometimes used as synonyms with regard to the place of incorporation of a business."
+            },
+            "3": {
+                "definition": "the status of a resident"
+            }
+        },
+        "references": {
+            "dwelling": "https://dictionary.findlaw.com/definition/dwelling.html"
+        }
+    }
+}

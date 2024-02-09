@@ -1,0 +1,15 @@
+{
+    "Attempt": {
+        "definition": "the crime of having the intent to commit and taking action in an effort to commit a crime that fails or is prevented called also criminal attempt see also impossibility NOTE",
+        "sub_definitions": {
+            "1": {
+                "1": "the crime of having the intent to commit and taking action in an effort to commit a crime that fails or is prevented called also",
+                "see also": "impossibility",
+                "note": " There is no settled answer to how close to completing a crime a person must be to be guilty of attempt, but attempt must generally consist of more than preparation."
+            }
+        },
+        "references": {
+            "impossibility": "https://dictionary.findlaw.com/definition/impossibility.html"
+        }
+    }
+}

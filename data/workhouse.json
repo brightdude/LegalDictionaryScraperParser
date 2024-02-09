@@ -1,0 +1,11 @@
+{
+    "Workhouse": {
+        "definition": "a correctional facility for persons guilty of minor criminal violations",
+        "sub_definitions": {
+            "1": {
+                "1": "a correctional facility for persons guilty of minor criminal violations"
+            }
+        },
+        "references": {}
+    }
+}

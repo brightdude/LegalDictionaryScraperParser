@@ -1,0 +1,20 @@
+{
+    "Depreciation": {
+        "definition": "any decrease in the value of property",
+        "sub_definitions": {
+            "1": {
+                "definition": "any decrease in the value of property (as machinery) for the purpose of taxation that cannot be offset by current repairs and is carried on company books as a yearly charge amortizing the original cost over the useful life of the property"
+            },
+            "accelerated depreciation": {
+                "definition": "the depreciation of property that was put into use prior to 1980 which is allowed at a faster rate than normal under the depreciation rules in force before the adoption of the Accelerated Cost Recovery System"
+            },
+            "straight-line depreciation": {
+                "definition": "depreciation of an asset by a fixed percentage of its original cost based on its estimated life"
+            },
+            "2": {
+                "definition": "a loss in the value of property due to physical deterioration and wear or to obsolescence and lack of adaptability"
+            }
+        },
+        "references": {}
+    }
+}

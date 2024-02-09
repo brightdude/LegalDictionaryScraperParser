@@ -1,0 +1,17 @@
+{
+    "Dispute": {
+        "definition": "to engage in a dispute [ disputing with management over contract terms] vt",
+        "origin": "[ disputing with management over contract terms]",
+        "sub_definitions": {
+            "dis·put·ing": {
+                "definition": "to engage in a dispute [with management over contract terms]to engage in a dispute over [the correct application of the contract provision]to oppose by argument or assertion [changes to the grievance procedure]",
+                "disputing": "the correct application of the contract provision]",
+                "disputed": "changes to the grievance procedure]"
+            },
+            "dis·put·able   [di-spyü-tə-bəl, dis-pyə-tə-bəl]adj": {
+                "definition": "nan assertion of opposing views or claimsa disagreement as to rightsone that is the subject of proceedings for resolution (as arbitration)"
+            }
+        },
+        "references": {}
+    }
+}

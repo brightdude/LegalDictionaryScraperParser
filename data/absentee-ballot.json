@@ -1,0 +1,11 @@
+{
+    "Absentee Ballot": {
+        "definition": "a ballot submitted",
+        "sub_definitions": {
+            "1": {
+                "1": "a ballot submitted (as by mail) in advance of an election by a voter who is unable to be present at the polls"
+            }
+        },
+        "references": {}
+    }
+}

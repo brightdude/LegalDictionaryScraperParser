@@ -1,0 +1,17 @@
+{
+    "Nonfeasance": {
+        "definition": "the failure or omission to do something that should be done or esp. something that one is under a duty or obligation to do compare malfeasance",
+        "origin": "[ non- + obsolete English feasance doing, execution, from Anglo-French fesance , from Old French faisance act, from fais- , stem of faire to do, from Latin facere ]",
+        "compare": "malfeasance",
+        "sub_definitions": {
+            "1": {
+                "1": "the failure or omission to do something that should be done or esp. something that one is under a duty or obligation to do compare",
+                "compares": "malfeasance"
+            }
+        },
+        "references": {
+            "malfeasance": "https://dictionary.findlaw.com/definition/malfeasance.html",
+            "misfeasance": "https://dictionary.findlaw.com/definition/misfeasance.html"
+        }
+    }
+}

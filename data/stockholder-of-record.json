@@ -1,0 +1,11 @@
+{
+    "Stockholder Of Record": {
+        "definition": "the person who is recorded on the books of a company as the owner of stock and who may be an agent or trustee for the true owner",
+        "sub_definitions": {
+            "1": {
+                "1": "the person who is recorded on the books of a company as the owner of stock and who may be an agent or trustee for the true owner"
+            }
+        },
+        "references": {}
+    }
+}

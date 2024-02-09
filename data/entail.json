@@ -1,0 +1,25 @@
+{
+    "Entail": {
+        "definition": "to make",
+        "origin": "[Middle English entaillen , from en -, causative prefix + taille restriction on inheritance see tail ]",
+        "sub_definitions": {
+            "en·tail·mentn": {
+                "definition": "n"
+            },
+            "1": {
+                "definition": "an act or instance of entailing real propertythe practice of entailing property [the repeal of the laws of would prevent the accumulation and perpetuation of wealth in select families \"Thomas Jefferson\"] see alsoin the Important Laws section",
+                "De Donis Conditionalibus": "in the Important Laws section"
+            },
+            "2": {
+                "definition": "an entailed estate in real property [ifhad not become barrable \"Eileen Spring\"]",
+                "s": "had not become barrable \"Eileen Spring\"]"
+            },
+            "3": {
+                "definition": "the fixed line of descent of an entailed estate"
+            }
+        },
+        "references": {
+            "tail": "https://dictionary.findlaw.com/definition/tail.html"
+        }
+    }
+}

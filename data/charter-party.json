@@ -1,0 +1,13 @@
+{
+    "Charter Party": {
+        "definition": "charter",
+        "sub_definitions": {
+            "1": {
+                "1": "charter"
+            }
+        },
+        "references": {
+            "charter": "https://dictionary.findlaw.com/definition/charter.html"
+        }
+    }
+}

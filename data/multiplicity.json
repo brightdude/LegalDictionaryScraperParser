@@ -1,0 +1,23 @@
+{
+    "Multiplicity": {
+        "definition": "-ties 1 a",
+        "origin": "[ does not require dismissal of the indictment \"W. R. LaFave and J. H. Israel\"]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "the quality or state of being multiple or various",
+                "sub_terms": {
+                    "b": "the charging of a single criminal act or offense as multiple separate charges or counts of an indictment or information [ does not require dismissal of the indictment \"W. R. LaFave and J. H. Israel\"] compare,"
+                },
+                "note": " Multiplicity raises the risk of violating the double jeopardy protection against receiving multiple sentences for a single offense. Multiplicity is a defect that can be corrected without dismissal of the case.",
+                "compares": "duplicity"
+            },
+            "2": {
+                "definition": "a great number [joinder is allowed to avoid a of actions]"
+            }
+        },
+        "references": {
+            "duplicity": "https://dictionary.findlaw.com/definition/duplicity.html",
+            "misjoinder": "https://dictionary.findlaw.com/definition/misjoinder.html"
+        }
+    }
+}

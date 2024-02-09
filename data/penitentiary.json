@@ -1,0 +1,17 @@
+{
+    "Penitentiary": {
+        "definition": "-ries",
+        "sub_definitions": {
+            "-ries": {
+                "definition": "a state or federal prison for the punishment and reformation of convicted felons compare,,,",
+                "compares": "house of correction"
+            }
+        },
+        "references": {
+            "house of correction": "https://dictionary.findlaw.com/definition/house-of-correction.html",
+            "house of detention": "https://dictionary.findlaw.com/definition/house-of-detention.html",
+            "jail": "https://dictionary.findlaw.com/definition/jail.html",
+            "lockup": "https://dictionary.findlaw.com/definition/lockup.html"
+        }
+    }
+}

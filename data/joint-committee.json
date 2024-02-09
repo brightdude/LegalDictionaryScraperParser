@@ -1,0 +1,15 @@
+{
+    "Joint Committee": {
+        "definition": "a committee made up of members of both houses of a legislature",
+        "compare": "conference committee",
+        "sub_definitions": {
+            "1": {
+                "1": "a committee made up of members of both houses of a legislature (as for purposes of investigation or oversight) compare",
+                "compares": "conference committee"
+            }
+        },
+        "references": {
+            "conference committee": "https://dictionary.findlaw.com/definition/conference-committee.html"
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "House": {
+        "definition": "a building",
+        "origin": "[the votes of both houses shall be determined by yeas and nays \" U.S. Constitution art. I\"]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "a building (as a single or multiple family house, apartment, or hotel room) serving as living quarters and usually including the curtilage",
+                "sub_terms": {
+                    "b": "a building (as one's residence or a locked place of business) in which one is entitled to protection (as from warrantless searches and seizures) under the Fourth Amendment to the U.S. Constitution"
+                }
+            },
+            "2 a": {
+                "definition": "a legislative assembly esp. that constitutes a division of a bicameral body [the votes of bothshall be determined by yeas and nays \"art. I\"]",
+                "sub_terms": {
+                    "b": "the building or chamber where such an assembly meets",
+                    "c": "a quorum of such an assembly"
+                }
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "Reg.": {
+        "definition": "Reg.",
+        "sub_definitions": {
+            "1": {
+                "definition": "regulation"
+            },
+            "2": {
+                "definition": "register"
+            }
+        },
+        "references": {}
+    }
+}

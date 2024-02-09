@@ -1,0 +1,13 @@
+{
+    "Investigative Stop": {
+        "definition": "terry stop",
+        "sub_definitions": {
+            "1": {
+                "1": "terry stop"
+            }
+        },
+        "references": {
+            "terry stop": "https://dictionary.findlaw.com/definition/terry-stop.html"
+        }
+    }
+}

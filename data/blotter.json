@@ -1,0 +1,13 @@
+{
+    "Blotter": {
+        "definition": "police register",
+        "sub_definitions": {
+            "1": {
+                "1": "police register"
+            }
+        },
+        "references": {
+            "police register": "https://dictionary.findlaw.com/definition/police-register.html"
+        }
+    }
+}

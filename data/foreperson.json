@@ -1,0 +1,13 @@
+{
+    "Foreperson": {
+        "definition": "foreman",
+        "sub_definitions": {
+            "1": {
+                "1": "foreman"
+            }
+        },
+        "references": {
+            "foreman": "https://dictionary.findlaw.com/definition/foreman.html"
+        }
+    }
+}

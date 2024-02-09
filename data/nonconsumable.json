@@ -1,0 +1,11 @@
+{
+    "Nonconsumable": {
+        "definition": "a thing",
+        "sub_definitions": {
+            "1": {
+                "1": "a thing (as land, furniture, or shares of stock) that may be enjoyed without altering its substance except for natural deterioration over time"
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "New Value": {
+        "definition": "something of value",
+        "sub_definitions": {
+            "1": {
+                "1": "something of value (as money, goods, services, credit, or release of previously transferred property) that is newly given",
+                "note": " A transfer by a debtor to a creditor that is intended as a contemporaneous exchange for new value and not as satisfaction for a preexisting debt may not be avoided by a trustee in bankruptcy as a voidable preference."
+            }
+        },
+        "references": {}
+    }
+}

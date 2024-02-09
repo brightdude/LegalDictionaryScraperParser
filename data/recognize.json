@@ -1,0 +1,24 @@
+{
+    "Recognize": {
+        "definition": "to acknowledge formally",
+        "origin": "[ a precedent]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to acknowledge formally",
+                "sub_terms": {
+                    "a": "to admit as being of a particular status [ a precedent] [ a union]to acknowledge (as a right, cause of action, or defense) as valid",
+                    "b": "to admit as being one entitled to be heardgive the floor to",
+                    "c": "to acknowledge the de facto existence or the independence of [refused to the new government]"
+                }
+            },
+            "2": {
+                "definition": "to account for as real, received, or incurred and treat and record appropriatelyto account for (a gain, loss, expense, or income) on current accounting or tax records [the gain when she included it as income on her tax return] compare",
+                "compares": "realize",
+                "recognized": "the gain when she included it as income on her tax return] compare"
+            }
+        },
+        "references": {
+            "realize": "https://dictionary.findlaw.com/definition/realize.html"
+        }
+    }
+}

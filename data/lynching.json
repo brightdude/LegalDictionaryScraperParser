@@ -1,0 +1,13 @@
+{
+    "Lynching": {
+        "definition": "the crime of lynching a person 2",
+        "sub_definitions": {
+            "1": {
+                "definition": "the crime of lynching a person"
+            }
+        },
+        "references": {
+            "lynch law": "https://dictionary.findlaw.com/definition/lynch-law.html"
+        }
+    }
+}

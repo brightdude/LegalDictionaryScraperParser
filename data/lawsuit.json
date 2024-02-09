@@ -1,0 +1,16 @@
+{
+    "Lawsuit": {
+        "definition": "an action brought in a court for the purpose of seeking relief from or remedy for an alleged wrong",
+        "sub_definitions": {
+            "1": {
+                "1": "an action brought in a court for the purpose of seeking relief from or remedy for an alleged wrong"
+            },
+            "2": {
+                "1": "suit"
+            }
+        },
+        "references": {
+            "suit": "https://dictionary.findlaw.com/definition/suit.html"
+        }
+    }
+}

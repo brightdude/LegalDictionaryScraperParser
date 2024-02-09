@@ -1,0 +1,14 @@
+{
+    "Petty Larceny": {
+        "definition": "petit larceny at larceny",
+        "sub_definitions": {
+            "1": {
+                "1": "petit larceny"
+            }
+        },
+        "references": {
+            "petit larceny": "https://dictionary.findlaw.com/definition/petit-larceny.html",
+            "larceny": "https://dictionary.findlaw.com/definition/larceny.html"
+        }
+    }
+}

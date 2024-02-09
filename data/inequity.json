@@ -1,0 +1,13 @@
+{
+    "Inequity": {
+        "definition": "-ties",
+        "sub_definitions": {
+            "-ties": {
+                "definition": "an instance of injustice"
+            }
+        },
+        "references": {
+            "injustice": "https://dictionary.findlaw.com/definition/injustice.html"
+        }
+    }
+}

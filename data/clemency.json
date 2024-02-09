@@ -1,0 +1,20 @@
+{
+    "Clemency": {
+        "definition": "-cies 1",
+        "sub_definitions": {
+            "1": {
+                "definition": "willingness or ability to moderate the severity of a punishment (as a sentence)"
+            },
+            "2": {
+                "definition": "an act or instance of mercy, compassion, or forgiveness see also,,,",
+                "see also": "amnesty"
+            }
+        },
+        "references": {
+            "amnesty": "https://dictionary.findlaw.com/definition/amnesty.html",
+            "commute": "https://dictionary.findlaw.com/definition/commute.html",
+            "pardon": "https://dictionary.findlaw.com/definition/pardon.html",
+            "reprieve": "https://dictionary.findlaw.com/definition/reprieve.html"
+        }
+    }
+}

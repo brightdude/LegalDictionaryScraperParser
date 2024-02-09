@@ -1,0 +1,17 @@
+{
+    "Devisee": {
+        "definition": "one to whom a devise of property is made compare heir",
+        "compare": "heir",
+        "sub_definitions": {
+            "1": {
+                "1": "one to whom a devise of property is made compare",
+                "compares": "heir"
+            }
+        },
+        "references": {
+            "heir": "https://dictionary.findlaw.com/definition/heir.html",
+            "legatee": "https://dictionary.findlaw.com/definition/legatee.html",
+            "next of kin": "https://dictionary.findlaw.com/definition/next-of-kin.html"
+        }
+    }
+}

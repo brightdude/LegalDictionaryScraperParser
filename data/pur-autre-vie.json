@@ -1,0 +1,13 @@
+{
+    "Pur Autre Vie": {
+        "definition": "for another's life see also estate pur autre vie at estate",
+        "sub_definitions": {
+            "1": {
+                "1": "for another's life see also"
+            }
+        },
+        "references": {
+            "estate": "https://dictionary.findlaw.com/definition/estate.html"
+        }
+    }
+}

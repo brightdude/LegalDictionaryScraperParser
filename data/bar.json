@@ -1,0 +1,60 @@
+{
+    "Bar": {
+        "definition": "the railing in a courtroom that encloses the area around the judge where prisoners are stationed in criminal cases or where the business of the court is transacted in civil cases compare bench",
+        "origin": "[the younger judge brought a fresh viewpoint to the ]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "the railing in a courtroom that encloses the area around the judge where prisoners are stationed in criminal cases or where the business of the court is transacted in civil cases compare,,,",
+                "sub_terms": {
+                    "b": "[the younger judge brought a fresh viewpoint to the ]"
+                },
+                "compares": "bench"
+            },
+            "2 a": {
+                "definition": "the whole body of lawyersthose qualified to practice in the courts of a particular jurisdiction [admitted to the Arizona ] [the bankruptcy ] compare",
+                "sub_terms": {
+                    "b": "the profession or occupation of lawyer",
+                    "c": "[passed the ]"
+                },
+                "compares": "bench"
+            },
+            "3": {
+                "sub_terms": {
+                    "a": "to act as a bar to (as a claim or action) [liberative prescriptionactions \"\"] [final judgmentthe subsequent claim]",
+                    "b": "to prevent (a party) from bringing a claim or action [plaintiffs areby the judgment…from relitigating their claims \", 595 F.2d 446 (1979)\"] see alsocompare"
+                },
+                "compares": "merge",
+                "see also": "estop",
+                "Louisiana Civil Code": "\"] [final judgment",
+                "barred": "by the judgment…from relitigating their claims \"",
+                "Roach v. Teamsters Local Union No. 688": "595 F.2d 446 (1979)\"] see al"
+            },
+            "at the bar:in the legal profession [pressures faced by womenat the bar\"R. E. Hauser\"]": {
+                "definition": "vt"
+            },
+            "1": {
+                "definition": "to keep out[cannot the items from sale]"
+            },
+            "2": {
+                "definition": "to prevent from doing or accomplishing (something) [plaintiff's conduct may her recovery] [the contracthis reinstatement]",
+                "s": "his reinstatement]"
+            }
+        },
+        "references": {
+            "bench": "https://dictionary.findlaw.com/definition/bench.html",
+            "dock": "https://dictionary.findlaw.com/definition/dock.html",
+            "jury box": "https://dictionary.findlaw.com/definition/jury-box.html",
+            "stand": "https://dictionary.findlaw.com/definition/stand.html",
+            "court": "https://dictionary.findlaw.com/definition/court.html",
+            "tribunal": "https://dictionary.findlaw.com/definition/tribunal.html",
+            "bar examination": "https://dictionary.findlaw.com/definition/bar-examination.html",
+            "estoppel": "https://dictionary.findlaw.com/definition/estoppel.html",
+            "merger": "https://dictionary.findlaw.com/definition/merger.html",
+            "res judicata": "https://dictionary.findlaw.com/definition/res-judicata.html",
+            "exclude": "https://dictionary.findlaw.com/definition/exclude.html",
+            "preclude": "https://dictionary.findlaw.com/definition/preclude.html",
+            "estop": "https://dictionary.findlaw.com/definition/estop.html",
+            "merge": "https://dictionary.findlaw.com/definition/merge.html"
+        }
+    }
+}

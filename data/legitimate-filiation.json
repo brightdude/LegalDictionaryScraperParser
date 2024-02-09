@@ -1,0 +1,11 @@
+{
+    "Legitimate Filiation": {
+        "definition": "filiation created by a child being born during a marriage or adopted",
+        "sub_definitions": {
+            "1": {
+                "1": "filiation created by a child being born during a marriage or adopted"
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "Spread": {
+        "definition": "the difference between any two prices for similar articles [the between the list price and the market price of an article] b",
+        "origin": "[the between the list price and the market price of an article]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "the difference between any two prices for similar articles [the between the list price and the market price of an article]",
+                "sub_terms": {
+                    "b": "the difference between the highest and lowest prices of a product or security for a given period",
+                    "c": "the difference between bid and asked prices (as of a stock)"
+                }
+            },
+            "2 a": {
+                "definition": "a simultaneous put option and call option in which the put price and the call price differ so that no profit is made unless the price falls below or rises above the put or call price respectively by more than enough to cover the cost of the optionthe difference between the put price and call price",
+                "sub_terms": {
+                    "b": "a transaction in which a participant hedges with simultaneous long and short options in different commodities or different delivery dates in the same commodity"
+                }
+            },
+            "3": {
+                "definition": "an arbitrage transaction operated by buying and selling simultaneously in two markets when there is an abnormal difference in price between the two marketsthe difference in price"
+            },
+            "4": {
+                "definition": "the difference between the yields on investments in fixed-income securities equal in quality but with different maturity dates or with the same maturity dates but unequal quality"
+            }
+        },
+        "references": {}
+    }
+}

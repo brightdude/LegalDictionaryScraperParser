@@ -1,0 +1,15 @@
+{
+    "Advance Sheet": {
+        "definition": "the published opinions of a court available in a temporary form",
+        "compare": "reporter",
+        "sub_definitions": {
+            "1": {
+                "1": "the published opinions of a court available in a temporary form (as in loose pages held in a binder) compare",
+                "compares": "reporter"
+            }
+        },
+        "references": {
+            "reporter": "https://dictionary.findlaw.com/definition/reporter.html"
+        }
+    }
+}

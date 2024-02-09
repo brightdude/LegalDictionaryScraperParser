@@ -1,0 +1,12 @@
+{
+    "Irreversible": {
+        "definition": "not reversible [an decision]",
+        "origin": "[an decision]",
+        "sub_definitions": {
+            "1": {
+                "1": "not reversible [an decision]"
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "Senior Mortgage": {
+        "definition": "Senior Mortgage",
+        "references": {
+            "mortgage": "https://dictionary.findlaw.com/definition/mortgage.html"
+        }
+    }
+}

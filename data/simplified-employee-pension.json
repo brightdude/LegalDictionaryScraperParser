@@ -1,0 +1,11 @@
+{
+    "Simplified Employee Pension": {
+        "definition": "a pension that is funded by employer contributions or through a salary reduction arrangement and that places fewer administrative burdens on the employer than do other plans and allows employer deduction of contributions and employee withdrawal at any time called also SEP",
+        "sub_definitions": {
+            "1": {
+                "1": "a pension that is funded by employer contributions or through a salary reduction arrangement and that places fewer administrative burdens on the employer than do other plans and allows employer deduction of contributions and employee withdrawal at any time called also"
+            }
+        },
+        "references": {}
+    }
+}

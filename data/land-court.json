@@ -1,0 +1,15 @@
+{
+    "Land Court": {
+        "definition": "a court having jurisdiction over registration of title to land and matters incidental thereto see also torrens system NOTE",
+        "sub_definitions": {
+            "1": {
+                "1": "a court having jurisdiction over registration of title to land and matters incidental thereto see also",
+                "see also": "torrens system",
+                "note": " In the United States only Massachusetts and Hawaii have land courts."
+            }
+        },
+        "references": {
+            "torrens system": "https://dictionary.findlaw.com/definition/torrens-system.html"
+        }
+    }
+}

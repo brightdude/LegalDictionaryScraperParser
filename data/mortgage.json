@@ -1,0 +1,104 @@
+{
+    "Mortgage": {
+        "definition": "a conveyance of title to property that is given to secure an obligation",
+        "origin": "[Anglo-French, from Old French, from mort dead (from Latin mortuus ) + gage security]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "a conveyance of title to property that is given to secure an obligation (as a debt) and that is defeated upon payment or performance according to stipulated terms [shows that a deed was intended only as a \"W. M. McGovern, Jr.\"]",
+                "sub_terms": {
+                    "b": "a lien against property that is granted to secure an obligation (as a debt) and that is extinguished upon payment or performance according to stipulated terms [creditors with validagainst the debtor's property \"J. H. Williamson\"]",
+                    "c": "a loan secured by a mortgage [applied for a ]"
+                },
+                "s": "against the debtor's property \"J. H. Williamson\"]"
+            },
+            "adjustable rate mortgage": {
+                "definition": "a mortgage having an interest rate which is usually initially lower than that of a mortgage with a fixed rate but which is adjusted periodically according to an index (as the cost of funds to the lender)"
+            },
+            "balloon mortgage": {
+                "definition": "a mortgage having the interest paid periodically and the principal paid in one lump sum at the end of the term of the loan"
+            },
+            "blanket mortgage": {
+                "definition": "a mortgage of or against all of the property of the mortgagor"
+            },
+            "chattel mortgage": {
+                "definition": "a mortgage of or against personal or movable property (as an airplane) compareat",
+                "compares": "pledge"
+            },
+            "collateral mortgage": {
+                "definition": "a mortgage against movable or immovable property that is given to secure a written obligation (as a note) which is pledged as collateral security for a principal obligation see alsoat"
+            },
+            "construction mortgage": {
+                "definition": "a mortgage that secures a loan which finances construction"
+            },
+            "1": {
+                "definition": "to grant or convey by a mortgage [the property to the bank]",
+                "mortgaged": "the property to the bank]"
+            },
+            "2": {
+                "definition": "to encumber with a mortgage"
+            },
+            "equitable mortgage": {
+                "definition": "a constructive or implied mortgagea transaction (as a conveyance) that does not have the form of a mortgage but is given the effect of a mortgage by a court of equity because the parties intended it to be a mortgage"
+            },
+            "first mortgage": {
+                "definition": "a mortgage that has priority over all other security interests except those imposed by law"
+            },
+            "fixed rate mortgage": {
+                "definition": "a mortgage having an interest rate that stays the same"
+            },
+            "general mortgage": {
+                "definition": "a blanket mortgage that burdens all present and future property"
+            },
+            "home equity conversion mortgage": {
+                "definition": "in this entry"
+            },
+            "judicial mortgage": {
+                "definition": "a mortgage lien that secures a judgment debt and is created by filing a judgment with the recorder of mortgages"
+            },
+            "junior mortgage": {
+                "definition": "in this entry"
+            },
+            "leasehold mortgage": {
+                "definition": "a mortgage under which a leasehold interest in property secures a loan or obligation"
+            },
+            "legal mortgage": {
+                "definition": "a mortgage that secures an obligation which is created by a law and which does not have to be stipulated to by the parties"
+            },
+            "open-end mortgage": {
+                "definition": "a mortgage that secures a loan agreement which allows the mortgagor to borrow additional sums usually up to a specified limit"
+            },
+            "purchase money mortgage": {
+                "definition": "a mortgage that is given (as to a lender) to secure a loan for all or some of the purchase price of propertya mortgage given to a seller of property to secure the unpaid balance of the purchase price"
+            },
+            "reverse mortgage": {
+                "definition": "a mortgage that allows elderly homeowners to convert existing equity into available funds provided through a line of credit, a cash advance (as for the purchase of an annuity), or periodic disbursements to be repaid with interest when the home is sold or ceases to be the primary residence, when the borrower dies or some other specified event occurs, or at a fixed maturity date"
+            },
+            "second mortgage": {
+                "definition": "a mortgage lien that is subordinate in priority to a first mortgage called also"
+            },
+            "senior mortgage": {
+                "definition": "in this entry"
+            },
+            "special mortgage": {
+                "definition": "a mortgage on specified property"
+            },
+            "wrap-around mortgage": {
+                "definition": "[rap-ə-rand-]a second or later mortgage that incorporates the debt of a previous mortgage with additional debt for another loan"
+            },
+            "2 a": {
+                "definition": "an instrument embodying and containing the provisions of a mortgage [executing and recording]",
+                "sub_terms": {
+                    "b": "the interest of a mortgagee in mortgaged property [the bank holds the ]vt"
+                }
+            }
+        },
+        "references": {
+            "pledge": "https://dictionary.findlaw.com/definition/pledge.html",
+            "interest": "https://dictionary.findlaw.com/definition/interest.html",
+            "note": "https://dictionary.findlaw.com/definition/note.html",
+            "reverse mortgage": "https://dictionary.findlaw.com/definition/reverse-mortgage.html",
+            "second mortgage": "https://dictionary.findlaw.com/definition/second-mortgage.html",
+            "first mortgage": "https://dictionary.findlaw.com/definition/first-mortgage.html"
+        }
+    }
+}

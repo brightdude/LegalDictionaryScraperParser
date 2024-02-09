@@ -1,0 +1,11 @@
+{
+    "Total Disability": {
+        "definition": "a degree of disability considered sufficient",
+        "sub_definitions": {
+            "1": {
+                "1": "a degree of disability considered sufficient (as according to statute or in an insurance policy) to make one unable to engage in gainful work"
+            }
+        },
+        "references": {}
+    }
+}

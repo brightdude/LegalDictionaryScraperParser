@@ -1,0 +1,36 @@
+{
+    "Matter": {
+        "definition": "a subject of consideration",
+        "origin": "[a within the court's jurisdiction]",
+        "sub_definitions": {
+            "1": {
+                "definition": "called also"
+            },
+            "2": {
+                "definition": "written, printed, or postal material [obscene ]"
+            },
+            "matter in issue": {
+                "definition": "a matter that is in dispute as part or all of a legal issue"
+            },
+            "matter of fact": {
+                "definition": "a matter primarily involving proof or evidence rather than a question of law"
+            },
+            "matter of form": {
+                "definition": "a matter concerning form or details often of a relatively inessential nature rather than substance [a petition invalid because of a]"
+            },
+            "matter of law": {
+                "definition": "a matter involving or consisting of the application of law [entitled to judgment as a\"\"]"
+            },
+            "matter of record": {
+                "definition": "a matter (as a fact) entered on the record of a court or other official body [the security interest was a]"
+            },
+            "matter of substance": {
+                "definition": "a matter concerning the merits of a case rather than form or relatively inessential details"
+            }
+        },
+        "references": {
+            "in re": "https://dictionary.findlaw.com/definition/in-re.html",
+            "matter": "https://dictionary.findlaw.com/definition/matter.html"
+        }
+    }
+}

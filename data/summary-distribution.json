@@ -1,0 +1,15 @@
+{
+    "Summary Distribution": {
+        "definition": "an abridged form of administration allowing distribution of an estate after the filing of an inventory showing assets sufficient only to pay superior claims",
+        "compare": "collection by affidavit",
+        "sub_definitions": {
+            "1": {
+                "1": "an abridged form of administration allowing distribution of an estate after the filing of an inventory showing assets sufficient only to pay superior claims (as to family members claiming statutory shares) compare",
+                "compares": "collection by affidavit"
+            }
+        },
+        "references": {
+            "collection by affidavit": "https://dictionary.findlaw.com/definition/collection-by-affidavit.html"
+        }
+    }
+}

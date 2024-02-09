@@ -1,0 +1,14 @@
+{
+    "Prayer": {
+        "definition": "the part of a pleading",
+        "sub_definitions": {
+            "1": {
+                "1": "the part of a pleading (as a complaint) that specifies the relief sought"
+            },
+            "2": {
+                "1": "a request for relief or some other action by the court"
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "Pendent": {
+        "definition": "remaining undetermined",
+        "origin": "[Middle French pendant suspended, present participle of pendre to hang, ultimately from Latin pendēre ]",
+        "sub_definitions": {
+            "1": {
+                "definition": "remaining undetermined[a suit]"
+            },
+            "2": {
+                "definition": "of, relating to, or being the basis of pendent jurisdiction or pendent party jurisdiction [the Supreme Court drew a sharp distinction between claims and parties \"\"]"
+            },
+            "3": {
+                "definition": "[is upon another claim]"
+            }
+        },
+        "references": {
+            "pending": "https://dictionary.findlaw.com/definition/pending.html",
+            "dependent": "https://dictionary.findlaw.com/definition/dependent.html"
+        }
+    }
+}

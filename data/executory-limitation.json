@@ -1,0 +1,14 @@
+{
+    "Executory Limitation": {
+        "definition": "a limitation that creates an executory interest [a fee simple subject to an executory limitation ] see also executory interest at interest",
+        "origin": "[a fee simple subject to an executory limitation ]",
+        "sub_definitions": {
+            "1": {
+                "1": "a limitation that creates an executory interest [a fee simple subject to an"
+            }
+        },
+        "references": {
+            "interest": "https://dictionary.findlaw.com/definition/interest.html"
+        }
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "Personal": {
+        "definition": "of",
+        "origin": "[refused to disclose information]",
+        "sub_definitions": {
+            "1": {
+                "definition": "of, relating to, or affecting a person",
+                "sub_terms": {
+                    "a": "of, relating to, or based on the existence or presence of a person see alsoat",
+                    "b": "of, relating to, or restricted to a natural person and his or her rights, obligations, affairs, assets, or lifetime [refused to disclose information] [released on recognizance]"
+                },
+                "see also": "personal injury"
+            },
+            "2": {
+                "definition": "of, relating to, or constituting personal property [ effects] see alsoatcompare",
+                "compares": "real"
+            }
+        },
+        "references": {
+            "personal injury": "https://dictionary.findlaw.com/definition/personal-injury.html",
+            "jurisdiction": "https://dictionary.findlaw.com/definition/jurisdiction.html",
+            "property": "https://dictionary.findlaw.com/definition/property.html",
+            "real": "https://dictionary.findlaw.com/definition/real.html"
+        }
+    }
+}

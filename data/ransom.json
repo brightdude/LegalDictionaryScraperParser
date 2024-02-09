@@ -1,0 +1,17 @@
+{
+    "Ransom": {
+        "definition": "a consideration paid or demanded for the release of someone or something from captivity see also kidnapping vt",
+        "sub_definitions": {
+            "1": {
+                "1": "a consideration paid or demanded for the release of someone or something from captivity see also",
+                "see also": "kidnapping"
+            },
+            "2": {
+                "1": "to free from captivity by paying a price"
+            }
+        },
+        "references": {
+            "kidnapping": "https://dictionary.findlaw.com/definition/kidnapping.html"
+        }
+    }
+}

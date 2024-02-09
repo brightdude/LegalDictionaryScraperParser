@@ -1,0 +1,19 @@
+{
+    "Officer": {
+        "definition": "one charged with administering or enforcing the law [a police ] 2",
+        "origin": "[a police ]",
+        "sub_definitions": {
+            "1": {
+                "definition": "one charged with administering or enforcing the law [a police ]"
+            },
+            "2": {
+                "definition": "one who holds an office of trust, authority, or command [the directors,, employees, and shareholders of a corporation]",
+                "s": "employees, and shareholders of a corporatio"
+            },
+            "3": {
+                "definition": "one who holds a position of authority or command in the armed forces [insubordinate to his commanding ]"
+            }
+        },
+        "references": {}
+    }
+}

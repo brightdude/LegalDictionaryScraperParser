@@ -1,0 +1,14 @@
+{
+    "Residual Estate": {
+        "definition": "residuary estate at estate",
+        "sub_definitions": {
+            "1": {
+                "1": "residuary estate"
+            }
+        },
+        "references": {
+            "residuary estate": "https://dictionary.findlaw.com/definition/residuary-estate.html",
+            "estate": "https://dictionary.findlaw.com/definition/estate.html"
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "Float": {
+        "definition": "an amount of money represented by checks outstanding and in process of collection 2",
+        "origin": "[ a loan]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to place (an issue of securities) on the market"
+            },
+            "2": {
+                "definition": "to obtain money for the establishment or development of (an enterprise) by issuing and selling securities"
+            },
+            "3": {
+                "definition": "[ a loan]"
+            }
+        },
+        "references": {
+            "negotiate": "https://dictionary.findlaw.com/definition/negotiate.html"
+        }
+    }
+}

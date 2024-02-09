@@ -1,0 +1,12 @@
+{
+    "Doctrine": {
+        "definition": "a principle established through judicial decisions compare law",
+        "origin": "[-trə-nəl]",
+        "compare": "law",
+        "sub_definitions": {},
+        "references": {
+            "law": "https://dictionary.findlaw.com/definition/law.html",
+            "precedent": "https://dictionary.findlaw.com/definition/precedent.html"
+        }
+    }
+}

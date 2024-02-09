@@ -1,0 +1,29 @@
+{
+    "Ownership": {
+        "definition": "the state",
+        "origin": "[reduced their by one third]",
+        "compare": "fee simple",
+        "sub_definitions": {
+            "absolute ownership": {
+                "definition": "ownership esp. by a single person that is free of any encumbrances or limitations other than statutory law compareat"
+            },
+            "os·ten·si·ble ownership": {
+                "definition": "[Ä -sten-sə-bəl]ownership that is apparent rather than actual and that sometimes is recognized in cases of purchase of the property by an innocent third party [a dispute arising from the dealer'sand sale of the collateral]",
+                "note": " A purchaser from a person with ostensible ownership of property may be able to defeat the claim to the property of the actual owner who created the ostensible ownership.",
+                "ostensible ownership": "and sale of the collateral]"
+            },
+            "ownership in in·di·vi·sion": {
+                "definition": "ownership by two or more persons each having undivided shares in the property as a whole compareat",
+                "note": " Ownership in indivision is ended by a partition of the property."
+            },
+            "qualified ownership": {
+                "definition": "ownership that is limited by time, the interest of another party, or restrictions on the use of the property [had onlyof the fish and game on his property due to state restrictions]",
+                "qualified ownership": "of the fish and game on his property due to state restrictions]"
+            }
+        },
+        "references": {
+            "fee simple": "https://dictionary.findlaw.com/definition/fee-simple.html",
+            "property": "https://dictionary.findlaw.com/definition/property.html"
+        }
+    }
+}

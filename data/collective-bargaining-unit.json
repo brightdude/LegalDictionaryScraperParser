@@ -1,0 +1,13 @@
+{
+    "Collective Bargaining Unit": {
+        "definition": "bargaining unit",
+        "sub_definitions": {
+            "1": {
+                "1": "bargaining unit"
+            }
+        },
+        "references": {
+            "bargaining unit": "https://dictionary.findlaw.com/definition/bargaining-unit.html"
+        }
+    }
+}

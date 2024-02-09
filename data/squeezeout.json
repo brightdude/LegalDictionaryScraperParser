@@ -1,0 +1,16 @@
+{
+    "Squeezeout": {
+        "definition": "a corporate action or series of actions",
+        "compare": "freezeout",
+        "sub_definitions": {
+            "1": {
+                "1": "a corporate action or series of actions (as a refusal to declare dividends or the restricting of decision-making power in corporate governance) through which majority shareholders deprive minority shareholders of the benefit of stock ownership usually as part of an attempt to force sale of minority shares compare",
+                "compares": "freezeout",
+                "note": "Freezeoutandsqueezeoutare sometimes used as synonyms."
+            }
+        },
+        "references": {
+            "freezeout": "https://dictionary.findlaw.com/definition/freezeout.html"
+        }
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "Hot Cargo": {
+        "definition": "products made by nonunion employees or by employees considered to be treated unfairly by their employer adj",
+        "sub_definitions": {
+            "1": {
+                "1": "products made by nonunion employees or by employees considered to be treated unfairly by their employer"
+            },
+            "2": {
+                "1": "of, relating to, or being an agreement between labor and an employer barring the employer from using or otherwise dealing with the products of another employer whose employees are nonunion",
+                "note": " Hot cargo agreements, clauses, and provisions were outlawed by the Labor Management Reporting and Disclosure Act."
+            }
+        },
+        "references": {}
+    }
+}

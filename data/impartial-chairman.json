@@ -1,0 +1,20 @@
+{
+    "Impartial Chairman": {
+        "definition": "arbitrator mediator ;specif",
+        "compare": "arbitrator",
+        "sub_definitions": {
+            "1": {
+                "1": "arbitrator"
+            },
+            "2": {
+                "1": "an arbitrator who serves on a committee or board compare",
+                "compares": "umpire"
+            }
+        },
+        "references": {
+            "arbitrator": "https://dictionary.findlaw.com/definition/arbitrator.html",
+            "mediator": "https://dictionary.findlaw.com/definition/mediator.html",
+            "umpire": "https://dictionary.findlaw.com/definition/umpire.html"
+        }
+    }
+}

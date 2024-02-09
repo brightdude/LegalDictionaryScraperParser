@@ -1,0 +1,25 @@
+{
+    "Award": {
+        "definition": "to give in accordance with a judicial or administrative determination or decision [ punitive damages] 2",
+        "origin": "[Anglo-French awarder agarder to look at, decide on, impose, alteration of Old French esguarder to look at, from es -, intensive prefix + guarder to guard]",
+        "sub_definitions": {
+            "1": {
+                "definition": "a judgment or final decision",
+                "sub_terms": {
+                    "a": "",
+                    "b": "a formal decision regarding benefits in a workers' compensation claim"
+                }
+            },
+            "2": {
+                "definition": "something granted esp. on the basis of merit or entitlement",
+                "sub_terms": {
+                    "a": "a contract won by a successful bidder",
+                    "b": "relief usually in the form of money (as damages or alimony) granted to a party in a legal proceeding"
+                }
+            }
+        },
+        "references": {
+            "arbitrator's award": "https://dictionary.findlaw.com/definition/arbitrator-s-award.html"
+        }
+    }
+}

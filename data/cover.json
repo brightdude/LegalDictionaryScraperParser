@@ -1,0 +1,20 @@
+{
+    "Cover": {
+        "definition": "insure [this policy s other family drivers] 2",
+        "origin": "[this policy s other family drivers]",
+        "sub_definitions": {
+            "1": {
+                "definition": "[this policyother family drivers]",
+                "s": "other family drivers]"
+            },
+            "2": {
+                "definition": "to give protection against or compensation or indemnification for [doesn't flood damage]to obtain cover [where the seller anticipatorily repudiates a contract and the buyer does not \", 736 F.2d 1064 (1984)\"]npurchase of goods in substitution for those originally contracted for when the seller fails to fulfill the contract [the buyer is always free to choose between and damages for nondelivery \"\"]the substituted goods",
+                "note": " Under the Uniform Commercial Code, when a seller does not perform on a contract, the buyer has the option of covering, with the seller paying the difference between the cost of the cover and the original contract price, or seeking damages for nonperformance. Reselling is the seller's comparable remedy when a buyer does not perform under a contract.",
+                "Cosden Oil & Chemical Co. v. Karl O. Helm AG": "736 F.2d 1064 (1984)"
+            }
+        },
+        "references": {
+            "insure": "https://dictionary.findlaw.com/definition/insure.html"
+        }
+    }
+}

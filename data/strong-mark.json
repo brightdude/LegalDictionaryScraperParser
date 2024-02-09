@@ -1,0 +1,16 @@
+{
+    "Strong Mark": {
+        "definition": "a trademark or service mark that is distinctive and is used in a fictitious",
+        "compare": "weak mark",
+        "sub_definitions": {
+            "1": {
+                "1": "a trademark or service mark that is distinctive and is used in a fictitious, arbitrary, or fanciful manner in connection with a product compare",
+                "compares": "weak mark",
+                "note": " A strong mark is afforded greater trademark protection than a weak mark."
+            }
+        },
+        "references": {
+            "weak mark": "https://dictionary.findlaw.com/definition/weak-mark.html"
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "Lawless": {
+        "definition": "not restrained or controlled by law 2",
+        "origin": "[a act]",
+        "sub_definitions": {
+            "1": {
+                "definition": "not restrained or controlled by law"
+            },
+            "2": {
+                "definition": "[a act]"
+            }
+        },
+        "references": {
+            "illegal": "https://dictionary.findlaw.com/definition/illegal.html"
+        }
+    }
+}

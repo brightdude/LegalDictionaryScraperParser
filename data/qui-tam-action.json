@@ -1,0 +1,13 @@
+{
+    "Qui Tam Action": {
+        "definition": "an action that is brought by a person on behalf of a government against a party alleged to have violated a statute esp. against defrauding the government through false claims and that provides for part of a penalty to go to the person bringing the action [the whistleblower brought a qui tam action against the contractor for presenting fraudulent claims for payment]",
+        "origin": "[the whistleblower brought a qui tam action against the contractor for presenting fraudulent claims for payment]",
+        "sub_definitions": {
+            "1": {
+                "1": "an action that is brought by a person on behalf of a government against a party alleged to have violated a statute esp. against defrauding the government through false claims and that provides for part of a penalty to go to the person bringing the action [the whistleblower brought a",
+                "qui tam action": "against the contractor for presenting fraudulent claims for payment]"
+            }
+        },
+        "references": {}
+    }
+}

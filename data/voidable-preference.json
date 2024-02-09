@@ -1,0 +1,13 @@
+{
+    "Voidable Preference": {
+        "definition": "preference",
+        "sub_definitions": {
+            "1": {
+                "1": "preference"
+            }
+        },
+        "references": {
+            "preference": "https://dictionary.findlaw.com/definition/preference.html"
+        }
+    }
+}

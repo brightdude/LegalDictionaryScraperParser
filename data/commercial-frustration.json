@@ -1,0 +1,13 @@
+{
+    "Commercial Frustration": {
+        "definition": "frustration",
+        "sub_definitions": {
+            "1": {
+                "1": "frustration"
+            }
+        },
+        "references": {
+            "frustration": "https://dictionary.findlaw.com/definition/frustration.html"
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "Status Quo": {
+        "definition": "the existing state of affairs ;specif",
+        "origin": "[Latin, state in which]",
+        "compare": "status quo ante",
+        "sub_definitions": {
+            "1": {
+                "1": "the existing state of affairs"
+            },
+            "2": {
+                "1": "the last actual and uncontested state of affairs that preceded a controversy and that is to be preserved by preliminary injunction compare",
+                "compares": "status quo ante"
+            }
+        },
+        "references": {
+            "status quo ante": "https://dictionary.findlaw.com/definition/status-quo-ante.html"
+        }
+    }
+}

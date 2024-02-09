@@ -1,0 +1,33 @@
+{
+    "Enter": {
+        "definition": "to go or come in ;specif",
+        "origin": "[lessor shall have the right to and take possession]",
+        "compare": "break",
+        "sub_definitions": {
+            "1": {
+                "definition": "to come or go into [he breaks into anda vehicle \"\"] see also,",
+                "see also": "break",
+                "s": "a vehicle \"",
+                "Code of Alabama": "\"] see also"
+            },
+            "3": {
+                "definition": "to put in correct form before a court or on a record [judgment against the defendant] [a plea] compare",
+                "compares": "render",
+                "ed": "judgment against the defendant] [",
+                "ing": "a plea] compare"
+            },
+            "4": {
+                "definition": "to go upon (real property) by right of entry esp. to take possession [if the lessee defaults, the lessor may the premises] compare",
+                "compares": "distrain"
+            }
+        },
+        "references": {
+            "break": "https://dictionary.findlaw.com/definition/break.html",
+            "breaking and entering": "https://dictionary.findlaw.com/definition/breaking-and-entering.html",
+            "record": "https://dictionary.findlaw.com/definition/record.html",
+            "register": "https://dictionary.findlaw.com/definition/register.html",
+            "render": "https://dictionary.findlaw.com/definition/render.html",
+            "distrain": "https://dictionary.findlaw.com/definition/distrain.html"
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "Annex": {
+        "definition": "attach [correspondence ed to the petition] [a greenhouse ed to the building] 2",
+        "origin": "[correspondence ed to the petition]",
+        "sub_definitions": {
+            "1": {
+                "definition": "[correspondenceto the petition] [a greenhouseto the building]",
+                "ed": "to the building]"
+            },
+            "2": {
+                "definition": "to incorporate (as a territory) within a political domain [the districtonly shards of 24 additional parishes \", 839 F. Supp. 1188 (1993)\"]",
+                "es": "only shards of 24 additional parishes \"",
+                "Hays v. Louisiana": "839 F. Supp. 1188 (1993)"
+            }
+        },
+        "references": {
+            "attach": "https://dictionary.findlaw.com/definition/attach.html"
+        }
+    }
+}

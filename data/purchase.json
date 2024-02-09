@@ -1,0 +1,26 @@
+{
+    "Purchase": {
+        "definition": "to acquire",
+        "sub_definitions": {
+            "1": {
+                "definition": "to acquire (real property) by means other than descent or inheritance"
+            },
+            "2": {
+                "definition": "to obtain by paying money or giving other valuable considerationto take (property) by a voluntary transaction (as a sale, mortgage, pledge, lien, or gift) that creates an interest and that is governed by the Uniform Commercial Code see alsoto purchase something",
+                "see also": "bona fide purchaser"
+            },
+            "pur·chas·ern": {
+                "definition": "nan act or instance of purchasing",
+                "sub_terms": {
+                    "a": "the acquiring of real property by any means other than descent or inheritance",
+                    "b": "the acquiring of an interest in property esp. in exchange for valuable consideration see also"
+                },
+                "see also": "word of purchase"
+            }
+        },
+        "references": {
+            "bona fide purchaser": "https://dictionary.findlaw.com/definition/bona-fide-purchaser.html",
+            "word of purchase": "https://dictionary.findlaw.com/definition/word-of-purchase.html"
+        }
+    }
+}

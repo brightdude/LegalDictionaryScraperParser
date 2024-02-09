@@ -1,0 +1,11 @@
+{
+    "Mandated Reporter": {
+        "definition": "an individual who holds a professional position",
+        "sub_definitions": {
+            "1": {
+                "1": "an individual who holds a professional position (as of social worker, physician, teacher, or counselor) that requires him or her to report to the appropriate state agency cases of child abuse that he or she has reasonable cause to suspect"
+            }
+        },
+        "references": {}
+    }
+}

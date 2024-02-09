@@ -1,0 +1,17 @@
+{
+    "Right Of Action": {
+        "definition": "a right to begin and prosecute an action in the courts",
+        "sub_definitions": {
+            "1": {
+                "definition": "a right to begin and prosecute an action in the courts (as for the purpose of enforcing a right or redressing a wrong)"
+            },
+            "2": {
+                "definition": "at"
+            }
+        },
+        "references": {
+            "chose in action": "https://dictionary.findlaw.com/definition/chose-in-action.html",
+            "chose": "https://dictionary.findlaw.com/definition/chose.html"
+        }
+    }
+}

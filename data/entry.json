@@ -1,0 +1,23 @@
+{
+    "Entry": {
+        "definition": "en·tries 1",
+        "origin": "[a warrantless by the officer]",
+        "sub_definitions": {
+            "1": {
+                "definition": "the privilege of entering real property see also",
+                "see also": "right of entry"
+            },
+            "2": {
+                "definition": "the act of entering real property [a warrantless by the officer] see also",
+                "see also": "trespass"
+            },
+            "3": {
+                "definition": "the act of making or entering a record (as a plea or judgment) [an of default]a record entered [a docket ]"
+            }
+        },
+        "references": {
+            "right of entry": "https://dictionary.findlaw.com/definition/right-of-entry.html",
+            "trespass": "https://dictionary.findlaw.com/definition/trespass.html"
+        }
+    }
+}

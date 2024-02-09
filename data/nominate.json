@@ -1,0 +1,19 @@
+{
+    "Nominate": {
+        "definition": "having a special or certain name compare innominate [nÄ -mə-nāt] vt -nat·ed -nat·ing 1",
+        "origin": "[Latin nominatus , past participle of nominare to call by name, from nomin- nomen name]",
+        "compare": "innominate",
+        "sub_definitions": {
+            "1": {
+                "definition": "to appoint or propose for appointment to an office, position, or place [if the testator hasan executor of the will] [the President…shall and by and with the advice and consent of the Senate, shall appoint ambassadors \"art. II\"]",
+                "nominated": "an executor of the will] [the President…shall and by and with the advice and consent of the Senate, shall appoint ambassadors \""
+            },
+            "2": {
+                "definition": "to propose as a candidate for election to office"
+            }
+        },
+        "references": {
+            "innominate": "https://dictionary.findlaw.com/definition/innominate.html"
+        }
+    }
+}

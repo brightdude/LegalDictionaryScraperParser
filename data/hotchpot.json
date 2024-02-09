@@ -1,0 +1,16 @@
+{
+    "Hotchpot": {
+        "definition": "the combining of properties into a common lot to ensure equality of division among those entitled to a share of an estate which requires that advancements",
+        "origin": "[Anglo-French hochepot , from Old French, thick soup or stew, from hochier to shake + pot pot]",
+        "sub_definitions": {
+            "1": {
+                "definition": "the combining of properties into a common lot to ensure equality of division among those entitled to a share of an estate which requires that advancements (as to a child) be made up to the estate by contribution or by an accounting compare",
+                "compares": "collation"
+            }
+        },
+        "references": {
+            "collation": "https://dictionary.findlaw.com/definition/collation.html",
+            "main pot": "https://dictionary.findlaw.com/definition/main-pot.html"
+        }
+    }
+}

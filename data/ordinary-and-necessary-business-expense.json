@@ -1,0 +1,14 @@
+{
+    "Ordinary And Necessary Business Expense": {
+        "definition": "ordinary and necessary expense at expense",
+        "sub_definitions": {
+            "1": {
+                "1": "ordinary and necessary expense"
+            }
+        },
+        "references": {
+            "ordinary and necessary expense": "https://dictionary.findlaw.com/definition/ordinary-and-necessary-expense.html",
+            "expense": "https://dictionary.findlaw.com/definition/expense.html"
+        }
+    }
+}

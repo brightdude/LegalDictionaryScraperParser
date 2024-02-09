@@ -1,0 +1,15 @@
+{
+    "Exhaustion Of Remedies": {
+        "definition": "a doctrine of civil and criminal procedure",
+        "compare": "jurisdiction",
+        "sub_definitions": {
+            "1": {
+                "1": "a doctrine of civil and criminal procedure: a remedy cannot be sought in another forum (as a federal district court) until the remedies or claims have been exhausted in the forum having original jurisdiction (as a state court, tribal court, or administrative agency) compare",
+                "note": " The doctrine of exhaustion of remedies was first developed by judges in case law based on comity. It is used primarily in administrative law cases and federal habeas corpus cases, and it is now incorporated in the federal habeas corpus statute (section 2254 of title 28 of the U.S. Code). It may also be applied when an administrative agency has original jurisdiction over a claim. It is used in proceedings in tribal courts."
+            }
+        },
+        "references": {
+            "jurisdiction": "https://dictionary.findlaw.com/definition/jurisdiction.html"
+        }
+    }
+}

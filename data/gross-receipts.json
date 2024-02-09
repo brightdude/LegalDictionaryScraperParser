@@ -1,0 +1,11 @@
+{
+    "Gross Receipts": {
+        "definition": "the total amount of value in money or other consideration received by a taxpayer in a given period for goods sold or services performed",
+        "sub_definitions": {
+            "1": {
+                "1": "the total amount of value in money or other consideration received by a taxpayer in a given period for goods sold or services performed"
+            }
+        },
+        "references": {}
+    }
+}

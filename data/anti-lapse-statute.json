@@ -1,0 +1,15 @@
+{
+    "Anti-Lapse Statute": {
+        "definition": "a statute providing that in the event a person who would have received a gift under a will dies before the person who made the will dies then the gift is distributed to the heirs of the person who would have received the gift compare lapse",
+        "compare": "lapse",
+        "sub_definitions": {
+            "1": {
+                "1": "a statute providing that in the event a person who would have received a gift under a will dies before the person who made the will dies then the gift is distributed to the heirs of the person who would have received the gift compare",
+                "compares": "lapse"
+            }
+        },
+        "references": {
+            "lapse": "https://dictionary.findlaw.com/definition/lapse.html"
+        }
+    }
+}

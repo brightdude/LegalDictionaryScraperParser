@@ -1,0 +1,15 @@
+{
+    "Operating": {
+        "definition": "engaged in active business 2",
+        "origin": "[ expenses]",
+        "sub_definitions": {
+            "1": {
+                "definition": "engaged in active business"
+            },
+            "2": {
+                "definition": "arising out of or relating to the current daily operations of a concern (as in transportation or manufacturing) as distinct from its financial transactions and permanent improvements [ expenses] [ personnel]"
+            }
+        },
+        "references": {}
+    }
+}

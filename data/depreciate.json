@@ -1,0 +1,14 @@
+{
+    "Depreciate": {
+        "definition": "to subject to depreciation",
+        "sub_definitions": {
+            "-at·ing": {
+                "definition": "to subject to depreciationlower the value ofto fall in value compare",
+                "compares": "appreciate"
+            }
+        },
+        "references": {
+            "appreciate": "https://dictionary.findlaw.com/definition/appreciate.html"
+        }
+    }
+}

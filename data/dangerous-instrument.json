@@ -1,0 +1,12 @@
+{
+    "Dangerous Instrument": {
+        "definition": "an object capable of causing bodily injury either because of an inherent quality or because of the manner in which it is used called also dangerous instrumentality NOTE",
+        "sub_definitions": {
+            "1": {
+                "1": "an object capable of causing bodily injury either because of an inherent quality or because of the manner in which it is used called also",
+                "note": " An object is more likely to be deemed a dangerous instrument on the basis of how it is used in criminal cases than in tort cases. For example, a sidewalk has been held to be a dangerous instrument in a criminal case in which the defendant struck the victim's head against it. In tort cases, esp. where strict liability is to be imposed, the object usually has to have some inherently dangerous quality."
+            }
+        },
+        "references": {}
+    }
+}

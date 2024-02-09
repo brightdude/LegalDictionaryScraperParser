@@ -1,0 +1,8 @@
+{
+    "Policy Reserve": {
+        "definition": "Policy Reserve",
+        "references": {
+            "reserve": "https://dictionary.findlaw.com/definition/reserve.html"
+        }
+    }
+}

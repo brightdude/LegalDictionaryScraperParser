@@ -1,0 +1,20 @@
+{
+    "Letter Of Credit": {
+        "definition": "a document issued to a beneficiary at the request of the issuer's customer in which the issuer",
+        "compare": "guaranty",
+        "sub_definitions": {
+            "commercial letter of credit": {
+                "definition": "a letter of credit which is used to satisfy payment for merchandise and which usually requires the beneficiary to present a draft and some documentary proof (as of shipment or receipt of the merchandise) when making a demand for payment"
+            },
+            "irrevocable letter of credit": {
+                "definition": "a letter of credit which the issuer cannot revoke or modify without the consent of the issuer's customer or the beneficiary"
+            },
+            "stand·by letter of credit": {
+                "definition": "a letter of credit which is used to secure payment in case of default by the issuer's customer and which requires the beneficiary to present some documentary proof of such default when making a demand for payment"
+            }
+        },
+        "references": {
+            "guaranty": "https://dictionary.findlaw.com/definition/guaranty.html"
+        }
+    }
+}

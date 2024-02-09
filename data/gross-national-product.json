@@ -1,0 +1,11 @@
+{
+    "Gross National Product": {
+        "definition": "the total value of the goods and services produced by the residents of a nation during a specified period",
+        "sub_definitions": {
+            "1": {
+                "1": "the total value of the goods and services produced by the residents of a nation during a specified period (as a year)"
+            }
+        },
+        "references": {}
+    }
+}

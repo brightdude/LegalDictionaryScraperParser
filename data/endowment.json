@@ -1,0 +1,25 @@
+{
+    "Endowment": {
+        "definition": "the act or process of endowing 2",
+        "origin": "[the university's ability to attract ]",
+        "sub_definitions": {
+            "1": {
+                "definition": "the act or process of endowing"
+            },
+            "2": {
+                "definition": "a result or product of endowing",
+                "sub_terms": {
+                    "a": "the income of an institution derived from donations [the university's ability to attract ]",
+                    "b": "the property (as a fund) donated to an institution or organization that is invested and producing income [an to maintain the gallery]"
+                }
+            },
+            "3": {
+                "definition": "an endowed organization or institution[chairwoman of the state's arts ]"
+            }
+        },
+        "references": {
+            "foundation": "https://dictionary.findlaw.com/definition/foundation.html",
+            "endowment insurance": "https://dictionary.findlaw.com/definition/endowment-insurance.html"
+        }
+    }
+}

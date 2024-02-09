@@ -1,0 +1,50 @@
+{
+    "Debt": {
+        "definition": "something owed",
+        "origin": "[Old French dette , ultimately from Latin debita , plural of debitum debt, from neuter of debitus , past participle of debere to owe]",
+        "sub_definitions": {
+            "1": {
+                "definition": "something owed",
+                "sub_terms": {
+                    "a": "a specific sum of money or a performance due another esp. by agreement (as a loan agreement) [to pay the…of the United States \"art. I\"] [a for alimony]",
+                    "b": "an obligation to pay or perform on another's claim [discharged the ] compare,"
+                },
+                "note": " It is often up to the courts to decide what is or is not a debt under various laws. Courts disagree whether criminal restitution is a debt under the Bankruptcy Code. The historical practice of imprisoning debtors for nonpayment is no longer used.",
+                "compares": "asset",
+                "s": "…of the United States \"",
+                "U.S. Constitution": "art. I\"] [a for alimony]"
+            },
+            "antecedent debt": {
+                "definition": "debt that is incurred prior to a property transfer paying or securing the debt compare",
+                "compares": "preference"
+            },
+            "bad debt": {
+                "definition": "a debt that cannot be collected",
+                "note": " An income tax deduction is allowed for bad debts."
+            },
+            "consumer debt": {
+                "definition": "debt that is incurred by an individual primarily for the purchase of consumer goods or services compare",
+                "compares": "consumer credit"
+            },
+            "judgment debt": {
+                "definition": "a debt established by a judgment and enforceable by a legal process (as an execution of judgment or attachment)",
+                "sub_terms": {
+                    "c": "a state of owing [in ]",
+                    "d": "the aggregate of money owed [the national ]"
+                }
+            },
+            "2": {
+                "definition": "the common-law action for the recovery of a specified sum of money or a sum that can be simply and certainly determined called alsocompare,",
+                "compares": "assumpsit"
+            }
+        },
+        "references": {
+            "asset": "https://dictionary.findlaw.com/definition/asset.html",
+            "equity": "https://dictionary.findlaw.com/definition/equity.html",
+            "preference": "https://dictionary.findlaw.com/definition/preference.html",
+            "consumer credit": "https://dictionary.findlaw.com/definition/consumer-credit.html",
+            "assumpsit": "https://dictionary.findlaw.com/definition/assumpsit.html",
+            "covenant": "https://dictionary.findlaw.com/definition/covenant.html"
+        }
+    }
+}

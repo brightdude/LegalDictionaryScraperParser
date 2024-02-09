@@ -1,0 +1,13 @@
+{
+    "Pend": {
+        "definition": "to be pending [the action s as to the third party]",
+        "origin": "[the action s as to the third party]",
+        "sub_definitions": {
+            "1": {
+                "1": "to be pending [the action",
+                "s": "as to the third party]"
+            }
+        },
+        "references": {}
+    }
+}

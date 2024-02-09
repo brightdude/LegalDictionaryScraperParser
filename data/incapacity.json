@@ -1,0 +1,19 @@
+{
+    "Incapacity": {
+        "definition": "-ties 1",
+        "sub_definitions": {
+            "1": {
+                "definition": "the quality or state of being incapablelack of legal qualifications due to age or mental condition compare",
+                "compares": "capacity"
+            },
+            "2": {
+                "definition": "the inability of an injured worker to perform the duties required in a job for which he or she is qualified compare",
+                "compares": "disability"
+            }
+        },
+        "references": {
+            "capacity": "https://dictionary.findlaw.com/definition/capacity.html",
+            "disability": "https://dictionary.findlaw.com/definition/disability.html"
+        }
+    }
+}

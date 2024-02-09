@@ -1,0 +1,11 @@
+{
+    "Regulator": {
+        "definition": "one",
+        "sub_definitions": {
+            "1": {
+                "1": "one (as a government agency) that regulates"
+            }
+        },
+        "references": {}
+    }
+}

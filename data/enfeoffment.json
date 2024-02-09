@@ -1,0 +1,14 @@
+{
+    "Enfeoffment": {
+        "definition": "the act of enfeoffing 2",
+        "sub_definitions": {
+            "1": {
+                "definition": "the act of enfeoffing"
+            },
+            "2": {
+                "definition": "the instrument by which one is enfeoffed"
+            }
+        },
+        "references": {}
+    }
+}

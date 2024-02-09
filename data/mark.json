@@ -1,0 +1,19 @@
+{
+    "Mark": {
+        "definition": "a character usually in the form of a cross or X that is made as a substitute for a signature by a person who cannot or is unwilling to write 2",
+        "origin": "[a landowner ing his boundary]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to fix or trace out the bounds or limits of [a landownerhis boundary]",
+                "ing": "his boundary]"
+            },
+            "2": {
+                "definition": "to affix a significant identifying mark (as a trademark) to"
+            }
+        },
+        "references": {
+            "trademark": "https://dictionary.findlaw.com/definition/trademark.html",
+            "service mark": "https://dictionary.findlaw.com/definition/service-mark.html"
+        }
+    }
+}

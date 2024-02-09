@@ -1,0 +1,11 @@
+{
+    "Fringe Benefit": {
+        "definition": "an employment benefit",
+        "sub_definitions": {
+            "1": {
+                "1": "an employment benefit (as a pension, a paid holiday, or health insurance) granted by an employer that has a monetary value but that does not affect basic wage rates"
+            }
+        },
+        "references": {}
+    }
+}

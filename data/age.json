@@ -1,0 +1,16 @@
+{
+    "Age": {
+        "definition": "the time of life at which some particular qualification",
+        "origin": "[the voting is 18]",
+        "sub_definitions": {
+            "1": {
+                "1": "the time of life at which some particular qualification, power, or capacity arises [the voting is 18] see also",
+                "see also": "legal age"
+            }
+        },
+        "references": {
+            "legal age": "https://dictionary.findlaw.com/definition/legal-age.html",
+            "majority": "https://dictionary.findlaw.com/definition/majority.html"
+        }
+    }
+}

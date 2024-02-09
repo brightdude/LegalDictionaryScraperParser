@@ -1,0 +1,11 @@
+{
+    "Pair-Or-Set Clause": {
+        "definition": "a provision in an insurance policy giving the insurer the option in the case of loss of fewer than all items in a set to restore the set to its value before the loss or pay the difference between the value before and after the loss",
+        "sub_definitions": {
+            "1": {
+                "1": "a provision in an insurance policy giving the insurer the option in the case of loss of fewer than all items in a set to restore the set to its value before the loss or pay the difference between the value before and after the loss"
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "Canon": {
+        "definition": "a regulation or doctrine decreed by a church council b",
+        "origin": "[Greek kanōn rod, measuring line, rule]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "a regulation or doctrine decreed by a church council",
+                "sub_terms": {
+                    "b": "a provision of canon law"
+                }
+            },
+            "2 a": {
+                "definition": "an accepted principle or rule [of descent]",
+                "sub_terms": {
+                    "b": "a body of principles, rules, standards, or norms"
+                },
+                "s": "of descent]"
+            }
+        },
+        "references": {}
+    }
+}

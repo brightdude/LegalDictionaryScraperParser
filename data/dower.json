@@ -1,0 +1,17 @@
+{
+    "Dower": {
+        "definition": "the life estate in a man's real property to which his wife is entitled upon his death under common law and some state statutes compare curtesy",
+        "origin": "[Anglo-French, from Old French douaire , modification of Medieval Latin dotarium , from Latin dot - dos gift, dowry]",
+        "compare": "curtesy",
+        "sub_definitions": {
+            "1": {
+                "1": "the life estate in a man's real property to which his wife is entitled upon his death under common law and some state statutes compare",
+                "compares": "curtesy"
+            }
+        },
+        "references": {
+            "curtesy": "https://dictionary.findlaw.com/definition/curtesy.html",
+            "elective share": "https://dictionary.findlaw.com/definition/elective-share.html"
+        }
+    }
+}

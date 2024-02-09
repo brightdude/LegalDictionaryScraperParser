@@ -1,0 +1,39 @@
+{
+    "Deduction": {
+        "definition": "an amount allowed by tax laws to be subtracted from income in order to decrease the amount of income tax due see also Internal Revenue Code in the Important Laws section compare credit",
+        "sub_definitions": {
+            "1": {
+                "definition": "a deduction allowed under the Internal Revenue Code to be taken from the gross estate that amounts to the value of any property interest which is included in the estate and which was given by a decedent to the surviving spouse provided that the interest is not terminable during the life of the survivor"
+            },
+            "busi·ness deduction": {
+                "definition": "a deduction usually taken from gross income that is allowed for losses or expenses attributable to business activities or to activities engaged in for profit"
+            },
+            "charitable deduction": {
+                "definition": "a deduction allowed for a contribution to a charity usually that is qualified under the tax law (as sections 170 and 2055 of the Internal Revenue Code)"
+            },
+            "de·pen·den·cy deduction": {
+                "definition": "a deduction allowed to be taken in a set amount for a qualified dependent (as under sections 151 and 152 of the Internal Revenue Code)"
+            },
+            "itemized deduction": {
+                "definition": "a deduction for a specifically recorded item that is allowed to be taken from adjusted gross income if the total of such deductions exceeds the standard deduction"
+            },
+            "2": {
+                "definition": "an item of property or an amount that an heir has a right to take from the mass of the succession before any of it is partitioned (as for a debt owed by the deceased to the heir)"
+            },
+            "per·son·al deduction": {
+                "definition": "a deduction allowed to be taken for losses or expenses that are not necessarily attributable to a business activity or an activity engaged in for profit"
+            },
+            "personal exemption deduction": {
+                "definition": "a deduction for an amount set by tax law that under section 151 of the Internal Revenue Code includes the dependency deduction"
+            },
+            "stan·dard deduction": {
+                "definition": "a deduction of an amount set by tax law that is allowed to be taken from adjusted gross income unless the taxpayer elects to itemize deductions"
+            }
+        },
+        "references": {
+            "credit": "https://dictionary.findlaw.com/definition/credit.html",
+            "exclusion": "https://dictionary.findlaw.com/definition/exclusion.html",
+            "exemption": "https://dictionary.findlaw.com/definition/exemption.html"
+        }
+    }
+}

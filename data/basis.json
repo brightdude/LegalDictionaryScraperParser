@@ -1,0 +1,47 @@
+{
+    "Basis": {
+        "definition": "ba·ses [-sēz] 1",
+        "origin": "[-sēz]",
+        "sub_definitions": {
+            "ba·ses": {
+                "definition": "[-sēz]"
+            },
+            "1": {
+                "definition": "something (as a principle or reason) on which something else is established [the court could not imagine any conceivable for the statute] see also",
+                "see also": "rational basis"
+            },
+            "2": {
+                "definition": "a basic principle or methodthe principle or method by which taxable income is calculated",
+                "note": " The Internal Revenue Code has set some limits on which method a taxpayer may use for figuring taxable income. For example, a corporation with gross receipts under $5,000,000 may be a cash-basis taxpayer."
+            },
+            "ac·cru·al basis": {
+                "definition": "a method of accounting in which income and expenses are recorded in the period when they are earned or incurred regardless of when the payment is received or made called also"
+            },
+            "cash basis": {
+                "definition": "a method of accounting in which income and expenses are recorded in the period when payment is received or made called also"
+            },
+            "3": {
+                "definition": "the value (as cost or fair market value) of an asset used in calculating capital gains or losses for income tax purposes"
+            },
+            "adjusted basis": {
+                "definition": "the basis of an asset increased or decreased to reflect changes in value (as through improvement or depreciation)"
+            },
+            "car·ry·over basis": {
+                "definition": "[kar-ē-ō-vər-]the basis of a donated or transferred asset that is equal to the basis of the asset when it was in the hands of the donor or transferor",
+                "note": " Carryover basis is generally applied to gifts, transfers in trust, and property acquired from a decedent."
+            },
+            "cost basis": {
+                "definition": "the basis of an asset equal to the amount paid for the asset plus other acquisition costs (as a brokerage fee)"
+            },
+            "stepped-up basis": {
+                "definition": "[stept-əp-]a basis (as a carryover or cost basis) that is increased (as to fair market value) by other than an improvement or depreciation adjustment"
+            },
+            "sub·sti·tut·ed basis": {
+                "definition": "the basis of property received in exchange for property of a like kind that is equal to the basis of the property given with adjustments for additional consideration received or gains and losses realized"
+            }
+        },
+        "references": {
+            "rational basis": "https://dictionary.findlaw.com/definition/rational-basis.html"
+        }
+    }
+}

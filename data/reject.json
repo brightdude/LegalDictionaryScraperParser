@@ -1,0 +1,15 @@
+{
+    "Reject": {
+        "definition": "to refuse to accept",
+        "compare": "revoke",
+        "sub_definitions": {
+            "1": {
+                "1": "to refuse to accept, acknowledge, or grant compare",
+                "compares": "revoke"
+            }
+        },
+        "references": {
+            "revoke": "https://dictionary.findlaw.com/definition/revoke.html"
+        }
+    }
+}

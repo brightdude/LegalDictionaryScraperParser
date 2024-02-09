@@ -1,0 +1,18 @@
+{
+    "Estate Tax": {
+        "definition": "an excise in the form of a percentage of the taxable estate that is imposed on a property owner's right to transfer the property to others after his or her death called also succession tax see also unified transfer tax compare gift tax",
+        "compare": "unified transfer tax",
+        "sub_definitions": {
+            "1": {
+                "1": "an excise in the form of a percentage of the taxable estate that is imposed on a property owner's right to transfer the property to others after his or her death called also",
+                "see also": "unified transfer tax",
+                "compares": "gift tax"
+            }
+        },
+        "references": {
+            "unified transfer tax": "https://dictionary.findlaw.com/definition/unified-transfer-tax.html",
+            "gift tax": "https://dictionary.findlaw.com/definition/gift-tax.html",
+            "inheritance tax": "https://dictionary.findlaw.com/definition/inheritance-tax.html"
+        }
+    }
+}

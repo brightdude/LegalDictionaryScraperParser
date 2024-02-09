@@ -1,0 +1,21 @@
+{
+    "Association": {
+        "definition": "a group of persons who share common interests or a common purpose and who are organized with varying degrees of formality compare corporation 2",
+        "origin": "[freedom of ]",
+        "sub_definitions": {
+            "1": {
+                "definition": "a group of persons who share common interests or a common purpose and who are organized with varying degrees of formality compare",
+                "compares": "corporation"
+            },
+            "2": {
+                "definition": "the act of having contact or communication with or keeping company with another [freedom of ]"
+            },
+            "3": {
+                "definition": "the sharing (as by an aider and abettor) in the criminal intent of a person who commits a crime"
+            }
+        },
+        "references": {
+            "corporation": "https://dictionary.findlaw.com/definition/corporation.html"
+        }
+    }
+}

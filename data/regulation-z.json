@@ -1,0 +1,11 @@
+{
+    "Regulation Z": {
+        "definition": "a regulation of the Board of Governors of the Federal Reserve System that implements the federal Truth in Lending Act as to member banks",
+        "sub_definitions": {
+            "1": {
+                "1": "a regulation of the Board of Governors of the Federal Reserve System that implements the federal Truth in Lending Act as to member banks"
+            }
+        },
+        "references": {}
+    }
+}

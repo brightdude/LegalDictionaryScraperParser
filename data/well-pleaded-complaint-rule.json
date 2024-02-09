@@ -1,0 +1,12 @@
+{
+    "Well-Pleaded Complaint Rule": {
+        "definition": "a rule of procedure that federal question jurisdiction cannot be acquired over a case unless an issue of federal law appears on the face of a properly pleaded complaint NOTE",
+        "sub_definitions": {
+            "1": {
+                "1": "a rule of procedure that federal question jurisdiction cannot be acquired over a case unless an issue of federal law appears on the face of a properly pleaded complaint",
+                "note": " The well-pleaded complaint rule is not satisfied by a defense based on federal law, including a defense of federal preemption, or by anticipation of such a defense in the complaint."
+            }
+        },
+        "references": {}
+    }
+}

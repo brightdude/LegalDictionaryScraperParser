@@ -1,0 +1,13 @@
+{
+    "Counselor": {
+        "definition": "counsel",
+        "sub_definitions": {
+            "1": {
+                "1": "counsel"
+            }
+        },
+        "references": {
+            "counsel": "https://dictionary.findlaw.com/definition/counsel.html"
+        }
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "Abnormally Dangerous Activity": {
+        "definition": "an activity esp. that is not common in or appropriate to an area",
+        "compare": "ultrahazardous activity",
+        "sub_definitions": {
+            "1": {
+                "1": "an activity esp. that is not common in or appropriate to an area, that creates a high degree of risk of harm to someone or something despite the exercise of due care, and whose value to the community in the area is outweighed by the risk of harm compare",
+                "compares": "ultrahazardous activity",
+                "note": " Abnormally dangerous activities are subject to strict liability.Abnormally dangerous activityandultrahazardous activityare sometimes used interchangeably."
+            }
+        },
+        "references": {
+            "ultrahazardous activity": "https://dictionary.findlaw.com/definition/ultrahazardous-activity.html"
+        }
+    }
+}

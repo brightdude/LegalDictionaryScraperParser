@@ -1,0 +1,16 @@
+{
+    "Article Iii Court": {
+        "definition": "a court created in accordance with Article III of the U.S. Constitution whose judges have positions for life and cannot have their salaries reduced compare legislative court NOTE",
+        "compare": "legislative court",
+        "sub_definitions": {
+            "1": {
+                "1": "a court created in accordance with Article III of the U.S. Constitution whose judges have positions for life and cannot have their salaries reduced compare",
+                "compares": "legislative court",
+                "note": " The purpose of the salary and position guarantees enjoyed by the judges of Article III courts is to ensure that their decisions are not influenced by fear of losing their positions or salaries."
+            }
+        },
+        "references": {
+            "legislative court": "https://dictionary.findlaw.com/definition/legislative-court.html"
+        }
+    }
+}

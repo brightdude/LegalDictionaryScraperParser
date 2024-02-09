@@ -1,0 +1,11 @@
+{
+    "Two Issue Rule": {
+        "definition": "a rule of procedure",
+        "sub_definitions": {
+            "1": {
+                "1": "a rule of procedure: a general verdict that is returned in a case having more than one theory of liability and that is supported by at least one issue will stand regardless of error as to other issues"
+            }
+        },
+        "references": {}
+    }
+}

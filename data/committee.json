@@ -1,0 +1,29 @@
+{
+    "Committee": {
+        "definition": "a person to whom a charge",
+        "origin": "[the Senate judiciary ]",
+        "sub_definitions": {
+            "1": {
+                "definition": "a person to whom a charge (as an incompetent) is committed compare,,,",
+                "compares": "conservator"
+            },
+            "2 a": {
+                "definition": "a body of persons delegated or assigned to consider, investigate, act on, or report on some mattera group of fellow legislators chosen by a legislative body to consider legislative matters (as drafting bills or conducting hearings) [the Senate judiciary ] see also,",
+                "sub_terms": {
+                    "b": "a private organization for the promotion of a common object [political action] compare"
+                },
+                "compares": "council",
+                "see also": "conference committee"
+            }
+        },
+        "references": {
+            "conservator": "https://dictionary.findlaw.com/definition/conservator.html",
+            "curator": "https://dictionary.findlaw.com/definition/curator.html",
+            "guardian": "https://dictionary.findlaw.com/definition/guardian.html",
+            "tutor": "https://dictionary.findlaw.com/definition/tutor.html",
+            "conference committee": "https://dictionary.findlaw.com/definition/conference-committee.html",
+            "joint committee": "https://dictionary.findlaw.com/definition/joint-committee.html",
+            "council": "https://dictionary.findlaw.com/definition/council.html"
+        }
+    }
+}

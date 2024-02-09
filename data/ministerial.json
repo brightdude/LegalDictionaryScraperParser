@@ -1,0 +1,19 @@
+{
+    "Ministerial": {
+        "definition": "being or having the characteristics of an act or duty prescribed by law as part of the duties of an administrative office 2",
+        "sub_definitions": {
+            "1": {
+                "definition": "being or having the characteristics of an act or duty prescribed by law as part of the duties of an administrative office"
+            },
+            "2": {
+                "definition": "relating to or being an act done after ascertaining the existence of a specified state of facts in obedience to legal and esp. statutory mandate without exercise of personal judgment or discretion see alsocompare",
+                "compares": "discretionary",
+                "see also": "mandamus"
+            }
+        },
+        "references": {
+            "mandamus": "https://dictionary.findlaw.com/definition/mandamus.html",
+            "discretionary": "https://dictionary.findlaw.com/definition/discretionary.html"
+        }
+    }
+}

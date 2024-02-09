@@ -1,0 +1,19 @@
+{
+    "Bequeath": {
+        "definition": "to give by will used esp. of personal property but sometimes of real property ; see also legacy",
+        "origin": "[Old English becwethan to speak to, address, leave by will, from be- to, about + cwethan to say]",
+        "compare": "legacy",
+        "sub_definitions": {
+            "1": {
+                "1": "to give by will used esp. of personal property but sometimes of real property ; see also",
+                "see also": "legacy",
+                "compares": "devise"
+            }
+        },
+        "references": {
+            "legacy": "https://dictionary.findlaw.com/definition/legacy.html",
+            "legatee": "https://dictionary.findlaw.com/definition/legatee.html",
+            "devise": "https://dictionary.findlaw.com/definition/devise.html"
+        }
+    }
+}

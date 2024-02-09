@@ -1,0 +1,18 @@
+{
+    "Liquidator": {
+        "definition": "one that liquidates ;esp",
+        "compare": "receiver",
+        "sub_definitions": {
+            "1": {
+                "1": "one that liquidates"
+            },
+            "2": {
+                "1": "an individual appointed by law to liquidate assets compare",
+                "compares": "receiver"
+            }
+        },
+        "references": {
+            "receiver": "https://dictionary.findlaw.com/definition/receiver.html"
+        }
+    }
+}

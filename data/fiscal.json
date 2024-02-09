@@ -1,0 +1,15 @@
+{
+    "Fiscal": {
+        "definition": "of or relating to taxation",
+        "origin": "[Latin fiscalis , from fiscus basket, treasury]",
+        "sub_definitions": {
+            "1": {
+                "definition": "of or relating to taxation, public revenues, or public debt [ policy]"
+            },
+            "2": {
+                "definition": "of or relating to financial matters"
+            }
+        },
+        "references": {}
+    }
+}

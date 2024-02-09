@@ -1,0 +1,15 @@
+{
+    "Deficiency": {
+        "definition": "-cies",
+        "sub_definitions": {
+            "-cies": {
+                "definition": "an amount that is lacking or inadequate",
+                "sub_terms": {
+                    "a": "the difference between the amount of tax owed and the amount of tax paid",
+                    "b": "the difference between the amount owed under a security agreement and the amount the creditor is able to recover upon default of the debtor by selling the collateral"
+                }
+            }
+        },
+        "references": {}
+    }
+}

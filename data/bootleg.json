@@ -1,0 +1,19 @@
+{
+    "Bootleg": {
+        "definition": "something bootlegged bootleg adj vb boot·legged boot·leg·ging vt 1",
+        "compare": "smuggle",
+        "sub_definitions": {
+            "1": {
+                "definition": "to produce, reproduce, or distribute without authorization or license"
+            },
+            "2": {
+                "definition": "compareto engage in bootlegging",
+                "compares": "pirate"
+            }
+        },
+        "references": {
+            "smuggle": "https://dictionary.findlaw.com/definition/smuggle.html",
+            "pirate": "https://dictionary.findlaw.com/definition/pirate.html"
+        }
+    }
+}

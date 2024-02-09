@@ -1,0 +1,23 @@
+{
+    "False Light": {
+        "definition": "an untrue or misleading portrayal [unreasonably placed their family in a false light before the public \" Cantrell v. Forest City Publishing Co.",
+        "origin": "[unreasonably placed their family in a false light before the public \" Cantrell v. Forest City Publishing Co. , 419 U.S. 245 (1974)\"]",
+        "compare": "defamation",
+        "sub_definitions": {
+            "1": {
+                "1": "an untrue or misleading portrayal [unreasonably placed their family in a",
+                "Cantrell v. Forest City Publishing Co.": "419 U.S. 245 (1974)"
+            },
+            "2": {
+                "1": "an invasion of privacy tort that is based on injury to the victim's reputation by such a portrayal (as in a publication) compare",
+                "compares": "defamation",
+                "note": " The false light cause of action is not recognized in all jurisdictions. Where it is recognized, the misrepresentation creating the false light does not need to be defamatory, but it must be offensive or objectionable to a reasonable person and made with knowledge of its inaccuracy."
+            }
+        },
+        "references": {
+            "defamation": "https://dictionary.findlaw.com/definition/defamation.html",
+            "libel": "https://dictionary.findlaw.com/definition/libel.html",
+            "slander": "https://dictionary.findlaw.com/definition/slander.html"
+        }
+    }
+}

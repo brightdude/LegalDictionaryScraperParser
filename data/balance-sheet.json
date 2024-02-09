@@ -1,0 +1,11 @@
+{
+    "Balance Sheet": {
+        "definition": "a statement of financial condition at a given date",
+        "sub_definitions": {
+            "1": {
+                "1": "a statement of financial condition at a given date"
+            }
+        },
+        "references": {}
+    }
+}

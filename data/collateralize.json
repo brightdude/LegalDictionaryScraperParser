@@ -1,0 +1,14 @@
+{
+    "Collateralize": {
+        "definition": "to make",
+        "sub_definitions": {
+            "1": {
+                "definition": "to make (a loan) secure with collateral"
+            },
+            "2": {
+                "definition": "to use (as securities) for collateral"
+            }
+        },
+        "references": {}
+    }
+}

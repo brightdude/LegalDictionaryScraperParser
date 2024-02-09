@@ -1,0 +1,13 @@
+{
+    "Bareboat Charter": {
+        "definition": "demise",
+        "sub_definitions": {
+            "1": {
+                "1": "demise"
+            }
+        },
+        "references": {
+            "demise": "https://dictionary.findlaw.com/definition/demise.html"
+        }
+    }
+}

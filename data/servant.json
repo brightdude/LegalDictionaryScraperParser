@@ -1,0 +1,11 @@
+{
+    "Servant": {
+        "definition": "a person who serves others",
+        "compare": "respondeat superior",
+        "references": {
+            "respondeat superior": "https://dictionary.findlaw.com/definition/respondeat-superior.html",
+            "agent": "https://dictionary.findlaw.com/definition/agent.html",
+            "master": "https://dictionary.findlaw.com/definition/master.html"
+        }
+    }
+}

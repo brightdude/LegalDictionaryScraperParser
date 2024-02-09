@@ -1,0 +1,18 @@
+{
+    "Union Shop": {
+        "definition": "a unionized business in which the employer by agreement is free to hire nonmembers as well as members of the union but union membership within a specified time",
+        "compare": "agency shop",
+        "sub_definitions": {
+            "1": {
+                "1": "a unionized business in which the employer by agreement is free to hire nonmembers as well as members of the union but union membership within a specified time (as 30 days) is a condition of continued employment compare",
+                "compares": "agency shop",
+                "note": " State law determines whether a collective bargaining agreement can have a clause creating a union shop. Many states having right-to-work laws bar union shop agreements."
+            }
+        },
+        "references": {
+            "agency shop": "https://dictionary.findlaw.com/definition/agency-shop.html",
+            "closed shop": "https://dictionary.findlaw.com/definition/closed-shop.html",
+            "open shop": "https://dictionary.findlaw.com/definition/open-shop.html"
+        }
+    }
+}

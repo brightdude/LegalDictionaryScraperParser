@@ -1,0 +1,17 @@
+{
+    "Animus": {
+        "definition": "intent [discriminatory ] compare mens rea",
+        "origin": "[Latin, mind, soul]",
+        "compare": "intent",
+        "sub_definitions": {
+            "1": {
+                "1": "intent",
+                "compares": "mens rea"
+            }
+        },
+        "references": {
+            "intent": "https://dictionary.findlaw.com/definition/intent.html",
+            "mens rea": "https://dictionary.findlaw.com/definition/mens-rea.html"
+        }
+    }
+}

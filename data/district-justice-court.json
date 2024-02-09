@@ -1,0 +1,11 @@
+{
+    "District Justice Court": {
+        "definition": "a court in Pennsylvania having limited jurisdiction over minor civil and criminal cases",
+        "sub_definitions": {
+            "1": {
+                "1": "a court in Pennsylvania having limited jurisdiction over minor civil and criminal cases"
+            }
+        },
+        "references": {}
+    }
+}

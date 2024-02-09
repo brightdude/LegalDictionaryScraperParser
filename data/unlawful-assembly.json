@@ -1,0 +1,14 @@
+{
+    "Unlawful Assembly": {
+        "definition": "the offense of assembling with a certain minimum number of others for the purpose of engaging in a riot or other unlawful conduct that threatens public safety",
+        "sub_definitions": {
+            "1": {
+                "1": "the offense of assembling with a certain minimum number of others for the purpose of engaging in a riot or other unlawful conduct that threatens public safety, peace, or order"
+            },
+            "2": {
+                "1": "a group so assembled"
+            }
+        },
+        "references": {}
+    }
+}

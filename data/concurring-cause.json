@@ -1,0 +1,14 @@
+{
+    "Concurring Cause": {
+        "definition": "concurrent cause at cause",
+        "sub_definitions": {
+            "1": {
+                "1": "concurrent cause"
+            }
+        },
+        "references": {
+            "concurrent cause": "https://dictionary.findlaw.com/definition/concurrent-cause.html",
+            "cause": "https://dictionary.findlaw.com/definition/cause.html"
+        }
+    }
+}

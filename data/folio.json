@@ -1,0 +1,12 @@
+{
+    "Folio": {
+        "definition": "a certain number of words taken as a unit or division in a document for purposes of measurement or reference NOTE",
+        "sub_definitions": {
+            "1": {
+                "1": "a certain number of words taken as a unit or division in a document for purposes of measurement or reference",
+                "note": " A folio by statutory provision generally consists of 100 words."
+            }
+        },
+        "references": {}
+    }
+}

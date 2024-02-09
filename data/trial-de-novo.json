@@ -1,0 +1,15 @@
+{
+    "Trial De Novo": {
+        "definition": "a trial in a higher court in which all the issues of fact or law tried in a lower court or tribunal are reconsidered as if no previous trial had taken place compare mistrial",
+        "compare": "mistrial",
+        "sub_definitions": {
+            "1": {
+                "1": "a trial in a higher court in which all the issues of fact or law tried in a lower court or tribunal are reconsidered as if no previous trial had taken place compare",
+                "compares": "mistrial"
+            }
+        },
+        "references": {
+            "mistrial": "https://dictionary.findlaw.com/definition/mistrial.html"
+        }
+    }
+}

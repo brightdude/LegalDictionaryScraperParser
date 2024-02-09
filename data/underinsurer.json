@@ -1,0 +1,11 @@
+{
+    "Underinsurer": {
+        "definition": "an insurer providing underinsurance coverage",
+        "sub_definitions": {
+            "1": {
+                "1": "an insurer providing underinsurance coverage"
+            }
+        },
+        "references": {}
+    }
+}

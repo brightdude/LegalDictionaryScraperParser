@@ -1,0 +1,13 @@
+{
+    "Sight": {
+        "definition": "payable on presentation see also sight draft at draft",
+        "sub_definitions": {
+            "1": {
+                "1": "payable on presentation see also"
+            }
+        },
+        "references": {
+            "draft": "https://dictionary.findlaw.com/definition/draft.html"
+        }
+    }
+}

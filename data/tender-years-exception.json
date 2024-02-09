@@ -1,0 +1,11 @@
+{
+    "Tender Years Exception": {
+        "definition": "an exception to the hearsay rule in some jurisdictions that allows the use of an out-of-court statement by a young child in an abuse or neglect case if the time",
+        "sub_definitions": {
+            "1": {
+                "1": "an exception to the hearsay rule in some jurisdictions that allows the use of an out-of-court statement by a young child in an abuse or neglect case if the time, content, and circumstances of the statement provide sufficient indications of reliability and the child will testify or else is unavailable as a witness but there is corroborating evidence of the act in question"
+            }
+        },
+        "references": {}
+    }
+}

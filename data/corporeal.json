@@ -1,0 +1,10 @@
+{
+    "Corporeal": {
+        "definition": "having",
+        "compare": "incorporeal",
+        "sub_definitions": {},
+        "references": {
+            "incorporeal": "https://dictionary.findlaw.com/definition/incorporeal.html"
+        }
+    }
+}

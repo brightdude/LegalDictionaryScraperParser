@@ -1,0 +1,21 @@
+{
+    "Counter-": {
+        "definition": "contrary",
+        "origin": "[ counter letter]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "contraryopposite [letter]",
+                "sub_terms": {
+                    "b": "opposingretaliatory [action]"
+                }
+            },
+            "2": {
+                "definition": "complementarycorresponding [sign]"
+            },
+            "3": {
+                "definition": "duplicatesubstitute [part]"
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "Exhibit": {
+        "definition": "to submit",
+        "sub_definitions": {
+            "1": {
+                "definition": "to submit (as a document) to a court or officer in the course of proceedingsto present or offer officially or in legal form"
+            },
+            "2": {
+                "definition": "something exhibited"
+            },
+            "ex·hib·i·torn": {
+                "definition": "n"
+            },
+            "1 a": {
+                "definition": "a document or object produced and identified in court as evidence",
+                "sub_terms": {
+                    "b": "a document labeled with an identifying mark (as a number or letter) and appended to a writing (as a brief) to which it is relevant"
+                }
+            },
+            "3": {
+                "definition": "an act or instance of exhibiting"
+            }
+        },
+        "references": {}
+    }
+}

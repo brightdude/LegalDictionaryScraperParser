@@ -1,0 +1,18 @@
+{
+    "Inevitable Discovery": {
+        "definition": "a doctrine in criminal law",
+        "compare": "fruit of the poisonous tree",
+        "sub_definitions": {
+            "1": {
+                "1": "a doctrine in criminal law: evidence obtained by methods that are unconstitutional may be admissible if it would have been inevitably discovered without the unlawful methods compare",
+                "compares": "fruit of the poisonous tree"
+            }
+        },
+        "references": {
+            "fruit of the poisonous tree": "https://dictionary.findlaw.com/definition/fruit-of-the-poisonous-tree.html",
+            "inadvertent discovery": "https://dictionary.findlaw.com/definition/inadvertent-discovery.html",
+            "independent source": "https://dictionary.findlaw.com/definition/independent-source.html",
+            "plain view": "https://dictionary.findlaw.com/definition/plain-view.html"
+        }
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Larceny": {
+        "definition": "-nies [modification of Anglo-French larcine theft",
+        "origin": "[modification of Anglo-French larcine theft, from Old French larrecin , from Latin latrocinium robbery, from latron- latro mercenary soldier, brigand]",
+        "sub_definitions": {
+            "-nies": {
+                "definition": "[modification of Anglo-Frenchtheft, from Old French, from Latinrobbery, frommercenary soldier, brigand]the unlawful taking and carrying away of personal property with the intent to deprive the rightful owner of it permanentlyany of several types of theft (as embezzlement or obtaining another's property by false pretenses) that have been traditionally distinguished from larceny",
+                "note": " Under the Model Penal Code and in states that follow it, larceny is a type of theft. In states where larceny is currently defined as a separate crime, it may include the crimes that were distinct from it under common law."
+            },
+            "grand larceny": {
+                "definition": "felonious larceny of property having a value greater than an amount fixed by lawlarceny accompanied by aggravating circumstances (as the use of threats)"
+            },
+            "larceny by trick": {
+                "definition": "larceny of property obtained by the use of misrepresentation esp. in getting an owner to hand over something in the belief that it is for temporary purposes compare",
+                "compares": "false pretenses"
+            },
+            "larceny from the person": {
+                "definition": "larceny of property held by or within the immediate control of its owner"
+            },
+            "pet·it larceny": {
+                "definition": "[pe-tē-]larceny of property having a market value below an amount fixed by law called also",
+                "note": " Petit larceny is a misdemeanor."
+            }
+        },
+        "references": {
+            "false pretenses": "https://dictionary.findlaw.com/definition/false-pretenses.html"
+        }
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "Minority Shareholder": {
+        "definition": "a shareholder whose proportion of shares is too small to confer any power to exert control or influence over corporate action",
+        "sub_definitions": {
+            "1": {
+                "1": "a shareholder whose proportion of shares is too small to confer any power to exert control or influence over corporate action"
+            }
+        },
+        "references": {}
+    }
+}

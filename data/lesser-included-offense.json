@@ -1,0 +1,12 @@
+{
+    "Lesser Included Offense": {
+        "definition": "a crime",
+        "sub_definitions": {
+            "1": {
+                "1": "a crime (as unlawful entry) that is by definition included in the commission of another crime (as burglary) which has additional elements and greater criminal liability called also",
+                "note": " A criminal defendant may be convicted of a lesser included offense even if not charged specifically with that crime."
+            }
+        },
+        "references": {}
+    }
+}

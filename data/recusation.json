@@ -1,0 +1,13 @@
+{
+    "Recusation": {
+        "definition": "recusal",
+        "sub_definitions": {
+            "1": {
+                "1": "recusal"
+            }
+        },
+        "references": {
+            "recusal": "https://dictionary.findlaw.com/definition/recusal.html"
+        }
+    }
+}

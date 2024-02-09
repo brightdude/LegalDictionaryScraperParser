@@ -1,0 +1,27 @@
+{
+    "Reservation": {
+        "definition": "the act or an instance of reserving [ of rights] 2",
+        "origin": "[ of rights]",
+        "sub_definitions": {
+            "1": {
+                "definition": "the act or an instance of reserving [ of rights]"
+            },
+            "2": {
+                "definition": "the creation by and for a grantor of a new right or interest (as an easement) in real property granted to anotherthe right or interest so created or the clause creating it in a deed compare",
+                "compares": "exception"
+            },
+            "3 a": {
+                "definition": "public land reserved for a special purpose (as conservation)",
+                "sub_terms": {
+                    "b": "a tract of land reserved for use by an American Indian tribe see alsoin the Important Laws section compareat"
+                },
+                "note": " The federal government has jurisdiction over certain serious felonies committed on American Indian reservations, and a member of a tribe is vested with the rights of an American citizen even if in a tribal court proceeding. Prior to the Indian Civil Rights Act of 1968, states could obtain civil and criminal jurisdiction over a reservation or other American Indian lands by legislative action, but that Act created the requirement that such jurisdiction be acquired with the consent of the tribe as manifest in an election among tribal adults. This requirement was not retroactive. Federal land claim settlement acts pertaining to particular states have included statutes expressly assigning civil and criminal jurisdiction to the states involved.",
+                "Indian Removal Act of 1830": "in the Important Laws section compare"
+            }
+        },
+        "references": {
+            "exception": "https://dictionary.findlaw.com/definition/exception.html",
+            "title": "https://dictionary.findlaw.com/definition/title.html"
+        }
+    }
+}

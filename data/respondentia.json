@@ -1,0 +1,16 @@
+{
+    "Respondentia": {
+        "definition": "a loan secured by the goods on one's ship compare bottomry",
+        "origin": "[New Latin, from Latin respondent- respondens , present participle of respondere to answer, correspond; from the fact that the loan is only a personal obligation on the part of the borrower who must “answer” for the money]",
+        "compare": "bottomry",
+        "sub_definitions": {
+            "1": {
+                "1": "a loan secured by the goods on one's ship compare",
+                "compares": "bottomry"
+            }
+        },
+        "references": {
+            "bottomry": "https://dictionary.findlaw.com/definition/bottomry.html"
+        }
+    }
+}

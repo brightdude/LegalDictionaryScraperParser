@@ -1,0 +1,16 @@
+{
+    "Prior Consistent Statement": {
+        "definition": "a witness's statement made out of court prior to testifying that is consistent with the witness's testimony compare prior inconsistent statement NOTE",
+        "compare": "prior inconsistent statement",
+        "sub_definitions": {
+            "1": {
+                "1": "a witness's statement made out of court prior to testifying that is consistent with the witness's testimony compare",
+                "compares": "prior inconsistent statement",
+                "note": " A prior consistent statement may be offered as evidence to rebut a charge that a witness's testimony is fabricated, provided that the witness is available to be cross-examined. Under Federal Rule of Evidence 801(d)(1), a prior consistent statement of a witness testifying at trial and subject to cross-examination is not hearsay."
+            }
+        },
+        "references": {
+            "prior inconsistent statement": "https://dictionary.findlaw.com/definition/prior-inconsistent-statement.html"
+        }
+    }
+}

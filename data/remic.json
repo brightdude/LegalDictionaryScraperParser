@@ -1,0 +1,16 @@
+{
+    "Remic": {
+        "definition": "an entity",
+        "origin": "[ r eal e state m ortgage i nvestment c onduit]",
+        "compare": "security",
+        "sub_definitions": {
+            "1": {
+                "1": "an entity (as a corporation, partnership, or trust) that functions as a vehicle for investment in mortgage obligations and esp. collateralized mortgage obligations and receives favorable tax treatment by restricting its own investment to the maintenance of cash flow and reserves and to investment in properties acquired from foreclosure on the underlying mortgages called also"
+            }
+        },
+        "references": {
+            "security": "https://dictionary.findlaw.com/definition/security.html",
+            "trust": "https://dictionary.findlaw.com/definition/trust.html"
+        }
+    }
+}

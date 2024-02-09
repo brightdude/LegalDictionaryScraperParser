@@ -1,0 +1,18 @@
+{
+    "Strict Foreclosure": {
+        "definition": "a proceeding in which the amount due on a mortgage is determined and a period of time within which it must be paid is fixed with the understanding that in the event of the mortgagor's default title will be vested in the mortgagee free of any right of the mortgagor to redeem compare statutory foreclosure 2",
+        "sub_definitions": {
+            "1": {
+                "definition": "a proceeding in which the amount due on a mortgage is determined and a period of time within which it must be paid is fixed with the understanding that in the event of the mortgagor's default title will be vested in the mortgagee free of any right of the mortgagor to redeem compare",
+                "compares": "statutory foreclosure"
+            },
+            "2": {
+                "definition": "the acceptance by a creditor of collateral as discharge of an obligation which under the Uniform Commercial Code denies the creditor the right to a deficiency judgment",
+                "note": " Under the U.C.C.'s strict foreclosure provision, notice must be given to other parties having a security interest in the property. If one of these parties objects to the strict foreclosure, there must be a foreclosure sale instead. In some states, deficiency judgments are allowed in strict foreclosure cases as well as foreclosures by sale."
+            }
+        },
+        "references": {
+            "statutory foreclosure": "https://dictionary.findlaw.com/definition/statutory-foreclosure.html"
+        }
+    }
+}

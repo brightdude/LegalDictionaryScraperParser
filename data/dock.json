@@ -1,0 +1,20 @@
+{
+    "Dock": {
+        "definition": "the place in a criminal court where a prisoner stands or sits during trial compare bar",
+        "origin": "[Dutch dialect docke dok pen, cage]",
+        "compare": "bar",
+        "sub_definitions": {
+            "1": {
+                "1": "the place in a criminal court where a prisoner stands or sits during trial compare",
+                "compares": "bar"
+            }
+        },
+        "references": {
+            "bar": "https://dictionary.findlaw.com/definition/bar.html",
+            "bench": "https://dictionary.findlaw.com/definition/bench.html",
+            "jury box": "https://dictionary.findlaw.com/definition/jury-box.html",
+            "sidebar": "https://dictionary.findlaw.com/definition/sidebar.html",
+            "stand": "https://dictionary.findlaw.com/definition/stand.html"
+        }
+    }
+}

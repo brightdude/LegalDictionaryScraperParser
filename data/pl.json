@@ -1,0 +1,14 @@
+{
+    "Pl": {
+        "definition": "Pl",
+        "sub_definitions": {
+            "1": {
+                "definition": "plaintiff"
+            },
+            "2": {
+                "definition": "public law"
+            }
+        },
+        "references": {}
+    }
+}

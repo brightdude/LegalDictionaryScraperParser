@@ -1,0 +1,34 @@
+{
+    "Contempt": {
+        "definition": "willful disobedience or open disrespect of the orders",
+        "origin": "[ of Congress]",
+        "sub_definitions": {
+            "1": {
+                "definition": "willful disobedience or open disrespect of the orders, authority, or dignity of a court or judge acting in a judicial capacity by disruptive language or conduct or by failure to obey the court's ordersthe offense of contempt called also"
+            },
+            "civil contempt": {
+                "definition": "contempt that consists of disobedience to a court order in favor of the opposing party",
+                "note": " The sanctions for civil contempt end upon compliance with the order."
+            },
+            "constructive contempt": {
+                "definition": "in this entry"
+            },
+            "criminal contempt": {
+                "definition": "contempt consisting of conduct that disrupts or opposes the proceedings or power of the court",
+                "note": " The sanctions for criminal contempt are designed to punish as well as to coerce compliance."
+            },
+            "direct contempt": {
+                "definition": "contempt committed in the presence of the court or in a location close enough to disrupt the court's proceedings"
+            },
+            "in·di·rect contempt": {
+                "definition": "contempt (as disobedience of a court order) that occurs outside of the presence of the court"
+            },
+            "2": {
+                "definition": "willful disobedience to a lawful order of or willful obstruction of a legislative body in the course of exercising its powers [ of Congress]"
+            }
+        },
+        "references": {
+            "indirect contempt": "https://dictionary.findlaw.com/definition/indirect-contempt.html"
+        }
+    }
+}

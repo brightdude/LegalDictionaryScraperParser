@@ -1,0 +1,12 @@
+{
+    "Buyer In Ordinary Course Of Business": {
+        "definition": "a bona fide purchaser who in a normal or regular business procedure buys goods from a seller in the business of selling goods of that kind NOTE",
+        "sub_definitions": {
+            "1": {
+                "1": "a bona fide purchaser who in a normal or regular business procedure buys goods from a seller in the business of selling goods of that kind",
+                "note": " Under the Uniform Commercial Code a buyer in ordinary course of business takes the purchased goods free of the property interests of a third party. The consideration exchanged for the goods is restricted to cash, other property, or credit. The purchase also cannot be a transfer in bulk or serve as security for or satisfaction of a debt. Pawnbrokers are specifically excluded from qualifying as buyers in ordinary course of business."
+            }
+        },
+        "references": {}
+    }
+}

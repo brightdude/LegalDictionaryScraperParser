@@ -1,0 +1,14 @@
+{
+    "Apprehend": {
+        "definition": "arrest",
+        "origin": "[Latin apprehendere to seize, arrest, from ad to + prehendere to seize]",
+        "sub_definitions": {
+            "1": {
+                "1": "arrest"
+            }
+        },
+        "references": {
+            "arrest": "https://dictionary.findlaw.com/definition/arrest.html"
+        }
+    }
+}

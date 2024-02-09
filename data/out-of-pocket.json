@@ -1,0 +1,12 @@
+{
+    "Out-Of-Pocket": {
+        "definition": "requiring an outlay of cash [ expenses]",
+        "origin": "[ expenses]",
+        "sub_definitions": {
+            "1": {
+                "1": "requiring an outlay of cash [ expenses]"
+            }
+        },
+        "references": {}
+    }
+}

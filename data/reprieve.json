@@ -1,0 +1,21 @@
+{
+    "Reprieve": {
+        "definition": "to delay the punishment of",
+        "origin": "[alteration of earlier repry to send back (to prison), return to custody, perhaps from Anglo-French repris , past participle of reprendre to take back, from Old French]",
+        "sub_definitions": {
+            "re·priev·ing": {
+                "definition": "[alteration of earlierto send back (to prison), return to custody, perhaps from Anglo-French, past participle ofto take back, from Old French]to delay the punishment of (as a condemned prisoner)n"
+            },
+            "1 a": {
+                "definition": "the act of reprievingthe state of being reprieved",
+                "sub_terms": {
+                    "b": "a formal temporary suspension of the execution of a sentence esp. of death as an act of clemency"
+                }
+            },
+            "2": {
+                "definition": "an order or warrant of reprieve"
+            }
+        },
+        "references": {}
+    }
+}

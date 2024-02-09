@@ -1,0 +1,29 @@
+{
+    "Publish": {
+        "definition": "to make known to another or to the public generally NOTE",
+        "origin": "[ an enactment]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to make known to another or to the public generally",
+                "note": " For purposes of defamation, a defamatory communication made to only one third party may be considered published."
+            },
+            "2 a": {
+                "definition": "to proclaim officially [ an enactment]",
+                "sub_terms": {
+                    "b": "to declare (a will) to be a true and valid expression of one's last will",
+                    "c": "to reproduce (an opinion) in a reporter"
+                }
+            },
+            "3 a": {
+                "definition": "to disseminate to the public or provide notice of to the public or to an individual (as through a mass medium) [ordered to the citation in the legal notices for three weeks] see alsoat",
+                "sub_terms": {
+                    "b": "to distribute or offer for distribution to the public copies of (a copyrightable work) by some transfer of ownership, rental, lease, or loan"
+                }
+            }
+        },
+        "references": {
+            "notice": "https://dictionary.findlaw.com/definition/notice.html",
+            "utter": "https://dictionary.findlaw.com/definition/utter.html"
+        }
+    }
+}

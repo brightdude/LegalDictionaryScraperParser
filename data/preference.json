@@ -1,0 +1,21 @@
+{
+    "Preference": {
+        "definition": "the right to prior payment of a debt [with over the creditors of the heirs or legatees \" Louisiana Civil Code \"] 2",
+        "origin": "[with over the creditors of the heirs or legatees \" Louisiana Civil Code \"]",
+        "sub_definitions": {
+            "1": {
+                "definition": "the right to prior payment of a debt [with over the creditors of the heirs or legatees \"\"]"
+            },
+            "2": {
+                "definition": "the transfer of an insolvent debtor's interest in property to a creditor for an earlier debt that gives the creditor more than the creditor would otherwise receive (as under a bankruptcy settlement) called alsocompareat,at",
+                "note": " Preferences can be voided by a bankruptcy trustee because they diminish the bankruptcy estate out of which other creditors will be paid. Preferences must be made during a period (as 90 days before the date of filing a bankruptcy petition) established by bankruptcy law in order to be voidable. Perfection or grant of a security interest during this period is also a preference. The bankruptcy law states exceptions under which payments to creditors are not voidable preferences."
+            }
+        },
+        "references": {
+            "debt": "https://dictionary.findlaw.com/definition/debt.html",
+            "fraudulent conveyance": "https://dictionary.findlaw.com/definition/fraudulent-conveyance.html",
+            "assignment": "https://dictionary.findlaw.com/definition/assignment.html",
+            "priority": "https://dictionary.findlaw.com/definition/priority.html"
+        }
+    }
+}

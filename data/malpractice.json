@@ -1,0 +1,11 @@
+{
+    "Malpractice": {
+        "definition": "negligence",
+        "sub_definitions": {
+            "1": {
+                "1": "negligence, misconduct, lack of ordinary skill, or a breach of duty in the performance of a professional service (as in medicine) resulting in injury or loss"
+            }
+        },
+        "references": {}
+    }
+}

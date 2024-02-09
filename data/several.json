@@ -1,0 +1,23 @@
+{
+    "Several": {
+        "definition": "of or relating separately to each individual involved ;specif",
+        "origin": "[Anglo-French, from Medieval Latin separalis , from Latin separ separate]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "of or relating separately to each individual involvedenforceable separately against each party [each promisor owed a duty] see alsoatat",
+                "sub_terms": {
+                    "b": "being separately or individually responsible, liable, or obligated [a obligor] compare"
+                },
+                "compares": "joint"
+            },
+            "2": {
+                "definition": "separate or distinct from one another [to regulate commerce with foreign nations and among the States \"art. I\"]"
+            }
+        },
+        "references": {
+            "liability": "https://dictionary.findlaw.com/definition/liability.html",
+            "obligation": "https://dictionary.findlaw.com/definition/obligation.html",
+            "joint": "https://dictionary.findlaw.com/definition/joint.html"
+        }
+    }
+}

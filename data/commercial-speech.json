@@ -1,0 +1,17 @@
+{
+    "Commercial Speech": {
+        "definition": "speech",
+        "compare": "pure speech",
+        "sub_definitions": {
+            "1": {
+                "1": "speech (as advertising) that proposes a commercial transaction compare",
+                "compares": "pure speech",
+                "note": " Commercial speech is entitled to a lesser level of protection under the First Amendment than speech which is an expression of one's thoughts."
+            }
+        },
+        "references": {
+            "pure speech": "https://dictionary.findlaw.com/definition/pure-speech.html",
+            "symbolic speech": "https://dictionary.findlaw.com/definition/symbolic-speech.html"
+        }
+    }
+}

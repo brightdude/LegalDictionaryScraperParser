@@ -1,0 +1,14 @@
+{
+    "Alternative Minimum Tax": {
+        "definition": "a federal tax that prevents a person or entity",
+        "sub_definitions": {
+            "1": {
+                "1": "a federal tax that prevents a person or entity (as a corporation) with taxable income from avoiding tax liability and that imposes tax liability in the amount of the excess of the tentative minimum tax over regular tax liability see also",
+                "see also": "tax preference item"
+            }
+        },
+        "references": {
+            "tax preference item": "https://dictionary.findlaw.com/definition/tax-preference-item.html"
+        }
+    }
+}

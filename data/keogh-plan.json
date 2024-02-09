@@ -1,0 +1,12 @@
+{
+    "Keogh Plan": {
+        "definition": "an individual retirement account for the self-employed",
+        "origin": "[after Eugene J. Keogh (1907-89), U.S. Congressman whose 1965 bill established the plan]",
+        "sub_definitions": {
+            "1": {
+                "1": "an individual retirement account for the self-employed"
+            }
+        },
+        "references": {}
+    }
+}

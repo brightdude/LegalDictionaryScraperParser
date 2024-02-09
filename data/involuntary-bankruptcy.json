@@ -1,0 +1,14 @@
+{
+    "Involuntary Bankruptcy": {
+        "definition": "bankruptcy declared upon petition of creditors see also bankruptcy",
+        "sub_definitions": {
+            "1": {
+                "1": "bankruptcy declared upon petition of creditors see also",
+                "see also": "bankruptcy"
+            }
+        },
+        "references": {
+            "bankruptcy": "https://dictionary.findlaw.com/definition/bankruptcy.html"
+        }
+    }
+}

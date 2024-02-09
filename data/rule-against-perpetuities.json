@@ -1,0 +1,17 @@
+{
+    "Rule Against Perpetuities": {
+        "definition": "a common-law rule stating that in order for a future interest to be good it must vest after its creation",
+        "compare": "life in being",
+        "sub_definitions": {
+            "1": {
+                "1": "a common-law rule stating that in order for a future interest to be good it must vest after its creation (as at the death of a testator) within a life in being or lives in being plus 21 years plus the period of gestation of any beneficiary conceived but not yet born compare",
+                "compares": "life in being"
+            }
+        },
+        "references": {
+            "life in being": "https://dictionary.findlaw.com/definition/life-in-being.html",
+            "statutory rule against perpetuities": "https://dictionary.findlaw.com/definition/statutory-rule-against-perpetuities.html",
+            "wait and see": "https://dictionary.findlaw.com/definition/wait-and-see.html"
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "Offender": {
+        "definition": "one that commits an offense [a repeat ]",
+        "origin": "[a repeat ]",
+        "sub_definitions": {
+            "1": {
+                "1": "one that commits an offense [a repeat ]"
+            }
+        },
+        "references": {}
+    }
+}

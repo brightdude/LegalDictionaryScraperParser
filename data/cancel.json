@@ -1,0 +1,37 @@
+{
+    "Cancel": {
+        "definition": "-celled -cel·ing or",
+        "origin": "[when an issuer wrongfully s or otherwise repudiates a credit before presentment of a draft \" Uniform Commercial Code \"]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to destroy the force, validity, or effectiveness of",
+                "sub_terms": {
+                    "a": "to render (one's will or a provision in one's will) ineffective by purposely making marks through or otherwise marring the text of compare",
+                    "b": "to make (a negotiable instrument) unenforceable esp. by purposely marking through or otherwise marring the words or signature of",
+                    "c": "to mark (a check) to indicate that payment has been made by the bank",
+                    "d": "to withdraw an agreement to honor (a letter of credit) [when an issuer wrongfullyor otherwise repudiates a credit before presentment of a draft \"\"]"
+                },
+                "note": " A check is no longer negotiable once it has been cancelled.",
+                "compares": "revoke"
+            },
+            "2": {
+                "definition": "to put an end to (a contract)",
+                "sub_terms": {
+                    "a": "to end (a contract) by discharging the other party from obligations as yet unperformed",
+                    "b": "to end (a contract) in accordance with the provisions of U.C.C. section 2-106 or a similar statute because the other party has breached compare,",
+                    "c": "to put an end to (a lease contract) because of the default of the other party"
+                },
+                "note": " Under U.C.C. section 2A-505, a party that cancels because of the other party's default may seek remedies for the default of all or any unperformed part of the lease contract.",
+                "compares": "rescind"
+            },
+            "3": {
+                "definition": "to terminate (an insurance policy) before the end of policy period usually as allowed by policy provisions"
+            }
+        },
+        "references": {
+            "revoke": "https://dictionary.findlaw.com/definition/revoke.html",
+            "rescind": "https://dictionary.findlaw.com/definition/rescind.html",
+            "terminate": "https://dictionary.findlaw.com/definition/terminate.html"
+        }
+    }
+}

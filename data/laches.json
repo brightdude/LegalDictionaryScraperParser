@@ -1,0 +1,21 @@
+{
+    "Laches": {
+        "definition": "laches [Anglo-French lachesce laschesce negligence",
+        "origin": "[Anglo-French lachesce laschesce negligence, from Old French lasche lax, ultimately from Latin laxare to loosen, from laxus slack]",
+        "sub_definitions": {
+            "1": {
+                "definition": "undue delay in asserting a right or privilege compare",
+                "compares": "statute of limitations"
+            },
+            "2 a": {
+                "definition": "a doctrine permitting dismissal of a suit because a plaintiff's unreasonable delay in asserting a right or privilege has been detrimental to the defendant's ability to make a defense (as by resulting in the unavailability of witnesses or evidence) [a suit barred by ]",
+                "sub_terms": {
+                    "b": "an affirmative defense based on this doctrine"
+                }
+            }
+        },
+        "references": {
+            "statute of limitations": "https://dictionary.findlaw.com/definition/statute-of-limitations.html"
+        }
+    }
+}

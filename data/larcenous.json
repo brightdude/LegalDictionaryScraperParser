@@ -1,0 +1,15 @@
+{
+    "Larcenous": {
+        "definition": "of",
+        "origin": "[ intent]",
+        "sub_definitions": {
+            "1": {
+                "definition": "of, relating to, or having the nature of larceny [ intent] [a scheme]"
+            },
+            "2": {
+                "definition": "committing larceny"
+            }
+        },
+        "references": {}
+    }
+}

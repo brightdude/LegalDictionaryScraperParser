@@ -1,0 +1,17 @@
+{
+    "Advise": {
+        "definition": "to give advice to",
+        "origin": "[ them to draw up a will]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to give advice [ on legal matters]"
+            },
+            "2": {
+                "definition": "to take counsel [ with your lawyer]"
+            }
+        },
+        "references": {
+            "counsel": "https://dictionary.findlaw.com/definition/counsel.html"
+        }
+    }
+}

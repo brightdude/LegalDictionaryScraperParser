@@ -1,0 +1,20 @@
+{
+    "Roll": {
+        "definition": "a document containing an official record 2",
+        "origin": "[the public relief s ]",
+        "sub_definitions": {
+            "1": {
+                "definition": "a document containing an official record"
+            },
+            "2": {
+                "definition": "an official list [the public relief]",
+                "sub_terms": {
+                    "a": "a list of members of a legislative body [the clerk called the and recorded the votes]",
+                    "b": "a list of practitioners in a court or the courts of a state usually used in pl.",
+                    "c": "a record kept by an authorized official of persons or property or both that are subject to taxation"
+                }
+            }
+        },
+        "references": {}
+    }
+}

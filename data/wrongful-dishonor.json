@@ -1,0 +1,12 @@
+{
+    "Wrongful Dishonor": {
+        "definition": "a wrongful refusal by a payor bank to honor an item that is properly payable [a payor bank is liable to its customer for damages proximately caused by the wrongful dishonor of an item \" Uniform Commercial Code \"]",
+        "origin": "[a payor bank is liable to its customer for damages proximately caused by the wrongful dishonor of an item \" Uniform Commercial Code \"]",
+        "sub_definitions": {
+            "1": {
+                "1": "a wrongful refusal by a payor bank to honor an item that is properly payable [a payor bank is liable to its customer for damages proximately caused by the"
+            }
+        },
+        "references": {}
+    }
+}

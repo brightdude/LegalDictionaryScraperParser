@@ -1,0 +1,13 @@
+{
+    "Actual Cash Value": {
+        "definition": "the cost of replacing or repairing damaged property less any applicable depreciation 2",
+        "sub_definitions": {
+            "1": {
+                "definition": "the cost of replacing or repairing damaged property less any applicable depreciation"
+            }
+        },
+        "references": {
+            "fair market value": "https://dictionary.findlaw.com/definition/fair-market-value.html"
+        }
+    }
+}

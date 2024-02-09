@@ -1,0 +1,15 @@
+{
+    "Sham Transaction": {
+        "definition": "a transaction that is made to mislead or deceive others",
+        "sub_definitions": {
+            "1": {
+                "1": "a transaction that is made to mislead or deceive others"
+            },
+            "2": {
+                "1": "a transaction having no economic effect that is made to create tax benefits",
+                "note": " The Internal Revenue Service may deny tax benefits for sham transactions."
+            }
+        },
+        "references": {}
+    }
+}

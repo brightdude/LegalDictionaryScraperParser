@@ -1,0 +1,77 @@
+{
+    "Witness": {
+        "definition": "attestation of a fact or event [in whereof the parties have executed this release] b",
+        "origin": "[Old English witnes knowledge, testimony, witness, from wit mind, sense, knowledge]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "attestation of a fact or event [in whereof the parties have executed this release]",
+                "sub_terms": {
+                    "b": "evidence (as of the authenticity of a conveyance by deed) furnished by signature, oath, or seal"
+                }
+            },
+            "2": {
+                "definition": "to act as witness of",
+                "sub_terms": {
+                    "a": "to see the execution of (an instrument) and sign for the purpose of establishing authenticity [ a will]",
+                    "b": "to be formally present as a witness of (as a transaction or the execution of a convict)"
+                }
+            },
+            "adverse witness": {
+                "definition": "a witness who is called by or associated with an opposing party or who by statement, conduct, or other evidence (as of relationship) shows bias against or is injurious to the case of the party by whom the witness is called [sought to have his witness declared ansubject to impeachment] called alsosee alsoat",
+                "adverse witness": "subject to impeachment] called also"
+            },
+            "alibi witness": {
+                "definition": "a witness upon whom a criminal defendant relies in establishing an alibi"
+            },
+            "char·ac·ter witness": {
+                "definition": "a witness who testifies as to the character or reputation esp. of a criminal defendanta witness who gives character evidence"
+            },
+            "expert witness": {
+                "definition": "a witness (as a medical specialist) who by virtue of special knowledge, skill, training, or experience is qualified to provide testimony to aid the factfinder in matters that exceed the common knowledge of ordinary people"
+            },
+            "hostile witness": {
+                "definition": "in this entry"
+            },
+            "lay witness": {
+                "definition": "a witness who is not an expert witness"
+            },
+            "material witness": {
+                "definition": "a witness whose testimony is necessary for trial and whose presence may sometimes be secured by the state by subpoena, custody, or recognizance"
+            },
+            "prosecuting witness": {
+                "definition": "a witness (as the victim of a crime) whose own allegations initiate the prosecution of the defendant"
+            },
+            "qualified witness": {
+                "definition": "a witness who has sufficient understanding of a record-keeping system to provide testimony that forms the proper foundation for admission of evidence under the business records exception to the hearsay rule"
+            },
+            "rebuttal witness": {
+                "definition": "a witness called upon to rebut evidence already presented"
+            },
+            "3": {
+                "definition": "one who is called on to be present at a transaction so as to be able to testify to its occurrenceone who sees the execution of an instrument and signs it to confirm its authenticity [a to a will]"
+            },
+            "4": {
+                "definition": "[a to an assault]"
+            },
+            "bear witness:to furnish or constitute proof or evidence": {
+                "definition": "vt"
+            },
+            "1": {
+                "definition": "to furnish evidence or proof of"
+            },
+            "3 a": {
+                "definition": "to see or experience directly",
+                "sub_terms": {
+                    "b": "to take note ofto bear witnessgive evidenceadjbeing an object or location used to ascertain a precise boundary point esp. on a corner of a tract when marking that point itself is impracticable or impossible [a tree] [a corner]"
+                }
+            }
+        },
+        "references": {
+            "affiant": "https://dictionary.findlaw.com/definition/affiant.html",
+            "deponent": "https://dictionary.findlaw.com/definition/deponent.html",
+            "question": "https://dictionary.findlaw.com/definition/question.html",
+            "adverse witness": "https://dictionary.findlaw.com/definition/adverse-witness.html",
+            "eyewitness": "https://dictionary.findlaw.com/definition/eyewitness.html"
+        }
+    }
+}

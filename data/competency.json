@@ -1,0 +1,21 @@
+{
+    "Competency": {
+        "definition": "the quality or state of being mentally competent compare capacity",
+        "origin": "[the , quantum and legal effect of evidence \" State v. Scoggin , 72 S.E.2d 54 (1952)\"]",
+        "sub_definitions": {
+            "1": {
+                "definition": "the quality or state of being mentally competent compare,,",
+                "compares": "capacity"
+            },
+            "2": {
+                "definition": "the quality or state of being legally qualified or adequate [the , quantum and legal effect of evidence \", 72 S.E.2d 54 (1952)\"]",
+                "State v. Scoggin": "72 S.E.2d 54 (1952)"
+            }
+        },
+        "references": {
+            "capacity": "https://dictionary.findlaw.com/definition/capacity.html",
+            "incompetence": "https://dictionary.findlaw.com/definition/incompetence.html",
+            "insanity": "https://dictionary.findlaw.com/definition/insanity.html"
+        }
+    }
+}

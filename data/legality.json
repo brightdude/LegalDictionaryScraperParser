@@ -1,0 +1,17 @@
+{
+    "Legality": {
+        "definition": "-ties 1",
+        "sub_definitions": {
+            "1": {
+                "definition": "attachment to or observance of law"
+            },
+            "2": {
+                "definition": "the quality or state of being legallawfulness"
+            },
+            "3": {
+                "definition": "obligations imposed by law"
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "Entitlement": {
+        "definition": "the state or condition of being entitled",
+        "origin": "[evidence of victim's to money seized \" National Law Journal \"]",
+        "sub_definitions": {
+            "1": {
+                "definition": "the state or condition of being entitled[evidence of victim's to money seized \"\"]"
+            },
+            "2": {
+                "definition": "a right to benefits that is granted esp. by law or contract (as an insurance policy)",
+                "note": " Some courts have held that entitlements are a property interest and therefore subject to procedural due process under the Fifth and Fourteenth Amendments to the U.S. Constitution when denied by federal or state governments."
+            },
+            "3": {
+                "definition": "a government program that provides benefits to members of a group that has a statutory entitlementthe benefits distributed by such a program"
+            }
+        },
+        "references": {
+            "claim": "https://dictionary.findlaw.com/definition/claim.html"
+        }
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "Recoupment": {
+        "definition": "the process or fact of recouping [ of expenses] 2 a",
+        "origin": "[ of expenses]",
+        "sub_definitions": {
+            "1": {
+                "definition": "the process or fact of recouping [ of expenses]"
+            },
+            "2 a": {
+                "definition": "a keeping back of all or part of a sum sought by a plaintiff in the interest of equity see also",
+                "sub_terms": {
+                    "b": "a reduction in damages because of a demand by the defendant arising out of the same occurrence or transaction",
+                    "c": "the right of a defendant to have the claim of the plaintiff reduced or eliminated by reason of a breach of contract or duty by the plaintiff in the same occurrence or transactionan affirmative defense alleging such a breach",
+                    "d": "a counterclaim that arises out of the same occurrence or transaction as that of the original action compare"
+                },
+                "note": " Recoupment involves the type of claim that now must be asserted in a compulsory counterclaim.",
+                "compares": "set-off",
+                "see also": "equitable recoupment"
+            }
+        },
+        "references": {
+            "equitable recoupment": "https://dictionary.findlaw.com/definition/equitable-recoupment.html",
+            "set-off": "https://dictionary.findlaw.com/definition/set-off.html"
+        }
+    }
+}

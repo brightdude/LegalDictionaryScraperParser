@@ -1,0 +1,19 @@
+{
+    "Prison": {
+        "definition": "an institution usually under state control for confinement of persons serving sentences for serious crimes compare house of correction",
+        "compare": "house of correction",
+        "sub_definitions": {
+            "1": {
+                "1": "an institution usually under state control for confinement of persons serving sentences for serious crimes compare",
+                "compares": "house of correction"
+            }
+        },
+        "references": {
+            "house of correction": "https://dictionary.findlaw.com/definition/house-of-correction.html",
+            "house of detention": "https://dictionary.findlaw.com/definition/house-of-detention.html",
+            "jail": "https://dictionary.findlaw.com/definition/jail.html",
+            "lockup": "https://dictionary.findlaw.com/definition/lockup.html",
+            "penitentiary": "https://dictionary.findlaw.com/definition/penitentiary.html"
+        }
+    }
+}

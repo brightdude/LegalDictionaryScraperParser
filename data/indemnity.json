@@ -1,0 +1,23 @@
+{
+    "Indemnity": {
+        "definition": "-ties 1 a",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "security against hurt, loss, or damage",
+                "sub_terms": {
+                    "b": "exemption from incurred penalties or liabilities"
+                }
+            },
+            "2 a": {
+                "sub_terms": {
+                    "b": "something (as a payment) that indemnifies compare"
+                },
+                "compares": "contribution"
+            }
+        },
+        "references": {
+            "indemnification": "https://dictionary.findlaw.com/definition/indemnification.html",
+            "contribution": "https://dictionary.findlaw.com/definition/contribution.html"
+        }
+    }
+}

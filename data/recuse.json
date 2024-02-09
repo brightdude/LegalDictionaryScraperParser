@@ -1,0 +1,19 @@
+{
+    "Recuse": {
+        "definition": "to challenge or object to",
+        "origin": "[Anglo-French recuser to refuse, from Middle French, from Latin recusare , from re- back + causari to give a reason, from causa cause, reason]",
+        "sub_definitions": {
+            "re·cus·ing": {
+                "definition": "[Anglo-Frenchto refuse, from Middle French, from Latin, fromback +to give a reason, fromcause, reason]"
+            },
+            "1": {
+                "definition": "to challenge or object to (as a judge) as having prejudice or a conflict of interest"
+            },
+            "2": {
+                "definition": "to disqualify (as oneself or another judge or official) for a proceeding by a judicial act because of prejudice or conflict of interest [an orderthe district attorney from any proceeding may be appealed by the district attorney or the Attorney General \"\"]",
+                "recusing": "the district attorney from any proceeding may be appealed by the district attorney or the Attorney General \""
+            }
+        },
+        "references": {}
+    }
+}

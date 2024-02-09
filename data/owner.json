@@ -1,0 +1,41 @@
+{
+    "Owner": {
+        "definition": "one with an interest in and often dominion over property",
+        "origin": "[was the beneficial owner of property held by the parent corporation]",
+        "compare": "legal owner",
+        "sub_definitions": {
+            "1": {
+                "definition": "one holding a beneficial interest in a trust compareat"
+            },
+            "2": {
+                "definition": "one enjoying the benefit of property of which another is the legal owner [was theof property held by the parent corporation]",
+                "beneficial owner": "of property held by the parent corporation]"
+            },
+            "3": {
+                "definition": "one who has or shares the power to control the voting or investment of stock [was considered theof stock held by her minor children]",
+                "beneficial owner": "of stock held by her minor children]"
+            },
+            "equitable owner": {
+                "definition": "one (as a beneficiary of a trust) who is considered to have rights or obligations of an owner regardless of legal title on the ground of equity [do not have legal title but, upon execution of the contract, they becameand have power to sue to protect their land \", 551 N.E.2d 782 (1990)\"]",
+                "equitable owners": "and have power to sue to protect their land \"",
+                "Dessen v. Jones": "551 N.E.2d 782 (1990)"
+            },
+            "legal owner": {
+                "definition": "one who has legal title to propertyone determined by law to own property [a dispute over who isof the money]",
+                "legal owner": "of the money]"
+            },
+            "naked owner": {
+                "definition": "an owner of property burdened by a usufruct [a usufructuary possesses the usufruct for himself and the thing for the\"\"]"
+            },
+            "record owner": {
+                "definition": "one who is the owner of property (as land or stock) according to current appropriate records [received a tax bill asof the land] called also",
+                "record owner": "of the land] called also"
+            }
+        },
+        "references": {
+            "legal owner": "https://dictionary.findlaw.com/definition/legal-owner.html",
+            "equitable owner": "https://dictionary.findlaw.com/definition/equitable-owner.html",
+            "interest": "https://dictionary.findlaw.com/definition/interest.html"
+        }
+    }
+}

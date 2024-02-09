@@ -1,0 +1,13 @@
+{
+    "Judicial Comity": {
+        "definition": "comity",
+        "sub_definitions": {
+            "1": {
+                "1": "comity"
+            }
+        },
+        "references": {
+            "comity": "https://dictionary.findlaw.com/definition/comity.html"
+        }
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "Closely Held Corporation": {
+        "definition": "close corporation at corporation",
+        "sub_definitions": {
+            "1": {
+                "1": "close corporation"
+            }
+        },
+        "references": {
+            "close corporation": "https://dictionary.findlaw.com/definition/close-corporation.html",
+            "corporation": "https://dictionary.findlaw.com/definition/corporation.html"
+        }
+    }
+}

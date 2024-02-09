@@ -1,0 +1,27 @@
+{
+    "Alternative": {
+        "definition": "alternate 2",
+        "origin": "[an contract]",
+        "sub_definitions": {
+            "1": {
+                "definition": "a proposition or situation offering a choice between two or more things only one of which may be chosen"
+            },
+            "2": {
+                "definition": "offering or expressing a choice [an contract] see alsoat"
+            },
+            "3": {
+                "definition": "existing or functioning outside the established systemdifferent from the usual or conventional [ sentencing]n"
+            },
+            "2 a": {
+                "definition": "one of two or more things, courses, or propositions to be chosen",
+                "sub_terms": {
+                    "b": "something which can be chosen instead"
+                }
+            }
+        },
+        "references": {
+            "alternate": "https://dictionary.findlaw.com/definition/alternate.html",
+            "pleading": "https://dictionary.findlaw.com/definition/pleading.html"
+        }
+    }
+}

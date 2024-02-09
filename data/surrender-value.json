@@ -1,0 +1,13 @@
+{
+    "Surrender Value": {
+        "definition": "cash surrender value",
+        "sub_definitions": {
+            "1": {
+                "1": "cash surrender value"
+            }
+        },
+        "references": {
+            "cash surrender value": "https://dictionary.findlaw.com/definition/cash-surrender-value.html"
+        }
+    }
+}

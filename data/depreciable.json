@@ -1,0 +1,12 @@
+{
+    "Depreciable": {
+        "definition": "capable of being depreciated [ property]",
+        "origin": "[ property]",
+        "sub_definitions": {
+            "1": {
+                "1": "capable of being depreciated [ property]"
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "Pen Register": {
+        "definition": "a device that registers the numbers dialed from a telephone compare wiretap NOTE",
+        "origin": "[perhaps from the original use of a pen to mark the dots or dashes used in counting the numbers dialed]",
+        "compare": "wiretap",
+        "sub_definitions": {
+            "1": {
+                "1": "a device that registers the numbers dialed from a telephone compare",
+                "compares": "wiretap",
+                "note": " A court order is always required for the use of a pen register in a criminal investigation, but such use has not been considered a search or interception of communication by the U.S. Supreme Court. Some states have disagreed and discern a privacy interest in such information."
+            }
+        },
+        "references": {
+            "wiretap": "https://dictionary.findlaw.com/definition/wiretap.html"
+        }
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "Regulatory Offense": {
+        "definition": "a violation of a regulation that is not part of a criminal code and that carries the punishment of a fine or imprisonment",
+        "sub_definitions": {
+            "1": {
+                "1": "a violation of a regulation that is not part of a criminal code and that carries the punishment of a fine or imprisonment"
+            },
+            "2": {
+                "1": "administrative crime"
+            }
+        },
+        "references": {
+            "administrative crime": "https://dictionary.findlaw.com/definition/administrative-crime.html"
+        }
+    }
+}

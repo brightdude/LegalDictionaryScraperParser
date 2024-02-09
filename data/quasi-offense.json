@@ -1,0 +1,15 @@
+{
+    "Quasi-Offense": {
+        "definition": "a negligent unlawful act that causes damage to another and for which the law imposes an obligation for damages compare offense",
+        "compare": "offense",
+        "sub_definitions": {
+            "1": {
+                "1": "a negligent unlawful act that causes damage to another and for which the law imposes an obligation for damages compare",
+                "compares": "offense"
+            }
+        },
+        "references": {
+            "offense": "https://dictionary.findlaw.com/definition/offense.html"
+        }
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "Consumer Lease": {
+        "definition": "Consumer Lease",
+        "references": {
+            "lease": "https://dictionary.findlaw.com/definition/lease.html"
+        }
+    }
+}

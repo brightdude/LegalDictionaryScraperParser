@@ -1,0 +1,14 @@
+{
+    "Failure Of Issue": {
+        "definition": "lack of living issue",
+        "sub_definitions": {
+            "definite failure of issue": {
+                "definition": "a failure of issue determined at a specific time set in a will (as at the death of a named taker)"
+            },
+            "indefinite failure of issue": {
+                "definition": "a failure of issue for which no time period is fixed in a will"
+            }
+        },
+        "references": {}
+    }
+}

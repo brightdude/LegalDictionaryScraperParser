@@ -1,0 +1,8 @@
+{
+    "Franchiser": {
+        "definition": "Franchiser",
+        "references": {
+            "franchisor": "https://dictionary.findlaw.com/definition/franchisor.html"
+        }
+    }
+}

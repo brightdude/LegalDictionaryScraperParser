@@ -1,0 +1,11 @@
+{
+    "Mug Shot": {
+        "definition": "a police photograph of a suspect's face or profile that is taken when the suspect is booked",
+        "sub_definitions": {
+            "1": {
+                "1": "a police photograph of a suspect's face or profile that is taken when the suspect is booked"
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "Trustor": {
+        "definition": "settlor",
+        "sub_definitions": {
+            "1": {
+                "1": "settlor"
+            }
+        },
+        "references": {
+            "settlor": "https://dictionary.findlaw.com/definition/settlor.html"
+        }
+    }
+}

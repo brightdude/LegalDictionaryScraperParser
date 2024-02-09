@@ -1,0 +1,16 @@
+{
+    "General Appearance": {
+        "definition": "a court appearance by which a party submits to the jurisdiction of the court esp. by asking for any relief other than a ruling that the court has no jurisdiction over the appearing party compare special appearance NOTE",
+        "compare": "special appearance",
+        "sub_definitions": {
+            "1": {
+                "1": "a court appearance by which a party submits to the jurisdiction of the court esp. by asking for any relief other than a ruling that the court has no jurisdiction over the appearing party compare",
+                "compares": "special appearance",
+                "note": " General and special appearances are not used in the federal courts or in state courts that follow the Federal Rules of Civil Procedure."
+            }
+        },
+        "references": {
+            "special appearance": "https://dictionary.findlaw.com/definition/special-appearance.html"
+        }
+    }
+}

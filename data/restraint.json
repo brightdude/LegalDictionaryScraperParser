@@ -1,0 +1,23 @@
+{
+    "Restraint": {
+        "definition": "an act or fact of restraining see also prior restraint b",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "an act or fact of restraining see also",
+                "sub_terms": {
+                    "b": "the state of being restrained"
+                },
+                "see also": "prior restraint"
+            },
+            "2 a": {
+                "definition": "a means of restraining",
+                "sub_terms": {
+                    "b": "a device that restricts movement (as of prisoners or violent psychiatric patients)"
+                }
+            }
+        },
+        "references": {
+            "prior restraint": "https://dictionary.findlaw.com/definition/prior-restraint.html"
+        }
+    }
+}

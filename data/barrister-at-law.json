@@ -1,0 +1,13 @@
+{
+    "Barrister-At-Law": {
+        "definition": "barristers-at-law",
+        "sub_definitions": {
+            "barristers-at-law": {
+                "definition": "often used as a formal title"
+            }
+        },
+        "references": {
+            "barrister": "https://dictionary.findlaw.com/definition/barrister.html"
+        }
+    }
+}

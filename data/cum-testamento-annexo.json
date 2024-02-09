@@ -1,0 +1,14 @@
+{
+    "Cum Testamento Annexo": {
+        "definition": "attended by a will see also administrator cum testamento annexo at administrator",
+        "origin": "[New Latin, literally, with a will attached]",
+        "sub_definitions": {
+            "1": {
+                "1": "attended by a will see also"
+            }
+        },
+        "references": {
+            "administrator": "https://dictionary.findlaw.com/definition/administrator.html"
+        }
+    }
+}

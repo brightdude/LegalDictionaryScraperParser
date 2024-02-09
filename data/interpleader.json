@@ -1,0 +1,25 @@
+{
+    "Interpleader": {
+        "definition": "a proceeding by which a person compels parties making the same claim against him or her to litigate the matter between themselves see also bill in the nature of interpleader and bill of interpleader at bill compare counterclaim",
+        "origin": "[Anglo-French enterpleder , from enterpleder , verb]",
+        "compare": "bill",
+        "sub_definitions": {
+            "1": {
+                "1": "a proceeding by which a person compels parties making the same claim against him or her to litigate the matter between themselves see also",
+                "compares": "counterclaim",
+                "note": " When an interpleader is initiated, the person holding the property or owing the obligation that is the subject of the adverse claims usually must deposit the property or post a bond with the court."
+            },
+            "2": {
+                "1": "a person who is a party to an interpleader action"
+            }
+        },
+        "references": {
+            "bill": "https://dictionary.findlaw.com/definition/bill.html",
+            "counterclaim": "https://dictionary.findlaw.com/definition/counterclaim.html",
+            "cross-claim": "https://dictionary.findlaw.com/definition/cross-claim.html",
+            "impleader": "https://dictionary.findlaw.com/definition/impleader.html",
+            "intervention": "https://dictionary.findlaw.com/definition/intervention.html",
+            "joinder": "https://dictionary.findlaw.com/definition/joinder.html"
+        }
+    }
+}

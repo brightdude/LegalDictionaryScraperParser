@@ -1,0 +1,19 @@
+{
+    "Intrusion": {
+        "definition": "the entry at common law of a stranger after a particular estate of freehold is determined before the person who holds it in remainder or reversion has taken possession b",
+        "origin": "[the Fourth Amendment demands that the showing of justification match the degree of \" Berger v. New York , 388 U.S. 41 (1968)\"]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "the entry at common law of a stranger after a particular estate of freehold is determined before the person who holds it in remainder or reversion has taken possession",
+                "sub_terms": {
+                    "b": "the act of wrongfully entering upon, seizing, or taking possession of the property of another"
+                }
+            },
+            "2": {
+                "definition": "a trespassing on or encroachment upon something (as a right) [the Fourth Amendment demands that the showing of justification match the degree of \", 388 U.S. 41 (1968)\"]",
+                "Berger v. New York": "388 U.S. 41 (1968)"
+            }
+        },
+        "references": {}
+    }
+}

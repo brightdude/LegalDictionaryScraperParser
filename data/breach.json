@@ -1,0 +1,58 @@
+{
+    "Breach": {
+        "definition": "a violation in the performance of or a failure to perform an obligation created by a promise",
+        "origin": "[find both the State and the minor guilty of gross es of the rules of procedure \" In re D.L.B., 429 N.E.2d 615 (1981)\"]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "a violation in the performance of or a failure to perform an obligation created by a promise, duty, or law without excuse or justification"
+            },
+            "breach of duty": {
+                "definition": "a breach of a duty esp. by a fiduciary (as an agent or corporate officer) in carrying out the functions of his or her position"
+            },
+            "breach of trust": {
+                "definition": "a breach by a trustee of the terms of a trust (as by stealing from or carelessly mishandling the funds)"
+            },
+            "breach of warranty": {
+                "definition": "a breach by a seller of the terms of a warranty (as by the failure of the goods to conform to the seller's description or by a defect in title)",
+                "sub_terms": {
+                    "b": "failure without excuse or justification to fulfill one's obligations under a contract called alsocompare"
+                },
+                "note": " A seller may be liable for a breach of warranty even without any negligence or misconduct.",
+                "compares": "repudiation"
+            },
+            "an·tic·i·pa·to·ry breach": {
+                "definition": "a breach of contract that occurs as a result of a party's anticipatory repudiation of the contract"
+            },
+            "ef·fi·cient breach": {
+                "definition": "breach of contract in economic theory in which it is more profitable for the breaching party to breach the contract and pay damages than to perform under the contract"
+            },
+            "ma·te·ri·al breach": {
+                "definition": "a breach of contract that is so substantial that it defeats the purpose of the parties in making the contract and gives the nonbreaching party the right to cancel the contract and sue for damages compareat",
+                "note": " Whether a breach is material is a question of fact. Under the Restatement (Second) of Contracts, a material breach gives rise to the right to suspend performance but not to cancel the contract until there is a total breach."
+            },
+            "par·tial breach": {
+                "definition": "a breach of contract in which the breaching party's nonperformance is minor and gives rise to the right to sue for damages but not to suspend performance or cancel the contract compareat"
+            },
+            "to·tal breach": {
+                "definition": "a breach of contract under the Restatement (Second) of Contracts that is so substantial that it gives rise to the right to cancel the contract and sue for damages"
+            },
+            "2 a": {
+                "definition": "a violation or disturbance of something (as a law or condition) [find both the State and the minor guilty of grossof the rules of procedure \"429 N.E.2d 615 (1981)\"] [a of security]",
+                "sub_terms": {
+                    "b": "an act of breaking out [ of prison]"
+                },
+                "In re D.L.B.,": "429 N.E.2d 615 (1981)\"] [a of security]"
+            },
+            "3": {
+                "definition": "the condition of having committed a breach of contract used in the phrase[a terminating party who is not in is entitled to expenses \", 463 S.E.2d 892 (1995)\"]",
+                "in breach": "[a terminating party who is not in is entitled to expenses \"",
+                "C&S/Sovran Corp. v. First Fed. Sav. Bank of Brunswick": "463 S.E.2d 892 (1995)"
+            }
+        },
+        "references": {
+            "repudiation": "https://dictionary.findlaw.com/definition/repudiation.html",
+            "performance": "https://dictionary.findlaw.com/definition/performance.html",
+            "breach of the peace": "https://dictionary.findlaw.com/definition/breach-of-the-peace.html"
+        }
+    }
+}

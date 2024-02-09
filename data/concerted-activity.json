@@ -1,0 +1,12 @@
+{
+    "Concerted Activity": {
+        "definition": "-ties",
+        "sub_definitions": {
+            "-ties": {
+                "definition": "an employee action (as canvassing other employees) that concerns wages or working conditions of others in addition to the employee and that contemplates group activity",
+                "note": " Concerted activities are protected by the National Labor Relations Act and cannot be used as a reason to discharge or discipline an employee."
+            }
+        },
+        "references": {}
+    }
+}

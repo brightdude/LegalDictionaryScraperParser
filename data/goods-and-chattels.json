@@ -1,0 +1,11 @@
+{
+    "Goods And Chattels": {
+        "definition": "personal property of any kind but sometimes limited to tangible property",
+        "sub_definitions": {
+            "1": {
+                "1": "personal property of any kind but sometimes limited to tangible property"
+            }
+        },
+        "references": {}
+    }
+}

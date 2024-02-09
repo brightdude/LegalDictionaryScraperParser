@@ -1,0 +1,15 @@
+{
+    "Donatio Mortis Causa": {
+        "definition": "donation mortis causa at donation",
+        "origin": "[Latin, literally, gift in contemplation of death]",
+        "sub_definitions": {
+            "1": {
+                "1": "donation mortis causa"
+            }
+        },
+        "references": {
+            "donation mortis causa": "https://dictionary.findlaw.com/definition/donation-mortis-causa.html",
+            "donation": "https://dictionary.findlaw.com/definition/donation.html"
+        }
+    }
+}

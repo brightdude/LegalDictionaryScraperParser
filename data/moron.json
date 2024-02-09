@@ -1,0 +1,14 @@
+{
+    "Moron": {
+        "definition": "a moderately or mildly retarded person used esp. formerly see also idiot",
+        "sub_definitions": {
+            "1": {
+                "1": "a moderately or mildly retarded person used esp. formerly see also",
+                "see also": "idiot"
+            }
+        },
+        "references": {
+            "idiot": "https://dictionary.findlaw.com/definition/idiot.html"
+        }
+    }
+}

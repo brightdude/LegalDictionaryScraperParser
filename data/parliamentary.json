@@ -1,0 +1,24 @@
+{
+    "Parliamentary": {
+        "definition": "of or relating to a parliament b",
+        "origin": "[ procedure]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "of or relating to a parliament",
+                "sub_terms": {
+                    "b": "enacted, done, or ratified by a parliament"
+                }
+            },
+            "2": {
+                "definition": "of, based on, or having the characteristics of parliamentary government"
+            },
+            "3": {
+                "definition": "of or relating to the members of a parliament"
+            },
+            "4": {
+                "definition": "of or according to parliamentary law [ procedure]"
+            }
+        },
+        "references": {}
+    }
+}

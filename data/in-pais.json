@@ -1,0 +1,18 @@
+{
+    "In Pais": {
+        "definition": "out of court",
+        "origin": "[Anglo-French en pais in the country, outside court]",
+        "sub_definitions": {
+            "1": {
+                "definition": "out of courtwithout judicial proceedings"
+            },
+            "2 a": {
+                "definition": "not in writing",
+                "sub_terms": {
+                    "b": "not of record"
+                }
+            }
+        },
+        "references": {}
+    }
+}

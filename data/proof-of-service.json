@@ -1,0 +1,11 @@
+{
+    "Proof Of Service": {
+        "definition": "a statement submitted",
+        "sub_definitions": {
+            "1": {
+                "1": "a statement submitted (as by a sheriff) to the court as evidence of successful service of process to a party"
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "Due": {
+        "definition": "satisfying or capable of satisfying an obligation",
+        "origin": "[Old French deu , past participle of devoir to owe, from Latin debere ]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "satisfying or capable of satisfying an obligation, duty, or requirement under the law [the buyer's performance under the contract] [ proof of loss]",
+                "sub_terms": {
+                    "b": "proper under the law [obstructing administration of justice]"
+                }
+            },
+            "2": {
+                "definition": "capable of being attributed used with[any loss to neglect]",
+                "to": "[any loss to neglect]"
+            },
+            "3 a": {
+                "definition": "having reached the date at which payment is required",
+                "sub_terms": {
+                    "b": "owed though not yet required to be paid"
+                }
+            }
+        },
+        "references": {
+            "payable": "https://dictionary.findlaw.com/definition/payable.html",
+            "reasonable": "https://dictionary.findlaw.com/definition/reasonable.html"
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "Exculpatory No Doctrine": {
+        "definition": "a doctrine in federal criminal law",
+        "sub_definitions": {
+            "1": {
+                "1": "a doctrine in federal criminal law: an individual cannot be charged with making a false statement if the statement is a false denial of guilt made in response to a federal investigator's question",
+                "note": " This doctrine is based on the Fifth Amendment protection against self-incrimination, and is often used as a defense to a charge of knowingly making a false statement. The doctrine is recognized in most federal Courts of Appeals."
+            }
+        },
+        "references": {}
+    }
+}

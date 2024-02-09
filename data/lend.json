@@ -1,0 +1,14 @@
+{
+    "Lend": {
+        "definition": "to give for temporary use on condition that the same or its equivalent be returned 2",
+        "sub_definitions": {
+            "1": {
+                "definition": "to give for temporary use on condition that the same or its equivalent be returned"
+            },
+            "2": {
+                "definition": "to let out (money) for temporary use on condition of repayment with interestto make a loan"
+            }
+        },
+        "references": {}
+    }
+}

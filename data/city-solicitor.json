@@ -1,0 +1,13 @@
+{
+    "City Solicitor": {
+        "definition": "city attorney",
+        "sub_definitions": {
+            "1": {
+                "1": "city attorney"
+            }
+        },
+        "references": {
+            "city attorney": "https://dictionary.findlaw.com/definition/city-attorney.html"
+        }
+    }
+}

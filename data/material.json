@@ -1,0 +1,30 @@
+{
+    "Material": {
+        "definition": "of",
+        "origin": "[the terms of the contract]",
+        "sub_definitions": {
+            "1": {
+                "definition": "of, relating to, or consisting of physical matter"
+            },
+            "2": {
+                "definition": "being of real importance or consequence"
+            },
+            "3": {
+                "definition": "being an essential component [the terms of the contract]"
+            },
+            "4": {
+                "definition": "being relevant to a subject under considerationbeing such as would affect or be taken into consideration by a reasonable person in acting or making a decision see also",
+                "see also": "insider trading"
+            },
+            "ma·te·ri·al·lyadv": {
+                "definition": "nsomething used for or made the object of consideration or studysee also",
+                "see also": "brady material"
+            }
+        },
+        "references": {
+            "insider trading": "https://dictionary.findlaw.com/definition/insider-trading.html",
+            "evidence": "https://dictionary.findlaw.com/definition/evidence.html",
+            "brady material": "https://dictionary.findlaw.com/definition/brady-material.html"
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "Full Interdiction": {
+        "definition": "interdiction",
+        "sub_definitions": {
+            "1": {
+                "1": "interdiction"
+            }
+        },
+        "references": {
+            "interdiction": "https://dictionary.findlaw.com/definition/interdiction.html"
+        }
+    }
+}

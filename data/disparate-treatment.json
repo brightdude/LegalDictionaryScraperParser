@@ -1,0 +1,16 @@
+{
+    "Disparate Treatment": {
+        "definition": "treatment of an individual",
+        "compare": "bona fide occupational qualification",
+        "sub_definitions": {
+            "1": {
+                "1": "treatment of an individual (as an employee or prospective juror) that is less favorable than treatment of others for discriminatory reasons (as race, religion, national origin, sex, or disability) compare",
+                "compares": "bona fide occupational qualification"
+            }
+        },
+        "references": {
+            "bona fide occupational qualification": "https://dictionary.findlaw.com/definition/bona-fide-occupational-qualification.html",
+            "disparate impact": "https://dictionary.findlaw.com/definition/disparate-impact.html"
+        }
+    }
+}

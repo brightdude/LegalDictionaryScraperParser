@@ -1,0 +1,11 @@
+{
+    "Arrestee": {
+        "definition": "a person who is or was under arrest",
+        "sub_definitions": {
+            "1": {
+                "1": "a person who is or was under arrest"
+            }
+        },
+        "references": {}
+    }
+}

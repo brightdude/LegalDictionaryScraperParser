@@ -1,0 +1,15 @@
+{
+    "Cestui Que Trust": {
+        "definition": "cestuis que trust or",
+        "origin": "[-trəs-tənt]",
+        "sub_definitions": {
+            "cestuis que trus·tent": {
+                "definition": "[-trəs-tənt][Anglo-French, probably alteration of]the beneficiary of a trust compare",
+                "compares": "trustee"
+            }
+        },
+        "references": {
+            "trustee": "https://dictionary.findlaw.com/definition/trustee.html"
+        }
+    }
+}

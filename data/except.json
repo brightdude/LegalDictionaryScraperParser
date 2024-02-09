@@ -1,0 +1,26 @@
+{
+    "Except": {
+        "definition": "to take or leave out",
+        "origin": "[specifically ed the air carriers and unions from the provisions \"M. A. Kelly\"]",
+        "sub_definitions": {
+            "1": {
+                "1": "to take or leave out (as from insurance coverage or a deed)"
+            },
+            "2": {
+                "1": "exclude",
+                "ed": "the air carriers and unions from the provisions \"M. A. Kelly\"]"
+            },
+            "3": {
+                "1": "object"
+            },
+            "4": {
+                "1": "to file a bill of exceptions or make a formal exception [",
+                "ed": "to the judge's order]"
+            }
+        },
+        "references": {
+            "exclude": "https://dictionary.findlaw.com/definition/exclude.html",
+            "object": "https://dictionary.findlaw.com/definition/object.html"
+        }
+    }
+}

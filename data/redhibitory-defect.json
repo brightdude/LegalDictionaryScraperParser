@@ -1,0 +1,14 @@
+{
+    "Redhibitory Defect": {
+        "definition": "a defect that renders a thing useless or so diminishes its usefulness or value that it must be presumed that the buyer would not have bought it or would have paid a lesser price if aware of the defect [a seller is deemed to know that the thing he sells has a redhibitory defect when he is a manufacturer of that thing \" Louisiana Civil Code \"] called also redhibitory vice NOTE",
+        "origin": "[a seller is deemed to know that the thing he sells has a redhibitory defect when he is a manufacturer of that thing \" Louisiana Civil Code \"]",
+        "sub_definitions": {
+            "1": {
+                "1": "a defect that renders a thing useless or so diminishes its usefulness or value that it must be presumed that the buyer would not have bought it or would have paid a lesser price if aware of the defect [a seller is deemed to know that the thing he sells has a",
+                "Louisiana Civil Code": "\"] called also",
+                "note": " A seller that knows of a redhibitory defect but omits to declare it, or that declares the thing to have a quality he or she knows it does not, is liable for return of the purchase price with interest and for damages, other expenses, and reasonable attorney's fees. The seller may, however, be allowed credit for value resulting from the use or fruits of the thing."
+            }
+        },
+        "references": {}
+    }
+}

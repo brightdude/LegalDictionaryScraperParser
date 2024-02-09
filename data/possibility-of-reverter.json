@@ -1,0 +1,15 @@
+{
+    "Possibility Of Reverter": {
+        "definition": "a future interest in property that is retained by the grantor of a conditional fee or determinable fee and by which property reverts to the grantor upon the occurrence of a particular event or fulfillment of a particular condition compare reversion",
+        "compare": "reversion",
+        "sub_definitions": {
+            "1": {
+                "1": "a future interest in property that is retained by the grantor of a conditional fee or determinable fee and by which property reverts to the grantor upon the occurrence of a particular event or fulfillment of a particular condition compare",
+                "compares": "reversion"
+            }
+        },
+        "references": {
+            "reversion": "https://dictionary.findlaw.com/definition/reversion.html"
+        }
+    }
+}

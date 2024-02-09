@@ -1,0 +1,13 @@
+{
+    "Legal Detriment": {
+        "definition": "detriment",
+        "sub_definitions": {
+            "1": {
+                "1": "detriment"
+            }
+        },
+        "references": {
+            "detriment": "https://dictionary.findlaw.com/definition/detriment.html"
+        }
+    }
+}

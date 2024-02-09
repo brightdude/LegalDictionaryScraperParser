@@ -1,0 +1,25 @@
+{
+    "Chancellor": {
+        "definition": "the head of a chancery",
+        "origin": "[Old French chancelier royal secretary, from Late Latin cancellarius doorkeeper, clerk, from Latin cancellus latticework barrier]",
+        "sub_definitions": {
+            "1": {
+                "definition": "the head of a chancery",
+                "sub_terms": {
+                    "a": "the Lord Chancellor of Great Britain",
+                    "b": "a judge in a court of equity in various states"
+                }
+            },
+            "2 a": {
+                "definition": "a university president",
+                "sub_terms": {
+                    "b": "the chief executive officer in some state systems of higher education"
+                }
+            },
+            "3": {
+                "definition": "the chief minister of state in some European countries (as Germany)"
+            }
+        },
+        "references": {}
+    }
+}

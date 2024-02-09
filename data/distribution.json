@@ -1,0 +1,27 @@
+{
+    "Distribution": {
+        "definition": "the act or process of distributing",
+        "origin": "[di-stri-by-tiv]",
+        "sub_definitions": {
+            "1": {
+                "definition": "the act or process of distributing",
+                "sub_terms": {
+                    "a": "the apportionment by a court of the property and esp. personal property of an intestate among those entitled to it according to statute compare,",
+                    "b": "the payment or transfer to a beneficiary of interest to which he or she is entitled under a trust",
+                    "c": "the transfer by a corporation or mutual fund of money or property to a shareholder in his or her capacity as a shareholder",
+                    "d": "the initial offering to the public of a security by a corporation",
+                    "e": "the delivery of a controlled substance"
+                },
+                "note": " The laws dealing with intestate succession are often called laws of descent and distribution.",
+                "compares": "descent"
+            },
+            "2": {
+                "definition": "something distributed"
+            }
+        },
+        "references": {
+            "descent": "https://dictionary.findlaw.com/definition/descent.html",
+            "devise": "https://dictionary.findlaw.com/definition/devise.html"
+        }
+    }
+}

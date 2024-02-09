@@ -1,0 +1,8 @@
+{
+    "Bridge Loan": {
+        "definition": "Bridge Loan",
+        "references": {
+            "loan": "https://dictionary.findlaw.com/definition/loan.html"
+        }
+    }
+}

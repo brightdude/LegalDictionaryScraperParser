@@ -1,0 +1,16 @@
+{
+    "Deponent": {
+        "definition": "a person who gives a deposition compare affiant",
+        "compare": "affiant",
+        "sub_definitions": {
+            "1": {
+                "1": "a person who gives a deposition compare",
+                "compares": "affiant"
+            }
+        },
+        "references": {
+            "affiant": "https://dictionary.findlaw.com/definition/affiant.html",
+            "witness": "https://dictionary.findlaw.com/definition/witness.html"
+        }
+    }
+}

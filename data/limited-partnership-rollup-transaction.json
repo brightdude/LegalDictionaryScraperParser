@@ -1,0 +1,14 @@
+{
+    "Limited Partnership Rollup Transaction": {
+        "definition": "the combining or reorganizing of one or more limited partnerships into an entity",
+        "sub_definitions": {
+            "1": {
+                "1": "the combining or reorganizing of one or more limited partnerships into an entity (as a master limited partnership or real estate investment trust) that can be publicly traded"
+            },
+            "2": {
+                "1": "such a transaction in which some or all of the investors suffer adverse changes including the receipt of new securities without an option to receive or retain securities having the same terms as those originally purchased called also"
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "Universal": {
+        "definition": "encompassing or burdening all of one's property esp. causa mortis [granted him a usufruct] see also universal legacy at legacy compare universal title at title b",
+        "origin": "[granted him a usufruct]",
+        "sub_definitions": {
+            "1": {
+                "sub_terms": {
+                    "a": "encompassing or burdening all of one's property esp. causa mortis [granted him a usufruct] see alsoatcompareat",
+                    "b": "of or relating to a universal conveyance or a conveyance under a universal title [a donee] see also"
+                },
+                "see also": "universal successor"
+            },
+            "2": {
+                "definition": "not confined by limitations or exceptionsgeneral in application"
+            }
+        },
+        "references": {
+            "legacy": "https://dictionary.findlaw.com/definition/legacy.html",
+            "title": "https://dictionary.findlaw.com/definition/title.html",
+            "universal successor": "https://dictionary.findlaw.com/definition/universal-successor.html"
+        }
+    }
+}

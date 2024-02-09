@@ -1,0 +1,12 @@
+{
+    "Advisory Jury": {
+        "definition": "a jury impaneled at the discretion of a trial judge to assist the judge in deciding a case NOTE",
+        "sub_definitions": {
+            "1": {
+                "1": "a jury impaneled at the discretion of a trial judge to assist the judge in deciding a case",
+                "note": " Advisory juries are allowed in cases in which there is no right to a jury or in which the right to a jury has been waived. The judge may follow or disregard the advisory jury's verdict."
+            }
+        },
+        "references": {}
+    }
+}

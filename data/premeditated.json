@@ -1,0 +1,19 @@
+{
+    "Premeditated": {
+        "definition": "having been thought about at some point before being committed [any killing] ;also",
+        "origin": "[any killing]",
+        "compare": "deliberate",
+        "sub_definitions": {
+            "1": {
+                "1": "having been thought about at some point before being committed [any killing]"
+            },
+            "2": {
+                "1": "having been formed prior to commission of the act [with malice] compare",
+                "compares": "deliberate"
+            }
+        },
+        "references": {
+            "deliberate": "https://dictionary.findlaw.com/definition/deliberate.html"
+        }
+    }
+}

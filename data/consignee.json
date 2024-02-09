@@ -1,0 +1,11 @@
+{
+    "Consignee": {
+        "definition": "a person to whom goods are consigned",
+        "sub_definitions": {
+            "1": {
+                "1": "a person to whom goods are consigned"
+            }
+        },
+        "references": {}
+    }
+}

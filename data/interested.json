@@ -1,0 +1,15 @@
+{
+    "Interested": {
+        "definition": "having a recognizable interest in a matter compare interest",
+        "compare": "interest",
+        "sub_definitions": {
+            "1": {
+                "1": "having a recognizable interest in a matter compare",
+                "compares": "interest"
+            }
+        },
+        "references": {
+            "interest": "https://dictionary.findlaw.com/definition/interest.html"
+        }
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "Preamble": {
+        "definition": "an introductory statement",
+        "origin": "[Middle French preambule , from Medieval Latin preambulum , from Late Latin, neuter of preambulus walking in front of, from Latin prae- + ambulare to walk]",
+        "sub_definitions": {
+            "1": {
+                "1": "an introductory statement (as to a contract)"
+            },
+            "2": {
+                "1": "the introductory part of a constitution or statute that usually states the reasons for and intent of the law",
+                "note": " While preambles do not state law and therefore are not judicially enforceable, they are used to determine legislative intent when interpreting statutes."
+            }
+        },
+        "references": {}
+    }
+}

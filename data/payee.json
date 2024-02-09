@@ -1,0 +1,19 @@
+{
+    "Payee": {
+        "definition": "a person to whom money is to be or has been paid ;specif",
+        "compare": "drawee",
+        "sub_definitions": {
+            "1": {
+                "1": "a person to whom money is to be or has been paid"
+            },
+            "2": {
+                "1": "the person named in a bill of exchange, note, or check as the one to whom the amount is directed to be paid compare",
+                "compares": "drawee"
+            }
+        },
+        "references": {
+            "drawee": "https://dictionary.findlaw.com/definition/drawee.html",
+            "drawer": "https://dictionary.findlaw.com/definition/drawer.html"
+        }
+    }
+}

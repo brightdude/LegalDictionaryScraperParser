@@ -1,0 +1,8 @@
+{
+    "Paid-In Fund": {
+        "definition": "Paid-In Fund",
+        "references": {
+            "fund": "https://dictionary.findlaw.com/definition/fund.html"
+        }
+    }
+}

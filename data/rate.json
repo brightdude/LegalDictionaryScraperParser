@@ -1,0 +1,28 @@
+{
+    "Rate": {
+        "definition": "a fixed ratio between two things 2",
+        "sub_definitions": {
+            "1": {
+                "definition": "a fixed ratio between two things"
+            },
+            "2": {
+                "definition": "a charge, payment, or price fixed according to a ratio, scale, or standard",
+                "sub_terms": {
+                    "a": "a charge per unit of a commodity provided by a public utility",
+                    "b": "a charge per unit of freight or passenger service see also",
+                    "c": "a unit charge or ratio used in assessing property taxes"
+                },
+                "see also": "joint rate"
+            },
+            "3 a": {
+                "definition": "a quantity, amount, or degree of something measured per unit of something else",
+                "sub_terms": {
+                    "b": "an amount of payment or charge based on another amountthe amount of premium per unit of insurance"
+                }
+            }
+        },
+        "references": {
+            "joint rate": "https://dictionary.findlaw.com/definition/joint-rate.html"
+        }
+    }
+}

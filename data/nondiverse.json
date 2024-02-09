@@ -1,0 +1,16 @@
+{
+    "Nondiverse": {
+        "definition": "having the same citizenship as another party in a lawsuit [a defendant] compare diverse",
+        "origin": "[a defendant]",
+        "compare": "diverse",
+        "sub_definitions": {
+            "1": {
+                "1": "having the same citizenship as another party in a lawsuit [a defendant] compare",
+                "compares": "diverse"
+            }
+        },
+        "references": {
+            "diverse": "https://dictionary.findlaw.com/definition/diverse.html"
+        }
+    }
+}

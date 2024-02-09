@@ -1,0 +1,13 @@
+{
+    "Conditionally Privileged Communication": {
+        "definition": "privileged communication",
+        "sub_definitions": {
+            "1": {
+                "1": "privileged communication"
+            }
+        },
+        "references": {
+            "privileged communication": "https://dictionary.findlaw.com/definition/privileged-communication.html"
+        }
+    }
+}

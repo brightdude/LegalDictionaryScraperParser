@@ -1,0 +1,11 @@
+{
+    "Retainage": {
+        "definition": "a percentage of a contract price retained from a contractor as assurance that subcontractors will be paid and that the job will be completed",
+        "sub_definitions": {
+            "1": {
+                "1": "a percentage of a contract price retained from a contractor as assurance that subcontractors will be paid and that the job will be completed"
+            }
+        },
+        "references": {}
+    }
+}

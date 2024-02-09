@@ -1,0 +1,19 @@
+{
+    "Factor": {
+        "definition": "one who acts or transacts business for another",
+        "origin": "[Medieval Latin, doer, maker, agent, from Latin, maker, from facere to do, make]",
+        "sub_definitions": {
+            "1": {
+                "definition": "one who acts or transacts business for another",
+                "sub_terms": {
+                    "a": "a commercial agent who buys or sells goods for others on commission",
+                    "b": "one that lends money to producers and dealers (as on the security of accounts receivable)"
+                }
+            },
+            "2": {
+                "definition": "a person or thing that actively contributes to the production of a result [a difference in salary based on a other than sex]"
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "General Deposit": {
+        "definition": "General Deposit",
+        "references": {
+            "deposit": "https://dictionary.findlaw.com/definition/deposit.html"
+        }
+    }
+}

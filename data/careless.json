@@ -1,0 +1,20 @@
+{
+    "Careless": {
+        "definition": "not showing due care",
+        "origin": "[ driving]",
+        "compare": "negligent",
+        "sub_definitions": {
+            "1": {
+                "1": "not showing due care"
+            },
+            "2": {
+                "1": "negligent",
+                "compares": "reckless"
+            }
+        },
+        "references": {
+            "negligent": "https://dictionary.findlaw.com/definition/negligent.html",
+            "reckless": "https://dictionary.findlaw.com/definition/reckless.html"
+        }
+    }
+}

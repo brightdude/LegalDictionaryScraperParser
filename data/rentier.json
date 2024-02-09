@@ -1,0 +1,12 @@
+{
+    "Rentier": {
+        "definition": "a person who lives on income from property or securities",
+        "origin": "[French, from rente income from a property, rent]",
+        "sub_definitions": {
+            "1": {
+                "1": "a person who lives on income from property or securities"
+            }
+        },
+        "references": {}
+    }
+}

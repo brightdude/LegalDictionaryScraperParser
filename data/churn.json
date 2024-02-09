@@ -1,0 +1,12 @@
+{
+    "Churn": {
+        "definition": "to make",
+        "sub_definitions": {
+            "1": {
+                "1": "to make (the account of a client) excessively active by frequent purchases and sales primarily in order to generate commissions",
+                "note": " Churning is a violation of federal securities laws."
+            }
+        },
+        "references": {}
+    }
+}

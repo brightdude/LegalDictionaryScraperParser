@@ -1,0 +1,17 @@
+{
+    "Youthful Offender": {
+        "definition": "a young person",
+        "compare": "juvenile delinquent",
+        "sub_definitions": {
+            "1": {
+                "1": "a young person (as one within a statutorily specified age range) who commits a crime but is granted special status entitling him or her to a more lenient punishment (as one involving probation or confinement in a special youth correctional facility) than would otherwise be available compare",
+                "compares": "juvenile delinquent",
+                "note": " Young individuals who are no longer juveniles may be categorized as youthful offenders. Youthful offender treatment is generally designed to free a young person from the negative consequences of being convicted and punished as an adult, in the hope that he or she will be rehabilitated. Factors in the determination of youthful offender status include the crime and the criminal history of the individual."
+            }
+        },
+        "references": {
+            "juvenile delinquent": "https://dictionary.findlaw.com/definition/juvenile-delinquent.html",
+            "status offender": "https://dictionary.findlaw.com/definition/status-offender.html"
+        }
+    }
+}

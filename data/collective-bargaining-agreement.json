@@ -1,0 +1,17 @@
+{
+    "Collective Bargaining Agreement": {
+        "definition": "an agreement between an employer and a labor union produced through collective bargaining",
+        "sub_definitions": {
+            "1": {
+                "1": "an agreement between an employer and a labor union produced through collective bargaining"
+            },
+            "2": {
+                "1": "labor contract"
+            }
+        },
+        "references": {
+            "labor contract": "https://dictionary.findlaw.com/definition/labor-contract.html",
+            "contract": "https://dictionary.findlaw.com/definition/contract.html"
+        }
+    }
+}

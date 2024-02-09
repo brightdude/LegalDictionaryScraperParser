@@ -1,0 +1,15 @@
+{
+    "Corporal Punishment": {
+        "definition": "punishment inflicted on a person's body see also cruel and unusual punishment NOTE",
+        "sub_definitions": {
+            "1": {
+                "1": "punishment inflicted on a person's body see also",
+                "see also": "cruel and unusual punishment",
+                "note": " The prohibition on cruel and unusual punishment in the Eighth Amendment to the U.S. Constitution imposes limits on the use of corporal punishment on convicted offenders and prisoners. The U.S. Supreme Court has found the Eighth Amendment to be inapplicable to the use of corporal punishment on schoolchildren."
+            }
+        },
+        "references": {
+            "cruel and unusual punishment": "https://dictionary.findlaw.com/definition/cruel-and-unusual-punishment.html"
+        }
+    }
+}

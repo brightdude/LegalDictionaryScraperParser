@@ -1,0 +1,11 @@
+{
+    "Warehouse Receipt": {
+        "definition": "a receipt issued by a person engaged in the business of storage for hire that constitutes a document of title",
+        "sub_definitions": {
+            "1": {
+                "1": "a receipt issued by a person engaged in the business of storage for hire that constitutes a document of title"
+            }
+        },
+        "references": {}
+    }
+}

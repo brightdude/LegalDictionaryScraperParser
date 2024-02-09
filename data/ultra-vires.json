@@ -1,0 +1,17 @@
+{
+    "Ultra Vires": {
+        "definition": "beyond the scope or in excess of legal power or authority",
+        "origin": "[Latin, beyond the power or means (of)]",
+        "compare": "intra vires",
+        "sub_definitions": {
+            "1": {
+                "1": "beyond the scope or in excess of legal power or authority (as of a corporation) [the agency acted",
+                "ultra vires": "] [the agreement was",
+                "compares": "intra vires"
+            }
+        },
+        "references": {
+            "intra vires": "https://dictionary.findlaw.com/definition/intra-vires.html"
+        }
+    }
+}

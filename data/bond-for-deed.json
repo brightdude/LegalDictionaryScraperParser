@@ -1,0 +1,13 @@
+{
+    "Bond For Deed": {
+        "definition": ">contract for deed at contract used in Louisiana",
+        "sub_definitions": {
+            "1": {
+                "1": ">contract for deed at"
+            }
+        },
+        "references": {
+            "contract": "https://dictionary.findlaw.com/definition/contract.html"
+        }
+    }
+}

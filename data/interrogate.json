@@ -1,0 +1,16 @@
+{
+    "Interrogate": {
+        "definition": "to question formally and systematically ;esp",
+        "origin": "[in-ter-ə-gā-shən]",
+        "sub_definitions": {
+            "-gat·ing": {
+                "definition": "to question formally and systematicallyto gather information from (a suspect) by means that are reasonably likely to elicit incriminating responses see also",
+                "note": " UnderRhode Island v. Innis, 446 U.S. 291 (1980), interrogating includes not just express questioning, but also any words or actions that the police should know are reasonably likely to elicit an incriminating response. Asking questions that are normally asked in the course of arrest or booking (such as questions about name or age) is not considered interrogation.",
+                "see also": "miranda rights"
+            }
+        },
+        "references": {
+            "miranda rights": "https://dictionary.findlaw.com/definition/miranda-rights.html"
+        }
+    }
+}

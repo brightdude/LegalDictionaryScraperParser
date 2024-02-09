@@ -1,0 +1,19 @@
+{
+    "Infant": {
+        "definition": "a person who is not of the age of majority",
+        "compare": "minor",
+        "sub_definitions": {
+            "1": {
+                "1": "a person who is not of the age of majority"
+            },
+            "2": {
+                "1": "minor",
+                "compares": "adult"
+            }
+        },
+        "references": {
+            "minor": "https://dictionary.findlaw.com/definition/minor.html",
+            "adult": "https://dictionary.findlaw.com/definition/adult.html"
+        }
+    }
+}

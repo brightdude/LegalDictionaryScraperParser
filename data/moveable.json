@@ -1,0 +1,8 @@
+{
+    "Moveable": {
+        "definition": "Moveable",
+        "references": {
+            "movable": "https://dictionary.findlaw.com/definition/movable.html"
+        }
+    }
+}

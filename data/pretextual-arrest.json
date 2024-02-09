@@ -1,0 +1,14 @@
+{
+    "Pretextual Arrest": {
+        "definition": "pretext arrest at arrest",
+        "sub_definitions": {
+            "1": {
+                "1": "pretext arrest"
+            }
+        },
+        "references": {
+            "pretext arrest": "https://dictionary.findlaw.com/definition/pretext-arrest.html",
+            "arrest": "https://dictionary.findlaw.com/definition/arrest.html"
+        }
+    }
+}

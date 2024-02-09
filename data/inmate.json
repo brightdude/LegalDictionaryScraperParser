@@ -1,0 +1,11 @@
+{
+    "Inmate": {
+        "definition": "a person confined in an institution",
+        "sub_definitions": {
+            "1": {
+                "1": "a person confined in an institution (as a prison or hospital)"
+            }
+        },
+        "references": {}
+    }
+}

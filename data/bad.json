@@ -1,0 +1,20 @@
+{
+    "Bad": {
+        "definition": "not valid",
+        "origin": "[ notice]",
+        "sub_definitions": {
+            "1": {
+                "1": "not valid"
+            },
+            "2": {
+                "1": "void"
+            },
+            "3": {
+                "1": "not covered by sufficient funds [a check]"
+            }
+        },
+        "references": {
+            "void": "https://dictionary.findlaw.com/definition/void.html"
+        }
+    }
+}

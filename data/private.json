@@ -1,0 +1,36 @@
+{
+    "Private": {
+        "definition": "intended for or restricted to the use of a particular person or group or class of persons",
+        "origin": "[a park]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "intended for or restricted to the use of a particular person or group or class of personsnot available to the public [a park]",
+                "sub_terms": {
+                    "b": "not related to, controlled by, or deriving from the state [a school]"
+                }
+            },
+            "2 a": {
+                "definition": "owned by or concerning an individual person or entity [ land]",
+                "sub_terms": {
+                    "b": "not having shares that can be freely traded on the open market [a company]"
+                }
+            },
+            "3": {
+                "definition": "affecting the interests of a particular person, class or group of persons, or locality [ legislation] [ rights]"
+            },
+            "4 a": {
+                "definition": "not invested with or engaged in public office or employment [a citizen]",
+                "sub_terms": {
+                    "b": "not related to or dependent on an official position [ correspondence]"
+                }
+            },
+            "5": {
+                "definition": "not known publicly or carried on in publicintended only for the persons involved"
+            },
+            "6": {
+                "definition": "made under private signature [a instrument]"
+            }
+        },
+        "references": {}
+    }
+}

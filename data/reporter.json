@@ -1,0 +1,11 @@
+{
+    "Reporter": {
+        "definition": "one that reports",
+        "compare": "citation",
+        "references": {
+            "citation": "https://dictionary.findlaw.com/definition/citation.html",
+            "advance sheet": "https://dictionary.findlaw.com/definition/advance-sheet.html",
+            "court reporter": "https://dictionary.findlaw.com/definition/court-reporter.html"
+        }
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "Independent Source": {
+        "definition": "a source of evidence that is not connected with unlawful conduct which uncovers the same evidence 2",
+        "sub_definitions": {
+            "1": {
+                "definition": "a source of evidence that is not connected with unlawful conduct which uncovers the same evidence"
+            },
+            "2": {
+                "definition": "a doctrine that permits use of evidence obtained independently of unlawful conduct which uncovers the same evidence or use of evidence that would have been inevitably discovered without the unlawful procedure that led to its discovery compare,",
+                "compares": "fruit of the poisonous tree"
+            }
+        },
+        "references": {
+            "fruit of the poisonous tree": "https://dictionary.findlaw.com/definition/fruit-of-the-poisonous-tree.html",
+            "inevitable discovery": "https://dictionary.findlaw.com/definition/inevitable-discovery.html"
+        }
+    }
+}

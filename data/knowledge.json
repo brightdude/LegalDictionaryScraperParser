@@ -1,0 +1,41 @@
+{
+    "Knowledge": {
+        "definition": "awareness or understanding esp. of an act",
+        "origin": "[the bank had actual knowledge that the name and account number referred to different persons]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "awareness or understanding esp. of an act, a fact, or the truthin this entry",
+                "sub_terms": {
+                    "b": "awareness that a fact or circumstance probably existsin this entry see also,"
+                },
+                "note": " Knowledge fundamentally differs from intent in being grounded in awareness rather than purpose.",
+                "see also": "scienter"
+            },
+            "1": {
+                "definition": "direct and clear awareness (as of a fact or condition) [the bank hadthat the name and account number referred to different persons]",
+                "actual knowledge": "that the name and account number referred to different persons]"
+            },
+            "2": {
+                "definition": "the range of one's information, understanding, or expertise [answered to the best of his ]"
+            },
+            "con·struc·tive knowledge": {
+                "definition": "knowledge (as of a condition or fact) that one using ordinary care or diligence would possess [hadof the presence of narcotics on his property]",
+                "constructive knowledge": "of the presence of narcotics on his property]"
+            },
+            "per·son·al knowledge": {
+                "definition": "direct knowledge of a matter or of the truth or falsity of an allegation [a witness may not testify to a matter unless evidence is introduced sufficient to support a finding that the witness hasof the matter \"Rule 602\"]",
+                "personal knowledge": "of the matter \""
+            },
+            "su·pe·ri·or knowledge": {
+                "definition": "knowledge greater than that possessed by anotherawareness of a condition or fact that affects another who was not aware of it [denied having hadof the hazard] [of a factor in the performance of a contract]",
+                "superior knowledge": "of a factor in the performance of a contract]"
+            }
+        },
+        "references": {
+            "actual knowledge": "https://dictionary.findlaw.com/definition/actual-knowledge.html",
+            "constructive knowledge": "https://dictionary.findlaw.com/definition/constructive-knowledge.html",
+            "scienter": "https://dictionary.findlaw.com/definition/scienter.html",
+            "willful blindness": "https://dictionary.findlaw.com/definition/willful-blindness.html"
+        }
+    }
+}

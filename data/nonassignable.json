@@ -1,0 +1,11 @@
+{
+    "Nonassignable": {
+        "definition": "not assignable",
+        "sub_definitions": {
+            "1": {
+                "1": "not assignable"
+            }
+        },
+        "references": {}
+    }
+}

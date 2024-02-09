@@ -1,0 +1,15 @@
+{
+    "Disposable Portion": {
+        "definition": "the portion of a testate succession that may be donated to legatees other than the forced heir compare marital portion",
+        "compare": "marital portion",
+        "sub_definitions": {
+            "1": {
+                "1": "the portion of a testate succession that may be donated to legatees other than the forced heir compare",
+                "compares": "marital portion"
+            }
+        },
+        "references": {
+            "marital portion": "https://dictionary.findlaw.com/definition/marital-portion.html"
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "Specialty": {
+        "definition": "-ties 1 from the special form of the contract",
+        "sub_definitions": {
+            "1": {
+                "definition": "from the special form of the contractat"
+            },
+            "2": {
+                "definition": "a doctrine providing that a person extradited can be prosecuted only for the charges described in the order for extradition"
+            },
+            "3": {
+                "definition": "real property (as a parcel of land or esp. a structure) that is of such specialized character that no market for it exists and for which value upon condemnation is determined by the cost of reproduction less depreciation used esp. in New York"
+            }
+        },
+        "references": {
+            "formal contract": "https://dictionary.findlaw.com/definition/formal-contract.html",
+            "contract": "https://dictionary.findlaw.com/definition/contract.html"
+        }
+    }
+}

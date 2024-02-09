@@ -1,0 +1,11 @@
+{
+    "Sublimit": {
+        "definition": "a liability limit in an insurance policy for a particular risk",
+        "sub_definitions": {
+            "1": {
+                "1": "a liability limit in an insurance policy for a particular risk (as loss of jewelry by theft) that is below the aggregate liability limit of the policy"
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "Citizen": {
+        "definition": "a native or naturalized individual who owes allegiance to a government",
+        "origin": "[Anglo-French citezein , alteration of Old French citeien , from cité city]",
+        "sub_definitions": {
+            "1": {
+                "definition": "a native or naturalized individual who owes allegiance to a government (as of a state or nation) and is entitled to the enjoyment of governmental protection and to the exercise of civil rights see alsoin the Important Cases sectionto thein the back matter compare",
+                "note": " Under the Fourteenth Amendment, “all persons born or naturalized in the United States, and subject to the jurisdiction thereof, are citizens of the United States and of the state wherein they reside.” A person born outside of the U.S. to parents who were born or naturalized in the U.S. is also a citizen of the U.S. A corporation is not considered a citizen for purposes of the privileges and immunities clause of the Fourteenth Amendment. A corporation is, however, deemed a citizen of the state in which it is incorporated or has its principal place of business for purposes of diversity jurisdiction.",
+                "compares": "resident",
+                "Scott v. Sandford": "in the Important Cases section"
+            },
+            "2": {
+                "definition": "a resident of a town or state who is also a U.S. native or was naturalized in the U.S."
+            }
+        },
+        "references": {
+            "Constitution": "https://dictionary.findlaw.com/definition/constitution.html",
+            "resident": "https://dictionary.findlaw.com/definition/resident.html"
+        }
+    }
+}

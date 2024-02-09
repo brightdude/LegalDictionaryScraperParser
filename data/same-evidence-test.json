@@ -1,0 +1,11 @@
+{
+    "Same Evidence Test": {
+        "definition": "a test for double jeopardy that involves a determination of whether the same facts would support both a prior and second conviction",
+        "sub_definitions": {
+            "1": {
+                "1": "a test for double jeopardy that involves a determination of whether the same facts would support both a prior and second conviction"
+            }
+        },
+        "references": {}
+    }
+}

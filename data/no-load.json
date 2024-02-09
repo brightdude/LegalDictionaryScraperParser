@@ -1,0 +1,11 @@
+{
+    "No-Load": {
+        "definition": "charging no sales commission [a mutual fund] compare load no-load n",
+        "origin": "[a mutual fund]",
+        "compare": "load",
+        "sub_definitions": {},
+        "references": {
+            "load": "https://dictionary.findlaw.com/definition/load.html"
+        }
+    }
+}

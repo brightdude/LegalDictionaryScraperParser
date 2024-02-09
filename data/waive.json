@@ -1,0 +1,23 @@
+{
+    "Waive": {
+        "definition": "to relinquish",
+        "origin": "[Anglo-French waiver weiver , literally to abandon, forsake, from waif weif forlorn, stray, probably from Old Norse veif something loose or flapping]",
+        "sub_definitions": {
+            "waiv·ing": {
+                "definition": "[Anglo-French, literally to abandon, forsake, fromforlorn, stray, probably from Old Norsesomething loose or flapping]"
+            },
+            "1": {
+                "definition": "to relinquish (as a right or privilege) voluntarily and intentionally [the defendanta felony hearing on the charge \"\"] compare,",
+                "compares": "forfeit",
+                "waived": "a felony hearing on the charge \""
+            },
+            "2": {
+                "definition": "to refrain from enforcing or requiring [some statutes the age requirement \"W. M. McGovern, Jr.\"]"
+            }
+        },
+        "references": {
+            "forfeit": "https://dictionary.findlaw.com/definition/forfeit.html",
+            "reserve": "https://dictionary.findlaw.com/definition/reserve.html"
+        }
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "Legislative Day": {
+        "definition": "a period of time during which a legislature is in session that commences with the opening of a daily session and ends with adjournment and that may last more than one calendar day",
+        "sub_definitions": {
+            "1": {
+                "1": "a period of time during which a legislature is in session that commences with the opening of a daily session and ends with adjournment and that may last more than one calendar day"
+            }
+        },
+        "references": {}
+    }
+}

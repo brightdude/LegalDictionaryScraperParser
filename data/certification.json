@@ -1,0 +1,21 @@
+{
+    "Certification": {
+        "definition": "the act of certifying b",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "the act of certifying",
+                "sub_terms": {
+                    "b": "the state of being certified see also"
+                },
+                "note": " Certification of an interlocutory decision by a trial court allows an appellate court to review the decision and to answer a controlling question of law. Certification is often used in state courts as well as federal courts and, where available, allows a federal court to refer a question of state law to the state's highest court. Certification is also used to refer to a judge's order that allows a suit to be maintained as a class action.",
+                "see also": "certiorari"
+            },
+            "2": {
+                "definition": "a certified statement"
+            }
+        },
+        "references": {
+            "certiorari": "https://dictionary.findlaw.com/definition/certiorari.html"
+        }
+    }
+}

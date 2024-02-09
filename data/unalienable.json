@@ -1,0 +1,16 @@
+{
+    "Unalienable": {
+        "definition": "not alienable",
+        "sub_definitions": {
+            "1": {
+                "1": "not alienable"
+            },
+            "2": {
+                "1": "inalienable"
+            }
+        },
+        "references": {
+            "inalienable": "https://dictionary.findlaw.com/definition/inalienable.html"
+        }
+    }
+}

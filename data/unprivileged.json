@@ -1,0 +1,12 @@
+{
+    "Unprivileged": {
+        "definition": "not privileged [ communication]",
+        "origin": "[ communication]",
+        "sub_definitions": {
+            "1": {
+                "1": "not privileged [ communication]"
+            }
+        },
+        "references": {}
+    }
+}

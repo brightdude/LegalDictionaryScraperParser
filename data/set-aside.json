@@ -1,0 +1,22 @@
+{
+    "Set Aside": {
+        "definition": "to disagree with and overturn",
+        "origin": "[ set aside the decree]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to disagree with and overturn (a decision or act of a lower tribunal) upon review[the decree]",
+                "set aside": "the decree]"
+            },
+            "2": {
+                "definition": "to deprive of legal effect or force[maythe contract]",
+                "set aside": "the contract]"
+            }
+        },
+        "references": {
+            "overrule": "https://dictionary.findlaw.com/definition/overrule.html",
+            "vacate": "https://dictionary.findlaw.com/definition/vacate.html",
+            "annul": "https://dictionary.findlaw.com/definition/annul.html",
+            "void": "https://dictionary.findlaw.com/definition/void.html"
+        }
+    }
+}

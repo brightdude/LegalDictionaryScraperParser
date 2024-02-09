@@ -1,0 +1,11 @@
+{
+    "Peace Officer": {
+        "definition": "a civil officer",
+        "sub_definitions": {
+            "1": {
+                "1": "a civil officer (as a police officer) whose duty it is to preserve the public peace"
+            }
+        },
+        "references": {}
+    }
+}

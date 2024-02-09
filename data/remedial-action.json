@@ -1,0 +1,15 @@
+{
+    "Remedial Action": {
+        "definition": "an action taken to effect long-term restoration of environmental quality",
+        "compare": "removal action",
+        "sub_definitions": {
+            "1": {
+                "1": "an action taken to effect long-term restoration of environmental quality (as under the Comprehensive Environmental Response, Compensation, and Liability Act) compare",
+                "compares": "removal action"
+            }
+        },
+        "references": {
+            "removal action": "https://dictionary.findlaw.com/definition/removal-action.html"
+        }
+    }
+}

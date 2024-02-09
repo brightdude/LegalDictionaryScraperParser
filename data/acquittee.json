@@ -1,0 +1,11 @@
+{
+    "Acquittee": {
+        "definition": "a person who is acquitted of a criminal charge",
+        "sub_definitions": {
+            "1": {
+                "1": "a person who is acquitted of a criminal charge"
+            }
+        },
+        "references": {}
+    }
+}

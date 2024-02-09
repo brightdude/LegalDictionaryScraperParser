@@ -1,0 +1,12 @@
+{
+    "Void-For-Vagueness Doctrine": {
+        "definition": "a doctrine requiring that a penal statute define a criminal offense with sufficient definiteness that ordinary people can understand what conduct is prohibited and in a manner that does not encourage arbitrary and discriminatory enforcement NOTE",
+        "sub_definitions": {
+            "1": {
+                "1": "a doctrine requiring that a penal statute define a criminal offense with sufficient definiteness that ordinary people can understand what conduct is prohibited and in a manner that does not encourage arbitrary and discriminatory enforcement",
+                "note": " Under the void-for-vagueness doctrine, a vague law is a violation of due process because the law does not provide fair warning of a prohibition and fails to set standards for enforcement that would govern the exercise of the police power."
+            }
+        },
+        "references": {}
+    }
+}

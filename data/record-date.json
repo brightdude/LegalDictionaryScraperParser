@@ -1,0 +1,11 @@
+{
+    "Record Date": {
+        "definition": "the date on which a corporation determines the identity of its shareholders and their holdings",
+        "sub_definitions": {
+            "1": {
+                "1": "the date on which a corporation determines the identity of its shareholders and their holdings (as for determining who is entitled to notice of a shareholder meeting or who is entitled to vote at such a meeting or to receive dividends) called also"
+            }
+        },
+        "references": {}
+    }
+}

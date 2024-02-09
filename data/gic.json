@@ -1,0 +1,14 @@
+{
+    "Gic": {
+        "definition": "guaranteed investment contract at contract",
+        "sub_definitions": {
+            "1": {
+                "1": "guaranteed investment contract"
+            }
+        },
+        "references": {
+            "guaranteed investment contract": "https://dictionary.findlaw.com/definition/guaranteed-investment-contract.html",
+            "contract": "https://dictionary.findlaw.com/definition/contract.html"
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "Levy": {
+        "definition": "lev·ies 1",
+        "origin": "[providing for a of 3% on income up to $10,000 \"D. Q. Posin\"]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to impose or collect (as a tax or fine) with authority [allow it to stiffer penalties for some safety violations \"\"]"
+            },
+            "2": {
+                "definition": "to enforce or carry into effect (a writ of execution) compare,to enforce a writ of execution or attachmentto make a seizure of real or personal property in a judgment debtor's possession [they might as a last resort on his merchandise \"J. J. White and R. S. Summers\"]",
+                "compares": "attach"
+            }
+        },
+        "references": {
+            "tax": "https://dictionary.findlaw.com/definition/tax.html",
+            "attach": "https://dictionary.findlaw.com/definition/attach.html",
+            "garnish": "https://dictionary.findlaw.com/definition/garnish.html"
+        }
+    }
+}

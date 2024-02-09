@@ -1,0 +1,45 @@
+{
+    "Question": {
+        "definition": "a particular query directed to a witness compare interrogatory hy·po·thet·i·cal question [hī-pə-the-ti-kəl]",
+        "origin": "[hī-pə-the-ti-kəl]",
+        "sub_definitions": {
+            "1": {
+                "definition": "a question of state law that may determine the outcome of a case pending in a federal court and that is submitted by the federal court to the state's highest court when there is no controlling state precedent"
+            },
+            "hy·po·thet·i·cal question": {
+                "definition": "[hī-pə-the-ti-kəl]a question directed to an expert witness (as a physician) that is based on the existence of facts offered in evidence and the answer to which is an opinion to be considered in light of the evidence",
+                "note": " Modern rules of evidence have lessened the need for a hypothetical question setting forth all of the facts to be assumed in answering the question. An expert witness may state an opinion based on data or facts considered reliable in his or her field even if not already disclosed or not admissible as evidence."
+            },
+            "leading question": {
+                "definition": "a question so framed or presented as to suggest a particular answer [should not be used on the direct examination of a witness except as may be necessary to develop his testimony \"Rule 611(c)\"]",
+                "note": " Leading questions are permitted in direct examination of an adverse witness or one who is a child or has a communication disorder. They are ordinarily permitted in cross-examination.",
+                "leading questions": "should not be used on the direct examination of a witness except as may be necessary to develop his testimony \"",
+                "Federal Rules of Evidence": "Rule 611(c)\"]"
+            },
+            "2": {
+                "definition": "a question of law submitted to a federal or state court by a lower court or tribunal [appealed the decision on the]"
+            },
+            "federal question": {
+                "definition": "a question that falls under the jurisdiction of a federal court because it requires a resolution of the construction or application of federal law see alsoat"
+            },
+            "po·lit·i·cal question": {
+                "definition": "a question that the court declines to consider because it involves a political matter that is not justiciable without infringing on the powers of the executive or legislative branch or is not accompanied by guiding policy or discoverable and manageable standards for resolving it see also",
+                "see also": "political question doctrine"
+            },
+            "question of fact": {
+                "definition": "a question that depends on an examination of factual matters, is usually decided by a jury, and is usually not considered on appeal"
+            },
+            "question of law": {
+                "definition": "a question that depends on an examination of law rather than fact, is decided by a judge rather than by a jury, and may be examined on appeal"
+            },
+            "3": {
+                "definition": "a proposition submitted to a vote (as in a referendum)"
+            }
+        },
+        "references": {
+            "interrogatory": "https://dictionary.findlaw.com/definition/interrogatory.html",
+            "jurisdiction": "https://dictionary.findlaw.com/definition/jurisdiction.html",
+            "political question doctrine": "https://dictionary.findlaw.com/definition/political-question-doctrine.html"
+        }
+    }
+}

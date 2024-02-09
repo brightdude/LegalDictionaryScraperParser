@@ -1,0 +1,20 @@
+{
+    "Unavoidable Casualty": {
+        "definition": "unavoidable accident ;also",
+        "compare": "unavoidable accident",
+        "sub_definitions": {
+            "1": {
+                "1": "unavoidable accident"
+            },
+            "2": {
+                "1": "an unavoidable circumstance that prevents the timely performance of a procedural act (as the filing of an answer) by a party or the party's lawyer compare",
+                "compares": "excusable neglect",
+                "note": " As with excusable neglect, showing evidence of unavoidable casualty will relieve a party from a default judgment or a time limit."
+            }
+        },
+        "references": {
+            "unavoidable accident": "https://dictionary.findlaw.com/definition/unavoidable-accident.html",
+            "excusable neglect": "https://dictionary.findlaw.com/definition/excusable-neglect.html"
+        }
+    }
+}

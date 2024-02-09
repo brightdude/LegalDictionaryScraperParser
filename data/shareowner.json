@@ -1,0 +1,13 @@
+{
+    "Shareowner": {
+        "definition": "shareholder",
+        "sub_definitions": {
+            "1": {
+                "1": "shareholder"
+            }
+        },
+        "references": {
+            "shareholder": "https://dictionary.findlaw.com/definition/shareholder.html"
+        }
+    }
+}

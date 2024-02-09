@@ -1,0 +1,130 @@
+{
+    "Jurisdiction": {
+        "definition": "the power",
+        "origin": "[Latin jurisdictio , from juris , genitive of jus law + dictio act of saying, from dicere to say]",
+        "sub_definitions": {
+            "1": {
+                "definition": "the power, right, or authority to interpret, apply, and declare the law (as by rendering a decision) [to be removed to the State having of the crime \"art. IV\"] [a court of competent ] see alsoin the Important Cases section compare",
+                "note": " Jurisdiction determines which court system should properly adjudicate a case. Questions of jurisdiction also arise regarding quasi-judicial bodies (as administrative agencies) in their decision-making capacities.",
+                "compares": "venue",
+                "see also": "situs",
+                "U.S. Constitution": "art. IV\"] [a court of competent ] see also",
+                "International Shoe Co. v. Washington": "in the Important Cases section compare"
+            },
+            "ancillary jurisdiction": {
+                "definition": "jurisdiction giving a court the power to adjudicate claims (as counterclaims and cross-claims) because they arise from a cause of action over which the court has original jurisdictionsupplemental jurisdiction acquired by a federal court allowing it to adjudicate claims that are based on state law but that form part of a case brought to the court under its diversity jurisdiction comparein this entry",
+                "note": " Ancillary jurisdiction allows a single court to decide an entire case instead of dividing the claims among several courts and proceedings, and allows a federal court to decide a claim that would otherwise be properly brought to a state court.",
+                "compares": "pendent jurisdiction"
+            },
+            "appellate jurisdiction": {
+                "definition": "the jurisdiction granted to particular courts to hear appeals of the decisions of lower tribunals and to reverse, affirm, or modify those decisions comparein this entry",
+                "compares": "original jurisdiction"
+            },
+            "concurrent jurisdiction": {
+                "definition": "jurisdiction that is shared by different courts and that may allow for removal [two states may haveover crimes committed on boundary rivers \"W. R. LaFave and A. W. Scott, Jr.\"]",
+                "concurrent jurisdiction": "over crimes committed on boundary rivers \"W. R. LaFave and A. W. Scott, Jr.\"]"
+            },
+            "diversity jurisdiction": {
+                "definition": "the jurisdiction granted to federal courts over civil disputes involving parties having diverse citizenship (as in being from different states) where the matter in controversy exceeds a statutory amount (as $50,000) see alsoof thein the back matter",
+                "note": " The diversity jurisdiction of the district courts requires that there be complete diversity of the parties, which means that no party on one side has the same citizenship as a party on the other side. Interpleader in federal district courts, however, requires only minimal diversity, which means that at least one party has citizenship that differs from the others. The federal courts have traditionally refused to exercise their diversity jurisdiction over cases involving domestic relations and probate."
+            },
+            "exclusive jurisdiction": {
+                "definition": "jurisdiction granted only to a particular court to the exclusion of others [federal courts haveover bankruptcy cases]",
+                "exclusive jurisdiction": "over bankruptcy cases]"
+            },
+            "federal question jurisdiction": {
+                "definition": "the jurisdiction granted to federal courts over civil actions arising under the Constitution, federal laws, or treaties of the U.S.federal jurisdiction over cases involving a federal question see also",
+                "note": " The federal courts have usually interpreted the statutory phrase “arising under” rather strictly. U.S. Supreme Court decisions have held that the plaintiff's pleading must establish that the cause of action raises an issue of federal law (as by depending on construction or application of a federal law).",
+                "see also": "well-pleaded complaint rule"
+            },
+            "general jurisdiction": {
+                "definition": "jurisdiction that is not limited (as to a particular class of cases)the personal jurisdiction granted a court over a party allowing the court to adjudicate a cause of action that does not arise out of or is not related to the party's contacts within the territory of that court"
+            },
+            "in per·so·nam jurisdiction": {
+                "definition": "[in-pər-sō-nəm-, -per-sō-nÄ m-]the jurisdiction granted a court over persons before it that allows the court to issue a binding judgmentin this entry"
+            },
+            "in rem jurisdiction": {
+                "definition": "[in-rem-]the jurisdiction granted a court over property that allows the court to issue binding judgments (as an order for partition) affecting a person's interests in the property comparein this entry",
+                "compares": "personal jurisdiction"
+            },
+            "jurisdiction in personam": {
+                "definition": "in this entry"
+            },
+            "jurisdiction in rem": {
+                "definition": "in this entry"
+            },
+            "limited jurisdiction": {
+                "definition": "jurisdiction that is restricted (as to a type of case)"
+            },
+            "original jurisdiction": {
+                "definition": "the jurisdiction granted a court to try a case in the first instance, make findings of fact, and render a usually appealable decision [the district courts shall haveof all civil actions arising under the Constitution, laws, or treaties of the United States \"\"]",
+                "original jurisdiction": "of all civil actions arising under the Constitution, laws, or treaties of the United States \""
+            },
+            "pendent jurisdiction": {
+                "definition": "supplemental jurisdiction that allows a federal court to adjudicate state law claims which form part of a case that was brought to it under its federal question jurisdictionin this entry comparein this entry",
+                "compares": "ancillary jurisdiction"
+            },
+            "pendent party jurisdiction": {
+                "definition": "supplemental jurisdiction that allows a federal court to adjudicate a state law claim asserted against a third party which is part of a case brought to it under its original jurisdiction"
+            },
+            "personal jurisdiction": {
+                "definition": "the jurisdiction granted a court over the parties before it that allows it to issue a binding judgment see also,,,comparein this entry",
+                "note": " The U.S. Supreme Court has held in a series of decisions that the exercise of personal jurisdiction must meet the requirements of due process and must not violate notions of fair play and substantial justice. The constitutional standard to determine whether a party is subject to the personal jurisdiction of a court is whether that party has had minimum contacts within the territory (as a state) of that court.",
+                "compares": "subject matter jurisdiction",
+                "see also": "doing business statute"
+            },
+            "primary jurisdiction": {
+                "definition": "the jurisdiction granted by a judicially created doctrine to an administrative agency to decide certain controversies initially before relief is sought in the courts compare",
+                "compares": "exhaustion of remedies"
+            },
+            "quasi in rem jurisdiction": {
+                "definition": "the jurisdiction of a court over a person which is based on the person's interests in property under the court's jurisdiction and which allows the court to issue a binding judgment against the person see also; comparein this entry",
+                "compares": "personal jurisdiction",
+                "see also": "sequestration"
+            },
+            "specific jurisdiction": {
+                "definition": "personal jurisdiction granted a court over a party that allows it to adjudicate only a cause of action that arises out of or is related to the party's contacts within the territory of that court comparein this entry",
+                "compares": "general jurisdiction"
+            },
+            "sub·ject mat·ter jurisdiction": {
+                "definition": "the jurisdiction of a court over the subject, type, or cause of action of a case that allows the court to issue a binding judgment [housing court lacksto adjudicate fraudulent conveyance actions \"\"] comparein this entry",
+                "note": " Diversity jurisdiction, federal question jurisdiction, and jurisdiction over admiralty and bankruptcy cases are examples of the federal courts' subject matter jurisdiction. Subject matter jurisdiction is generally established by statute.",
+                "compares": "personal jurisdiction",
+                "subject matter jurisdiction": "to adjudicate fraudulent conveyance actions \""
+            },
+            "sup·ple·men·tal jurisdiction": {
+                "definition": "jurisdiction granted federal courts over claims that could not be heard in a federal court on their own but that are so closely related to claims over which the court has original jurisdiction that they form part of the same case see alsoandin this entry",
+                "note": " Supplemental jurisdiction was created by a federal statute that codified the judicially created doctrines of ancillary and pendent jurisdiction.",
+                "see also": "ancillary jurisdiction"
+            },
+            "2": {
+                "definition": "the authority (as of a state) to govern or legislate [the trade bill was within the Ways and Means committee's ] [whether a foreign state shall be subject to the of another]the power or right to exercise authority [the department of consumer affairs has over such complaints]"
+            },
+            "3": {
+                "definition": "the limits or territory within which authority may be exercised [no new State shall be formed or erected within the of any other State \"art. IV\"] called also",
+                "U.S. Constitution": "art. IV\"] called also"
+            }
+        },
+        "references": {
+            "situs": "https://dictionary.findlaw.com/definition/situs.html",
+            "venue": "https://dictionary.findlaw.com/definition/venue.html",
+            "pendent jurisdiction": "https://dictionary.findlaw.com/definition/pendent-jurisdiction.html",
+            "original jurisdiction": "https://dictionary.findlaw.com/definition/original-jurisdiction.html",
+            "Constitution": "https://dictionary.findlaw.com/definition/constitution.html",
+            "well-pleaded complaint rule": "https://dictionary.findlaw.com/definition/well-pleaded-complaint-rule.html",
+            "personal jurisdiction": "https://dictionary.findlaw.com/definition/personal-jurisdiction.html",
+            "in personam jurisdiction": "https://dictionary.findlaw.com/definition/in-personam-jurisdiction.html",
+            "in rem jurisdiction": "https://dictionary.findlaw.com/definition/in-rem-jurisdiction.html",
+            "pendent party jurisdiction": "https://dictionary.findlaw.com/definition/pendent-party-jurisdiction.html",
+            "ancillary jurisdiction": "https://dictionary.findlaw.com/definition/ancillary-jurisdiction.html",
+            "doing business statute": "https://dictionary.findlaw.com/definition/doing-business-statute.html",
+            "fair play and substantial justice": "https://dictionary.findlaw.com/definition/fair-play-and-substantial-justice.html",
+            "long-arm statute": "https://dictionary.findlaw.com/definition/long-arm-statute.html",
+            "minimum contacts": "https://dictionary.findlaw.com/definition/minimum-contacts.html",
+            "subject matter jurisdiction": "https://dictionary.findlaw.com/definition/subject-matter-jurisdiction.html",
+            "exhaustion of remedies": "https://dictionary.findlaw.com/definition/exhaustion-of-remedies.html",
+            "sequestration": "https://dictionary.findlaw.com/definition/sequestration.html",
+            "general jurisdiction": "https://dictionary.findlaw.com/definition/general-jurisdiction.html"
+        }
+    }
+}

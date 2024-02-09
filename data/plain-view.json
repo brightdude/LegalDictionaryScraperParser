@@ -1,0 +1,19 @@
+{
+    "Plain View": {
+        "definition": "a location or field of perception in which something is plainly apparent 2",
+        "sub_definitions": {
+            "1": {
+                "definition": "a location or field of perception in which something is plainly apparent"
+            },
+            "2": {
+                "definition": "a doctrine that permits the search, seizure, and use of evidence obtained without a search warrant when such evidence was plainly perceptible in the course of lawful procedure and the police had probable cause to believe it was incriminating see alsocompare",
+                "compares": "fruit of the poisonous tree",
+                "see also": "inadvertent discovery"
+            }
+        },
+        "references": {
+            "inadvertent discovery": "https://dictionary.findlaw.com/definition/inadvertent-discovery.html",
+            "fruit of the poisonous tree": "https://dictionary.findlaw.com/definition/fruit-of-the-poisonous-tree.html"
+        }
+    }
+}

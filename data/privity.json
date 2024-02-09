@@ -1,0 +1,32 @@
+{
+    "Privity": {
+        "definition": "-ties [Old French privité privacy",
+        "origin": "[Old French privité privacy, secret, from Medieval Latin privitat- privitas , from Latin privus private]",
+        "sub_definitions": {
+            "-ties": {
+                "definition": "[Old Frenchprivacy, secret, from Medieval Latin, from Latinprivate]"
+            },
+            "1": {
+                "definition": "the direct connection or relationship between parties to a contract or transaction (as a purchase) [ of contract] see also,",
+                "note": " Formerly a suit for breach of warranty or negligence arising from a product could only be brought by a party to the original contract or transaction, and only against the party (as a retailer) directly dealt with. Only these parties had privity. Under modern laws and doctrines of strict liability and implied warranty, however, the right to sue has been extended to those, such as third-party beneficiaries and members of a purchaser's household, whose use of a product is foreseeable.",
+                "see also": "horizontal privity"
+            },
+            "2 a": {
+                "definition": "a mutual or successive interest esp. in the same rights of property (as by inheritance or purchase)the condition of having such an interest see also,",
+                "sub_terms": {
+                    "b": "an interest in a transaction, contract, or esp. action that does not derive from direct participation but from a relationship to one of the parties or from having an interest identical to one in the original subject matterthe condition or relationship of having such an interest [a party in ] see also"
+                },
+                "note": " A claim may be barred by res judicata or collateral estoppel if the plaintiff's interests are identical, by relationship or subject matter, to those of a party to a previous action in which the plaintiff did not participate but which is deemed to have resulted in an adjudication of the plaintiff's rights.",
+                "see also": "predecessor in interest"
+            },
+            "3": {
+                "definition": "private or joint knowledge of a private matterawareness (as of wrongdoing) implying concurrence"
+            }
+        },
+        "references": {
+            "horizontal privity": "https://dictionary.findlaw.com/definition/horizontal-privity.html",
+            "vertical privity": "https://dictionary.findlaw.com/definition/vertical-privity.html",
+            "predecessor in interest": "https://dictionary.findlaw.com/definition/predecessor-in-interest.html"
+        }
+    }
+}

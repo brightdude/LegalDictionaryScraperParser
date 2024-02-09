@@ -1,0 +1,8 @@
+{
+    "Mutual Company": {
+        "definition": "Mutual Company",
+        "references": {
+            "company": "https://dictionary.findlaw.com/definition/company.html"
+        }
+    }
+}

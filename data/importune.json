@@ -1,0 +1,16 @@
+{
+    "Importune": {
+        "definition": "to press or urge with troublesome persistence [who solicits",
+        "origin": "[who solicits, requests, commands, s or intentionally aids another person to engage in conduct which constitutes an offense \" General Statutes of Connecticut \"]",
+        "sub_definitions": {
+            "-tun·ing": {
+                "definition": "to press or urge with troublesome persistence [who solicits, requests, commands,or intentionally aids another person to engage in conduct which constitutes an offense \"\"]to beg, urge, or press another persistently or troublesomely compare,",
+                "compares": "coerce"
+            }
+        },
+        "references": {
+            "coerce": "https://dictionary.findlaw.com/definition/coerce.html",
+            "solicit": "https://dictionary.findlaw.com/definition/solicit.html"
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "In Propria Persona": {
+        "definition": "in one's own person",
+        "origin": "[Latin]",
+        "sub_definitions": {
+            "1": {
+                "1": "in one's own person"
+            },
+            "2": {
+                "1": "without the assistance of an attorney"
+            },
+            "3": {
+                "1": "pro se"
+            }
+        },
+        "references": {
+            "pro se": "https://dictionary.findlaw.com/definition/pro-se.html"
+        }
+    }
+}

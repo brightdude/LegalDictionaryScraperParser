@@ -1,0 +1,19 @@
+{
+    "Death": {
+        "definition": "a permanent cessation of all vital bodily functions",
+        "sub_definitions": {
+            "1": {
+                "1": "a permanent cessation of all vital bodily functions"
+            },
+            "2": {
+                "1": "the end of life see also",
+                "see also": "brain death",
+                "note": " Death is usually defined by statute and for purposes of criminal homicide has been held to include brain death."
+            }
+        },
+        "references": {
+            "brain death": "https://dictionary.findlaw.com/definition/brain-death.html",
+            "civil death": "https://dictionary.findlaw.com/definition/civil-death.html"
+        }
+    }
+}

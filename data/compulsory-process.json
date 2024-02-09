@@ -1,0 +1,12 @@
+{
+    "Compulsory Process": {
+        "definition": "process served on witnesses to compel their testimony for the defense at trial NOTE",
+        "sub_definitions": {
+            "1": {
+                "1": "process served on witnesses to compel their testimony for the defense at trial",
+                "note": " A criminal defendant has a constitutional right to compulsory process."
+            }
+        },
+        "references": {}
+    }
+}

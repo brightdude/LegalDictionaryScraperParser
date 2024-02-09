@@ -1,0 +1,18 @@
+{
+    "Amenable": {
+        "definition": "legally subject or answerable [the corporation is not to suit in New York] 2 a",
+        "origin": "[the corporation is not to suit in New York]",
+        "sub_definitions": {
+            "1": {
+                "definition": "legally subject or answerable [the corporation is not to suit in New York]"
+            },
+            "2 a": {
+                "definition": "suited by nature [an adult is not to a juvenile treatment program]",
+                "sub_terms": {
+                    "b": "readily yielding, submitting, or cooperating [defendant is to rehabilitation \"\"]"
+                }
+            }
+        },
+        "references": {}
+    }
+}

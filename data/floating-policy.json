@@ -1,0 +1,13 @@
+{
+    "Floating Policy": {
+        "definition": "floater",
+        "sub_definitions": {
+            "1": {
+                "1": "floater"
+            }
+        },
+        "references": {
+            "floater": "https://dictionary.findlaw.com/definition/floater.html"
+        }
+    }
+}

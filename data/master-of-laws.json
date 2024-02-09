@@ -1,0 +1,16 @@
+{
+    "Master Of Laws": {
+        "definition": "a degree conferred for advanced study of law following the obtaining of a juris doctor compare doctor of laws",
+        "compare": "doctor of laws",
+        "sub_definitions": {
+            "1": {
+                "1": "a degree conferred for advanced study of law following the obtaining of a juris doctor compare",
+                "compares": "doctor of laws"
+            }
+        },
+        "references": {
+            "doctor of laws": "https://dictionary.findlaw.com/definition/doctor-of-laws.html",
+            "doctor of the science of law": "https://dictionary.findlaw.com/definition/doctor-of-the-science-of-law.html"
+        }
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "Nolle Prosequi": {
+        "definition": "an entry in a criminal action denoting that the prosecutor will not prosecute the case further in whole or as to one or more of several counts or one or more of several defendants compare non prosequitur",
+        "origin": "[Latin, to be unwilling to pursue]",
+        "compare": "non prosequitur",
+        "sub_definitions": {
+            "1": {
+                "1": "an entry in a criminal action denoting that the prosecutor will not prosecute the case further in whole or as to one or more of several counts or one or more of several defendants compare",
+                "compares": "non prosequitur"
+            }
+        },
+        "references": {
+            "non prosequitur": "https://dictionary.findlaw.com/definition/non-prosequitur.html"
+        }
+    }
+}

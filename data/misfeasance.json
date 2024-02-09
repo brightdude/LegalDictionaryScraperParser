@@ -1,0 +1,20 @@
+{
+    "Misfeasance": {
+        "definition": "the performance of a lawful action in an illegal or improper manner ;specif",
+        "origin": "[Anglo-French misfesance , from Middle French mesfaire to do wrong, from mes- wrongly + faire to make, do, from Latin facere ]",
+        "compare": "malfeasance",
+        "sub_definitions": {
+            "1": {
+                "1": "the performance of a lawful action in an illegal or improper manner"
+            },
+            "2": {
+                "1": "the performance of an official duty in an improper or unlawful manner or with an improper or corrupt motive compare",
+                "compares": "malfeasance"
+            }
+        },
+        "references": {
+            "malfeasance": "https://dictionary.findlaw.com/definition/malfeasance.html",
+            "nonfeasance": "https://dictionary.findlaw.com/definition/nonfeasance.html"
+        }
+    }
+}

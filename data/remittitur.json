@@ -1,0 +1,22 @@
+{
+    "Remittitur": {
+        "definition": "a procedure under which a court may order the reduction of an excessive verdict ;esp",
+        "origin": "[Latin, it is sent back, remitted, third person singular present indicative passive of remittere to send back, remit]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "a procedure under which a court may order the reduction of an excessive verdicta procedure in which the court requires the plaintiff to remit the portion of the verdict deemed excessive in lieu of a grant of a defendant's motion for a new trial or of a reversal if the court is an appellate court",
+                "sub_terms": {
+                    "b": "a remission to a defendant by a plaintiff of the portion of a verdict considered excessive by the court",
+                    "c": "the formal agreement or stipulation of a plaintiff waiving or releasing the right to receive the portion of a verdict considered excessive compare"
+                },
+                "compares": "additur"
+            },
+            "2": {
+                "definition": "a sending back of a case and its record from an appellate or superior court to a trial or inferior court for further proceedings (as additional findings of fact) or for entry of a judgment in accordance with instructions or the decision of the higher court"
+            }
+        },
+        "references": {
+            "additur": "https://dictionary.findlaw.com/definition/additur.html"
+        }
+    }
+}

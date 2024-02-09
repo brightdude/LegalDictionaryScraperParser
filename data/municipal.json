@@ -1,0 +1,25 @@
+{
+    "Municipal": {
+        "definition": "of or relating to the internal affairs of a major political unit",
+        "origin": "[was sentenced by a court of , not international, jurisdiction]",
+        "sub_definitions": {
+            "1": {
+                "definition": "of or relating to the internal affairs of a major political unit (as a nation) [was sentenced by a court of , not international, jurisdiction] compare",
+                "compares": "domestic"
+            },
+            "2 a": {
+                "definition": "of, relating to, or characteristic of a municipality [the counsel]",
+                "sub_terms": {
+                    "b": "having local self-government [a district]"
+                }
+            },
+            "3": {
+                "definition": "restricted to one localityna security issued by a state or local government or by an authority set up by such a government usually used in pl. see alsoat"
+            }
+        },
+        "references": {
+            "domestic": "https://dictionary.findlaw.com/definition/domestic.html",
+            "bond": "https://dictionary.findlaw.com/definition/bond.html"
+        }
+    }
+}

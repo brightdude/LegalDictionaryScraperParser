@@ -1,0 +1,27 @@
+{
+    "President": {
+        "definition": "an official chosen to preside over a meeting or assembly 2",
+        "origin": "[the Vice President of the United States shall be President of the Senate \" U.S. Constitution art. I\"]",
+        "sub_definitions": {
+            "1": {
+                "definition": "an official chosen to preside over a meeting or assembly"
+            },
+            "2": {
+                "definition": "an appointed governor of a subordinate political unit"
+            },
+            "3": {
+                "definition": "the chief officer of an organization (as a corporation or institution) usually entrusted with the direction and administration of its policies"
+            },
+            "4": {
+                "definition": "the presiding officer of a governmental body [the Vice President of the United States shall beof the Senate \"art. I\"]"
+            },
+            "5 a": {
+                "definition": "an elected official serving as both chief of state and chief political executive in a republic having a presidential government",
+                "sub_terms": {
+                    "b": "an elected official having the position of chief of state but usually only minimal political powers in a republic having a parliamentary government"
+                }
+            }
+        },
+        "references": {}
+    }
+}

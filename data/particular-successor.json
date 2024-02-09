@@ -1,0 +1,15 @@
+{
+    "Particular Successor": {
+        "definition": "a successor",
+        "compare": "universal successor",
+        "sub_definitions": {
+            "1": {
+                "1": "a successor (as a donee or buyer) who succeeds by particular title to the rights and obligations pertaining only to the property conveyed by the ancestor in title, who takes title and possession in his or her own right, and who is not liable for any debts of the succession compare",
+                "compares": "universal successor"
+            }
+        },
+        "references": {
+            "universal successor": "https://dictionary.findlaw.com/definition/universal-successor.html"
+        }
+    }
+}

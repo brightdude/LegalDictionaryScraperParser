@@ -1,0 +1,8 @@
+{
+    "Zero-Coupon Bond": {
+        "definition": "Zero-Coupon Bond",
+        "references": {
+            "bond": "https://dictionary.findlaw.com/definition/bond.html"
+        }
+    }
+}

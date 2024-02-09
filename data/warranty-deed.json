@@ -1,0 +1,8 @@
+{
+    "Warranty Deed": {
+        "definition": "Warranty Deed",
+        "references": {
+            "deed": "https://dictionary.findlaw.com/definition/deed.html"
+        }
+    }
+}

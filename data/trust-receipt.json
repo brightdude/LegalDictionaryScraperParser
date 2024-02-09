@@ -1,0 +1,12 @@
+{
+    "Trust Receipt": {
+        "definition": "a trust agreement between a lender and a borrower by which the lender gives up possession of goods without abandoning title and the borrower agrees to hold the goods in trust for the lender and if the goods are sold to turn the proceeds over to the lender in settlement of the debt NOTE",
+        "sub_definitions": {
+            "1": {
+                "1": "a trust agreement between a lender and a borrower by which the lender gives up possession of goods without abandoning title and the borrower agrees to hold the goods in trust for the lender and if the goods are sold to turn the proceeds over to the lender in settlement of the debt",
+                "note": " The Article Nine security interest replaces the trust receipt where the Uniform Commercial Code has been adopted."
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "Market Value": {
+        "definition": "the price at which a buyer is ready and willing to buy and a seller is ready and willing to sell 2",
+        "sub_definitions": {
+            "1": {
+                "definition": "the price at which a buyer is ready and willing to buy and a seller is ready and willing to sell"
+            }
+        },
+        "references": {
+            "market price": "https://dictionary.findlaw.com/definition/market-price.html"
+        }
+    }
+}

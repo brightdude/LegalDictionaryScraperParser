@@ -1,0 +1,22 @@
+{
+    "Sever": {
+        "definition": "to end",
+        "origin": "[se-vrəns, -və-rens]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to end (a joint tenancy) by ending one or all of the unities of time, title, possession, or interest (as by conveying one tenant's interest to another party)"
+            },
+            "2": {
+                "definition": "to separate (as a contract) into different parts (as independent obligations) in order to treat each separately"
+            },
+            "3 a": {
+                "definition": "to try (criminal offenses or defendants) separately in order to avoid prejudice",
+                "sub_terms": {
+                    "b": "to split (a criminal trial) into multiple trials in order to avoid prejudice",
+                    "c": "to try (civil claims or issues pleaded in the same case) separately"
+                }
+            }
+        },
+        "references": {}
+    }
+}

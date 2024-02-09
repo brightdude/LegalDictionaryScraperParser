@@ -1,0 +1,65 @@
+{
+    "Party": {
+        "definition": "parties 1 a",
+        "origin": "[the parties to a contract]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "one (as a person, group, or entity) constituting alone or with others one of the sides of a proceeding, transaction, or agreement [theto a contract] [a person who signed the instrument as a to the instrument \"\"]",
+                "parties": "to a contract] [a person who signed the instrument as a to the instrument \""
+            },
+            "accommodated party": {
+                "definition": "a party to an instrument for whose benefit an accommodation party signs and incurs liability on the instrumenta party for whose benefit an accommodation is made"
+            },
+            "accommodation party": {
+                "definition": "a party who signs and thereby incurs liability on an instrument that is issued for value and given for the benefit of an accommodated party"
+            },
+            "secured party": {
+                "definition": "a party holding a security interest in another's property"
+            },
+            "adverse party": {
+                "definition": "a party to an action who is on the opposing sidea party to a finally decided action whose interests would be served by having the judgment upheld on appeal and who is entitled to notice of an appeal"
+            },
+            "aggrieved party": {
+                "definition": "a party with a legally recognized interest that is injuriously affected esp. by an act of a judicial or quasi-judicial body and that confers standing to appeal called also"
+            },
+            "indispensable party": {
+                "definition": "a party whose rights are so connected with the claims being litigated in an action that no judgment can be rendered without affecting or impairing those rights, no complete disposition of the action can be made without the party's joinder, and whose nonjoinder will result in the dismissal of an action comparein this entry",
+                "note": " Federal Rule of Civil Procedure 19 provides the courts with discretion in determining whether the absence of a party requires dismissal of an action, replacing an older and more rigid basis for determination. The rule states that “the court shall determine whether in equity and good conscience the action should proceed among the parties before it, or should be dismissed, the absent person being thus regarded as indispensable.”",
+                "compares": "necessary party"
+            },
+            "innocent party": {
+                "definition": "a party having no fault in or responsibility for the situation for which judicial relief is soughta party who comes into court with clean hands"
+            },
+            "necessary party": {
+                "definition": "a party whose interests are so connected with an action that he or she should be joined in order to fully determine the controversy but whose nonjoinder because of a valid excuse will not result in dismissal comparein this entry",
+                "compares": "indispensable party"
+            },
+            "nominal party": {
+                "definition": "a party who has no actual stake in the outcome of litigation and whose inclusion as a party is solely for the purpose of conforming with procedural rules"
+            },
+            "party aggrieved": {
+                "definition": "in this entry"
+            },
+            "1": {
+                "definition": "a person who is not a party to an action but who is or may be liable to the defendant in the action for all or part of the plaintiff's claim and against whom the defendant may bring a third-party complaint"
+            },
+            "2": {
+                "definition": "a group of persons usually sharing a set of political ideals who are organized for the purpose of directing the policies of a government"
+            },
+            "proper party": {
+                "definition": "a party whose interests are likely to be affected by litigation and whose inclusion in the litigation is preferable but not essential"
+            },
+            "real party in interest": {
+                "definition": "a party who according to the applicable law is entitled to enforce the right that forms the basis of the claim regardless of who will actually benefit by the outcome",
+                "note": " Federal Rule of Civil Procedure 17(a) requires that “every action shall be prosecuted in the name of the real party in interest.”"
+            }
+        },
+        "references": {
+            "necessary party": "https://dictionary.findlaw.com/definition/necessary-party.html",
+            "indispensable party": "https://dictionary.findlaw.com/definition/indispensable-party.html",
+            "aggrieved party": "https://dictionary.findlaw.com/definition/aggrieved-party.html",
+            "real party in interest": "https://dictionary.findlaw.com/definition/real-party-in-interest.html",
+            "third-party complaint": "https://dictionary.findlaw.com/definition/third-party-complaint.html"
+        }
+    }
+}

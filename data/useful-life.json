@@ -1,0 +1,14 @@
+{
+    "Useful Life": {
+        "definition": "an estimated amount of time during which an asset or facility will yield income or be useful see also depreciation",
+        "sub_definitions": {
+            "1": {
+                "1": "an estimated amount of time during which an asset or facility will yield income or be useful see also",
+                "see also": "depreciation"
+            }
+        },
+        "references": {
+            "depreciation": "https://dictionary.findlaw.com/definition/depreciation.html"
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "Substantial": {
+        "definition": "of or relating to substance b",
+        "origin": "[failed to raise a constitutional claim]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "of or relating to substance",
+                "sub_terms": {
+                    "b": "not illusoryhaving merit [failed to raise a constitutional claim]",
+                    "c": "having importance or significance[a step had not been taken toward commission of the crime \"W. R. LaFave and A. W. Scott, Jr.\"]"
+                }
+            },
+            "2": {
+                "definition": "considerable in quantitysignificantly great [would be a abuse of the provisions of this chapter \"\"] compare",
+                "compares": "de minimis"
+            }
+        },
+        "references": {
+            "material": "https://dictionary.findlaw.com/definition/material.html",
+            "de minimis": "https://dictionary.findlaw.com/definition/de-minimis.html"
+        }
+    }
+}

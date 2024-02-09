@@ -1,0 +1,20 @@
+{
+    "Protest": {
+        "definition": "a solemn declaration of opinion and usually of disagreement",
+        "origin": "[cashed a check under protest ]",
+        "sub_definitions": {
+            "1": {
+                "definition": "a solemn declaration of opinion and usually of disagreement",
+                "sub_terms": {
+                    "a": "a solemn written declaration by a notary public or U.S. consul on behalf of the holder of an instrument (as a note) announcing dishonor and declaring the liability of all parties to the instrument for any loss or damage arising from such actionthe action of making or causing to be made such a declaration with due service of notice of dishonor",
+                    "b": "a declaration made by the master of a ship before a notary, consul, or other authorized officer upon arrival in port after a disaster declaring that any loss was not the fault of the crew but due to the disaster",
+                    "c": "a declaration made by a party esp. before or while paying a tax or performing a demanded act by which the declarer asserts that the justice or legality of the tax or act is disputed and that compliance is not voluntary"
+                }
+            },
+            "2": {
+                "definition": "the act of objecting or a gesture of disapprovala usually organized public demonstration of disapproval"
+            }
+        },
+        "references": {}
+    }
+}

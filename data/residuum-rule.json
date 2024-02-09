@@ -1,0 +1,12 @@
+{
+    "Residuum Rule": {
+        "definition": "a rule requiring that the decision or order of an administrative agency be supported by at least a small amount of evidence which is not inadmissible hearsay in order to be upheld on review NOTE",
+        "sub_definitions": {
+            "1": {
+                "1": "a rule requiring that the decision or order of an administrative agency be supported by at least a small amount of evidence which is not inadmissible hearsay in order to be upheld on review",
+                "note": " The residuum rule has been rejected in most jurisdictions."
+            }
+        },
+        "references": {}
+    }
+}

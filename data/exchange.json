@@ -1,0 +1,20 @@
+{
+    "Exchange": {
+        "definition": "a giving of something of value",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "a giving of something of value (as real property) in return for something of equal value (as money or property of a like kind)",
+                "sub_terms": {
+                    "b": "a giving of something of value in return for something of equal value except money compare"
+                },
+                "compares": "sale"
+            },
+            "2": {
+                "definition": "an organized market or center for trading in securities or commodities"
+            }
+        },
+        "references": {
+            "sale": "https://dictionary.findlaw.com/definition/sale.html"
+        }
+    }
+}

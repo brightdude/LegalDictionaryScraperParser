@@ -1,0 +1,17 @@
+{
+    "Batson Challenge": {
+        "definition": "an objection in which one party argues that the other has used the peremptory challenge to strike one or more prospective jurors from the panel for a discriminatory purpose in violation of the equal protection guarantee of the U.S. Constitution called also Batson objection compare third-party standing NOTE",
+        "origin": "[from Batson v. Kentucky , 476 U.S. 79 (1986), the Supreme Court ruling that prohibited the striking of jurors on a racial basis]",
+        "compare": "third-party standing",
+        "sub_definitions": {
+            "1": {
+                "1": "an objection in which one party argues that the other has used the peremptory challenge to strike one or more prospective jurors from the panel for a discriminatory purpose in violation of the equal protection guarantee of the U.S. Constitution called also",
+                "compares": "third-party standing",
+                "note": " Batson challenges were originally applied to racial discrimination in jury selection but are now also applied when gender or sometimes ethnic background is an issue. The party making the objection usually must establish by evidence a prima facie case of discrimination, at which point the other party has the burden of advancing a neutral reason for the strike."
+            }
+        },
+        "references": {
+            "third-party standing": "https://dictionary.findlaw.com/definition/third-party-standing.html"
+        }
+    }
+}

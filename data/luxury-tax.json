@@ -1,0 +1,11 @@
+{
+    "Luxury Tax": {
+        "definition": "an excise levied on the purchase of items that are not essential for support or maintenance",
+        "sub_definitions": {
+            "1": {
+                "1": "an excise levied on the purchase of items that are not essential for support or maintenance"
+            }
+        },
+        "references": {}
+    }
+}

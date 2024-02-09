@@ -1,0 +1,16 @@
+{
+    "Guilt": {
+        "definition": "the fact of having committed an offense esp. against the law [not enough evidence to establish ] compare innocence",
+        "origin": "[Old English gylt delinquency]",
+        "compare": "innocence",
+        "sub_definitions": {
+            "1": {
+                "1": "the fact of having committed an offense esp. against the law [not enough evidence to establish ] compare",
+                "compares": "innocence"
+            }
+        },
+        "references": {
+            "innocence": "https://dictionary.findlaw.com/definition/innocence.html"
+        }
+    }
+}

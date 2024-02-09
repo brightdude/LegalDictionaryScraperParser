@@ -1,0 +1,16 @@
+{
+    "Movable": {
+        "definition": "capable of being moved or moveable n",
+        "origin": "[mü-və-bəl]",
+        "sub_definitions": {
+            "ormove·able[mü-və-bəl]": {
+                "definition": "capable of being movedan item of movable propertya right or interest (as a chattel mortgage) in an item of movable property [bonds and annuities are incorporeal] often used in pl. compare",
+                "compares": "immovable",
+                "s": "] often used in pl. compare"
+            }
+        },
+        "references": {
+            "immovable": "https://dictionary.findlaw.com/definition/immovable.html"
+        }
+    }
+}

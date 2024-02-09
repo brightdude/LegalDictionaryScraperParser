@@ -1,0 +1,25 @@
+{
+    "Taxation": {
+        "definition": "the action of taxing",
+        "origin": "[progressive ]",
+        "sub_definitions": {
+            "1": {
+                "definition": "the action of taxing",
+                "sub_terms": {
+                    "a": "the imposition of taxes",
+                    "b": "the judicial determination of costs"
+                }
+            },
+            "2 a": {
+                "definition": "revenue obtained from taxes",
+                "sub_terms": {
+                    "b": "the amount assessed as a tax"
+                }
+            },
+            "3": {
+                "definition": "a particular system of taxing [progressive ]"
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "Instrumentality": {
+        "definition": "-ties 1",
+        "origin": "[damages incurred in a single incident through an owned by the employer]",
+        "sub_definitions": {
+            "1": {
+                "definition": "something through which an end is achieved or occurs [damages incurred in a single incident through an owned by the employer]"
+            },
+            "2": {
+                "definition": "something that serves as an intermediary or agent through which one or more functions of a larger controlling entity are carried outa part or branch esp. of a governing body compare",
+                "compares": "alter ego"
+            }
+        },
+        "references": {
+            "alter ego": "https://dictionary.findlaw.com/definition/alter-ego.html"
+        }
+    }
+}

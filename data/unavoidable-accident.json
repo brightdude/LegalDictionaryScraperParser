@@ -1,0 +1,15 @@
+{
+    "Unavoidable Accident": {
+        "definition": "an accident that is not proximately caused by the negligence of any party or that is unforeseeable or not preventable by exercise of reasonable precautions and for which liability based on fault is not imposed compare act of god",
+        "compare": "act of god",
+        "sub_definitions": {
+            "1": {
+                "1": "an accident that is not proximately caused by the negligence of any party or that is unforeseeable or not preventable by exercise of reasonable precautions and for which liability based on fault is not imposed compare",
+                "compares": "act of god"
+            }
+        },
+        "references": {
+            "act of god": "https://dictionary.findlaw.com/definition/act-of-god.html"
+        }
+    }
+}

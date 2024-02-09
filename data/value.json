@@ -1,0 +1,28 @@
+{
+    "Value": {
+        "definition": "a fair return or equivalent in goods",
+        "origin": "[received good for the price]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "a fair return or equivalent in goods, services, or money for something exchanged [received good for the price]",
+                "sub_terms": {
+                    "b": "at"
+                }
+            },
+            "2": {
+                "definition": "monetary worth"
+            },
+            "val·ue·lessadj": {
+                "definition": "vt"
+            },
+            "valu·ing": {
+                "definition": "to estimate or determine the monetary value of"
+            }
+        },
+        "references": {
+            "valuable consideration": "https://dictionary.findlaw.com/definition/valuable-consideration.html",
+            "consideration": "https://dictionary.findlaw.com/definition/consideration.html",
+            "market value": "https://dictionary.findlaw.com/definition/market-value.html"
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "Trier": {
+        "definition": "trier of fact",
+        "sub_definitions": {
+            "1": {
+                "1": "trier of fact"
+            }
+        },
+        "references": {
+            "trier of fact": "https://dictionary.findlaw.com/definition/trier-of-fact.html"
+        }
+    }
+}

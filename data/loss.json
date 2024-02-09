@@ -1,0 +1,72 @@
+{
+    "Loss": {
+        "definition": "physical",
+        "sub_definitions": {
+            "1": {
+                "definition": "physical, emotional, or esp. economic harm or damage sustained",
+                "sub_terms": {
+                    "a": "decrease in value, capital, or amount compare",
+                    "b": "an amount by which the cost of something (as goods or services) exceeds the selling price compare",
+                    "c": "something unintentionally destroyed or placed beyond recovery",
+                    "d": "the amount of an insured's financial detriment due to the occurrence of a stipulated event (as death, injury, destruction, or damage) in such a manner as to create liability in the insurer under the terms of the policy"
+                },
+                "note": " As a general rule, economic losses are deductible from adjusted gross income under section 165 of the Internal Revenue Code. There are, however, numerous exceptions and limitations.",
+                "compares": "profit"
+            },
+            "actual loss": {
+                "definition": "the identifiable and calculable monetary detriment that is suffered or will be suffered as a result of an act or event"
+            },
+            "actual total loss": {
+                "definition": "a loss in marine insurance in which the property (as a vessel or cargo) cannot be repaired or recovered comparein this entry",
+                "compares": "constructive total loss"
+            },
+            "capital loss": {
+                "definition": "the amount by which the book value of a capital asset exceeds the amount realized from the sale or exchange of the asset"
+            },
+            "casualty loss": {
+                "definition": "loss of property as a result of a fire, storm, shipwreck, or other catastrophic event"
+            },
+            "consequential loss": {
+                "definition": "a loss that arises as an indirect result of an act or event called alsocomparein this entry",
+                "compares": "direct loss"
+            },
+            "constructive total loss": {
+                "definition": "a loss in marine insurance in which the cost of repairing or recovering a ship or its cargo would be more than the ship or cargo is worth comparein this entry",
+                "compares": "actual total loss"
+            },
+            "direct loss": {
+                "definition": "a loss arising directly from an act or event comparein this entry",
+                "compares": "consequential loss"
+            },
+            "in·di·rect loss": {
+                "definition": "in this entry"
+            },
+            "net op·er·at·ing loss": {
+                "definition": "the amount by which the expenses of operating a business exceed the income derived from it see also,",
+                "see also": "carryback"
+            },
+            "ordinary loss": {
+                "definition": "a loss from the sale or exchange of any asset that is not a capital asset"
+            },
+            "partial loss": {
+                "definition": "a loss arising from damage to property that does not render it a total loss"
+            },
+            "total loss": {
+                "definition": "a loss arising from damage to property that is so substantial as to make the property valueless to an insured"
+            },
+            "2": {
+                "definition": "the act or fact of suffering physical, emotional, or esp. economic harm or detriment"
+            }
+        },
+        "references": {
+            "gain": "https://dictionary.findlaw.com/definition/gain.html",
+            "profit": "https://dictionary.findlaw.com/definition/profit.html",
+            "constructive total loss": "https://dictionary.findlaw.com/definition/constructive-total-loss.html",
+            "direct loss": "https://dictionary.findlaw.com/definition/direct-loss.html",
+            "actual total loss": "https://dictionary.findlaw.com/definition/actual-total-loss.html",
+            "consequential loss": "https://dictionary.findlaw.com/definition/consequential-loss.html",
+            "carryback": "https://dictionary.findlaw.com/definition/carryback.html",
+            "carryover": "https://dictionary.findlaw.com/definition/carryover.html"
+        }
+    }
+}

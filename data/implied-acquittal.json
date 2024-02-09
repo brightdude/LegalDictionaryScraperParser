@@ -1,0 +1,12 @@
+{
+    "Implied Acquittal": {
+        "definition": "an acquittal of a more serious offense",
+        "sub_definitions": {
+            "1": {
+                "1": "an acquittal of a more serious offense (as first-degree murder) that is considered to result from a verdict which convicts the defendant of a lesser included offense while remaining silent on the greater one",
+                "note": " A greater offense and a lesser included offense are the same offense under a double jeopardy analysis. Therefore, a conviction of a lesser included offense and implied acquittal of the greater offense bars retrial on the greater offense."
+            }
+        },
+        "references": {}
+    }
+}

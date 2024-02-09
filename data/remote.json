@@ -1,0 +1,28 @@
+{
+    "Remote": {
+        "definition": "far removed in space",
+        "origin": "[ancestors of a more degree]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "far removed in space, time, or relation [ancestors of a more degree]",
+                "sub_terms": {
+                    "b": "exceeding the time allowed under the rule against perpetuities for the vesting of interests [the residuary clause…violates the rule against vesting \", 70 Cal. App. 3d 355 (1977)\"]being in violation of the rule against perpetuities [a contingent estate]"
+                },
+                "Estate of Grove": "70 Cal. App. 3d 355 (1977)"
+            },
+            "2": {
+                "definition": "acting, acted on, or controlled indirectly or from a distance"
+            },
+            "3 a": {
+                "definition": "not proximate or acting directly",
+                "sub_terms": {
+                    "b": "not arising from the effect of that which is proximate"
+                }
+            },
+            "4": {
+                "definition": "small in degree [a possibility of paternity]"
+            }
+        },
+        "references": {}
+    }
+}

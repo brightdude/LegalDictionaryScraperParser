@@ -1,0 +1,11 @@
+{
+    "Tax Roll": {
+        "definition": "a record of the properties in a taxing district that includes the taxes due and paid on each property and is sometimes combined with a record of assessed values",
+        "sub_definitions": {
+            "1": {
+                "1": "a record of the properties in a taxing district that includes the taxes due and paid on each property and is sometimes combined with a record of assessed values"
+            }
+        },
+        "references": {}
+    }
+}

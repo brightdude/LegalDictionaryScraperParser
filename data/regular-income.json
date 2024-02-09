@@ -1,0 +1,11 @@
+{
+    "Regular Income": {
+        "definition": "income",
+        "sub_definitions": {
+            "1": {
+                "1": "income (as wages or pension benefits) that is received at fixed or uniform intervals"
+            }
+        },
+        "references": {}
+    }
+}

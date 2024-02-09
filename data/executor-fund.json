@@ -1,0 +1,8 @@
+{
+    "Executor Fund": {
+        "definition": "Executor Fund",
+        "references": {
+            "fund": "https://dictionary.findlaw.com/definition/fund.html"
+        }
+    }
+}

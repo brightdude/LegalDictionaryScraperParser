@@ -1,0 +1,26 @@
+{
+    "Dividend": {
+        "definition": "the part of corporate net earnings distributed usually periodically",
+        "sub_definitions": {
+            "1": {
+                "definition": "the part of corporate net earnings distributed usually periodically (as quarterly) to stockholders in the form of cash, additional shares, or property either as a set amount per share or a percentage of par value"
+            },
+            "constructive dividend": {
+                "definition": "a benefit (as unreasonable compensation or use of corporate property) or transfer of funds from a corporation to a shareholder that is interpreted by a taxing authority as a dividend"
+            },
+            "cumulative dividend": {
+                "definition": "a dividend distributed to preferred stockholders that is added to and paid with the next payment or future payments if not paid when due"
+            },
+            "extraordinary dividend": {
+                "definition": "a dividend declared in addition to a regular dividend because of unanticipated profits or a nonrecurring increase of revenue"
+            },
+            "2": {
+                "definition": "a share of the surplus earnings of a mutual insurance company paid to policyholders either in the form of cash disbursements or through reduction of premiums"
+            },
+            "3": {
+                "definition": "a payment disbursed to investors from the income of a mutual fund"
+            }
+        },
+        "references": {}
+    }
+}

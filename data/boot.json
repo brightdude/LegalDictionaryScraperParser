@@ -1,0 +1,13 @@
+{
+    "Boot": {
+        "definition": "additional money or property received to make up the difference in an exchange of business or investment property that is of like kind but unequal in value NOTE",
+        "origin": "[obsolete or dialect boot compensation, from Old English bōt advantage, compensation]",
+        "sub_definitions": {
+            "1": {
+                "1": "additional money or property received to make up the difference in an exchange of business or investment property that is of like kind but unequal in value",
+                "note": " Under Internal Revenue Code section 1031, no tax liability results from an exchange solely of like-kind property used in a business or trade or held for investment. If the exchange includes boot, however, under section 1245 the boot will be treated as ordinary income."
+            }
+        },
+        "references": {}
+    }
+}

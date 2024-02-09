@@ -1,0 +1,14 @@
+{
+    "Reciprocity": {
+        "definition": "-ties 1",
+        "sub_definitions": {
+            "1": {
+                "definition": "the quality or state of being reciprocal"
+            },
+            "2": {
+                "definition": "the exchange, recognition, or enforcement of licenses, privileges, or obligations between states of the U.S. or between nations"
+            }
+        },
+        "references": {}
+    }
+}

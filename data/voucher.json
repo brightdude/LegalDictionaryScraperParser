@@ -1,0 +1,18 @@
+{
+    "Voucher": {
+        "definition": "a documentary record of a business transaction 2",
+        "origin": "[Anglo-French, summoning of a person to guarantee title, from voucher to summon]",
+        "sub_definitions": {
+            "1": {
+                "definition": "a documentary record of a business transaction"
+            },
+            "2": {
+                "definition": "a written affidavit or authorization"
+            },
+            "3": {
+                "definition": "a form or check indicating a credit against future purchases or expenditures"
+            }
+        },
+        "references": {}
+    }
+}

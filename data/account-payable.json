@@ -1,0 +1,11 @@
+{
+    "Account Payable": {
+        "definition": "accounts payable",
+        "sub_definitions": {
+            "accounts payable": {
+                "definition": "the balance due to a creditor on a current account"
+            }
+        },
+        "references": {}
+    }
+}

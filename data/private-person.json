@@ -1,0 +1,14 @@
+{
+    "Private Person": {
+        "definition": "an individual who is not a public figure or in the military services 2 in the civil law of Louisiana",
+        "sub_definitions": {
+            "1": {
+                "definition": "an individual who is not a public figure or in the military services"
+            },
+            "2": {
+                "definition": "a juridical person governed by private law"
+            }
+        },
+        "references": {}
+    }
+}

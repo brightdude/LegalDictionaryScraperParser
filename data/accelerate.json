@@ -1,0 +1,19 @@
+{
+    "Accelerate": {
+        "definition": "to bring about at an earlier time",
+        "origin": "[held that the creditor's right to was suspended \"J. J. White and R. S. Summers\"]",
+        "sub_definitions": {
+            "-at·ing": {
+                "definition": "to bring about at an earlier time",
+                "sub_terms": {
+                    "a": "to advance (the maturity date of a security agreement) so that payment of the debt in full is due immediately see also",
+                    "b": "to cause (a future interest in property) to vest by removing the preceding interests (as by failure or premature termination)to enforce an acceleration clause [held that the creditor's right to was suspended \"J. J. White and R. S. Summers\"]"
+                },
+                "see also": "acceleration clause"
+            }
+        },
+        "references": {
+            "acceleration clause": "https://dictionary.findlaw.com/definition/acceleration-clause.html"
+        }
+    }
+}

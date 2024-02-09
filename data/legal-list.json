@@ -1,0 +1,15 @@
+{
+    "Legal List": {
+        "definition": "a statutory list of types of investments that fiduciaries are permitted to make on behalf of others compare prudent man rule",
+        "compare": "prudent man rule",
+        "sub_definitions": {
+            "1": {
+                "1": "a statutory list of types of investments that fiduciaries are permitted to make on behalf of others compare",
+                "compares": "prudent man rule"
+            }
+        },
+        "references": {
+            "prudent man rule": "https://dictionary.findlaw.com/definition/prudent-man-rule.html"
+        }
+    }
+}

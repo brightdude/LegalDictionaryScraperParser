@@ -1,0 +1,18 @@
+{
+    "Casualty": {
+        "definition": "-ties 1",
+        "origin": "[conversion of property…arising from fire, storm, shipwreck, or other \" Internal Revenue Code \"]",
+        "sub_definitions": {
+            "1": {
+                "definition": "an unfortunate occurrencea serious and often disastrous accident [conversion of property…arising from fire, storm, shipwreck, or other \"\"]"
+            },
+            "2": {
+                "definition": "something lost, stolen, damaged, or destroyed see alsoatat"
+            }
+        },
+        "references": {
+            "gain": "https://dictionary.findlaw.com/definition/gain.html",
+            "loss": "https://dictionary.findlaw.com/definition/loss.html"
+        }
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "Unified Transfer Tax": {
+        "definition": "a tax imposed under the Internal Revenue Code on the cumulative total of gifts made over a certain amount by a person during his or her lifetime or after death called also unified estate and gift tax see also unified credit NOTE",
+        "sub_definitions": {
+            "1": {
+                "1": "a tax imposed under the Internal Revenue Code on the cumulative total of gifts made over a certain amount by a person during his or her lifetime or after death called also",
+                "see also": "unified credit",
+                "note": " The unified transfer tax system creates liability for a single tax rather than separate liability for a gift tax and an estate tax."
+            }
+        },
+        "references": {
+            "unified credit": "https://dictionary.findlaw.com/definition/unified-credit.html"
+        }
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "Accede": {
+        "definition": "to become a party",
+        "origin": "[they were invited to to the covenant]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "to become a party (as to an agreement) by associating oneself with others [they were invited to to the covenant]",
+                "sub_terms": {
+                    "b": "to express approval or give consent [the banker asks for collateral. The debtor…, and transfers some of his property \", 139 F. Supp. 830 (1956)\"]"
+                },
+                "s": "and transfers some of his property",
+                "In re Patterson": "139 F. Supp. 830 (1956)"
+            },
+            "2": {
+                "definition": "to assume an office or position [to the governorship]",
+                "acceded": "to the governorship]"
+            },
+            "3 a": {
+                "definition": "to become added by way of growth, increase, improvement, or labor [the various improvements…hadto the realty and had become “fixtures” \", 608 S.W.2d 150 (1980)\"]",
+                "sub_terms": {
+                    "b": "to come into control or ownership of something [a trustee in bankruptcy specificallyto all property of the debtor \", 91 B.R. 738 (1988)\"]"
+                },
+                "acceded": "to the realty and had become “fixtures” \"",
+                "Graham v. Henderson": "608 S.W.2d 150 (1980)",
+                "s": "to all property of the debtor \"",
+                "Directory Int'l Inc. v. Bates Mfg. Co.": "91 B.R. 738 (1988)"
+            }
+        },
+        "references": {}
+    }
+}

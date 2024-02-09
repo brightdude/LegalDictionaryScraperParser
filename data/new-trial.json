@@ -1,0 +1,15 @@
+{
+    "New Trial": {
+        "definition": "a repeat inquiry by the same court into all or some of the issues in an action for the purpose of correcting a problem",
+        "compare": "appeal",
+        "sub_definitions": {
+            "1": {
+                "1": "a repeat inquiry by the same court into all or some of the issues in an action for the purpose of correcting a problem (as the improper admission of evidence) in the prior trial, determining the merits of a challenge (as that the verdict is contrary to law) to the prior outcome, or considering newly discovered evidence compare",
+                "compares": "appeal"
+            }
+        },
+        "references": {
+            "appeal": "https://dictionary.findlaw.com/definition/appeal.html"
+        }
+    }
+}

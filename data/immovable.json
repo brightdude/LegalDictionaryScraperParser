@@ -1,0 +1,24 @@
+{
+    "Immovable": {
+        "definition": "incapable of being moved see also immovable property at property n",
+        "origin": "[a manufactured home placed upon a lot or tract of land shall be an \" Louisiana Revised Statutes \"]",
+        "compare": "property",
+        "sub_definitions": {
+            "1": {
+                "1": "incapable of being moved see also"
+            },
+            "2": {
+                "1": "an item of immovable property (as land, standing timber, or a building) [a manufactured home placed upon a lot or tract of land shall be an \""
+            },
+            "3": {
+                "1": "an interest or right (as a servitude) in an item of immovable property [a predial servitude is an incorporeal \"",
+                "Louisiana Civil Code": "\"] often used in pl. compare",
+                "compares": "movable"
+            }
+        },
+        "references": {
+            "property": "https://dictionary.findlaw.com/definition/property.html",
+            "movable": "https://dictionary.findlaw.com/definition/movable.html"
+        }
+    }
+}

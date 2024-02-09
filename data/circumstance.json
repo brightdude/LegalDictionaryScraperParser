@@ -1,0 +1,22 @@
+{
+    "Circumstance": {
+        "definition": "a condition",
+        "origin": "[the s constituting fraud or mistake shall be stated \" Federal Rules of Civil Procedure Rule 9(b)\"]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "a condition, fact, or event accompanying, conditioning, or determining another [theconstituting fraud or mistake shall be stated \"Rule 9(b)\"]",
+                "sub_terms": {
+                    "b": "a piece of evidence that indicates the probability or improbability of an event [a statement…offered to exculpate the accused is not admissible unless corroboratingclearly indicate the trustworthiness of the statement \", 764 P.2d 1111 (1988)\"]"
+                },
+                "Federal Rules of Civil Procedure": "Rule 9(b)\"]",
+                "s": "clearly indicate the trustworthiness of the statement \"",
+                "State v. Lopez": "764 P.2d 1111 (1988)"
+            },
+            "2": {
+                "definition": "situation with regard to wealth [theof the parties before the divorce]",
+                "s": "of the parties before the divorce]"
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "Peril": {
+        "definition": "exposure to the risk of death",
+        "origin": "[insured their home against fire, floods, and other s ]",
+        "sub_definitions": {
+            "1": {
+                "definition": "exposure to the risk of death, destruction, or loss"
+            },
+            "2": {
+                "definition": "the cause of a loss (as of property) [insured their home against fire, floods, and other] compare",
+                "compares": "risk"
+            }
+        },
+        "references": {
+            "risk": "https://dictionary.findlaw.com/definition/risk.html"
+        }
+    }
+}

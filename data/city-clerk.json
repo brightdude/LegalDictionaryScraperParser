@@ -1,0 +1,11 @@
+{
+    "City Clerk": {
+        "definition": "a public officer charged with recording the official proceedings and vital statistics of a city",
+        "sub_definitions": {
+            "1": {
+                "1": "a public officer charged with recording the official proceedings and vital statistics of a city"
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "Corespondent": {
+        "definition": "a joint respondent 2",
+        "sub_definitions": {
+            "1": {
+                "definition": "a joint respondent"
+            },
+            "2": {
+                "definition": "a person named as guilty of adultery with the defendant in a divorce suit"
+            }
+        },
+        "references": {}
+    }
+}

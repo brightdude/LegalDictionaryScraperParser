@@ -1,0 +1,8 @@
+{
+    "Payer": {
+        "definition": "Payer",
+        "references": {
+            "payor": "https://dictionary.findlaw.com/definition/payor.html"
+        }
+    }
+}

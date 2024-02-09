@@ -1,0 +1,15 @@
+{
+    "Personality": {
+        "definition": "-ties 1",
+        "origin": "[the corporation has legal ]",
+        "sub_definitions": {
+            "1": {
+                "definition": "the quality, state, or fact of being a person [the corporation has legal ]"
+            },
+            "2": {
+                "definition": "the totality of an individual's behavioral and emotional characteristics [a disorder]"
+            }
+        },
+        "references": {}
+    }
+}

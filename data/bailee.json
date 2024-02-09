@@ -1,0 +1,12 @@
+{
+    "Bailee": {
+        "definition": "an individual or entity",
+        "sub_definitions": {
+            "1": {
+                "1": "an individual or entity (as a business organization) having possession of another's personal property under a bailment",
+                "note": " Carriers and warehouses are two examples of bailees. A bailee's liability for loss or damage to property is determined by the terms of the bailment or the law of the jurisdiction."
+            }
+        },
+        "references": {}
+    }
+}

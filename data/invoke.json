@@ -1,0 +1,26 @@
+{
+    "Invoke": {
+        "definition": "to appeal to as furnishing authority or motive 2",
+        "origin": "[ invoking his Fifth Amendment privilege]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to appeal to as furnishing authority or motive"
+            },
+            "2": {
+                "definition": "to put into legal effect or call for the observance of[his Fifth Amendment privilege]",
+                "invoking": "his Fifth Amendment privilege]"
+            },
+            "3": {
+                "definition": "to introduce or put into operation [economic sanctions]",
+                "invoking": "economic sanctions]"
+            },
+            "4": {
+                "definition": "to be the cause of [the…decisionthe final hardship \"\"]",
+                "invoked": "the final hardship \""
+            }
+        },
+        "references": {
+            "enforce": "https://dictionary.findlaw.com/definition/enforce.html"
+        }
+    }
+}

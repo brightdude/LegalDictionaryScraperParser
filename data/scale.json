@@ -1,0 +1,18 @@
+{
+    "Scale": {
+        "definition": "a set of graduated wage rates ;also",
+        "compare": "minimum wage",
+        "sub_definitions": {
+            "1": {
+                "1": "a set of graduated wage rates"
+            },
+            "2": {
+                "1": "a wage consistent with such rates compare",
+                "compares": "minimum wage"
+            }
+        },
+        "references": {
+            "minimum wage": "https://dictionary.findlaw.com/definition/minimum-wage.html"
+        }
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "Automatic Stay": {
+        "definition": "a stay that comes into operation upon the filing of a bankruptcy petition in accordance with bankruptcy law that prevents creditors from attempting to collect from the debtor for debts incurred before the filing",
+        "sub_definitions": {
+            "1": {
+                "1": "a stay that comes into operation upon the filing of a bankruptcy petition in accordance with bankruptcy law that prevents creditors from attempting to collect from the debtor for debts incurred before the filing"
+            }
+        },
+        "references": {}
+    }
+}

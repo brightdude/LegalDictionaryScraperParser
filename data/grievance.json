@@ -1,0 +1,18 @@
+{
+    "Grievance": {
+        "definition": "a cause of distress",
+        "sub_definitions": {
+            "1": {
+                "definition": "a cause of distress (as an unsatisfactory working condition or unfair labor practice) felt to afford a reason for complaint or disputea violation of a collective bargaining agreement usually by the employer"
+            },
+            "2": {
+                "definition": "the formal expression of a grievance brought esp. by an employee as the initial step toward resolution through a grievance procedure see alsoat,",
+                "see also": "arbitration"
+            }
+        },
+        "references": {
+            "arbitration": "https://dictionary.findlaw.com/definition/arbitration.html",
+            "mediation": "https://dictionary.findlaw.com/definition/mediation.html"
+        }
+    }
+}

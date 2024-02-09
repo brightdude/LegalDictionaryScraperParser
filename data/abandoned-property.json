@@ -1,0 +1,8 @@
+{
+    "Abandoned Property": {
+        "definition": "Abandoned Property",
+        "references": {
+            "property": "https://dictionary.findlaw.com/definition/property.html"
+        }
+    }
+}

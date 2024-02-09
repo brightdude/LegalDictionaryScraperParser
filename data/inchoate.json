@@ -1,0 +1,23 @@
+{
+    "Inchoate": {
+        "definition": "not yet made complete",
+        "origin": "[until an employee has earned his retirement pay…[it]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "not yet made complete, certain, or specificnot perfected see alsoat",
+                "sub_terms": {
+                    "b": "not yet transformed into actual use or possession [until an employee has earned his retirement pay…[it] is but an right \", 759 P.2d 720 (1988)\"]"
+                },
+                "Peterson v. Fire & Police Pension Ass'n": "759 P.2d 720 (1988)"
+            },
+            "2": {
+                "definition": "of or relating to a crime (as attempt, solicitation, or conspiracy) which consists of acts that are preliminary to another crime and that are in themselves criminal compare",
+                "compares": "choate"
+            }
+        },
+        "references": {
+            "lien": "https://dictionary.findlaw.com/definition/lien.html",
+            "choate": "https://dictionary.findlaw.com/definition/choate.html"
+        }
+    }
+}

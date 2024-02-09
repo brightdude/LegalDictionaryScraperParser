@@ -1,0 +1,16 @@
+{
+    "Indemnification": {
+        "definition": "the action of indemnifying b",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "the action of indemnifying",
+                "sub_terms": {
+                    "b": "the condition of being indemnified"
+                }
+            }
+        },
+        "references": {
+            "indemnity": "https://dictionary.findlaw.com/definition/indemnity.html"
+        }
+    }
+}

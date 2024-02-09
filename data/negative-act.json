@@ -1,0 +1,13 @@
+{
+    "Negative Act": {
+        "definition": "act",
+        "sub_definitions": {
+            "1": {
+                "1": "act"
+            }
+        },
+        "references": {
+            "act": "https://dictionary.findlaw.com/definition/act.html"
+        }
+    }
+}

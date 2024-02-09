@@ -1,0 +1,16 @@
+{
+    "Graduated": {
+        "definition": "increasing in rate with increase in taxable base",
+        "sub_definitions": {
+            "1": {
+                "1": "increasing in rate with increase in taxable base"
+            },
+            "2": {
+                "1": "progressive"
+            }
+        },
+        "references": {
+            "progressive": "https://dictionary.findlaw.com/definition/progressive.html"
+        }
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "Subsidiary": {
+        "definition": "-ar·ies",
+        "sub_definitions": {
+            "-ar·ies": {
+                "definition": "a company having the majority of its stock owned by another company compare",
+                "note": " The parent company of a subsidiary generally has the same policy-making powers as any majority owner and can do such things as appoint directors and hire officers. The subsidiary is controlled by the parent through these powers, and the parent may be held liable for the acts of the subsidiary if the subsidiary is found to be an instrumentality of the parent.",
+                "compares": "affiliate"
+            }
+        },
+        "references": {
+            "affiliate": "https://dictionary.findlaw.com/definition/affiliate.html"
+        }
+    }
+}

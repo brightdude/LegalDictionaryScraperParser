@@ -1,0 +1,19 @@
+{
+    "Sub-": {
+        "definition": "under",
+        "origin": "[ sub standard]",
+        "sub_definitions": {
+            "1": {
+                "definition": "underbeneathbelow [standard]"
+            },
+            "2 a": {
+                "definition": "subordinatesecondarynext lower than or inferior to [agent]",
+                "sub_terms": {
+                    "b": "subordinate portion ofsubdivision of [chapter] [committee]",
+                    "c": "assigning to another by the same method [license] [contract]"
+                }
+            }
+        },
+        "references": {}
+    }
+}

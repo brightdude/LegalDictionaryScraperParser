@@ -1,0 +1,22 @@
+{
+    "Vend": {
+        "definition": "to dispose of something by sale",
+        "sub_definitions": {
+            "1": {
+                "1": "to dispose of something by sale"
+            },
+            "2": {
+                "1": "sell"
+            },
+            "3": {
+                "1": "to engage in selling"
+            },
+            "4": {
+                "1": "to sell esp. as a hawker or peddler"
+            }
+        },
+        "references": {
+            "sell": "https://dictionary.findlaw.com/definition/sell.html"
+        }
+    }
+}

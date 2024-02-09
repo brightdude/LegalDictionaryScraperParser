@@ -1,0 +1,14 @@
+{
+    "Bailiff": {
+        "definition": "an officer of some courts in the U.S. whose duties usually include keeping order in the courtroom and guarding prisoners or jurors in deliberation",
+        "origin": "[Anglo-French, steward, king's official, from bail stewardship, custody, handing over see bail ]",
+        "sub_definitions": {
+            "1": {
+                "1": "an officer of some courts in the U.S. whose duties usually include keeping order in the courtroom and guarding prisoners or jurors in deliberation"
+            }
+        },
+        "references": {
+            "bail": "https://dictionary.findlaw.com/definition/bail.html"
+        }
+    }
+}

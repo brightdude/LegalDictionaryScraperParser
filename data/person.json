@@ -1,0 +1,21 @@
+{
+    "Person": {
+        "definition": "natural person 2",
+        "origin": "[had drugs on his ]",
+        "sub_definitions": {
+            "2": {
+                "definition": "the body of a human beingthe body and clothing of a human being [had drugs on his ]"
+            },
+            "3": {
+                "definition": "one (as a human being or corporation) that is recognized by law as the subject of rights and duties see also,,",
+                "see also": "juridical person"
+            }
+        },
+        "references": {
+            "natural person": "https://dictionary.findlaw.com/definition/natural-person.html",
+            "juridical person": "https://dictionary.findlaw.com/definition/juridical-person.html",
+            "legal person": "https://dictionary.findlaw.com/definition/legal-person.html",
+            "personality": "https://dictionary.findlaw.com/definition/personality.html"
+        }
+    }
+}

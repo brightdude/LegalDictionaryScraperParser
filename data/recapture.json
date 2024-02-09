@@ -1,0 +1,15 @@
+{
+    "Recapture": {
+        "definition": "to capture again 2",
+        "origin": "[the government recaptured the depreciation by taxing the gain resulting from the difference between the sale price and the basis after depreciation]",
+        "sub_definitions": {
+            "1": {
+                "definition": "the act or process of recapturing"
+            },
+            "2": {
+                "definition": "an amount recaptured or subject to recapture"
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "Accept": {
+        "definition": "to receive with consent [ a gift] [ service] b",
+        "origin": "[ a gift]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "to receive with consent [ a gift] [ service]",
+                "sub_terms": {
+                    "b": "to assent to the receipt of and treat in such a way as to indicate ownership of [the shipment despite discovering defects in the merchandise] compare"
+                },
+                "note": " Under section 2-606(1) of the Uniform Commercial Code, a buyer accepts goods if: 1) he or she indicates to the seller after a reasonable opportunity to inspect them that he or she will keep them; 2) he or she fails to effectively reject them; 3) he or she acts in a way that is inconsistent with seller's ownership of the goods.",
+                "compares": "reject",
+                "ed": "the shipment despite discovering defects in the merchandise] compare"
+            },
+            "2": {
+                "definition": "to receive and assume ownership of goods [under section 2-606(1), buyer hasif he has done any of the acts described therein \"J. J. White and R. S. Summers\"]",
+                "ed": "if he has done any of the acts described therein \"J. J. White and R. S. Summers\"]"
+            },
+            "3": {
+                "definition": "to assume orally, in writing, or by conduct an obligation to pay [a draft]"
+            },
+            "4": {
+                "definition": "to receive (a report) officially (as from a committee)"
+            },
+            "1": {
+                "definition": "to receive favorably something offered usually used with[no person…shall… of any present \"art. I\"]",
+                "of": "[no person…shall… of any present \""
+            }
+        },
+        "references": {
+            "reject": "https://dictionary.findlaw.com/definition/reject.html"
+        }
+    }
+}

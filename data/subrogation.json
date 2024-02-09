@@ -1,0 +1,16 @@
+{
+    "Subrogation": {
+        "definition": "an equitable doctrine holding that when a third party pays a creditor or obligee the third party succeeds to the creditor's rights against the debtor or obligor ;also",
+        "origin": "[where an insurer has acquired by an assignment or by the right to recover for money \"J. M. Landers et al. \"]",
+        "sub_definitions": {
+            "1": {
+                "definition": "an equitable doctrine holding that when a third party pays a creditor or obligee the third party succeeds to the creditor's rights against the debtor or obligora doctrine holding that when an insurance company pays an insured's claim of loss due to another's tort the insurer succeeds to the insured's rights (as the right to sue for damages) against the tortfeasor called also"
+            },
+            "2": {
+                "definition": "an act or instance of subrogating [where an insurer has acquired by an assignment or by the right to recover for money \"J. M. Landers\"]",
+                "note": " Subrogation can take place either by operation of law or by contractual agreement."
+            }
+        },
+        "references": {}
+    }
+}

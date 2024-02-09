@@ -1,0 +1,11 @@
+{
+    "Salary": {
+        "definition": "-ries",
+        "sub_definitions": {
+            "-ries": {
+                "definition": "fixed compensation paid regularly for services"
+            }
+        },
+        "references": {}
+    }
+}

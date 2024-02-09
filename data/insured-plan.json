@@ -1,0 +1,11 @@
+{
+    "Insured Plan": {
+        "definition": "a pension or retirement plan managed by an insurance company under which contributions are used to purchase life insurance or annuities as a means of funding the benefits promised",
+        "sub_definitions": {
+            "1": {
+                "1": "a pension or retirement plan managed by an insurance company under which contributions are used to purchase life insurance or annuities as a means of funding the benefits promised"
+            }
+        },
+        "references": {}
+    }
+}

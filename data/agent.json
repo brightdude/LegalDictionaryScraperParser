@@ -1,0 +1,85 @@
+{
+    "Agent": {
+        "definition": "someone or something that acts or exerts power",
+        "origin": "[where the heads of departments are the political… s of the executive, merely to execute the will of the president \" Marbury v. Madison , 5 U.S. 137 (1803)\"]",
+        "sub_definitions": {
+            "1": {
+                "definition": "someone or something that acts or exerts powera moving force in achieving some result"
+            },
+            "2": {
+                "definition": "a person guided or instigated by another in some action [where the heads of departments are the political…of the executive, merely to execute the will of the president \", 5 U.S. 137 (1803)\"] see also",
+                "see also": "innocent agent",
+                "Marbury v. Madison": "5 U.S. 137 (1803)\"] see al"
+            },
+            "3 a": {
+                "definition": "a person or entity (as an employee or independent contractor) authorized to act on behalf of and under the control of another in dealing with third parties see also,,compare,,",
+                "compares": "fiduciary",
+                "see also": "agency"
+            },
+            "apparent agent": {
+                "definition": "an agent acting under an agency by estoppel"
+            },
+            "bar·gain·ing agent": {
+                "definition": "a labor union that represents the employees in a bargaining unit in negotiating with their employer through collective bargaining"
+            },
+            "business agent": {
+                "definition": "an agent that handles business affairs for another person or organizationa paid official of a union who carries on union business between the employees and the employer"
+            },
+            "collective bargaining agent": {
+                "definition": "in this entry"
+            },
+            "del cre·de·re agent": {
+                "definition": "an agent that guarantees to his or her principal that third parties involved in the transaction will pay or perform"
+            },
+            "exclusive agent": {
+                "definition": "an agent acting under an exclusive agency"
+            },
+            "general agent": {
+                "definition": "an agent acting under a general agency"
+            },
+            "legislative agent": {
+                "definition": "an agent (as for an interest group) that lobbies a legislature esp. professionally"
+            },
+            "managing agent": {
+                "definition": "an agent or employee of a corporation or other business entity who has a position that involves the use of judgment and discretion and who is considered under the law as capable of accepting service of process and answering questions under cross-examination on behalf of the business entity"
+            },
+            "ostensible agent": {
+                "definition": "an agent acting under an agency by estoppel"
+            },
+            "special agent": {
+                "definition": "an agent authorized to do one or more specific acts under particular instructions or within restrictions implied by the nature of the authorized actsan agent acting under a special agency comparein this entry",
+                "compares": "general agent"
+            },
+            "transfer agent": {
+                "definition": "an officer, bank, or trust company that acts on behalf of a publicly held corporation in handling the transfer of stock and other securities and keeping records of the owners"
+            },
+            "universal agent": {
+                "definition": "an agent acting under a general agency",
+                "sub_terms": {
+                    "b": "a representative of a corporation designated to accept service of process on behalf of the corporation usually as required by statute",
+                    "c": "a person or organization that finds buyers or tenants for real estate owners usually for a commission",
+                    "d": "an independent sales or service representative of an insurance company compare"
+                },
+                "compares": "broker"
+            },
+            "4 a": {
+                "definition": "a representative, emissary, or official of a government [a diplomatic ]",
+                "sub_terms": {
+                    "b": "an employee of a government agency usually that is involved in law enforcement [seized by DEA]"
+                }
+            }
+        },
+        "references": {
+            "innocent agent": "https://dictionary.findlaw.com/definition/innocent-agent.html",
+            "agency": "https://dictionary.findlaw.com/definition/agency.html",
+            "fiduciary relationship": "https://dictionary.findlaw.com/definition/fiduciary-relationship.html",
+            "subagent": "https://dictionary.findlaw.com/definition/subagent.html",
+            "fiduciary": "https://dictionary.findlaw.com/definition/fiduciary.html",
+            "principal": "https://dictionary.findlaw.com/definition/principal.html",
+            "servant": "https://dictionary.findlaw.com/definition/servant.html",
+            "bargaining agent": "https://dictionary.findlaw.com/definition/bargaining-agent.html",
+            "general agent": "https://dictionary.findlaw.com/definition/general-agent.html",
+            "broker": "https://dictionary.findlaw.com/definition/broker.html"
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "Regulatory Taking": {
+        "definition": "an appropriation or diminution of private property rights by a governmental regulation which exceeds the government's legitimate police power",
+        "compare": "physical taking",
+        "sub_definitions": {
+            "1": {
+                "1": "an appropriation or diminution of private property rights by a governmental regulation which exceeds the government's legitimate police power (as the power to enact safety regulations) and for which the owner may seek a writ of mandamus, declaratory relief, or just compensation (as by inverse condemnation) compare",
+                "compares": "physical taking",
+                "note": " In order to determine whether a regulatory taking is effected by a regulation, a court will consider the government's interest that is being furthered by the regulation, the breadth or specificity of the regulation, and the extent of the regulation's impact on the owner's property rights and expectations. The U.S. Supreme Court has held that an owner can bring an action for compensation when the taking has deprived the owner of all use of the property even temporarily. Otherwise, the owner may be entitled only to declaratory relief."
+            }
+        },
+        "references": {
+            "physical taking": "https://dictionary.findlaw.com/definition/physical-taking.html",
+            "zoning": "https://dictionary.findlaw.com/definition/zoning.html"
+        }
+    }
+}

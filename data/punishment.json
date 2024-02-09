@@ -1,0 +1,17 @@
+{
+    "Punishment": {
+        "definition": "the act of punishing 2",
+        "sub_definitions": {
+            "1": {
+                "definition": "the act of punishing"
+            },
+            "2": {
+                "definition": "a penalty (as a fine or imprisonment) inflicted on an offender through the judicial and esp. criminal process see also",
+                "see also": "cruel and unusual punishment"
+            }
+        },
+        "references": {
+            "cruel and unusual punishment": "https://dictionary.findlaw.com/definition/cruel-and-unusual-punishment.html"
+        }
+    }
+}

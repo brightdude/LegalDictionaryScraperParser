@@ -1,0 +1,14 @@
+{
+    "Debtor's Estate": {
+        "definition": "bankruptcy estate at estate",
+        "sub_definitions": {
+            "1": {
+                "1": "bankruptcy estate"
+            }
+        },
+        "references": {
+            "bankruptcy estate": "https://dictionary.findlaw.com/definition/bankruptcy-estate.html",
+            "estate": "https://dictionary.findlaw.com/definition/estate.html"
+        }
+    }
+}

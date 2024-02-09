@@ -1,0 +1,13 @@
+{
+    "Nolo": {
+        "definition": "nolo contendere",
+        "sub_definitions": {
+            "1": {
+                "1": "nolo contendere"
+            }
+        },
+        "references": {
+            "nolo contendere": "https://dictionary.findlaw.com/definition/nolo-contendere.html"
+        }
+    }
+}

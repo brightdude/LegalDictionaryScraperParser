@@ -1,0 +1,14 @@
+{
+    "Special Prosecutor": {
+        "definition": "a prosecutor appointed to prosecute particular cases that the regular prosecutor is unable or unqualified to prosecute or for other reasons does not prosecute see also independent counsel",
+        "sub_definitions": {
+            "1": {
+                "1": "a prosecutor appointed to prosecute particular cases that the regular prosecutor is unable or unqualified to prosecute or for other reasons does not prosecute see also",
+                "see also": "independent counsel"
+            }
+        },
+        "references": {
+            "independent counsel": "https://dictionary.findlaw.com/definition/independent-counsel.html"
+        }
+    }
+}

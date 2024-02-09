@@ -1,0 +1,11 @@
+{
+    "Shop Steward": {
+        "definition": "a union member elected or appointed to serve as the representative of the union in a plant",
+        "sub_definitions": {
+            "1": {
+                "1": "a union member elected or appointed to serve as the representative of the union in a plant, department, or shop and charged mainly with negotiating the settlement of grievances of employees with employers, maintaining compliance with the collective bargaining agreement, recruiting new union members, and collecting union dues"
+            }
+        },
+        "references": {}
+    }
+}

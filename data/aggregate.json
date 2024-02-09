@@ -1,0 +1,18 @@
+{
+    "Aggregate": {
+        "definition": "taken as a total [ liability] [a-grə-gāt] vb -gat·ed -gat·ing vt 1",
+        "origin": "[ liability]",
+        "compare": "join",
+        "sub_definitions": {
+            "1": {
+                "definition": "total amount [may sue in federal court if the of the claims exceeds $50,000]"
+            },
+            "2": {
+                "definition": "a whole made up of individual units [the of operative facts]"
+            }
+        },
+        "references": {
+            "join": "https://dictionary.findlaw.com/definition/join.html"
+        }
+    }
+}

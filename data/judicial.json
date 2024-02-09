@@ -1,0 +1,26 @@
+{
+    "Judicial": {
+        "definition": "of or relating to a judgment",
+        "origin": "[Latin judicialis , from judicium judgment, from judic- judex judge, from jus right, law + dicere to determine, say]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "of or relating to a judgment, the function of judging, the administration of justice, or the judiciary",
+                "sub_terms": {
+                    "b": "of, relating to, or being the branch of government that is charged with trying all cases that involve the government and with the administration of justice within its jurisdiction compare,,"
+                },
+                "compares": "administrative"
+            },
+            "2": {
+                "definition": "created, ordered, or enforced by a court [a foreclosure] compare,",
+                "compares": "conventional"
+            }
+        },
+        "references": {
+            "administrative": "https://dictionary.findlaw.com/definition/administrative.html",
+            "executive": "https://dictionary.findlaw.com/definition/executive.html",
+            "legislative": "https://dictionary.findlaw.com/definition/legislative.html",
+            "conventional": "https://dictionary.findlaw.com/definition/conventional.html",
+            "legal": "https://dictionary.findlaw.com/definition/legal.html"
+        }
+    }
+}

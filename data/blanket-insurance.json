@@ -1,0 +1,17 @@
+{
+    "Blanket Insurance": {
+        "definition": "insurance under which all of the members of a class or group are covered but are not named see also group insurance 2",
+        "sub_definitions": {
+            "1": {
+                "definition": "insurance under which all of the members of a class or group are covered but are not named see also",
+                "see also": "group insurance"
+            },
+            "2": {
+                "definition": "insurance under which property of more than one type or at more than one location is covered"
+            }
+        },
+        "references": {
+            "group insurance": "https://dictionary.findlaw.com/definition/group-insurance.html"
+        }
+    }
+}

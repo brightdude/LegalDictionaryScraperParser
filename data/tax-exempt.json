@@ -1,0 +1,15 @@
+{
+    "Tax-Exempt": {
+        "definition": "exempted from taxation ;also",
+        "origin": "[ status]",
+        "sub_definitions": {
+            "1": {
+                "definition": "exempted from taxationbased on such exemption [ status]"
+            },
+            "2": {
+                "definition": "providing interest or income that is exempted from taxation [a municipal bond]"
+            }
+        },
+        "references": {}
+    }
+}

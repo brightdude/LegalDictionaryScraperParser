@@ -1,0 +1,16 @@
+{
+    "Recording Act": {
+        "definition": "a statute setting forth the requirements for recording a deed or interest",
+        "sub_definitions": {
+            "1": {
+                "1": "a statute setting forth the requirements for recording a deed or interest (as in real property) and the standards for determining priority among different parties with claims on the same property see also",
+                "see also": "notice"
+            }
+        },
+        "references": {
+            "notice": "https://dictionary.findlaw.com/definition/notice.html",
+            "pure race": "https://dictionary.findlaw.com/definition/pure-race.html",
+            "race-notice": "https://dictionary.findlaw.com/definition/race-notice.html"
+        }
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "Contraband": {
+        "definition": "property that is unlawfully produced",
+        "origin": "[Italian contrabbando act of smuggling, from contra - against + bando edict, law]",
+        "sub_definitions": {
+            "contraband per se": {
+                "definition": "property that is in and of itself unlawful to possess, produce, or transport"
+            },
+            "derivative contraband": {
+                "definition": "property that is unlawful because it is used in committing an unlawful act"
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "Vote": {
+        "definition": "a usually formal expression of opinion or will in response to a proposed decision ;esp",
+        "origin": "[Latin votum vow, hope, wish]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "to cast or conduct a vote [ for acquittal]",
+                "sub_terms": {
+                    "b": "to exercise a political franchise [encourage people to ]"
+                }
+            },
+            "2": {
+                "definition": "to cast votes on a corporate matter on the basis of [their shares against the proposed merger]",
+                "voted": "their shares against the proposed merger]"
+            },
+            "3": {
+                "definition": "the right to cast a votethe right of suffrage"
+            },
+            "4 a": {
+                "definition": "the act or process of voting [brought the question to a ]",
+                "sub_terms": {
+                    "b": "a method of votingvb"
+                }
+            },
+            "1": {
+                "definition": "to choose, endorse, decide the disposition of, defeat, or authorize by vote [ an appropriation]"
+            }
+        },
+        "references": {}
+    }
+}

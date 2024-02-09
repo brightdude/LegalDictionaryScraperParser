@@ -1,0 +1,46 @@
+{
+    "Custody": {
+        "definition": "care or control exercised by a person or authority over something or someone",
+        "origin": "[Latin custodia , from custod - custos guardian]",
+        "compare": "visitation",
+        "sub_definitions": {
+            "joint custody": {
+                "definition": "custody of a child shared by divorced or separated parents who alternate physical custody of and share in decisions regarding the child called also"
+            },
+            "phys·i·cal custody": {
+                "definition": "custody of a person (as an arrestee) whose freedom is under the actual and immediate control of an official",
+                "note": " A person need not be in physical custody to be entitled to habeas corpus protection."
+            },
+            "shared custody": {
+                "definition": "in this entry"
+            },
+            "sole custody": {
+                "definition": "custody of a child awarded to only one person and usually to a parent"
+            },
+            "tem·po·rary custody": {
+                "definition": "custody awarded until a final judgment in a matter (as a divorce) is made",
+                "sub_terms": {
+                    "c": "official restraint on freedom (as by arrest or imprisonment or by release on bail, personal recognizance, probation, or parole) compare"
+                },
+                "compares": "arrest"
+            },
+            "constructive custody": {
+                "definition": "custody of a person (as a parolee) who is not under immediate physical control but whose freedom is controlled or restrained by legal authority"
+            },
+            "penal custody": {
+                "definition": "custody of a person (as in a correctional institution) as a form of punishment"
+            },
+            "preventive custody": {
+                "definition": "custody of a person (as a criminal defendant awaiting trial) for the purpose of preventing further possible dangerous or criminal behavior"
+            },
+            "pro·tec·tive custody": {
+                "definition": "physical custody of a person for his or her own safety"
+            }
+        },
+        "references": {
+            "visitation": "https://dictionary.findlaw.com/definition/visitation.html",
+            "joint custody": "https://dictionary.findlaw.com/definition/joint-custody.html",
+            "arrest": "https://dictionary.findlaw.com/definition/arrest.html"
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "Incorporeal": {
+        "definition": "not tangible",
+        "origin": "[ hereditaments]",
+        "compare": "corporeal",
+        "sub_definitions": {
+            "1": {
+                "1": "not tangible"
+            },
+            "2": {
+                "1": "having no material body or form [ hereditaments] [an right] compare",
+                "compares": "corporeal"
+            }
+        },
+        "references": {
+            "corporeal": "https://dictionary.findlaw.com/definition/corporeal.html"
+        }
+    }
+}

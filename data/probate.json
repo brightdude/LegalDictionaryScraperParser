@@ -1,0 +1,34 @@
+{
+    "Probate": {
+        "definition": "the process of proving in a court of competent jurisdiction",
+        "origin": "[Latin probatum , neuter of probatus , past participle of probare to test, approve, prove]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "the process of proving in a court of competent jurisdiction (as a probate court) that an instrument is the valid last will and testament of a deceased personthe process of administering an estate",
+                "sub_terms": {
+                    "b": "the judicial determination that a will is valid"
+                }
+            },
+            "2": {
+                "definition": "the officially authenticated copy of a probated will"
+            },
+            "3 a": {
+                "sub_terms": {
+                    "b": "matters that fall under the jurisdiction of a probate courtvt"
+                }
+            },
+            "1": {
+                "definition": "to establish (a will) as valid through probate"
+            },
+            "2 a": {
+                "definition": "to put (a convicted offender) on probation",
+                "sub_terms": {
+                    "b": "to replace (a sentence) with probation"
+                }
+            }
+        },
+        "references": {
+            "probate court": "https://dictionary.findlaw.com/definition/probate-court.html"
+        }
+    }
+}

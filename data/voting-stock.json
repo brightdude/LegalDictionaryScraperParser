@@ -1,0 +1,8 @@
+{
+    "Voting Stock": {
+        "definition": "Voting Stock",
+        "references": {
+            "stock": "https://dictionary.findlaw.com/definition/stock.html"
+        }
+    }
+}

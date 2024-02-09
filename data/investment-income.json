@@ -1,0 +1,11 @@
+{
+    "Investment Income": {
+        "definition": "income",
+        "sub_definitions": {
+            "1": {
+                "1": "income (as interest, dividends, annuities, or royalties) that is not derived in the ordinary course of a trade or business"
+            }
+        },
+        "references": {}
+    }
+}

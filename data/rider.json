@@ -1,0 +1,14 @@
+{
+    "Rider": {
+        "definition": "an addition to a document",
+        "sub_definitions": {
+            "1": {
+                "definition": "an addition to a document (as an insurance policy) often attached on a separate piece of paper"
+            },
+            "2": {
+                "definition": "a clause or provision appended to a legislative bill to obtain a usually distinct object"
+            }
+        },
+        "references": {}
+    }
+}

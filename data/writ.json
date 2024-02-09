@@ -1,0 +1,71 @@
+{
+    "Writ": {
+        "definition": "a letter that was issued in the name of the English monarch from Anglo-Saxon times to declare his grants",
+        "origin": "[Old English, something written]",
+        "sub_definitions": {
+            "1": {
+                "definition": "a common-law writ formerly used to restore property held by another to its rightful owner"
+            },
+            "2": {
+                "definition": "a writ granted as a matter of right comparein this entry",
+                "compares": "extraordinary writ"
+            },
+            "alias writ": {
+                "definition": "a writ issued upon the failure of a previous one"
+            },
+            "alternative writ": {
+                "definition": "a writ commanding one to perform a mandated act or else to show cause why the act need not be performed comparein this entry",
+                "compares": "peremptory writ"
+            },
+            "extraordinary writ": {
+                "definition": "a writ granted as an extraordinary remedy at the discretion of the court in its jurisdiction over officials or inferior tribunals called alsosee also,,,,,comparein this entry",
+                "note": " Extraordinary writs were originally writs exercised by royal prerogative.",
+                "compares": "writ of right",
+                "see also": "certiorari"
+            },
+            "judicial writ": {
+                "definition": "a writ issued by a court under its own seal for judicial purposes in the course of a proceeding or to enforce a judgment comparein this entry",
+                "compares": "original writ"
+            },
+            "original writ": {
+                "definition": "a writ formerly used in England that issued out of chancery as the means of bringing a suit and defendant before the court comparein this entry",
+                "note": " The original writ was superseded by the summons in 1873.",
+                "compares": "judicial writ"
+            },
+            "peremptory writ": {
+                "definition": "a writ (as of mandamus) that presents an absolute order without the alternative to show cause [aof prohibition] comparein this entry",
+                "compares": "alternative writ",
+                "peremptory writ": "of prohibition] compare"
+            },
+            "pre·rog·a·tive writ": {
+                "definition": "[pri-rÄ -gə-tiv-]in this entry"
+            },
+            "writ of coram nobis": {
+                "definition": "in this entry"
+            },
+            "writ of error": {
+                "definition": "a common-law writ directing an inferior court to remit the record of an action to the reviewing court in order that an error of law may be corrected if it exists",
+                "note": " The writ of error has been largely abolished and superseded by the appeal."
+            },
+            "writ of error coram nobis": {
+                "definition": "a writ calling the attention of the trial court to facts which do not appear on the record despite the exercise of reasonable diligence by the defendant and which if known and established at the time a judgment was rendered would have resulted in a different judgment [petitioned for aon the ground that newly discovered evidence exonerated him] called also",
+                "writ of error coram nobis": "on the ground that newly discovered evidence exonerated him] called also"
+            }
+        },
+        "references": {
+            "peremptory writ": "https://dictionary.findlaw.com/definition/peremptory-writ.html",
+            "certiorari": "https://dictionary.findlaw.com/definition/certiorari.html",
+            "habeas corpus": "https://dictionary.findlaw.com/definition/habeas-corpus.html",
+            "mandamus": "https://dictionary.findlaw.com/definition/mandamus.html",
+            "procedendo": "https://dictionary.findlaw.com/definition/procedendo.html",
+            "prohibition": "https://dictionary.findlaw.com/definition/prohibition.html",
+            "quo warranto": "https://dictionary.findlaw.com/definition/quo-warranto.html",
+            "writ of right": "https://dictionary.findlaw.com/definition/writ-of-right.html",
+            "original writ": "https://dictionary.findlaw.com/definition/original-writ.html",
+            "judicial writ": "https://dictionary.findlaw.com/definition/judicial-writ.html",
+            "alternative writ": "https://dictionary.findlaw.com/definition/alternative-writ.html",
+            "extraordinary writ": "https://dictionary.findlaw.com/definition/extraordinary-writ.html",
+            "writ of error coram nobis": "https://dictionary.findlaw.com/definition/writ-of-error-coram-nobis.html"
+        }
+    }
+}

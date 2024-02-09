@@ -1,0 +1,22 @@
+{
+    "Reversion": {
+        "definition": "the returning of an estate upon its termination to the former owner or to his or her successor in interest 2 a",
+        "origin": "[Anglo-French, from Middle French, from Latin reversio act of turning back, from revertere to turn back]",
+        "sub_definitions": {
+            "1": {
+                "definition": "the returning of an estate upon its termination to the former owner or to his or her successor in interest"
+            },
+            "2 a": {
+                "definition": "the present vested interest in the residue of an estate that remains in its owner after the grant therefrom of a lesser estate (as a life estate) and that will commence in possession by operation of law upon termination of the lesser estate",
+                "sub_terms": {
+                    "b": "the future interest in property left in a grantor or his or her successor in interest that is not subject to a condition precedent compare,"
+                },
+                "compares": "possibility of reverter"
+            }
+        },
+        "references": {
+            "possibility of reverter": "https://dictionary.findlaw.com/definition/possibility-of-reverter.html",
+            "remainder": "https://dictionary.findlaw.com/definition/remainder.html"
+        }
+    }
+}

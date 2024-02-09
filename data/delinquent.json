@@ -1,0 +1,20 @@
+{
+    "Delinquent": {
+        "definition": "a delinquent person ;esp",
+        "origin": "[Latin delinquent - delinquens , present participle of delinquere to commit (an offense), err]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "offending by neglect or violation of duty or law [ acts]",
+                "sub_terms": {
+                    "b": "characterized by juvenile delinquency [ youth]"
+                }
+            },
+            "2": {
+                "definition": "being overdue in payment [ taxes] [was in his child support payments]"
+            }
+        },
+        "references": {
+            "juvenile delinquent": "https://dictionary.findlaw.com/definition/juvenile-delinquent.html"
+        }
+    }
+}

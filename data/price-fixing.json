@@ -1,0 +1,15 @@
+{
+    "Price-Fixing": {
+        "definition": "the usually illegal setting of prices artificially",
+        "sub_definitions": {
+            "1": {
+                "1": "the usually illegal setting of prices artificially (as by producers) contrary to free market operations see also",
+                "see also": "horizontal price-fixing"
+            }
+        },
+        "references": {
+            "horizontal price-fixing": "https://dictionary.findlaw.com/definition/horizontal-price-fixing.html",
+            "vertical price-fixing": "https://dictionary.findlaw.com/definition/vertical-price-fixing.html"
+        }
+    }
+}

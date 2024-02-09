@@ -1,0 +1,15 @@
+{
+    "Guilty But Mentally Ill": {
+        "definition": "a verdict available in some jurisdictions in cases involving an insanity defense in which the defendant is considered as if having been found guilty but is committed to a mental hospital rather than imprisoned if an examination shows a need for psychiatric treatment compare not guilty by reason of insanity",
+        "compare": "not guilty by reason of insanity",
+        "sub_definitions": {
+            "1": {
+                "1": "a verdict available in some jurisdictions in cases involving an insanity defense in which the defendant is considered as if having been found guilty but is committed to a mental hospital rather than imprisoned if an examination shows a need for psychiatric treatment compare",
+                "compares": "not guilty by reason of insanity"
+            }
+        },
+        "references": {
+            "not guilty by reason of insanity": "https://dictionary.findlaw.com/definition/not-guilty-by-reason-of-insanity.html"
+        }
+    }
+}

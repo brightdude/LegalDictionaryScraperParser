@@ -1,0 +1,11 @@
+{
+    "John": {
+        "definition": "a prostitute's client",
+        "sub_definitions": {
+            "1": {
+                "1": "a prostitute's client"
+            }
+        },
+        "references": {}
+    }
+}

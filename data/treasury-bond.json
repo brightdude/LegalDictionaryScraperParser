@@ -1,0 +1,8 @@
+{
+    "Treasury Bond": {
+        "definition": "Treasury Bond",
+        "references": {
+            "bond": "https://dictionary.findlaw.com/definition/bond.html"
+        }
+    }
+}

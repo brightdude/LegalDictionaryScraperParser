@@ -1,0 +1,11 @@
+{
+    "Voyage Policy": {
+        "definition": "a marine insurance policy covering only a stated voyage",
+        "sub_definitions": {
+            "1": {
+                "1": "a marine insurance policy covering only a stated voyage"
+            }
+        },
+        "references": {}
+    }
+}

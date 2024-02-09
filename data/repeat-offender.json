@@ -1,0 +1,11 @@
+{
+    "Repeat Offender": {
+        "definition": "a person who has been convicted of a crime on more than one occasion",
+        "sub_definitions": {
+            "1": {
+                "1": "a person who has been convicted of a crime on more than one occasion"
+            }
+        },
+        "references": {}
+    }
+}

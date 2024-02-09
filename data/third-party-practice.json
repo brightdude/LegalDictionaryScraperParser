@@ -1,0 +1,13 @@
+{
+    "Third-Party Practice": {
+        "definition": "impleader",
+        "sub_definitions": {
+            "1": {
+                "1": "impleader"
+            }
+        },
+        "references": {
+            "impleader": "https://dictionary.findlaw.com/definition/impleader.html"
+        }
+    }
+}

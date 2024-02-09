@@ -1,0 +1,18 @@
+{
+    "Commute": {
+        "definition": "to convert",
+        "origin": "[kÄ -myə-tā-shən]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to convert (as a payment) into another form"
+            },
+            "2": {
+                "definition": "to change (a penalty) to one less severe esp. out of clemency compare",
+                "compares": "pardon"
+            }
+        },
+        "references": {
+            "pardon": "https://dictionary.findlaw.com/definition/pardon.html"
+        }
+    }
+}

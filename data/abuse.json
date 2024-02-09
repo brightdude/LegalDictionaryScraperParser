@@ -1,0 +1,32 @@
+{
+    "Abuse": {
+        "definition": "to put to a use other than the one intended",
+        "origin": "[ abusing the powers of office]",
+        "sub_definitions": {
+            "1": {
+                "definition": "improper, unfair, or excessive use [ of authority] [drug ]"
+            },
+            "2 a": {
+                "definition": "the infliction of physical or emotional injurythe crime of inflicting such injury see also,compare,",
+                "sub_terms": {
+                    "b": ""
+                },
+                "compares": "cruelty",
+                "see also": "battered child syndrome"
+            },
+            "3": {
+                "definition": "a verbal attack (as on a police officer in the performance of his or her duty)the crime of making such an attack"
+            },
+            "abus·ern": {
+                "definition": "[ə-byüs] n"
+            }
+        },
+        "references": {
+            "battered child syndrome": "https://dictionary.findlaw.com/definition/battered-child-syndrome.html",
+            "battered woman's syndrome": "https://dictionary.findlaw.com/definition/battered-woman-s-syndrome.html",
+            "cruelty": "https://dictionary.findlaw.com/definition/cruelty.html",
+            "neglect": "https://dictionary.findlaw.com/definition/neglect.html",
+            "sexual abuse": "https://dictionary.findlaw.com/definition/sexual-abuse.html"
+        }
+    }
+}

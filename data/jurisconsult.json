@@ -1,0 +1,17 @@
+{
+    "Jurisconsult": {
+        "definition": "jurist ;esp",
+        "origin": "[Latin jurisconsultus , from juris , genitive of jus law, right + consultus , past participle of consulere to consult]",
+        "sub_definitions": {
+            "1": {
+                "1": "jurist"
+            },
+            "2": {
+                "1": "one learned in international and public law"
+            }
+        },
+        "references": {
+            "jurist": "https://dictionary.findlaw.com/definition/jurist.html"
+        }
+    }
+}

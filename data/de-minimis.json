@@ -1,0 +1,20 @@
+{
+    "De Minimis": {
+        "definition": "lacking significance or importance",
+        "origin": "[New Latin, concerning trifles]",
+        "compare": "substantial",
+        "sub_definitions": {
+            "1": {
+                "1": "lacking significance or importance"
+            },
+            "2": {
+                "1": "so minor as to be disregarded compare",
+                "compares": "substantial",
+                "note": " An action may be dismissed if the claim or cause is considered de minimis."
+            }
+        },
+        "references": {
+            "substantial": "https://dictionary.findlaw.com/definition/substantial.html"
+        }
+    }
+}

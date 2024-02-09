@@ -1,0 +1,16 @@
+{
+    "Common-Law Marriage": {
+        "definition": "a marriage that is without a ceremony and is based on the parties' agreement to consider themselves married and usually also on their cohabitation for a period and their public recognition of the marriage compare concubinage NOTE",
+        "compare": "concubinage",
+        "sub_definitions": {
+            "1": {
+                "1": "a marriage that is without a ceremony and is based on the parties' agreement to consider themselves married and usually also on their cohabitation for a period and their public recognition of the marriage compare",
+                "compares": "concubinage",
+                "note": " Most jurisdictions no longer allow this type of marriage to be formed, although they may recognize such marriages formed prior to a certain date or formed in a jurisdiction that does permit common-law marriages."
+            }
+        },
+        "references": {
+            "concubinage": "https://dictionary.findlaw.com/definition/concubinage.html"
+        }
+    }
+}

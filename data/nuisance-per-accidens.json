@@ -1,0 +1,14 @@
+{
+    "Nuisance Per Accidens": {
+        "definition": "nuisance in fact at nuisance",
+        "sub_definitions": {
+            "1": {
+                "1": "nuisance in fact"
+            }
+        },
+        "references": {
+            "nuisance in fact": "https://dictionary.findlaw.com/definition/nuisance-in-fact.html",
+            "nuisance": "https://dictionary.findlaw.com/definition/nuisance.html"
+        }
+    }
+}

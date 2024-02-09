@@ -1,0 +1,16 @@
+{
+    "Ocean Marine Insurance": {
+        "definition": "insurance against risks incident to transportation by sea compare inland marine insurance",
+        "compare": "inland marine insurance",
+        "sub_definitions": {
+            "1": {
+                "1": "insurance against risks incident to transportation by sea compare",
+                "compares": "inland marine insurance"
+            }
+        },
+        "references": {
+            "inland marine insurance": "https://dictionary.findlaw.com/definition/inland-marine-insurance.html",
+            "marine insurance": "https://dictionary.findlaw.com/definition/marine-insurance.html"
+        }
+    }
+}

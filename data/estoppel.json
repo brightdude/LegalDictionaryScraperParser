@@ -1,0 +1,65 @@
+{
+    "Estoppel": {
+        "definition": "a bar to the use of contradictory words or acts in asserting a claim or right against another ;esp",
+        "origin": "[probably from Middle French estoupail plug, stopper, from estouper to stop up see estop ]",
+        "sub_definitions": {
+            "1": {
+                "definition": "a bar to the use of contradictory words or acts in asserting a claim or right against anotherin this entry compare",
+                "compares": "waiver"
+            },
+            "equitable estoppel": {
+                "definition": "an estoppel that prevents a person from adopting a new position that contradicts a previous position maintained by words, silence, or actions when allowing the new position to be adopted would unfairly harm another person who has relied on the previous position to his or her loss called also",
+                "note": " Traditionally equitable estoppel required that the original position was a misrepresentation which was being denied in the new position. Some jurisdictions retain the requirement of misrepresentation."
+            },
+            "estoppel by deed": {
+                "definition": "an estoppel precluding a person from denying the truth of any matter that he or she asserted in a deed esp. regarding his or her title to the property compareat"
+            },
+            "estoppel by silence": {
+                "definition": "an estoppel preventing a person from making an assertion to another's disadvantage when the person previously had the opportunity and duty to speak but failed to do so"
+            },
+            "estoppel in pais": {
+                "definition": "in this entry"
+            },
+            "file wrap·per estoppel": {
+                "definition": "an estoppel in patent law barring an applicant who has acquiesced in the rejection of a broad claim in the application for a patent from later asserting that a claim deliberately more restricted is equivalent to the original claim called also"
+            },
+            "promissory estoppel": {
+                "definition": "an estoppel that prevents a promisor from denying the existence of a promise when the promisee reasonably and foreseeably relies on the promise and to his or her loss acts or fails to act and suffers an injustice that can only be avoided by enforcement of the promise"
+            },
+            "prosecution his·to·ry estoppel": {
+                "definition": "in this entry"
+            },
+            "quasi estoppel": {
+                "definition": "an equitable estoppel that does not require misrepresentation by one party nor reliance or ignorance by the other party"
+            },
+            "2 a": {
+                "definition": "a bar to the relitigation of issues"
+            },
+            "collateral estoppel": {
+                "definition": "estoppel by judgment barring the relitigation of issues litigated by the same parties on a different cause of actionestoppel by judgment barring the relitigation of issues litigated by the same parties on a different or the same cause of action"
+            },
+            "direct estoppel": {
+                "definition": "estoppel by judgment barring the relitigation of issues litigated by the same parties on the same cause of action"
+            },
+            "estoppel by judgment": {
+                "definition": "a bar to the relitigation in a second action of issues already determined in a previous actionin this entry called alsosee alsocompare,",
+                "sub_terms": {
+                    "b": "the affirmative defense of estoppel"
+                },
+                "compares": "merger",
+                "see also": "former adjudication"
+            }
+        },
+        "references": {
+            "estop": "https://dictionary.findlaw.com/definition/estop.html",
+            "equitable estoppel": "https://dictionary.findlaw.com/definition/equitable-estoppel.html",
+            "waiver": "https://dictionary.findlaw.com/definition/waiver.html",
+            "title": "https://dictionary.findlaw.com/definition/title.html",
+            "file wrapper estoppel": "https://dictionary.findlaw.com/definition/file-wrapper-estoppel.html",
+            "collateral estoppel": "https://dictionary.findlaw.com/definition/collateral-estoppel.html",
+            "former adjudication": "https://dictionary.findlaw.com/definition/former-adjudication.html",
+            "merger": "https://dictionary.findlaw.com/definition/merger.html",
+            "res judicata": "https://dictionary.findlaw.com/definition/res-judicata.html"
+        }
+    }
+}

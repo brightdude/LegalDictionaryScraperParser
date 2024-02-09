@@ -1,0 +1,13 @@
+{
+    "Union Mortgage Clause": {
+        "definition": "standard mortgage clause",
+        "sub_definitions": {
+            "1": {
+                "1": "standard mortgage clause"
+            }
+        },
+        "references": {
+            "standard mortgage clause": "https://dictionary.findlaw.com/definition/standard-mortgage-clause.html"
+        }
+    }
+}

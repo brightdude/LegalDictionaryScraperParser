@@ -1,0 +1,14 @@
+{
+    "Mystic Testament": {
+        "definition": "mystic will at will",
+        "sub_definitions": {
+            "1": {
+                "1": "mystic will"
+            }
+        },
+        "references": {
+            "mystic will": "https://dictionary.findlaw.com/definition/mystic-will.html",
+            "will": "https://dictionary.findlaw.com/definition/will.html"
+        }
+    }
+}

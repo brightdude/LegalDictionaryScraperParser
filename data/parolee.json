@@ -1,0 +1,11 @@
+{
+    "Parolee": {
+        "definition": "a prisoner released on parole",
+        "sub_definitions": {
+            "1": {
+                "1": "a prisoner released on parole"
+            }
+        },
+        "references": {}
+    }
+}

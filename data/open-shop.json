@@ -1,0 +1,17 @@
+{
+    "Open Shop": {
+        "definition": "an establishment in which eligibility for employment and retention on the payroll are not determined by membership or nonmembership in a labor union though there may be an agreement by which a union is recognized as sole bargaining agent called also merit shop compare agency shop",
+        "compare": "agency shop",
+        "sub_definitions": {
+            "1": {
+                "1": "an establishment in which eligibility for employment and retention on the payroll are not determined by membership or nonmembership in a labor union though there may be an agreement by which a union is recognized as sole bargaining agent called also",
+                "compares": "agency shop"
+            }
+        },
+        "references": {
+            "agency shop": "https://dictionary.findlaw.com/definition/agency-shop.html",
+            "closed shop": "https://dictionary.findlaw.com/definition/closed-shop.html",
+            "union shop": "https://dictionary.findlaw.com/definition/union-shop.html"
+        }
+    }
+}

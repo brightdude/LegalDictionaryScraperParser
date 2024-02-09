@@ -1,0 +1,13 @@
+{
+    "Juristic Person": {
+        "definition": "juridical person",
+        "sub_definitions": {
+            "1": {
+                "1": "juridical person"
+            }
+        },
+        "references": {
+            "juridical person": "https://dictionary.findlaw.com/definition/juridical-person.html"
+        }
+    }
+}

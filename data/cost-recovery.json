@@ -1,0 +1,13 @@
+{
+    "Cost Recovery": {
+        "definition": "depreciation",
+        "sub_definitions": {
+            "1": {
+                "1": "depreciation"
+            }
+        },
+        "references": {
+            "depreciation": "https://dictionary.findlaw.com/definition/depreciation.html"
+        }
+    }
+}

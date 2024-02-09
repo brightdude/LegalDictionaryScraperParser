@@ -1,0 +1,13 @@
+{
+    "Equitable Subrogation": {
+        "definition": "subrogation",
+        "sub_definitions": {
+            "1": {
+                "1": "subrogation"
+            }
+        },
+        "references": {
+            "subrogation": "https://dictionary.findlaw.com/definition/subrogation.html"
+        }
+    }
+}

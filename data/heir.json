@@ -1,0 +1,89 @@
+{
+    "Heir": {
+        "definition": "one who inherits or is entitled to succeed to the possession of property after the death of its owner",
+        "origin": "[-ab-in-tes-tā-tō, -Ä b-in-tes-tÄ -tō]",
+        "compare": "issue",
+        "sub_definitions": {
+            "apparent heir": {
+                "definition": "in this entry"
+            },
+            "beneficiary heir": {
+                "definition": "an heir who exercises the benefit of inventory which limits the amount of his or her liability for the decedent's debts"
+            },
+            "bod·i·ly heir": {
+                "definition": "in this entry"
+            },
+            "forced heir": {
+                "definition": "an heir who cannot be disinherited except for causes recognized by lawan heir who because of youth or mental or physical infirmity cannot care for himself or herself and who cannot be deprived of his or her lawful portion of the decedent's estate by disinherison without just cause see also",
+                "see also": "legitime"
+            },
+            "heir ab in·tes·ta·to": {
+                "definition": "[-ab-in-tes-tā-tō, -Ä b-in-tes-tÄ -tō]"
+            },
+            "heirs ab intestato": {
+                "definition": "an heir that takes only by operation of the laws governing intestate succession"
+            },
+            "heirs apparent": {
+                "definition": "an heir whose right to an inheritance cannot be voided or undone except by exclusion under a valid will if he or she survives the ancestor called alsocomparein this entry",
+                "compares": "heir presumptive"
+            },
+            "heir in tail": {
+                "definition": "an heir to a fee-tail estate called also"
+            },
+            "heir of the body": {
+                "definition": "an heir who is a lineal descendant esp. as contrasted with a collateral descendant called also"
+            },
+            "heirs presumptive": {
+                "definition": "an heir whose right to inherit may be defeated by the birth of a nearer relative or by exclusion under a valid will called alsocomparein this entry",
+                "compares": "heir apparent"
+            },
+            "instituted heir": {
+                "definition": "an heir who is named in the will but whose legacy will fall to a substitute legatee under a vulgar substitution in the event that he or she refuses the legacy or dies before the testator called also"
+            },
+            "irregular heir": {
+                "definition": "an heir who inherits a right of action to the estate as distinguished from seisin",
+                "note": " This class of heirs was eliminated as of January 1, 1982. Formerly, a decedent's illegitimate children and spouse were considered irregular heirs."
+            },
+            "legal heir": {
+                "definition": "an heir who receives seisin immediately after the death of the intestate by operation of law comparein this entry",
+                "note": " Prior to 1982 the Louisiana Civil Code distinguished between legal and irregular heirs who were required to go through an additional procedure in order to receive possession of the property. This division of heirs was eliminated in the 1981 revision of the Civil Code.",
+                "compares": "irregular heir"
+            },
+            "natural heir": {
+                "definition": "an heir (as a child) whose status as an heir arises from esp. close blood relationship as distinguished from one (as the state) whose status arises by operation of statute"
+            },
+            "presumptive heir": {
+                "definition": "in this entry"
+            },
+            "pretermitted heir": {
+                "definition": "a descendant of a testator who would be an heir under the laws of intestacy but who is not named to take under the will",
+                "note": " Most states have statutes requiring a share of the estate to go to a pretermitted heir on the assumption that the omission was unintentional."
+            },
+            "1": {
+                "definition": "an heir by blood"
+            },
+            "2": {
+                "definition": "the particular heir granted or devised an estate tail as distinguished from the heirs in general"
+            },
+            "testamentary heir": {
+                "definition": "an heir who inherits under a will"
+            }
+        },
+        "references": {
+            "issue": "https://dictionary.findlaw.com/definition/issue.html",
+            "intestacy": "https://dictionary.findlaw.com/definition/intestacy.html",
+            "unworthy": "https://dictionary.findlaw.com/definition/unworthy.html",
+            "ancestor": "https://dictionary.findlaw.com/definition/ancestor.html",
+            "devisee": "https://dictionary.findlaw.com/definition/devisee.html",
+            "legatee": "https://dictionary.findlaw.com/definition/legatee.html",
+            "next of kin": "https://dictionary.findlaw.com/definition/next-of-kin.html",
+            "successor": "https://dictionary.findlaw.com/definition/successor.html",
+            "heir apparent": "https://dictionary.findlaw.com/definition/heir-apparent.html",
+            "heir of the body": "https://dictionary.findlaw.com/definition/heir-of-the-body.html",
+            "legitime": "https://dictionary.findlaw.com/definition/legitime.html",
+            "heir presumptive": "https://dictionary.findlaw.com/definition/heir-presumptive.html",
+            "heir": "https://dictionary.findlaw.com/definition/heir.html",
+            "irregular heir": "https://dictionary.findlaw.com/definition/irregular-heir.html"
+        }
+    }
+}

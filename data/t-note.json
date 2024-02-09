@@ -1,0 +1,14 @@
+{
+    "T-Note": {
+        "definition": "treasury note at note",
+        "sub_definitions": {
+            "1": {
+                "1": "treasury note"
+            }
+        },
+        "references": {
+            "treasury note": "https://dictionary.findlaw.com/definition/treasury-note.html",
+            "note": "https://dictionary.findlaw.com/definition/note.html"
+        }
+    }
+}

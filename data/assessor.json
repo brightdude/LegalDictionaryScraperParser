@@ -1,0 +1,17 @@
+{
+    "Assessor": {
+        "definition": "one appointed or elected to assist a judge or magistrate ;esp",
+        "sub_definitions": {
+            "1": {
+                "definition": "one appointed or elected to assist a judge or magistrateone with special knowledge of the subject to be decided see also",
+                "see also": "master"
+            },
+            "2": {
+                "definition": "one that assessesone that is authorized to assess property for taxation"
+            }
+        },
+        "references": {
+            "master": "https://dictionary.findlaw.com/definition/master.html"
+        }
+    }
+}

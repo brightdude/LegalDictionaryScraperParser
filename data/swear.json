@@ -1,0 +1,28 @@
+{
+    "Swear": {
+        "definition": "to utter or take solemnly [ an oath] 2 a",
+        "origin": "[Old English swerian ]",
+        "sub_definitions": {
+            "swear·ing": {
+                "definition": "[Old English]"
+            },
+            "1": {
+                "definition": "to utter or take solemnly [ an oath]"
+            },
+            "2 a": {
+                "definition": "to assert as true or promise under oath [aaffidavit]",
+                "sub_terms": {
+                    "b": "to assert or promise emphatically or earnestly [to uphold the constitution]"
+                },
+                "swore": "to uphold the constitution]"
+            },
+            "3 a": {
+                "definition": "to put to an oath",
+                "sub_terms": {
+                    "b": "to bind by an oathto take an oath"
+                }
+            }
+        },
+        "references": {}
+    }
+}

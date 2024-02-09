@@ -1,0 +1,14 @@
+{
+    "Territoriality": {
+        "definition": "territorial status 2",
+        "sub_definitions": {
+            "1": {
+                "definition": "territorial status"
+            },
+            "2": {
+                "definition": "the jurisdiction of a sovereign state over matters within the limits of its territory esp. as exercisable apart from the minimum contacts standard for personal jurisdiction over nonresidents"
+            }
+        },
+        "references": {}
+    }
+}

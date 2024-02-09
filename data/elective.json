@@ -1,0 +1,26 @@
+{
+    "Elective": {
+        "definition": "chosen by popular election [an official] b",
+        "origin": "[an official]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "chosen by popular election [an official]",
+                "sub_terms": {
+                    "b": "of or relating to election",
+                    "c": "based on the right or principle of election [the presidency is an office]"
+                }
+            },
+            "2 a": {
+                "definition": "permitting a choice compare",
+                "sub_terms": {
+                    "b": "available as a choice [ insurance coverage]",
+                    "c": "beneficial to the patient but not essential for survival [ surgery]"
+                },
+                "compares": "compulsory"
+            }
+        },
+        "references": {
+            "compulsory": "https://dictionary.findlaw.com/definition/compulsory.html"
+        }
+    }
+}

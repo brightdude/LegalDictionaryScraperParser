@@ -1,0 +1,14 @@
+{
+    "Trust Fund Doctrine": {
+        "definition": "a doctrine holding that shareholders to whom assets of an insolvent corporation have been transferred are liable to creditors upon dissolution of the corporation ;broadly",
+        "sub_definitions": {
+            "1": {
+                "1": "a doctrine holding that shareholders to whom assets of an insolvent corporation have been transferred are liable to creditors upon dissolution of the corporation"
+            },
+            "2": {
+                "1": "a doctrine holding that corporate assets are held as a trust fund for the benefit of shareholders and creditors and that corporate officers have a fiduciary duty to deal with them properly"
+            }
+        },
+        "references": {}
+    }
+}

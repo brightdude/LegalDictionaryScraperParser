@@ -1,0 +1,15 @@
+{
+    "Illegalize": {
+        "definition": "to make or declare illegal compare criminalize",
+        "compare": "criminalize",
+        "sub_definitions": {
+            "1": {
+                "1": "to make or declare illegal compare",
+                "compares": "criminalize"
+            }
+        },
+        "references": {
+            "criminalize": "https://dictionary.findlaw.com/definition/criminalize.html"
+        }
+    }
+}

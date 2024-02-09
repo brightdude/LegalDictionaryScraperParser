@@ -1,0 +1,114 @@
+{
+    "Power": {
+        "definition": "capability of acting or of producing an effect [parties of unequal bargaining ] 2 a",
+        "origin": "[parties of unequal bargaining ]",
+        "sub_definitions": {
+            "1": {
+                "definition": "capability of acting or of producing an effect [parties of unequal bargaining ]"
+            },
+            "2 a": {
+                "definition": "authority or capacity to act that is delegated by law or constitution often used in pl."
+            },
+            "commerce power": {
+                "definition": "the power delegated to Congress under Article I, Section 8 of the U.S. Constitution to regulate commerce esp. among the states see also",
+                "see also": "commerce clause"
+            },
+            "concurrent power": {
+                "definition": "a power that is held simultaneously by more than one entitya power delegated to the federal government by the U.S. Constitution that is also held by the states"
+            },
+            "enu·mer·at·ed powers": {
+                "definition": "[i-nü-mə-rā-təd-, -nyü-]the powers specifically named and delegated to the federal government or prohibited to be exercised by the states under the U.S. Constitution comparein this entry",
+                "compares": "reserved powers"
+            },
+            "executive power": {
+                "definition": "the power delegated to the executive of a governmentany or all of the powers delegated to the president under Article II of the U.S. Constitution"
+            },
+            "implied power": {
+                "definition": "the power of one acting under an implied agency"
+            },
+            "judicial power": {
+                "definition": "the power granted to the judicial branch of a governmentthe power delegated to the judiciary under Article III of the U.S. Constitution"
+            },
+            "legislative power": {
+                "definition": "the power delegated to a legislative branch of a governmentany or all of the powers delegated to the Congress under Article I of the U.S. Constitution"
+            },
+            "police power": {
+                "definition": "the power of a government to exercise reasonable control over persons and property within its jurisdiction in the interest of the general security, health, safety, morals, and welfare except where legally prohibited (as by constitutional provision)"
+            },
+            "reserved powers": {
+                "definition": "the political powers reserved by a constitution to the exclusive jurisdiction of a specified political authoritypowers that are not expressly delegated to the federal government nor expressly prohibited to the states and are therefore left to the states under the Tenth Amendment to the U.S. Constitution comparein this entry",
+                "compares": "enumerated powers"
+            },
+            "spend·ing power": {
+                "definition": "the power granted to a government body to make expendituresthe power delegated to Congress under Article I, Section 8 of the U.S. Constitution to pay the debts and provide for the common defense and general welfare of the U.S."
+            },
+            "tax·ing power": {
+                "definition": "the power granted to a government body to lay and collect taxessuch power delegated to Congress under Article I, Section 8 of the U.S. Constitution"
+            },
+            "war powers": {
+                "definition": "the powers delegated to the executive and legislative branches of the federal government relating to the waging of war",
+                "sub_terms": {
+                    "a": "the power delegated to Congress under Article I, Section 8 of the U.S. Constitution to declare war",
+                    "b": "an ability, authority, or right usually conferred by one person upon another to do something that effects a change in a legal relationshipsuch authority or right to affect another's interest in property (as by conveyance) see also,"
+                },
+                "see also": "power of appointment"
+            },
+            "collateral power": {
+                "definition": "in this entry"
+            },
+            "general power": {
+                "definition": "a power that may be exercised in favor of anyone including the donee"
+            },
+            "naked power": {
+                "definition": "a power (as a power of sale) granted to one who has no interest in the property to which the power relates (as an executor who is not a legatee or devisee) called alsocomparein this entry",
+                "compares": "power coupled with an interest"
+            },
+            "power ap·pen·dant": {
+                "definition": "[-ə-pen-dənt]a power coupled with an interest (as a grant of a lease) that the donee can exercise only out of an estate (as a life estate) that he or she holds called also"
+            },
+            "power cou·pled with an interest": {
+                "definition": "a power accompanying an interest of the donee in the property to which the power relates"
+            },
+            "power in gross": {
+                "definition": "a naked power exercisable by the donee only in the creation of estates that will not attach to the estate the donee holds or be satisfied out of the donee's own interest"
+            },
+            "power of acceptance": {
+                "definition": "the power of an offeree to bind an offeror to a contract by accepting the offer"
+            },
+            "power of mod·i·fi·ca·tion": {
+                "definition": "[mÄ -də-fə-kā-shən]a power reserved in an instrument (as one creating a trust) to make changes by a specified method"
+            },
+            "power of revocation": {
+                "definition": "a power usually reserved by a person in an instrument (as one creating a trust) to revoke the legal relationship that the person has created or made a possibility"
+            },
+            "power of sale": {
+                "definition": "a power granted (as in a will, trust, or mortgage) to sell the property to which the power relates often under specified circumstances (as upon the default of a mortgage)"
+            },
+            "power of termination": {
+                "definition": "a power of a grantor or the grantor's successors in interest to enter upon an estate that was granted upon a condition after the breach of the condition in order to terminate the granted estate and revest it in the grantor or successors in interest called also"
+            },
+            "special power": {
+                "definition": "a power in which the person or class of persons to whom the disposition of property under the power is to be made is expressly designated and excludes the donee or where the power is to transfer, charge, or encumber any estate less than a fee simple"
+            },
+            "stock power": {
+                "definition": "an irrevocable power of attorney used in making a transfer of a certificate of stock"
+            },
+            "3 a": {
+                "definition": "possession of control, authority, or influence over others",
+                "sub_terms": {
+                    "b": "one having such powera sovereign state",
+                    "c": "political control or influence"
+                }
+            }
+        },
+        "references": {
+            "commerce clause": "https://dictionary.findlaw.com/definition/commerce-clause.html",
+            "reserved powers": "https://dictionary.findlaw.com/definition/reserved-powers.html",
+            "enumerated powers": "https://dictionary.findlaw.com/definition/enumerated-powers.html",
+            "power of appointment": "https://dictionary.findlaw.com/definition/power-of-appointment.html",
+            "power of attorney": "https://dictionary.findlaw.com/definition/power-of-attorney.html",
+            "naked power": "https://dictionary.findlaw.com/definition/naked-power.html",
+            "power coupled with an interest": "https://dictionary.findlaw.com/definition/power-coupled-with-an-interest.html"
+        }
+    }
+}

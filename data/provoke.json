@@ -1,0 +1,14 @@
+{
+    "Provoke": {
+        "definition": "to incite to anger 2",
+        "sub_definitions": {
+            "1": {
+                "definition": "to incite to anger"
+            },
+            "2": {
+                "definition": "to provide the needed stimulus for"
+            }
+        },
+        "references": {}
+    }
+}

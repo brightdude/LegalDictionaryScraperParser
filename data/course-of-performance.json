@@ -1,0 +1,17 @@
+{
+    "Course Of Performance": {
+        "definition": "the conduct of parties during a business deal requiring repeated performances that creates an understanding between the parties as to performance and that may be used to help interpret their agreement in instances of dispute compare course of dealing",
+        "compare": "course of dealing",
+        "sub_definitions": {
+            "1": {
+                "1": "the conduct of parties during a business deal requiring repeated performances that creates an understanding between the parties as to performance and that may be used to help interpret their agreement in instances of dispute compare",
+                "compares": "course of dealing"
+            }
+        },
+        "references": {
+            "course of dealing": "https://dictionary.findlaw.com/definition/course-of-dealing.html",
+            "practical construction": "https://dictionary.findlaw.com/definition/practical-construction.html",
+            "usage of trade": "https://dictionary.findlaw.com/definition/usage-of-trade.html"
+        }
+    }
+}

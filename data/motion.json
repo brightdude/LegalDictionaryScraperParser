@@ -1,0 +1,43 @@
+{
+    "Motion": {
+        "definition": "a proposal for action ;esp",
+        "origin": "[Anglo-French, from Latin motion- motio movement, from movēre to move]",
+        "sub_definitions": {
+            "1": {
+                "definition": "a proposal for actiona formal proposal made in a legislative assembly [made a to refer the bill to committee]"
+            },
+            "2 a": {
+                "definition": "an application made to a court or judge to obtain an order, ruling, or direction [a to arrest judgment]a document containing such an application",
+                "sub_terms": {
+                    "b": "the initiative of a court to issue an order, ruling, or direction [the court is given discretion to order a pretrial conference either on its own or at the request of a party \"J. H. Friedenthal\"]"
+                }
+            },
+            "motion for judgment on the pleadings": {
+                "definition": "a motion made after pleadings have been entered that requests the court to issue a judgment at that point compareat",
+                "note": " Under the Federal Rules of Civil Procedure, if matters outside of the pleadings are presented to the court when a motion for judgment on the pleadings is made, the motion will be treated as a motion for summary judgment."
+            },
+            "motion for more definite statement": {
+                "definition": "a motion that is filed before an answer and that requests the court to order the plaintiff to clarify allegations in the complaint because the claims are so vague or ambiguous that an answer cannot reasonably be framed"
+            },
+            "motion in bar": {
+                "definition": "a motion that bars an action (as trial or prosecution) used esp. in Georgia and Illinois"
+            },
+            "motion in lim·i·ne": {
+                "definition": "[-in-li-mə-nē]a usually pretrial motion that requests the court to issue an interlocutory order which prevents an opposing party from introducing or referring to potentially irrelevant, prejudicial, or otherwise inadmissible evidence until the court has finally ruled on its admissibility"
+            },
+            "motion to suppress": {
+                "definition": "a pretrial motion requesting the court to exclude evidence that was obtained illegally and esp. in violation of Fourth, Fifth, and Sixth Amendment protections"
+            },
+            "om·ni·bus motion": {
+                "definition": "[Ä m-ni-bəs-]a motion that makes multiple requests [filing anto dismiss and for a more definite statement \", 570 So. 2d 369 (1990)\"]vb[for a summary judgment]",
+                "omnibus motion": "to dismiss and for a more definite statement \"",
+                "Department of Ins. of Florida v. Coopers & Lybrand": "570 So. 2d 369 (1990)",
+                "ed": "for a summary judgment]"
+            }
+        },
+        "references": {
+            "judgment": "https://dictionary.findlaw.com/definition/judgment.html",
+            "move": "https://dictionary.findlaw.com/definition/move.html"
+        }
+    }
+}

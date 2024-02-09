@@ -1,0 +1,16 @@
+{
+    "Decide": {
+        "definition": "to determine",
+        "sub_definitions": {
+            "de·cid·ing": {
+                "definition": "to determine (as a case or issue) by making a decision (as a final judgment)compare,to make a decision",
+                "compares": "find"
+            }
+        },
+        "references": {
+            "adjudicate": "https://dictionary.findlaw.com/definition/adjudicate.html",
+            "find": "https://dictionary.findlaw.com/definition/find.html",
+            "hold": "https://dictionary.findlaw.com/definition/hold.html"
+        }
+    }
+}

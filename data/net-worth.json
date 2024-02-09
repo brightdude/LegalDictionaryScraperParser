@@ -1,0 +1,17 @@
+{
+    "Net Worth": {
+        "definition": "the excess of the value of assets over liabilities",
+        "sub_definitions": {
+            "1": {
+                "1": "the excess of the value of assets over liabilities"
+            },
+            "2": {
+                "1": "net assets"
+            }
+        },
+        "references": {
+            "net assets": "https://dictionary.findlaw.com/definition/net-assets.html",
+            "asset": "https://dictionary.findlaw.com/definition/asset.html"
+        }
+    }
+}

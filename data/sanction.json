@@ -1,0 +1,21 @@
+{
+    "Sanction": {
+        "definition": "a punitive or coercive measure or action that results from failure to comply with a law",
+        "origin": "[a for contempt]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to give official approval or consent to"
+            },
+            "2": {
+                "definition": "to impose a sanction on [the lawyer for professional misconduct]",
+                "ed": "the lawyer for professional misconduct]"
+            },
+            "3": {
+                "definition": "an economic or military coercive measure adopted usually by several nations in concert for forcing a nation violating international law to desist or yield to adjudicationvt"
+            }
+        },
+        "references": {
+            "ratify": "https://dictionary.findlaw.com/definition/ratify.html"
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "Common": {
+        "definition": "of or relating to a community at large",
+        "origin": "[ defense]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "of or relating to a community at large[ defense]",
+                "sub_terms": {
+                    "b": "known to the community [a thief]"
+                }
+            },
+            "2": {
+                "definition": "the legal right of taking a profit in another's land in common with the owner or others [the of estovers] [the of pasture]"
+            },
+            "3": {
+                "definition": "a piece of land subject to common use",
+                "sub_terms": {
+                    "a": "land jointly owned and used esp. for pasture",
+                    "b": "a public open area in a municipality"
+                }
+            },
+            "4": {
+                "definition": "a condition of shared ownershipa condition in which a right is shared with an interest held by another person [held the estate in ] see alsoatcompare",
+                "compares": "severalty"
+            },
+            "5": {
+                "definition": "at"
+            }
+        },
+        "references": {
+            "public": "https://dictionary.findlaw.com/definition/public.html",
+            "house of commons": "https://dictionary.findlaw.com/definition/house-of-commons.html",
+            "tenancy": "https://dictionary.findlaw.com/definition/tenancy.html",
+            "severalty": "https://dictionary.findlaw.com/definition/severalty.html",
+            "common stock": "https://dictionary.findlaw.com/definition/common-stock.html",
+            "stock": "https://dictionary.findlaw.com/definition/stock.html"
+        }
+    }
+}

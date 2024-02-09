@@ -1,0 +1,11 @@
+{
+    "Fresh Complaint": {
+        "definition": "a report of a sexual offense by the victim to someone in a position of trust",
+        "sub_definitions": {
+            "1": {
+                "1": "a report of a sexual offense by the victim to someone in a position of trust (as a police officer, parent, or friend) made with reasonable promptness"
+            }
+        },
+        "references": {}
+    }
+}

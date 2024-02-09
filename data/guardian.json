@@ -1,0 +1,33 @@
+{
+    "Guardian": {
+        "definition": "one who has or is entitled or legally appointed to the care and management of the person or property of another compare committee",
+        "origin": "[-ad-lī-təm, -Ä d-lē-tem]",
+        "compare": "committee",
+        "sub_definitions": {
+            "guardian ad li·tem": {
+                "definition": "[-ad-lī-təm, -Ä d-lē-tem]a guardian appointed by a court to represent in a particular lawsuit the interests of a minor, a person not yet born, or a person judged incompetent"
+            },
+            "guardian by nature": {
+                "definition": "in this entry"
+            },
+            "natural guardian": {
+                "definition": "a guardian by natural relationship having custody of the person but not the property of a minor",
+                "note": " Under common law the father is considered the natural guardian of a child until his death or incapacitation, whereupon the mother becomes the natural guardian. Many states have passed statutes giving both parents equal rights as guardians."
+            },
+            "statutory guardian": {
+                "definition": "a guardian appointed by statutory authority"
+            },
+            "testamentary guardian": {
+                "definition": "a person named in a will to serve as a guardian"
+            }
+        },
+        "references": {
+            "committee": "https://dictionary.findlaw.com/definition/committee.html",
+            "conservator": "https://dictionary.findlaw.com/definition/conservator.html",
+            "curator": "https://dictionary.findlaw.com/definition/curator.html",
+            "receiver": "https://dictionary.findlaw.com/definition/receiver.html",
+            "tutor": "https://dictionary.findlaw.com/definition/tutor.html",
+            "natural guardian": "https://dictionary.findlaw.com/definition/natural-guardian.html"
+        }
+    }
+}

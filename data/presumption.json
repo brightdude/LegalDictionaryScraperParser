@@ -1,0 +1,45 @@
+{
+    "Presumption": {
+        "definition": "an inference as to the existence of a fact not certainly known that the law requires to be drawn from the known or proven existence of some other fact conclusive presumption",
+        "compare": "rebuttable presumption",
+        "sub_definitions": {
+            "conclusive presumption": {
+                "definition": "a presumption that the law does not allow to be rebutted called alsocomparein this entry",
+                "compares": "rebuttable presumption"
+            },
+            "mandatory presumption": {
+                "definition": "a presumption that a jury is required by law to make upon proof of a given fact comparein this entry",
+                "compares": "permissive presumption"
+            },
+            "permissive presumption": {
+                "definition": "an inference or presumption that a jury is allowed but not required to make from a given set of facts called alsocomparein this entry",
+                "compares": "mandatory presumption"
+            },
+            "presumption of fact": {
+                "definition": "a presumption founded on a previous experience or on general knowledge of a connection between a known fact and one inferred from it"
+            },
+            "presumption of innocence": {
+                "definition": "a rebuttable presumption in the favor of the defendant in a criminal action imposing on the prosecution the burden of proving guilt beyond a reasonable doubt"
+            },
+            "presumption of intent": {
+                "definition": "a permissive presumption that if a criminal defendant committed an act it was his or her intent to commit it"
+            },
+            "presumption of law": {
+                "definition": "a presumption (as of the innocence of a criminal defendant) founded on a rule or policy of law regardless of fact"
+            },
+            "presumption of survivorship": {
+                "definition": "the presumption in the absence of direct evidence that of two or more persons dying in a common disaster (as a fire) one was the last to die because of youth, strength, or other reasons rendering survivorship likely"
+            },
+            "rebuttable presumption": {
+                "definition": "a presumption that may be rebutted by evidence to the contrary comparein this entry",
+                "compares": "conclusive presumption"
+            }
+        },
+        "references": {
+            "rebuttable presumption": "https://dictionary.findlaw.com/definition/rebuttable-presumption.html",
+            "permissive presumption": "https://dictionary.findlaw.com/definition/permissive-presumption.html",
+            "mandatory presumption": "https://dictionary.findlaw.com/definition/mandatory-presumption.html",
+            "conclusive presumption": "https://dictionary.findlaw.com/definition/conclusive-presumption.html"
+        }
+    }
+}

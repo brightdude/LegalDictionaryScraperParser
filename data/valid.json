@@ -1,0 +1,20 @@
+{
+    "Valid": {
+        "definition": "having legal efficacy or force [a license] ;esp",
+        "origin": "[a license]",
+        "sub_definitions": {
+            "1": {
+                "definition": "having legal efficacy or force [a license]executed with proper authority and form [a contract] [a search]"
+            },
+            "2": {
+                "definition": "having a legitimate basis[a reason for terminating the employee]"
+            },
+            "3": {
+                "definition": "appropriate to the end in view"
+            }
+        },
+        "references": {
+            "justifiable": "https://dictionary.findlaw.com/definition/justifiable.html"
+        }
+    }
+}

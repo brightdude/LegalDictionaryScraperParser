@@ -1,0 +1,16 @@
+{
+    "Universal Successor": {
+        "definition": "a successor",
+        "compare": "particular successor",
+        "sub_definitions": {
+            "1": {
+                "1": "a successor (as an heir, universal legatee, or legatee under universal title) who succeeds to the rights and obligations of the ancestor in title, continues possession by the ancestor's title, and is responsible for the debts of the succession compare",
+                "compares": "particular successor",
+                "note": " Neither a usufructuary under universal title nor a universal usufructuary is a universal successor."
+            }
+        },
+        "references": {
+            "particular successor": "https://dictionary.findlaw.com/definition/particular-successor.html"
+        }
+    }
+}

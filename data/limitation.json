@@ -1,0 +1,24 @@
+{
+    "Limitation": {
+        "definition": "restriction [a on the rights of ownership] b",
+        "origin": "[a on the rights of ownership]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "[a on the rights of ownership]",
+                "sub_terms": {
+                    "b": "a statement or stipulation in a deed or will placing limits on the disposition of an estate or interest esp. in regard to duration or heirs see also"
+                },
+                "see also": "word of limitation"
+            },
+            "2": {
+                "definition": "a certain period limited by statute after which actions or prosecutions cannot be brought in the courts see also",
+                "see also": "statute of limitations"
+            }
+        },
+        "references": {
+            "restriction": "https://dictionary.findlaw.com/definition/restriction.html",
+            "word of limitation": "https://dictionary.findlaw.com/definition/word-of-limitation.html",
+            "statute of limitations": "https://dictionary.findlaw.com/definition/statute-of-limitations.html"
+        }
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "Legislative Assembly": {
+        "definition": "a bicameral legislature 2",
+        "sub_definitions": {
+            "1": {
+                "definition": "a bicameral legislature"
+            },
+            "2": {
+                "definition": "the lower house of a bicameral legislature"
+            }
+        },
+        "references": {}
+    }
+}

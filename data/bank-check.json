@@ -1,0 +1,8 @@
+{
+    "Bank Check": {
+        "definition": "Bank Check",
+        "references": {
+            "check": "https://dictionary.findlaw.com/definition/check.html"
+        }
+    }
+}

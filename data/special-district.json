@@ -1,0 +1,11 @@
+{
+    "Special District": {
+        "definition": "a political subdivision of a state established to provide a single public service",
+        "sub_definitions": {
+            "1": {
+                "1": "a political subdivision of a state established to provide a single public service (as water supply or sanitation) within a specific geographical area"
+            }
+        },
+        "references": {}
+    }
+}

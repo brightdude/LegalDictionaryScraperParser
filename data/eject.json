@@ -1,0 +1,13 @@
+{
+    "Eject": {
+        "definition": "dispossess",
+        "sub_definitions": {
+            "1": {
+                "1": "dispossess"
+            }
+        },
+        "references": {
+            "dispossess": "https://dictionary.findlaw.com/definition/dispossess.html"
+        }
+    }
+}

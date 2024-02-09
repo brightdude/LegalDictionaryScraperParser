@@ -1,0 +1,14 @@
+{
+    "Joint And Several": {
+        "definition": "relating or belonging to two or more parties together and separately [ joint and several duties of the partners] see also joint and several liability at liability compare in solido",
+        "origin": "[ joint and several duties of the partners]",
+        "compare": "liability",
+        "sub_definitions": {},
+        "references": {
+            "liability": "https://dictionary.findlaw.com/definition/liability.html",
+            "in solido": "https://dictionary.findlaw.com/definition/in-solido.html",
+            "joint": "https://dictionary.findlaw.com/definition/joint.html",
+            "jointly": "https://dictionary.findlaw.com/definition/jointly.html"
+        }
+    }
+}

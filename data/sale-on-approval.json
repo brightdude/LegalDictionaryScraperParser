@@ -1,0 +1,8 @@
+{
+    "Sale On Approval": {
+        "definition": "Sale On Approval",
+        "references": {
+            "sale": "https://dictionary.findlaw.com/definition/sale.html"
+        }
+    }
+}

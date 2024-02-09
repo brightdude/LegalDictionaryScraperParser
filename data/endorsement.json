@@ -1,0 +1,31 @@
+{
+    "Endorsement": {
+        "definition": "the act or process of endorsing 2",
+        "origin": "[a theft ]",
+        "sub_definitions": {
+            "1": {
+                "definition": "the act or process of endorsing"
+            },
+            "2": {
+                "definition": "an inscription (as a signature or notation) on a document or instrumentan inscription usually on the back of a negotiable instrument that transfers or guarantees the instrument"
+            },
+            "blank endorsement": {
+                "definition": "an endorsement (as a signature) of a negotiable instrument that does not name a transferee and that makes the instrument payable to bearer called also"
+            },
+            "qualified endorsement": {
+                "definition": "an endorsement of a negotiable instrument with words (as “without recourse”) that limit or qualify the endorser's liability"
+            },
+            "restrictive endorsement": {
+                "definition": "an endorsement of a negotiable instrument with words (as “for deposit only”) that limit the further negotiation of the instrument",
+                "note": " A restrictive endorsement does not prevent further negotiation of the instrument under the Uniform Commercial Code."
+            },
+            "spe·cial endorsement": {
+                "definition": "an endorsement of a negotiable instrument with words (as “Pay to Jane Doe”) that make the instrument payable to a specified person"
+            },
+            "3": {
+                "definition": "a provision added to an insurance policy that alters its coverage [a theft ]"
+            }
+        },
+        "references": {}
+    }
+}

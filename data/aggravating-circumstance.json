@@ -1,0 +1,20 @@
+{
+    "Aggravating Circumstance": {
+        "definition": "a circumstance relating to the commission of an act that increases the degree of liability or culpability [punitive damages are recoverable in a conversion case when the evidence shows legal malice",
+        "origin": "[punitive damages are recoverable in a conversion case when the evidence shows legal malice, willfulness, insult, or other aggravating circumstances \" Schwertfeger v. Moorehouse , 569 So. 2d 322 (1990)\"]",
+        "compare": "mitigating circumstance",
+        "sub_definitions": {
+            "1": {
+                "1": "a circumstance relating to the commission of an act that increases the degree of liability or culpability [punitive damages are recoverable in a conversion case when the evidence shows legal malice, willfulness, insult, or other",
+                "Schwertfeger v. Moorehouse": "569 So. 2d 322 (1990)"
+            },
+            "2": {
+                "1": "a circumstance (as lack of remorse) relating to an offense or defendant that receives consideration by the court esp. in imposing a death sentence compare",
+                "compares": "mitigating circumstance"
+            }
+        },
+        "references": {
+            "mitigating circumstance": "https://dictionary.findlaw.com/definition/mitigating-circumstance.html"
+        }
+    }
+}

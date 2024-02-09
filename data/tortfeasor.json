@@ -1,0 +1,12 @@
+{
+    "Tortfeasor": {
+        "definition": "a person who commits a tort",
+        "origin": "[Anglo-French tortfesor wrongdoer, from tort wrong + fesor faisour doer, maker, from Old French, from fais- , stem of faire to do, make, from Latin facere ]",
+        "sub_definitions": {
+            "1": {
+                "1": "a person who commits a tort, delict, or quasi-offense"
+            }
+        },
+        "references": {}
+    }
+}

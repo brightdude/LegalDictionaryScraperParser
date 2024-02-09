@@ -1,0 +1,8 @@
+{
+    "Actual Fraud": {
+        "definition": "Actual Fraud",
+        "references": {
+            "fraud": "https://dictionary.findlaw.com/definition/fraud.html"
+        }
+    }
+}

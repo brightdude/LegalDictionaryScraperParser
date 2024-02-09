@@ -1,0 +1,15 @@
+{
+    "Special Law": {
+        "definition": "local law 2",
+        "sub_definitions": {
+            "2": {
+                "definition": "a law that applies to a particular place or esp. to a particular member or members of a class of persons or things in the same situation but not to the entire class and that is unconstitutional if the classification made is arbitrary or without a reasonable or legitimate justification or basis called alsocompare",
+                "compares": "general law"
+            }
+        },
+        "references": {
+            "local law": "https://dictionary.findlaw.com/definition/local-law.html",
+            "general law": "https://dictionary.findlaw.com/definition/general-law.html"
+        }
+    }
+}

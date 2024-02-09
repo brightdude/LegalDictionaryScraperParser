@@ -1,0 +1,37 @@
+{
+    "Direct": {
+        "definition": "to order with authority [the testator ed that the car go to his niece] 2",
+        "origin": "[the testator ed that the car go to his niece]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to order with authority [the testatorthat the car go to his niece]",
+                "ed": "that the car go to his niece]"
+            },
+            "2": {
+                "definition": "marked by absence of any intervening agency, instrumentality, or influence [ consequences]"
+            },
+            "3": {
+                "definition": "effected by the action of the people or the electorate and not by representatives [ democracy]"
+            },
+            "1 a": {
+                "definition": "stemming immediately from a source [ costs] [a claim] compare",
+                "sub_terms": {
+                    "b": "being or passing in a straight line from parent to offspring[a ancestor] compare"
+                },
+                "compares": "collateral"
+            },
+            "4": {
+                "definition": "characterized by close logical, causal, or consequential relationship [a interest in the outcome of the litigation]"
+            },
+            "di·rect·lyadv": {
+                "definition": "n[testimony given on ]"
+            }
+        },
+        "references": {
+            "derivative": "https://dictionary.findlaw.com/definition/derivative.html",
+            "lineal": "https://dictionary.findlaw.com/definition/lineal.html",
+            "collateral": "https://dictionary.findlaw.com/definition/collateral.html",
+            "direct examination": "https://dictionary.findlaw.com/definition/direct-examination.html"
+        }
+    }
+}

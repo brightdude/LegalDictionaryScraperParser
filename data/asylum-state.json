@@ -1,0 +1,11 @@
+{
+    "Asylum State": {
+        "definition": "a state that is holding a fugitive from justice from another state pending extradition",
+        "sub_definitions": {
+            "1": {
+                "1": "a state that is holding a fugitive from justice from another state pending extradition"
+            }
+        },
+        "references": {}
+    }
+}

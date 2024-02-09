@@ -1,0 +1,33 @@
+{
+    "Hold": {
+        "definition": "to have lawful possession or ownership of [ held the property as tenants in common] [the band s the title to the car] b",
+        "origin": "[ held the property as tenants in common]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "to have lawful possession or ownership of [the property as tenants in common] [the bandthe title to the car]",
+                "sub_terms": {
+                    "b": "to have as a privilege or position of responsibility [a retail liquor license] [the judges…shall their offices during good behavior \"art. III\"]"
+                },
+                "held": "the property as tenants in common] [the band",
+                "s": "the title to the car]",
+                "ing": "a retail liquor license] [the judges…shall their offices during good behavior \""
+            },
+            "2": {
+                "definition": "to restrain the liberty ofto keep in custody [the defendant will bewithout bail]",
+                "held": "without bail]"
+            },
+            "3": {
+                "definition": "to cause to be conducted [will a hearing on the matter]"
+            },
+            "4": {
+                "definition": "to rule as the holding of a case [the courtthat such conduct violated the statute] compare,",
+                "compares": "decide",
+                "held": "that such conduct violated the statute] compare"
+            }
+        },
+        "references": {
+            "decide": "https://dictionary.findlaw.com/definition/decide.html",
+            "find": "https://dictionary.findlaw.com/definition/find.html"
+        }
+    }
+}

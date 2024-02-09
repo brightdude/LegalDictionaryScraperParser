@@ -1,0 +1,11 @@
+{
+    "Loss Ratio": {
+        "definition": "the ratio between insurance losses incurred and premiums earned during a given period",
+        "sub_definitions": {
+            "1": {
+                "1": "the ratio between insurance losses incurred and premiums earned during a given period"
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "Interspousal": {
+        "definition": "being between spouses [ gifts]",
+        "origin": "[ gifts]",
+        "sub_definitions": {
+            "1": {
+                "1": "being between spouses [ gifts]"
+            }
+        },
+        "references": {}
+    }
+}

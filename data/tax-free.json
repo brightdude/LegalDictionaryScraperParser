@@ -1,0 +1,13 @@
+{
+    "Tax-Free": {
+        "definition": "tax-exempt",
+        "sub_definitions": {
+            "1": {
+                "1": "tax-exempt"
+            }
+        },
+        "references": {
+            "tax-exempt": "https://dictionary.findlaw.com/definition/tax-exempt.html"
+        }
+    }
+}

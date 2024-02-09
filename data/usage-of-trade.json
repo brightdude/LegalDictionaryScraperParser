@@ -1,0 +1,17 @@
+{
+    "Usage Of Trade": {
+        "definition": "a practice or method of dealing that is regularly observed in a place",
+        "compare": "course of dealing",
+        "sub_definitions": {
+            "1": {
+                "1": "a practice or method of dealing that is regularly observed in a place, vocation, or trade and that one justifiably expects to be followed by another party to a commercial transaction compare",
+                "compares": "course of dealing",
+                "note": " Evidence of a usage of trade may be admissible as supplementing the express terms of a disputed contract when it does not contradict them."
+            }
+        },
+        "references": {
+            "course of dealing": "https://dictionary.findlaw.com/definition/course-of-dealing.html",
+            "course of performance": "https://dictionary.findlaw.com/definition/course-of-performance.html"
+        }
+    }
+}

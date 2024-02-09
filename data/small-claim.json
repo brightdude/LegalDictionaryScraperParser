@@ -1,0 +1,11 @@
+{
+    "Small Claim": {
+        "definition": "a claim for the recovery of money or property whose value is below a certain amount",
+        "sub_definitions": {
+            "1": {
+                "1": "a claim for the recovery of money or property whose value is below a certain amount"
+            }
+        },
+        "references": {}
+    }
+}

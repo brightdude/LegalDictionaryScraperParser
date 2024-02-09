@@ -1,0 +1,15 @@
+{
+    "Inquiry": {
+        "definition": "-ries 1",
+        "origin": "[such doubt as would cause a reasonable person to make an ]",
+        "sub_definitions": {
+            "1": {
+                "definition": "a request for information [such doubt as would cause a reasonable person to make an ]"
+            },
+            "2": {
+                "definition": "a systematic official investigation often of a matter of public interest esp. by a body (as a legislative committee) with power to compel testimony"
+            }
+        },
+        "references": {}
+    }
+}

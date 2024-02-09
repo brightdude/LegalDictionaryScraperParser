@@ -1,0 +1,11 @@
+{
+    "Trust Account": {
+        "definition": "an account opened with a trust company",
+        "sub_definitions": {
+            "1": {
+                "1": "an account opened with a trust company (as a bank) under which an inter vivos or testamentary trust is set up (as for the escrow of funds)"
+            }
+        },
+        "references": {}
+    }
+}

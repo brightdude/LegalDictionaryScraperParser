@@ -1,0 +1,19 @@
+{
+    "Circuit": {
+        "definition": "a route formerly taken by traveling judges b",
+        "origin": "[after the 9th Circuit 's ruling \"V. M. Sher\"]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "a route formerly taken by traveling judges",
+                "sub_terms": {
+                    "b": "a district established within a state or the federal judicial system see also the Judicial System in the back matter"
+                }
+            },
+            "2": {
+                "definition": "the court of appeals for a circuit in the federal judicial system [after the 9th's ruling \"V. M. Sher\"]",
+                "Circuit": "'s ruling \"V. M. Sher\"]"
+            }
+        },
+        "references": {}
+    }
+}

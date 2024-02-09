@@ -1,0 +1,15 @@
+{
+    "Substantive Unconscionability": {
+        "definition": "unconscionability of a contract that arises from the terms of the contract and esp. from terms that are found to be one-sided",
+        "compare": "procedural unconscionability",
+        "sub_definitions": {
+            "1": {
+                "1": "unconscionability of a contract that arises from the terms of the contract and esp. from terms that are found to be one-sided, unjust, or overly harsh compare",
+                "compares": "procedural unconscionability"
+            }
+        },
+        "references": {
+            "procedural unconscionability": "https://dictionary.findlaw.com/definition/procedural-unconscionability.html"
+        }
+    }
+}

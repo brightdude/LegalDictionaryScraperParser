@@ -1,0 +1,14 @@
+{
+    "Health Insurance": {
+        "definition": "insurance against loss through illness or injury of the insured ;esp",
+        "sub_definitions": {
+            "1": {
+                "1": "insurance against loss through illness or injury of the insured"
+            },
+            "2": {
+                "1": "insurance providing compensation for medical expenses and often income for disability"
+            }
+        },
+        "references": {}
+    }
+}

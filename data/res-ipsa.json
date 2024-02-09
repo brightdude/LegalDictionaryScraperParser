@@ -1,0 +1,13 @@
+{
+    "Res Ipsa": {
+        "definition": "res ipsa loquitur",
+        "sub_definitions": {
+            "1": {
+                "1": "res ipsa loquitur"
+            }
+        },
+        "references": {
+            "res ipsa loquitur": "https://dictionary.findlaw.com/definition/res-ipsa-loquitur.html"
+        }
+    }
+}

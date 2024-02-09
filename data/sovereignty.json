@@ -1,0 +1,20 @@
+{
+    "Sovereignty": {
+        "definition": "-ties 1 a",
+        "origin": "[sÄ -vrən-tē, sə-, -və-rən-]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "supreme power esp. over a body politic",
+                "sub_terms": {
+                    "b": "freedom from external control"
+                }
+            },
+            "2": {
+                "definition": "one that is sovereignan autonomous state"
+            }
+        },
+        "references": {
+            "autonomy": "https://dictionary.findlaw.com/definition/autonomy.html"
+        }
+    }
+}

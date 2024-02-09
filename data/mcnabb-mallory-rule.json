@@ -1,0 +1,13 @@
+{
+    "Mcnabb-Mallory Rule": {
+        "definition": "a doctrine in criminal procedure",
+        "origin": "[after McNabb v. United States , 318 U.S. 332 (1943) and Mallory v. United States , 354 U.S. 449 (1957), U.S. Supreme Court cases that established the rule]",
+        "sub_definitions": {
+            "1": {
+                "1": "a doctrine in criminal procedure: an arrestee must be brought before a magistrate without unnecessary delay in order for a confession made during detention to be admissible",
+                "note": " In practice, the rule is not absolute. Under the U.S. Code, a delay of more than six hours in bringing an arrestee before a magistrate will not render a confession inadmissible if the delay was reasonable in light of distance and transportation."
+            }
+        },
+        "references": {}
+    }
+}

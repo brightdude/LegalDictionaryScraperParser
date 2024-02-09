@@ -1,0 +1,26 @@
+{
+    "Master": {
+        "definition": "an individual or entity",
+        "origin": "[a insurance policy]",
+        "sub_definitions": {
+            "1": {
+                "definition": "an individual or entity (as a corporation) having control or authority over another",
+                "sub_terms": {
+                    "a": "the owner of a slave",
+                    "b": "compare",
+                    "c": ""
+                },
+                "compares": "servant"
+            },
+            "2": {
+                "definition": "an officer of the court appointed (as under Federal Rule of Civil Procedure 53) to assist a judge in a particular case by hearing and reporting on the case, sometimes by making findings of fact and conclusions of law, and by performing various related functionsadjbeing the principal or controlling onegoverning a number of subordinate like things [a insurance policy]",
+                "note": " Under the Federal Rules of Civil Procedure, a master may be a magistrate or else may be a person with some special expertise in the matter. The wordmasteras used in the Federal Rules encompasses a referee, an auditor, an examiner, and an assessor. If the master makes findings of fact, they are reviewable by the court except when the case is not to be tried to the jury and the findings are clearly erroneous, or when the parties have stipulated that the master's findings are to be final."
+            }
+        },
+        "references": {
+            "employer": "https://dictionary.findlaw.com/definition/employer.html",
+            "servant": "https://dictionary.findlaw.com/definition/servant.html",
+            "principal": "https://dictionary.findlaw.com/definition/principal.html"
+        }
+    }
+}

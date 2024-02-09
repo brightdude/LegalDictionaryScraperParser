@@ -1,0 +1,15 @@
+{
+    "Minimum Wage": {
+        "definition": "a wage fixed by contract or esp. by law as the least that may be paid either to employees generally or to a particular category of employees compare scale",
+        "compare": "scale",
+        "sub_definitions": {
+            "1": {
+                "1": "a wage fixed by contract or esp. by law as the least that may be paid either to employees generally or to a particular category of employees compare",
+                "compares": "scale"
+            }
+        },
+        "references": {
+            "scale": "https://dictionary.findlaw.com/definition/scale.html"
+        }
+    }
+}

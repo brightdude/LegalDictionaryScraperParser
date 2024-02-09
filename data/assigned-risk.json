@@ -1,0 +1,11 @@
+{
+    "Assigned Risk": {
+        "definition": "a poor risk",
+        "sub_definitions": {
+            "1": {
+                "1": "a poor risk (as an accident-prone driver) that insurance companies would normally reject but are forced to insure by state law"
+            }
+        },
+        "references": {}
+    }
+}

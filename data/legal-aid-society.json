@@ -1,0 +1,11 @@
+{
+    "Legal Aid Society": {
+        "definition": "an organization providing government-funded legal aid to the poor",
+        "sub_definitions": {
+            "1": {
+                "1": "an organization providing government-funded legal aid to the poor"
+            }
+        },
+        "references": {}
+    }
+}

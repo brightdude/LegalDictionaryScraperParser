@@ -1,0 +1,25 @@
+{
+    "Concession": {
+        "definition": "an act or instance of conceding or yielding 2",
+        "origin": "[a logging ]",
+        "sub_definitions": {
+            "1": {
+                "definition": "an act or instance of conceding or yielding"
+            },
+            "2": {
+                "definition": "something conceded",
+                "sub_terms": {
+                    "a": "",
+                    "b": "something granted esp. as an inducement (as to enter into an agreement)",
+                    "c": "a grant of real property esp. by a government in return for services or for a particular use (as settlement)",
+                    "d": "a right to undertake a specified activity for profit on another's real property [a logging ]",
+                    "e": "a lease that grants a right to engage in a profitable activity on another's real propertythe property or portion of the property subject to such a lease"
+                }
+            }
+        },
+        "references": {
+            "acknowledgment": "https://dictionary.findlaw.com/definition/acknowledgment.html",
+            "admission": "https://dictionary.findlaw.com/definition/admission.html"
+        }
+    }
+}

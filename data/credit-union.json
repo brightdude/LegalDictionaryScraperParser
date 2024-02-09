@@ -1,0 +1,11 @@
+{
+    "Credit Union": {
+        "definition": "a cooperative association that makes small loans to its members at low interest rates and offers other banking services",
+        "sub_definitions": {
+            "1": {
+                "1": "a cooperative association that makes small loans to its members at low interest rates and offers other banking services (as savings and checking accounts)"
+            }
+        },
+        "references": {}
+    }
+}

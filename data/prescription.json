@@ -1,0 +1,42 @@
+{
+    "Prescription": {
+        "definition": "acquisition of an interest",
+        "origin": "[partly from Middle French prescription establishment of a claim, from Late Latin praescription- praescriptio , from Latin, act of writing at the beginning, order, from praescribere to write at the beginning, dictate, order; partly from Latin praescription- praescriptio order]",
+        "sub_definitions": {
+            "1": {
+                "definition": "acquisition of an interest (as an easement) in real property that is usually less than a fee by long-term, continuous, open, and hostile use and possession as determined by the law of a jurisdiction [gained title by ] see alsoatcompareat"
+            },
+            "2": {
+                "sub_terms": {
+                    "a": "the running of a period of time set by law after which a right is unenforceable in Louisiana courts but may be enforced in another state forum [an interruption of ] [by the of ten years]the bar to an action that results from prescription see alsocompare",
+                    "b": "the creation of a right by the running of a period of time set by lawin this entry [predial servitudes on property of the state may not be acquired by \"\"]"
+                },
+                "compares": "peremption",
+                "see also": "peremptory exception"
+            },
+            "ac·quis·i·tive prescription": {
+                "definition": "[ə-kwi-zə-tiv-]acquisition of ownership or other real rights in movables or immovables by continuous, uninterrupted, peaceable, public, and unequivocal possession for a period of time (as 10 years) set by lawsuch possession that creates real rights [is interrupted when the possessor acknowledges the right of the owner \"\"]",
+                "note": " The Louisiana Civil Code has set various periods of time for acquisitive prescription of movables and immovables. With the shorter periods (as 10 years for immovables or 3 years for movables) the Code also requires that the possessor possess in good faith and under just title. Acquisitive prescription does not run in favor of a person having precarious possession, because he or she possess the property on behalf of or with permission of the owner, until the possessor begins to possess the property on his or her own behalf (as after a lease terminates).",
+                "acquisitive prescription": "is interrupted when the possessor acknowledges the right of the owner \""
+            },
+            "liberative prescription": {
+                "definition": "a period of time set by law (as one year) after which legal action is barred if no steps have been taken to enforce or litigate the right [delictual actions are subject to aof one year \"\"]",
+                "note": " Liberative prescription is similar to the common-law statute of limitations.",
+                "liberative prescription": "of one year \""
+            },
+            "prescription of nonuse": {
+                "definition": "the extinguishment or termination of a real right other than ownership as a result of the failure to exercise the right for a period of time (as 10 years) set by lawthe period of time"
+            },
+            "3": {
+                "definition": "something prescribed as a rule [created a legal against such acts]"
+            }
+        },
+        "references": {
+            "easement": "https://dictionary.findlaw.com/definition/easement.html",
+            "possession": "https://dictionary.findlaw.com/definition/possession.html",
+            "peremptory exception": "https://dictionary.findlaw.com/definition/peremptory-exception.html",
+            "peremption": "https://dictionary.findlaw.com/definition/peremption.html",
+            "acquisitive prescription": "https://dictionary.findlaw.com/definition/acquisitive-prescription.html"
+        }
+    }
+}

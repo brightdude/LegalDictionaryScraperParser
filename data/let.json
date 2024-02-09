@@ -1,0 +1,17 @@
+{
+    "Let": {
+        "definition": "to offer or grant for rent",
+        "origin": "[may not be alienated, , or encumbered]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to become rented, leased, or hired"
+            },
+            "2": {
+                "definition": "to become awarded to a contractor"
+            }
+        },
+        "references": {
+            "lease": "https://dictionary.findlaw.com/definition/lease.html"
+        }
+    }
+}

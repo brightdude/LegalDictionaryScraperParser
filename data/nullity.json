@@ -1,0 +1,26 @@
+{
+    "Nullity": {
+        "definition": "-ties 1",
+        "origin": "[a bigamous marriage is an absolute nullity \" Louisiana Civil Code \"]",
+        "sub_definitions": {
+            "1": {
+                "definition": "the quality or state of being null"
+            },
+            "2": {
+                "definition": "an act, proceeding, or contract void of legal effect compare",
+                "compares": "impediment"
+            },
+            "absolute nullity": {
+                "definition": "a contract or act considered void by virtue of a transgression of the public order, interest, law, or morals [a bigamous marriage is an\"\"]the quality or state of such a nullity",
+                "note": " A marriage that is an absolute nullity does not have to be annulled to terminate its legal effects (as property rights)."
+            },
+            "rel·a·tive nullity": {
+                "definition": "a nullity that can be cured by confirmation because the object involved is considered validthe quality or state of such a nullity",
+                "note": " A contract that is a relative nullity may be annulled and the parties restored to their original positions. A marriage that is a relative nullity must be annulled to terminate the legal effects (as property rights) of the marriage."
+            }
+        },
+        "references": {
+            "impediment": "https://dictionary.findlaw.com/definition/impediment.html"
+        }
+    }
+}

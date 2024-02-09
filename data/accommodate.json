@@ -1,0 +1,21 @@
+{
+    "Accommodate": {
+        "definition": "to make a change or provision for [ a disability] see also reasonable accommodation 2",
+        "origin": "[ a disability]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to make a change or provision for [ a disability] see also",
+                "see also": "reasonable accommodation"
+            },
+            "2": {
+                "definition": "to accept without compensation responsibility for a debt of (another person) in the event of nonpayment as a way of reassuring a reluctant creditor see alsoatat",
+                "note": " To accommodate a debtor effectively, the party must sign the debt instrument, adding words describing limitations or conditions to the accommodation, if any."
+            }
+        },
+        "references": {
+            "reasonable accommodation": "https://dictionary.findlaw.com/definition/reasonable-accommodation.html",
+            "paper": "https://dictionary.findlaw.com/definition/paper.html",
+            "party": "https://dictionary.findlaw.com/definition/party.html"
+        }
+    }
+}

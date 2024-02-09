@@ -1,0 +1,23 @@
+{
+    "Inheritance": {
+        "definition": "the act of inheriting",
+        "origin": "[increasing the son's potential under [the]",
+        "sub_definitions": {
+            "1": {
+                "definition": "the act of inheriting",
+                "sub_terms": {
+                    "a": "the acquisition of real or personal property under the laws of intestacy or sometimes by will",
+                    "b": "the succession upon the death of an owner either by will or by operation of law to all the estate, rights, and liabilities of the decedent"
+                }
+            },
+            "2 a": {
+                "definition": "something that is or may be inherited",
+                "sub_terms": {
+                    "b": "something to which one is entitled as heir [increasing the son's potential under [the] will \", 577 So. 2d 856 (1991)\"]"
+                },
+                "Lesnick v. Lesnick": "577 So. 2d 856 (1991)"
+            }
+        },
+        "references": {}
+    }
+}

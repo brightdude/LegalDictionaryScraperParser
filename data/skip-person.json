@@ -1,0 +1,20 @@
+{
+    "Skip Person": {
+        "definition": "a person to whom property is transferred in a generation-skipping transfer ;also",
+        "compare": "direct skip",
+        "sub_definitions": {
+            "1": {
+                "1": "a person to whom property is transferred in a generation-skipping transfer"
+            },
+            "2": {
+                "1": "a trust whose interests are all held by or may only be distributed to skip persons see also",
+                "see also": "direct skip",
+                "compares": "generation-skipping transfer"
+            }
+        },
+        "references": {
+            "direct skip": "https://dictionary.findlaw.com/definition/direct-skip.html",
+            "generation-skipping transfer": "https://dictionary.findlaw.com/definition/generation-skipping-transfer.html"
+        }
+    }
+}

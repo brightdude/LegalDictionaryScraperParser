@@ -1,0 +1,13 @@
+{
+    "Reciprocal Insurance Exchange": {
+        "definition": "reciprocal exchange",
+        "sub_definitions": {
+            "1": {
+                "1": "reciprocal exchange"
+            }
+        },
+        "references": {
+            "reciprocal exchange": "https://dictionary.findlaw.com/definition/reciprocal-exchange.html"
+        }
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "Annuitant": {
+        "definition": "a person entitled to receive benefits or payments from an annuity",
+        "sub_definitions": {
+            "1": {
+                "1": "a person entitled to receive benefits or payments from an annuity"
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "Credit Bureau": {
+        "definition": "a private business that compiles information on consumers' creditworthiness and provides this information to lenders",
+        "sub_definitions": {
+            "1": {
+                "1": "a private business that compiles information on consumers' creditworthiness and provides this information to lenders"
+            }
+        },
+        "references": {}
+    }
+}

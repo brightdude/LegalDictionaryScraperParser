@@ -1,0 +1,18 @@
+{
+    "Stay": {
+        "definition": "to temporarily suspend or prevent by judicial or executive order [may not grant an injunction to proceedings in a state court \" U.S. Code \"] n",
+        "origin": "[may not grant an injunction to proceedings in a state court \" U.S. Code \"]",
+        "sub_definitions": {
+            "stay·ing": {
+                "definition": "to temporarily suspend or prevent by judicial or executive order [may not grant an injunction to proceedings in a state court \"\"]na temporary suspension or injunction of an action or process by a usually discretionary judicial or executive order [a of execution of the judgment] [ of a lower court's judgment pending certiorari \"W. J. Brennan, Jr.\"] see alsocompareat,,",
+                "see also": "automatic stay"
+            }
+        },
+        "references": {
+            "automatic stay": "https://dictionary.findlaw.com/definition/automatic-stay.html",
+            "order": "https://dictionary.findlaw.com/definition/order.html",
+            "mandamus": "https://dictionary.findlaw.com/definition/mandamus.html",
+            "supersedeas": "https://dictionary.findlaw.com/definition/supersedeas.html"
+        }
+    }
+}

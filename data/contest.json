@@ -1,0 +1,23 @@
+{
+    "Contest": {
+        "definition": "to dispute or challenge through legal procedures [ a will] [kÄ n-test] n",
+        "origin": "[ a will]",
+        "sub_definitions": {
+            "1": {
+                "1": "to dispute or challenge through legal procedures [ a will]"
+            },
+            "2": {
+                "1": "a challenge brought through formal or legal procedures [boundary controversies or other",
+                "s": "between states \"Felix Frankfurter\"]"
+            },
+            "3": {
+                "1": "will contest",
+                "see also": "no contest clause"
+            }
+        },
+        "references": {
+            "will contest": "https://dictionary.findlaw.com/definition/will-contest.html",
+            "no contest clause": "https://dictionary.findlaw.com/definition/no-contest-clause.html"
+        }
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "Bill Of Complaint": {
+        "definition": "Bill Of Complaint",
+        "references": {
+            "bill": "https://dictionary.findlaw.com/definition/bill.html"
+        }
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "Trover": {
+        "definition": "an action at common law to recover the value of chattels or goods wrongfully converted by another to his or her own use compare detinue",
+        "origin": "[short for action of trover and conversion; Anglo-French trover act of finding (alluding to goods lost by the plaintiff and found by the defendant), from trover to find, from Old French]",
+        "compare": "detinue",
+        "sub_definitions": {
+            "1": {
+                "1": "an action at common law to recover the value of chattels or goods wrongfully converted by another to his or her own use compare",
+                "compares": "detinue"
+            }
+        },
+        "references": {
+            "detinue": "https://dictionary.findlaw.com/definition/detinue.html"
+        }
+    }
+}

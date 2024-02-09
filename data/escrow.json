@@ -1,0 +1,18 @@
+{
+    "Escrow": {
+        "definition": "an instrument and esp. a deed or money or property held by a third party to be turned over to the grantee and become effective only upon the fulfillment of some condition 2",
+        "origin": "[Anglo-French escroue deed delivered on condition, literally, scroll, strip of parchment, from Old French escroe ]",
+        "sub_definitions": {
+            "1": {
+                "definition": "an instrument and esp. a deed or money or property held by a third party to be turned over to the grantee and become effective only upon the fulfillment of some condition"
+            },
+            "2": {
+                "definition": "a fund or deposit designed to serve as an escrow"
+            },
+            "in escrow:held as an escrow:in trust as an escrow [had $1000in escrowto pay taxes] comparetrust": {
+                "definition": "vtto cause to be held as an escrowplace in escrow"
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "Family": {
+        "definition": "-lies 1",
+        "origin": "[fə-mil-yəl]",
+        "sub_definitions": {
+            "1": {
+                "definition": "a group of individuals related by blood, marriage, or adoption"
+            },
+            "2": {
+                "definition": "a group of usually related individuals who live together under common household authority and esp. who have reciprocal duties to each other",
+                "note": " The interpretation of the wordfamilyin a law context depends upon the area of the law concerned (as contract or zoning law), the purpose of the document (as a statute or contract) in which it is used, and the facts of the case. Often for zoning purposes, the occupants of a group home are considered a family if the organization is like that of a family or if the home is going to be a permanent rather than a transitional residence for the occupants."
+            }
+        },
+        "references": {}
+    }
+}

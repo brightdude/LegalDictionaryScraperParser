@@ -1,0 +1,21 @@
+{
+    "Domestic": {
+        "definition": "of or relating to the household or family [a servant] [ relations] see also family court 2",
+        "origin": "[a servant]",
+        "sub_definitions": {
+            "1": {
+                "definition": "of or relating to the household or family [a servant] [ relations] see also",
+                "see also": "family court"
+            },
+            "2": {
+                "definition": "of, relating to, or originating within a country or state and esp. one's own country or state [the state has personal jurisdiction over corporations] compare,",
+                "compares": "foreign"
+            }
+        },
+        "references": {
+            "family court": "https://dictionary.findlaw.com/definition/family-court.html",
+            "foreign": "https://dictionary.findlaw.com/definition/foreign.html",
+            "municipal": "https://dictionary.findlaw.com/definition/municipal.html"
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "Scab": {
+        "definition": "a worker who refuses to join a labor union 2",
+        "sub_definitions": {
+            "1": {
+                "definition": "a worker who refuses to join a labor union"
+            },
+            "2": {
+                "definition": "a union member who refuses to strike or returns to work before a strike has ended"
+            },
+            "3": {
+                "definition": "a worker who accepts employment or replaces a union worker during a strikestrike breaker"
+            },
+            "4": {
+                "definition": "one who works for less than union wages or on nonunion terms"
+            }
+        },
+        "references": {}
+    }
+}

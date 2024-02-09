@@ -1,0 +1,14 @@
+{
+    "Judge Advocate": {
+        "definition": "judge advocates 1",
+        "sub_definitions": {
+            "1": {
+                "definition": "an officer serving under the Judge Advocate General"
+            },
+            "2": {
+                "definition": "an officer charged with administering military justice (as by acting as legal counsel or conducting an appellate review)"
+            }
+        },
+        "references": {}
+    }
+}

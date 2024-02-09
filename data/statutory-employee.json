@@ -1,0 +1,11 @@
+{
+    "Statutory Employee": {
+        "definition": "one",
+        "sub_definitions": {
+            "1": {
+                "1": "one (as a contractor or person working under a contractor) who does work for a statutory employer from whom he or she is entitled to the exclusive remedy of workers' compensation benefits"
+            }
+        },
+        "references": {}
+    }
+}

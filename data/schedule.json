@@ -1,0 +1,17 @@
+{
+    "Schedule": {
+        "definition": "a list or statement of supplementary details appended to another document b",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "a list or statement of supplementary details appended to another document",
+                "sub_terms": {
+                    "b": "a formal list, table, catalog, or inventory"
+                }
+            },
+            "2": {
+                "definition": "a plan that indicates the time and sequence of each element"
+            }
+        },
+        "references": {}
+    }
+}

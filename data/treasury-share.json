@@ -1,0 +1,11 @@
+{
+    "Treasury Share": {
+        "definition": "a share of Treasury stock",
+        "sub_definitions": {
+            "1": {
+                "1": "a share of Treasury stock"
+            }
+        },
+        "references": {}
+    }
+}

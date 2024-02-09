@@ -1,0 +1,22 @@
+{
+    "Run": {
+        "definition": "to be or continue to be in operation or effect b",
+        "origin": "[statute of limitations began to when she received notice of the injury]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "to be or continue to be in operation or effect",
+                "sub_terms": {
+                    "b": "to proceed toward expiration or effectiveness [statute of limitations began to when she received notice of the injury] compare"
+                },
+                "compares": "toll"
+            },
+            "2": {
+                "definition": "to continue to accrue or become payable in an amount increasing with the passing of time [interestfrom a particular date]",
+                "running": "from a particular date]"
+            }
+        },
+        "references": {
+            "toll": "https://dictionary.findlaw.com/definition/toll.html"
+        }
+    }
+}

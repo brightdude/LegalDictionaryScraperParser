@@ -1,0 +1,20 @@
+{
+    "Royalty": {
+        "definition": "-ties 1",
+        "sub_definitions": {
+            "1": {
+                "definition": "a right delegated (as to an individual or corporation) by a sovereign"
+            },
+            "2 a": {
+                "definition": "a share of the profit or product reserved by the grantor esp. of an oil or mineral lease compare",
+                "sub_terms": {
+                    "b": "a payment made to an author or composer for each copy of a work sold or to an inventor for each article sold under a patent"
+                },
+                "compares": "overriding royalty"
+            }
+        },
+        "references": {
+            "overriding royalty": "https://dictionary.findlaw.com/definition/overriding-royalty.html"
+        }
+    }
+}

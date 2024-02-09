@@ -1,0 +1,16 @@
+{
+    "Formal Rulemaking": {
+        "definition": "rulemaking by a government agency that is on the record after an opportunity for an agency hearing in accordance with the formal procedures set forth in sections 556 and 557 of the Administrative Procedure Act compare informal rulemaking NOTE",
+        "compare": "informal rulemaking",
+        "sub_definitions": {
+            "1": {
+                "1": "rulemaking by a government agency that is on the record after an opportunity for an agency hearing in accordance with the formal procedures set forth in sections 556 and 557 of the Administrative Procedure Act compare",
+                "compares": "informal rulemaking",
+                "note": " Formal rulemaking is usually only done where specifically required by the legislation mandating the agency action."
+            }
+        },
+        "references": {
+            "informal rulemaking": "https://dictionary.findlaw.com/definition/informal-rulemaking.html"
+        }
+    }
+}

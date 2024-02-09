@@ -1,0 +1,22 @@
+{
+    "Spin-Off": {
+        "definition": "a transfer of corporate assets to a subsidiary in return for a distribution to the shareholders of the corporation of all of the stock or controlling stock of the subsidiary without surrender of any stock by the shareholders of the corporation",
+        "compare": "split-off",
+        "sub_definitions": {
+            "1": {
+                "1": "a transfer of corporate assets to a subsidiary in return for a distribution to the shareholders of the corporation of all of the stock or controlling stock of the subsidiary without surrender of any stock by the shareholders of the corporation"
+            },
+            "2": {
+                "1": "a D reorganization involving a distribution of the stock of another company to the corporation's shareholders"
+            },
+            "3": {
+                "1": "a new company created by such a distribution compare",
+                "compares": "split-off"
+            }
+        },
+        "references": {
+            "split-off": "https://dictionary.findlaw.com/definition/split-off.html",
+            "split-up": "https://dictionary.findlaw.com/definition/split-up.html"
+        }
+    }
+}

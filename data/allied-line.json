@@ -1,0 +1,11 @@
+{
+    "Allied Line": {
+        "definition": "insurance",
+        "sub_definitions": {
+            "1": {
+                "1": "insurance (as for earthquake or water damage) provided by policies separate from a fire policy"
+            }
+        },
+        "references": {}
+    }
+}

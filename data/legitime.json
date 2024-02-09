@@ -1,0 +1,19 @@
+{
+    "Legitime": {
+        "definition": "the portion",
+        "origin": "[French, from Latin legitima ( pars ) the lawful (share)]",
+        "compare": "disposable portion",
+        "sub_definitions": {
+            "1": {
+                "1": "the portion (as one-fourth) of a testate succession that is reserved for a forced heir called also",
+                "compares": "disposable portion",
+                "note": " The fraction used to calculate the legitime will vary depending on the number of forced heirs."
+            }
+        },
+        "references": {
+            "disposable portion": "https://dictionary.findlaw.com/definition/disposable-portion.html",
+            "falcidian portion": "https://dictionary.findlaw.com/definition/falcidian-portion.html",
+            "marital portion": "https://dictionary.findlaw.com/definition/marital-portion.html"
+        }
+    }
+}

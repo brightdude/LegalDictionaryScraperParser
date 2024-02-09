@@ -1,0 +1,11 @@
+{
+    "Holding Period": {
+        "definition": "the length of time a taxpayer holds property for purposes of determining if any gain realized or loss incurred from it is long-term or short-term",
+        "sub_definitions": {
+            "1": {
+                "1": "the length of time a taxpayer holds property for purposes of determining if any gain realized or loss incurred from it is long-term or short-term"
+            }
+        },
+        "references": {}
+    }
+}

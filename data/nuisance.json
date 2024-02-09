@@ -1,0 +1,47 @@
+{
+    "Nuisance": {
+        "definition": "something",
+        "origin": "[Anglo-French nusaunce , from Old French nuire to harm, from Latin nocēre ]",
+        "compare": "public nuisance",
+        "sub_definitions": {
+            "1": {
+                "definition": "a thing or condition on one's property that poses a risk to children who may be attracted to it without realizing the risk by virtue of their youth"
+            },
+            "2": {
+                "definition": "a doctrine or theory employed in most jurisdictions: a possessor of property may be liable for injury caused to a trespassing or invited child by a condition on the property if he or she failed to use ordinary care in preventing such injury (as by fencing in a pool) and had reason to foresee entry by the child and if the utility of the condition was minor compared to the likelihood of injury [declined to extend the doctrine of…to moving trains \", 796 P.2d 549 (1990)\"]",
+                "note": " The doctrine of attractive nuisance originated in an 1873 U.S. Supreme Court caseSioux City & Pacific Railroad Co. v. Stout, 84 U.S. 657 (1873), involving a trespassing child injured by a railroad turntable; an early premise was that the attractive nuisance caused the trespass, and so by extension the owner was responsible for the trespass as well. Subsequent modification of the doctrine has focused on the possessor's duty to use care in preventing injury, whether a child is a trespasser or invitee.",
+                "attractive nuisance": "…to moving trains \"",
+                "Honeycutt v. City of Wichita": "796 P.2d 549 (1990)"
+            },
+            "common nuisance": {
+                "definition": "in this entry"
+            },
+            "nuisance at law": {
+                "definition": "in this entry"
+            },
+            "nuisance in fact": {
+                "definition": "an act, occupation, or structure that is considered a nuisance in relation to its circumstances or surroundings [a lawful business may be ain a particular location] called alsocomparein this entry",
+                "compares": "nuisance per se",
+                "nuisance in fact": "in a particular location] called also"
+            },
+            "nuisance per se": {
+                "definition": "an act, occupation, or structure that is considered a nuisance regardless of its circumstances or surroundings [a house of prostitution is a] called alsocomparein this entry",
+                "compares": "nuisance in fact",
+                "nuisance per se": "] called also"
+            },
+            "private nuisance": {
+                "definition": "something (as an activity) that constitutes an unreasonable interference in the right to the use and enjoyment of one's property and that may be a cause of action in civil litigation"
+            },
+            "public nuisance": {
+                "definition": "something that unreasonably interferes with the health, safety, comfort, morals, or convenience of the community and that is treated as a criminal violation [declared that the landfill was a present and prospectiveand ordered…operations to cease \", 646 N.E.2d 394 (1995)\"] called also",
+                "public nuisance": "and ordered…operations to cease \"",
+                "SCA Servs. v. Transportation Ins. Co.": "646 N.E.2d 394 (1995)\"] called al"
+            }
+        },
+        "references": {
+            "public nuisance": "https://dictionary.findlaw.com/definition/public-nuisance.html",
+            "nuisance per se": "https://dictionary.findlaw.com/definition/nuisance-per-se.html",
+            "nuisance in fact": "https://dictionary.findlaw.com/definition/nuisance-in-fact.html"
+        }
+    }
+}

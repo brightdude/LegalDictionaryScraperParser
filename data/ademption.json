@@ -1,0 +1,19 @@
+{
+    "Ademption": {
+        "definition": "the revocation of a gift in a will inferred from the disposal",
+        "origin": "[Latin ademptio , from adimere to take away, from ad to + emere to buy, obtain]",
+        "sub_definitions": {
+            "1": {
+                "definition": "the revocation of a gift in a will inferred from the disposal (as by sale) of the property by the maker of the will before he or she dies"
+            },
+            "2": {
+                "definition": "the revocation of a gift in a will inferred from the maker's gift before his or her death of the same or similar property to the recipient named in the will compare",
+                "note": " Only gifts that are characterized as specific devises, bequests, or legacies are subject to ademption.",
+                "compares": "advancement"
+            }
+        },
+        "references": {
+            "advancement": "https://dictionary.findlaw.com/definition/advancement.html"
+        }
+    }
+}

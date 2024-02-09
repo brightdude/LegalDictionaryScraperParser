@@ -1,0 +1,101 @@
+{
+    "Order": {
+        "definition": "a state of peace",
+        "origin": "[maintain law and ]",
+        "sub_definitions": {
+            "1": {
+                "definition": "an order to buy securities or commodity futures that remains effective until filled or canceled"
+            },
+            "2": {
+                "definition": "an order for merchandise expressed in very general terms so that the seller has considerable latitude in selecting the articles actually provided"
+            },
+            "3 a": {
+                "definition": "a mandate from a superior authority see also",
+                "sub_terms": {
+                    "b": "a ruling or command made by a competent administrative authorityone resulting from administrative adjudication and subject to judicial review and enforcement [an administrative may not be inconsistent with the Constitution \", 654 So. 2d 145 (1995)\"]",
+                    "c": "an authoritative command issued by the court [violated a court and was jailed for contempt]"
+                },
+                "see also": "executive order",
+                "Wells v. State": "654 So. 2d 145 (1995)"
+            },
+            "cease-and-de·sist order": {
+                "definition": "[sēs-ənd-di-zist-, -sist-]an order from a court or quasi-judicial tribunal to stop engaging in a particular activity or practice (as an unfair labor practice) compare,,",
+                "compares": "injunction"
+            },
+            "consent order": {
+                "definition": "an agreement of litigating parties that by consent takes the form of a court order"
+            },
+            "final order": {
+                "definition": "an order of a court or quasi-judicial tribunal which leaves nothing further to be determined or accomplished in that forum except execution of the judgment and from which an appeal will lie"
+            },
+            "gag order": {
+                "definition": "an order barring public disclosure or discussion (as by the involved parties or the press) of information relating to a case"
+            },
+            "order to show cause": {
+                "definition": "an order requiring the prospective object of a legal action to show cause why that action should not take place called also"
+            },
+            "pretrial order": {
+                "definition": "a court order setting out the rulings, stipulations, and other actions taken at a pretrial conference"
+            },
+            "protection order": {
+                "definition": "in this entry"
+            },
+            "protective order": {
+                "definition": "an order issued for the protection of a particular party",
+                "sub_terms": {
+                    "a": "an order that limits, denies, or defers discovery by a party in order to prevent undue embarrassment, expense, oppression, or disclosure of trade secrets",
+                    "b": "in this entry"
+                }
+            },
+            "qualified domestic relations order": {
+                "definition": "an order, decree, or judgment that satisfies the criteria set out in section 414 of the Internal Revenue Code for the payment of all or part of individual pension, profit sharing, or retirement benefits usually to a divorcing spouse (as for alimony or child support)",
+                "note": " The alienation or assignment of funds under a qualified domestic relations order does not affect the tax status of the plan from which such funds are paid."
+            },
+            "re·strain·ing order": {
+                "definition": "[ri-strā-ni-]"
+            },
+            "show cause order": {
+                "definition": "in this entry"
+            },
+            "turn·over order": {
+                "definition": "[tər-nō-vər-]an order commanding one party to turn over property to anotheran order commanding a judgment debtor to turn over assets to a judgment creditor [in aid of execution \"\"]",
+                "sub_terms": {
+                    "c": "a command issued by a military superior"
+                },
+                "turnover order": "in aid of execution \""
+            },
+            "4 a": {
+                "definition": "a direction regarding the party to whom a negotiable instrument shall be paid [pay to the of John Doe] see also,",
+                "sub_terms": {
+                    "b": "an instruction or authorization esp. to buy or sell goods or securities or to perform work [a purchase ] [a work ]"
+                },
+                "see also": "money order"
+            },
+            "alternative order": {
+                "definition": "an order to a broker in which alternative methods of carrying out the order (as by buying or selling) are set forth"
+            },
+            "stop order": {
+                "definition": "an order to a broker to buy or sell a security when the price advances or declines to a designated level",
+                "sub_terms": {
+                    "c": "goods or items bought or sold [the was received in good condition]"
+                }
+            },
+            "to order:according to the specifications of an order esp. of a bearer or endorsee [payable to bearer orto order]": {
+                "definition": "adjpayable to a named person or to an individual that person names by an endorsement [ instrument] compare",
+                "compares": "bearer"
+            }
+        },
+        "references": {
+            "executive order": "https://dictionary.findlaw.com/definition/executive-order.html",
+            "injunction": "https://dictionary.findlaw.com/definition/injunction.html",
+            "mandamus": "https://dictionary.findlaw.com/definition/mandamus.html",
+            "stay": "https://dictionary.findlaw.com/definition/stay.html",
+            "restraining order": "https://dictionary.findlaw.com/definition/restraining-order.html",
+            "temporary restraining order": "https://dictionary.findlaw.com/definition/temporary-restraining-order.html",
+            "order to show cause": "https://dictionary.findlaw.com/definition/order-to-show-cause.html",
+            "money order": "https://dictionary.findlaw.com/definition/money-order.html",
+            "negotiable instrument": "https://dictionary.findlaw.com/definition/negotiable-instrument.html",
+            "bearer": "https://dictionary.findlaw.com/definition/bearer.html"
+        }
+    }
+}

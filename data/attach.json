@@ -1,0 +1,35 @@
+{
+    "Attach": {
+        "definition": "to obtain a court order against",
+        "origin": "[Anglo-French attacher to lodge (an action in court), seize (a person or property) by legal authority, from Old French atachier to fasten, fix, alteration of estachier , from estache stake]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to obtain a court order against (property of another person) that directs an officer of the court (as a sheriff) to seize or take control of the property compare,",
+                "note": " A plaintiff may attach a defendant's property as a way of obtaining jurisdiction for the purpose of bringing a lawsuit or to prevent the defendant from getting rid of property that may be needed to pay a judgment to the plaintiff.",
+                "compares": "garnish"
+            },
+            "2": {
+                "definition": "to join or make a part of [affidavitsto the suit \"Rosalind Resnick\"]",
+                "ed": "to the suit \"Rosalind Resnick\"]"
+            },
+            "3": {
+                "definition": "to create a security interest in (property) and so acquire the right to foreclose on or otherwise deal with property for payment of a debt and to exercise one's rights in the property against third parties see alsoatcompareto become effective",
+                "sub_terms": {
+                    "a": "to come into existence as a security interest [from the date the interest]",
+                    "b": "to become operative esp. as a right [the right to counselonly at or after the initiation of adversary judicial proceedings \", 467 U.S. 180 (1984)\"] see also"
+                },
+                "compares": "perfect",
+                "see also": "jeopardy",
+                "es": "only at or after the initiation of adversary judicial proceedings \"",
+                "United States v. Gouveia": "467 U.S. 180 (1984)\"] see al"
+            }
+        },
+        "references": {
+            "garnish": "https://dictionary.findlaw.com/definition/garnish.html",
+            "levy": "https://dictionary.findlaw.com/definition/levy.html",
+            "interest": "https://dictionary.findlaw.com/definition/interest.html",
+            "perfect": "https://dictionary.findlaw.com/definition/perfect.html",
+            "jeopardy": "https://dictionary.findlaw.com/definition/jeopardy.html"
+        }
+    }
+}

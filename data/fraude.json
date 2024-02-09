@@ -1,0 +1,16 @@
+{
+    "Fraude": {
+        "definition": "fraud committed in the performance of a contract compare dol",
+        "origin": "[French, fraud]",
+        "compare": "dol",
+        "sub_definitions": {
+            "1": {
+                "1": "fraud committed in the performance of a contract compare",
+                "compares": "dol"
+            }
+        },
+        "references": {
+            "dol": "https://dictionary.findlaw.com/definition/dol.html"
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "Misjoinder": {
+        "definition": "an incorrect joinder of claims or parties in a legal action ;also",
+        "compare": "duplicity",
+        "sub_definitions": {
+            "1": {
+                "1": "an incorrect joinder of claims or parties in a legal action"
+            },
+            "2": {
+                "1": "an impermissible joinder of criminal charges or defendants compare",
+                "compares": "duplicity"
+            }
+        },
+        "references": {
+            "duplicity": "https://dictionary.findlaw.com/definition/duplicity.html",
+            "multifarious": "https://dictionary.findlaw.com/definition/multifarious.html",
+            "multiplicity": "https://dictionary.findlaw.com/definition/multiplicity.html"
+        }
+    }
+}

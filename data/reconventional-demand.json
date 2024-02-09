@@ -1,0 +1,15 @@
+{
+    "Reconventional Demand": {
+        "definition": "counterclaim [allowed to make a reconventional demand arising from a different transaction with the plaintiff]",
+        "origin": "[allowed to make a reconventional demand arising from a different transaction with the plaintiff]",
+        "sub_definitions": {
+            "1": {
+                "1": "counterclaim",
+                "reconventional demand": "arising from a different transaction with the plaintiff]"
+            }
+        },
+        "references": {
+            "counterclaim": "https://dictionary.findlaw.com/definition/counterclaim.html"
+        }
+    }
+}

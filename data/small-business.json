@@ -1,0 +1,12 @@
+{
+    "Small Business": {
+        "definition": "an independently owned and operated business that is not dominant in its field of operation and conforms to standards set by the Small Business Administration or by state law regarding number of employees and yearly income called also small business concern see also Small Business Administration in the Important Agencies section",
+        "sub_definitions": {
+            "1": {
+                "1": "an independently owned and operated business that is not dominant in its field of operation and conforms to standards set by the Small Business Administration or by state law regarding number of employees and yearly income called also",
+                "Small Business Administration": "in the Important Agencies section"
+            }
+        },
+        "references": {}
+    }
+}

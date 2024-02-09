@@ -1,0 +1,11 @@
+{
+    "Cost, Insurance, And Freight": {
+        "definition": "including the cost of goods being shipped and the freight and insurance charges",
+        "sub_definitions": {
+            "1": {
+                "1": "including the cost of goods being shipped and the freight and insurance charges"
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "Unproved": {
+        "definition": "unproven",
+        "sub_definitions": {
+            "1": {
+                "1": "unproven"
+            }
+        },
+        "references": {
+            "unproven": "https://dictionary.findlaw.com/definition/unproven.html"
+        }
+    }
+}

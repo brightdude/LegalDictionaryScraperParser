@@ -1,0 +1,15 @@
+{
+    "Jural": {
+        "definition": "of or relating to law 2",
+        "origin": "[Latin jur- jus law]",
+        "sub_definitions": {
+            "1": {
+                "definition": "of or relating to law"
+            },
+            "2": {
+                "definition": "of or relating to rights or obligations"
+            }
+        },
+        "references": {}
+    }
+}

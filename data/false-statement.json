@@ -1,0 +1,22 @@
+{
+    "False Statement": {
+        "definition": "a statement that is known or believed by its maker to be incorrect or untrue and is made esp. with intent to deceive or mislead [submitted a false statement to obtain the loan] ;also",
+        "origin": "[submitted a false statement to obtain the loan]",
+        "compare": "exculpatory no doctrine",
+        "sub_definitions": {
+            "1": {
+                "1": "a statement that is known or believed by its maker to be incorrect or untrue and is made esp. with intent to deceive or mislead [submitted a",
+                "false statement": "to obtain the loan]"
+            },
+            "2": {
+                "1": "the federal crime of concealing a material fact, making a false statement, or using documents known to be falsified see also",
+                "see also": "exculpatory no doctrine",
+                "compares": "perjury"
+            }
+        },
+        "references": {
+            "exculpatory no doctrine": "https://dictionary.findlaw.com/definition/exculpatory-no-doctrine.html",
+            "perjury": "https://dictionary.findlaw.com/definition/perjury.html"
+        }
+    }
+}

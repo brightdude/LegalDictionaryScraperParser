@@ -1,0 +1,19 @@
+{
+    "Kickback": {
+        "definition": "a payment",
+        "origin": "[convicted of receiving s for referrals]",
+        "compare": "bribe",
+        "sub_definitions": {
+            "1": {
+                "1": "a payment (as of money or property) made to one in a position to open up or control a source of income for the payor [convicted of receiving",
+                "s": "for referrals] compare",
+                "compares": "bribe",
+                "note": " A kickback is specifically a payment for income received or to be received. The word is usually not restricted to a return of funds."
+            }
+        },
+        "references": {
+            "bribe": "https://dictionary.findlaw.com/definition/bribe.html",
+            "payoff": "https://dictionary.findlaw.com/definition/payoff.html"
+        }
+    }
+}

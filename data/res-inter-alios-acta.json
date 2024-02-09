@@ -1,0 +1,13 @@
+{
+    "Res Inter Alios Acta": {
+        "definition": "something transacted between other parties NOTE",
+        "origin": "[Late Latin, literally, thing done among others]",
+        "sub_definitions": {
+            "1": {
+                "1": "something transacted between other parties",
+                "note": " This term is used in reference to matters not involving the same parties as those in litigation. Evidence of such matters is generally inadmissible."
+            }
+        },
+        "references": {}
+    }
+}

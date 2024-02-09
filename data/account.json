@@ -1,0 +1,24 @@
+{
+    "Account": {
+        "definition": "a record of debit and credit entries to cover transactions involving a particular item",
+        "origin": "[trustees filed annual s as required by statute \"W. M. McGovern, Jr. et al. \"]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "a record of debit and credit entries to cover transactions involving a particular item (as cash or notes receivable) or a particular person or concern",
+                "sub_terms": {
+                    "b": "a statement of transactions during a fiscal period showing the resulting balance sometimes used in the pl. [trustees filed annualas required by statute \"W. M. McGovern, Jr.\"]"
+                }
+            },
+            "2": {
+                "definition": "a periodically rendered reckoning (as one listing charged purchases and credits)"
+            },
+            "3": {
+                "definition": "a sum of money or its equivalent deposited in the common cash of a bank and subject to withdrawal at the option of the depositor"
+            },
+            "4": {
+                "definition": "a right under Article 9 of the Uniform Commercial Code to payment for goods or services which is not contained in an instrument or chattel paper and that may or may not have been earned by performancevito give a financial account [a duty to ]"
+            }
+        },
+        "references": {}
+    }
+}

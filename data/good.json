@@ -1,0 +1,64 @@
+{
+    "Good": {
+        "definition": "commercially sound or reliable [a risk] 2 a",
+        "origin": "[a risk]",
+        "sub_definitions": {
+            "1": {
+                "definition": "advancement of prosperity and well-being [for the of the community]"
+            },
+            "2 a": {
+                "definition": "valid or effectual under the law",
+                "sub_terms": {
+                    "b": "free of defects"
+                }
+            },
+            "3 a": {
+                "definition": "characterized by honesty and fairness",
+                "sub_terms": {
+                    "b": "conforming to a standard of virtue [shall hold their offices during behavior \"art. III\"]characterized by or relating to good behaviorn"
+                }
+            },
+            "2": {
+                "definition": "an item of tangible movable personal property having value but usually excluding money, securities, and negotiable instruments usually used in pl. ",
+                "sub_terms": {
+                    "a": "all things under section 2-105 of the Uniform Commercial Code that are movable at the time of identification to the contract for sale other than the money that is to be paid, investment securities, and choses in action",
+                    "b": "all things under section 9-104 of the Uniform Commercial Code that are movable at the time that a security interest in them attaches or that are fixtures but excluding money, documents, instruments, accounts, chattel paper, general intangibles, and minerals or the like before extraction"
+                }
+            },
+            "consumer goods": {
+                "definition": "goods purchased primarily for personal, family, or household uses"
+            },
+            "du·ra·ble goods": {
+                "definition": "consumer goods that last and are used for a number of years"
+            },
+            "fungible goods": {
+                "definition": "goods of which any unit is by nature or by usage of trade the equivalent of any other unit esp. as defined by section 1-201 of the Uniform Commercial Code"
+            },
+            "fu·ture goods": {
+                "definition": "goods that are the subject of a contract but are not yet existing or specified"
+            },
+            "hard goods": {
+                "definition": "in this entry"
+            },
+            "house·hold goods": {
+                "definition": "goods used in connection with the homefurniture, furnishings, and personal effects used in a dwelling as defined by section 7-209 of the Uniform Commercial Code"
+            },
+            "mo·bile goods": {
+                "definition": "goods as defined in section 9-103 of the Uniform Commercial Code that are mobile, are of a type (as vehicles) usually used in more than one jurisdiction, are not covered by a certificate of title, and are either the equipment of a debtor or inventory leased by a debtor"
+            },
+            "or·di·nary goods": {
+                "definition": "goods as defined by section 9-103 of the Uniform Commercial Code that are anything other than those covered by a certificate of title, mobile goods, or minerals"
+            },
+            "pro·duc·er goods": {
+                "definition": "goods (as tools and raw materials) used to produce other goods and satisfy human wants only indirectly"
+            },
+            "soft goods": {
+                "definition": "consumer goods that are not durable goods"
+            }
+        },
+        "references": {
+            "durables": "https://dictionary.findlaw.com/definition/durables.html",
+            "durable goods": "https://dictionary.findlaw.com/definition/durable-goods.html"
+        }
+    }
+}

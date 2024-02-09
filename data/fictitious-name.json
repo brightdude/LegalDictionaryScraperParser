@@ -1,0 +1,12 @@
+{
+    "Fictitious Name": {
+        "definition": "a name",
+        "sub_definitions": {
+            "1": {
+                "1": "a name (as",
+                "John Doe": ") used in a complaint when the party's name is unknown at the time of filing or when the party's identity is being kept private"
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "Superior Court": {
+        "definition": "a court of general jurisdiction intermediate between the inferior courts and the higher appellate courts 2",
+        "sub_definitions": {
+            "1": {
+                "definition": "a court of general jurisdiction intermediate between the inferior courts and the higher appellate courts"
+            },
+            "2": {
+                "definition": "a court having original jurisdiction and conducting jury trials"
+            }
+        },
+        "references": {}
+    }
+}

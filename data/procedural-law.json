@@ -1,0 +1,20 @@
+{
+    "Procedural Law": {
+        "definition": "law that prescribes the procedures and methods for enforcing rights and duties and for obtaining redress",
+        "origin": "[the federal courts in diversity actions must apply state substantive law and federal procedural law \" Miller v. American Dredging Corp. , 595 So. 2d 615 (1992)\"]",
+        "compare": "substantive law",
+        "sub_definitions": {
+            "1": {
+                "1": "law that prescribes the procedures and methods for enforcing rights and duties and for obtaining redress (as in a suit) and that is distinguished from law that creates, defines, or regulates rights [the federal courts in diversity actions must apply state substantive law and federal",
+                "Miller v. American Dredging Corp.": "595 So. 2d 615 (1992)"
+            },
+            "2": {
+                "1": "a particular law of this nature compare",
+                "compares": "substantive law"
+            }
+        },
+        "references": {
+            "substantive law": "https://dictionary.findlaw.com/definition/substantive-law.html"
+        }
+    }
+}

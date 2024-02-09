@@ -1,0 +1,23 @@
+{
+    "Margin": {
+        "definition": "the difference between net sales and the cost of the merchandise sold from which expenses are usually met or profits derived 2",
+        "sub_definitions": {
+            "1": {
+                "definition": "the difference between net sales and the cost of the merchandise sold from which expenses are usually met or profits derived"
+            },
+            "2": {
+                "definition": "the amount by which the market value of collateral is greater than the face value of a loan"
+            },
+            "3 a": {
+                "definition": "cash or collateral deposited in a regulated amount by a client with a broker who is financing the purchase of securities see also",
+                "sub_terms": {
+                    "b": "a deposit made with a broker by a client who is trading in futures"
+                },
+                "see also": "regulation t"
+            }
+        },
+        "references": {
+            "regulation t": "https://dictionary.findlaw.com/definition/regulation-t.html"
+        }
+    }
+}

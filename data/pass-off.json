@@ -1,0 +1,21 @@
+{
+    "Pass Off": {
+        "definition": "to make public or offer for sale",
+        "origin": "[ passing his product off as that of the plaintiff's \"W. L. Prosser and W. P. Keeton\"]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to make public or offer for sale (goods or services) with intent to deceive[his productas that of the plaintiff's \"W. L. Prosser and W. P. Keeton\"] see also",
+                "see also": "unfair competition",
+                "off": "as that of the plaintiff's \"W. L. Prosser and W. P. Keeton\"] see also"
+            },
+            "2": {
+                "definition": "to give a false identity or character to [they created the documents on the day of the trial andthemas being made earlier]",
+                "off": "as being made earlier]"
+            }
+        },
+        "references": {
+            "palm off": "https://dictionary.findlaw.com/definition/palm-off.html",
+            "unfair competition": "https://dictionary.findlaw.com/definition/unfair-competition.html"
+        }
+    }
+}

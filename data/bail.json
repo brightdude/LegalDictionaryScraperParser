@@ -1,0 +1,23 @@
+{
+    "Bail": {
+        "definition": "the temporary release of a prisoner in exchange for security given for the prisoner's appearance at a later hearing [while free on ] 2",
+        "origin": "[Anglo-French, act of handing over, delivery of a prisoner into someone's custody in exchange for security, from bailler to hand over, entrust, from Old French, from Latin bajulare to carry (a burden)]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to release on bail"
+            },
+            "2": {
+                "definition": "to obtain the release of by giving bail often used with"
+            },
+            "3": {
+                "definition": "to place (personal property) under a bailment [identity of the article claimed to have been\", 253 N.W. 546 (1934)\"]",
+                "note": " Property is usually bailed by putting it temporarily in the custody of another for a specific purpose, as safekeeping or delivery to a third party.",
+                "Peet v. Roth Hotel Co.": "253 N.W. 546 (1934)"
+            },
+            "make bail:to be released on bail": {
+                "definition": "vt"
+            }
+        },
+        "references": {}
+    }
+}

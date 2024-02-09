@@ -1,0 +1,11 @@
+{
+    "Visa": {
+        "definition": "an endorsement made on a passport by the proper authorities denoting that it has been examined and that the bearer may proceed",
+        "sub_definitions": {
+            "1": {
+                "1": "an endorsement made on a passport by the proper authorities denoting that it has been examined and that the bearer may proceed"
+            }
+        },
+        "references": {}
+    }
+}

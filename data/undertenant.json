@@ -1,0 +1,11 @@
+{
+    "Undertenant": {
+        "definition": "a tenant",
+        "sub_definitions": {
+            "1": {
+                "1": "a tenant (as a sublessee) who takes some part of the tenancy of another tenant (as a lessee) used esp. in New York"
+            }
+        },
+        "references": {}
+    }
+}

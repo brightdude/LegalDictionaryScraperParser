@@ -1,0 +1,15 @@
+{
+    "Long-Arm Statute": {
+        "definition": "a state statute allowing for the assertion of personal jurisdiction over a nonresident defendant who has some connection",
+        "sub_definitions": {
+            "1": {
+                "1": "a state statute allowing for the assertion of personal jurisdiction over a nonresident defendant who has some connection (as ownership or use of property, transaction of business, or commission of a tort) with the state called also",
+                "see also": "doing business statute"
+            }
+        },
+        "references": {
+            "doing business statute": "https://dictionary.findlaw.com/definition/doing-business-statute.html",
+            "minimum contacts": "https://dictionary.findlaw.com/definition/minimum-contacts.html"
+        }
+    }
+}

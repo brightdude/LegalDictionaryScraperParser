@@ -1,0 +1,13 @@
+{
+    "Lunacy": {
+        "definition": "insanity",
+        "sub_definitions": {
+            "1": {
+                "1": "insanity"
+            }
+        },
+        "references": {
+            "insanity": "https://dictionary.findlaw.com/definition/insanity.html"
+        }
+    }
+}

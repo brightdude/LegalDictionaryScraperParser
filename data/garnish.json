@@ -1,0 +1,19 @@
+{
+    "Garnish": {
+        "definition": "to subject",
+        "origin": "[Anglo-French garniss -, stem of garnir to garnish, give legal summons, warn, from Old French, of Germanic origin; akin to Old High German warnōn to take heed]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to subject (property or money) to garnishment"
+            },
+            "2": {
+                "definition": "to seek satisfaction of (a debt) through garnishment compare,",
+                "compares": "attach"
+            }
+        },
+        "references": {
+            "attach": "https://dictionary.findlaw.com/definition/attach.html",
+            "levy": "https://dictionary.findlaw.com/definition/levy.html"
+        }
+    }
+}

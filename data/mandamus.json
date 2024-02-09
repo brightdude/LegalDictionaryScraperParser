@@ -1,0 +1,12 @@
+{
+    "Mandamus": {
+        "definition": "an extraordinary writ issued by a court of competent jurisdiction to an inferior tribunal",
+        "origin": "[Latin, we enjoin, from mandare to enjoin]",
+        "compare": "order",
+        "references": {
+            "order": "https://dictionary.findlaw.com/definition/order.html",
+            "injunction": "https://dictionary.findlaw.com/definition/injunction.html",
+            "stay": "https://dictionary.findlaw.com/definition/stay.html"
+        }
+    }
+}

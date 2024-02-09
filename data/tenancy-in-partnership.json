@@ -1,0 +1,8 @@
+{
+    "Tenancy In Partnership": {
+        "definition": "Tenancy In Partnership",
+        "references": {
+            "tenancy": "https://dictionary.findlaw.com/definition/tenancy.html"
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "Investment": {
+        "definition": "investiture n 1",
+        "compare": "investiture",
+        "sub_definitions": {
+            "1": {
+                "definition": "the outlay of money usually for income or profitcapital outlaythe sum invested or the property purchased"
+            },
+            "2": {
+                "definition": "the commitment of funds with a view to minimizing risk and safeguarding capital while earning a return compare",
+                "compares": "speculation"
+            }
+        },
+        "references": {
+            "investiture": "https://dictionary.findlaw.com/definition/investiture.html",
+            "speculation": "https://dictionary.findlaw.com/definition/speculation.html"
+        }
+    }
+}

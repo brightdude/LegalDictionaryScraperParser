@@ -1,0 +1,19 @@
+{
+    "Resolution": {
+        "definition": "a formal expression of opinion",
+        "origin": "[a corporate authorizing counsel to bind the corporation to a settlement]",
+        "sub_definitions": {
+            "1": {
+                "definition": "a formal expression of opinion, will, or intention voted by an official body (as a legislature) or assembled group see also,",
+                "see also": "concurrent resolution"
+            },
+            "2": {
+                "definition": "an expression or document containing authorization usually by a corporate board of directors of a particular act, transaction, agent, or representative [a corporate authorizing counsel to bind the corporation to a settlement]"
+            }
+        },
+        "references": {
+            "concurrent resolution": "https://dictionary.findlaw.com/definition/concurrent-resolution.html",
+            "joint resolution": "https://dictionary.findlaw.com/definition/joint-resolution.html"
+        }
+    }
+}

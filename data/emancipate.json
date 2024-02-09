@@ -1,0 +1,23 @@
+{
+    "Emancipate": {
+        "definition": "to free from restraint",
+        "origin": "[ emancipated the slaves]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to free from restraint, control, or the power of anotherto free from bondage [the slaves] compare",
+                "compares": "enfranchise",
+                "emancipated": "the slaves] compare"
+            },
+            "2": {
+                "definition": "to release from the care, responsibility, and control of one's parents compare,",
+                "note": " The circumstances under which a minor may become emancipated vary from state to state. In many states, however, the marriage of a minor results in his or her emancipation.",
+                "compares": "age of majority"
+            }
+        },
+        "references": {
+            "enfranchise": "https://dictionary.findlaw.com/definition/enfranchise.html",
+            "age of majority": "https://dictionary.findlaw.com/definition/age-of-majority.html",
+            "legal age": "https://dictionary.findlaw.com/definition/legal-age.html"
+        }
+    }
+}

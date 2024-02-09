@@ -1,0 +1,10 @@
+{
+    "Deport": {
+        "definition": "to send",
+        "compare": "exclude",
+        "sub_definitions": {},
+        "references": {
+            "exclude": "https://dictionary.findlaw.com/definition/exclude.html"
+        }
+    }
+}

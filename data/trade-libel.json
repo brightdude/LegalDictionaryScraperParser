@@ -1,0 +1,13 @@
+{
+    "Trade Libel": {
+        "definition": "disparagement",
+        "sub_definitions": {
+            "1": {
+                "1": "disparagement"
+            }
+        },
+        "references": {
+            "disparagement": "https://dictionary.findlaw.com/definition/disparagement.html"
+        }
+    }
+}

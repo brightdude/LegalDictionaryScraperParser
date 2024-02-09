@@ -1,0 +1,16 @@
+{
+    "Felony": {
+        "definition": "-nies",
+        "sub_definitions": {
+            "-nies": {
+                "definition": "a crime that has a greater punishment imposed by statute than that imposed on a misdemeanora federal crime for which the punishment may be death or imprisonment for more than a year see also,",
+                "note": " Originally in English law a felony was a crime for which the perpetrator would suffer forfeiture of all real and personal property as well as whatever sentence was imposed. Under U.S. law, there is no forfeiture of all of the felon's property (real or personal) and such forfeiture is not part of the definition of a felony. For certain crimes, however (as for a conviction under the Racketeer Influenced and Corrupt Organizations Act or a narcotics law), specific property, such as that used in or gained by the crime, is subject to forfeiture. Every state has its own statutory definition of a felony. Most are in line with the federal definition of a felony as a crime which carries a sentence of imprisonment for more than one year or the death penalty (where applicable). Other states, like Louisiana, define a felony as a crime which carries a sentence of death or imprisonment at hard labor.",
+                "see also": "attainder"
+            }
+        },
+        "references": {
+            "attainder": "https://dictionary.findlaw.com/definition/attainder.html",
+            "treason": "https://dictionary.findlaw.com/definition/treason.html"
+        }
+    }
+}

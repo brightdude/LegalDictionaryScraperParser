@@ -1,0 +1,13 @@
+{
+    "Executory Accord": {
+        "definition": "accord",
+        "sub_definitions": {
+            "1": {
+                "1": "accord"
+            }
+        },
+        "references": {
+            "accord": "https://dictionary.findlaw.com/definition/accord.html"
+        }
+    }
+}

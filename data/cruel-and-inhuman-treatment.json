@@ -1,0 +1,13 @@
+{
+    "Cruel And Inhuman Treatment": {
+        "definition": "cruelty",
+        "sub_definitions": {
+            "1": {
+                "1": "cruelty"
+            }
+        },
+        "references": {
+            "cruelty": "https://dictionary.findlaw.com/definition/cruelty.html"
+        }
+    }
+}

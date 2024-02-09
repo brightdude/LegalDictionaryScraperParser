@@ -1,0 +1,14 @@
+{
+    "Conditional Privilege": {
+        "definition": "qualified privilege at privilege",
+        "sub_definitions": {
+            "1": {
+                "1": "qualified privilege"
+            }
+        },
+        "references": {
+            "qualified privilege": "https://dictionary.findlaw.com/definition/qualified-privilege.html",
+            "privilege": "https://dictionary.findlaw.com/definition/privilege.html"
+        }
+    }
+}

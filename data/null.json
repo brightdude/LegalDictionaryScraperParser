@@ -1,0 +1,17 @@
+{
+    "Null": {
+        "definition": "having no legal or binding force",
+        "origin": "[Anglo-French nul , literally, not any, from Latin nullus , from ne- not + ullus any]",
+        "sub_definitions": {
+            "1": {
+                "1": "having no legal or binding force"
+            },
+            "2": {
+                "1": "void"
+            }
+        },
+        "references": {
+            "void": "https://dictionary.findlaw.com/definition/void.html"
+        }
+    }
+}

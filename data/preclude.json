@@ -1,0 +1,19 @@
+{
+    "Preclude": {
+        "definition": "to prevent or exclude by necessary consequence [the requirement of a marriage ceremony s the creation of common-law marriages in this jurisdiction]",
+        "origin": "[the requirement of a marriage ceremony s the creation of common-law marriages in this jurisdiction]",
+        "sub_definitions": {
+            "pre·clud·ing": {
+                "definition": "to prevent or exclude by necessary consequence [the requirement of a marriage ceremonythe creation of common-law marriages in this jurisdiction]",
+                "sub_terms": {
+                    "a": "to prevent (a party) from litigating an action or claim esp. by collateral estoppel or res judicata [they areonly because they failed to assert…the grounds for recovery they now assert \", 595 F.2d 446 (1979)\"]",
+                    "b": "to prevent (a claim or action) from being litigated esp. by collateral estoppel or res judicata [the Civil Service Reform Act provides the exclusive address for adverse federal employment actions and thusclaims brought under the Tort Claims Act \"\"]"
+                },
+                "s": "claims brought under the Tort Claims Act \"",
+                "precluded": "only because they failed to assert…the grounds for recovery they now assert \"",
+                "Roach v. Teamsters Local Union No. 688": "595 F.2d 446 (1979)"
+            }
+        },
+        "references": {}
+    }
+}

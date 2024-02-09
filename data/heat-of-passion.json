@@ -1,0 +1,18 @@
+{
+    "Heat Of Passion": {
+        "definition": "an agitated state of mind",
+        "compare": "manslaughter",
+        "sub_definitions": {
+            "1": {
+                "1": "an agitated state of mind (as anger or terror) prompted by provocation sufficient to overcome the ability of a reasonable person to reflect on and control his or her actions called also",
+                "see also": "manslaughter",
+                "compares": "cold blood"
+            }
+        },
+        "references": {
+            "manslaughter": "https://dictionary.findlaw.com/definition/manslaughter.html",
+            "cold blood": "https://dictionary.findlaw.com/definition/cold-blood.html",
+            "cool state of blood": "https://dictionary.findlaw.com/definition/cool-state-of-blood.html"
+        }
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "Stock Option Plan": {
+        "definition": "a form of deferred compensation that allows an employee to buy corporate stock at a set price",
+        "sub_definitions": {
+            "1": {
+                "1": "a form of deferred compensation that allows an employee to buy corporate stock at a set price (as the prevailing market price at the time of the contract) at any time (as when the market price has risen) during a designated number of years"
+            }
+        },
+        "references": {}
+    }
+}

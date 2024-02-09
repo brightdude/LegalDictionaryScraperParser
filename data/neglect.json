@@ -1,0 +1,11 @@
+{
+    "Neglect": {
+        "definition": "a disregard of duty resulting from carelessness",
+        "compare": "abuse",
+        "sub_definitions": {},
+        "references": {
+            "abuse": "https://dictionary.findlaw.com/definition/abuse.html",
+            "negligence": "https://dictionary.findlaw.com/definition/negligence.html"
+        }
+    }
+}

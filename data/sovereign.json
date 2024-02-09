@@ -1,0 +1,25 @@
+{
+    "Sovereign": {
+        "definition": "a person or political entity",
+        "origin": "[-vrən]",
+        "sub_definitions": {
+            "sov·ran": {
+                "definition": "[-vrən]a person or political entity (as a nation or state) possessing or held to possess sovereignty [a controversy between two…the United States on the one hand and the State of California on the other \"\"] see alsoat",
+                "s": "…the United States on the one hand and the State of California on the other \"",
+                "U.S. Code": "\"] see also"
+            },
+            "1": {
+                "definition": "possessed of supreme power [a ruler]"
+            },
+            "2": {
+                "definition": "enjoying autonomy [ states]"
+            },
+            "3": {
+                "definition": "relating to, characteristic of, or befitting a sovereign"
+            }
+        },
+        "references": {
+            "immunity": "https://dictionary.findlaw.com/definition/immunity.html"
+        }
+    }
+}

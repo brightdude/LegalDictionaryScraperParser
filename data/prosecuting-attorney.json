@@ -1,0 +1,16 @@
+{
+    "Prosecuting Attorney": {
+        "definition": "an attorney who represents the government in instituting and proceeding with criminal actions",
+        "sub_definitions": {
+            "1": {
+                "1": "an attorney who represents the government in instituting and proceeding with criminal actions"
+            },
+            "2": {
+                "1": "district attorney"
+            }
+        },
+        "references": {
+            "district attorney": "https://dictionary.findlaw.com/definition/district-attorney.html"
+        }
+    }
+}

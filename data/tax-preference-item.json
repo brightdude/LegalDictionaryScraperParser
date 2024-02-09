@@ -1,0 +1,11 @@
+{
+    "Tax Preference Item": {
+        "definition": "an item",
+        "sub_definitions": {
+            "1": {
+                "1": "an item (as an amount of depreciation) favorable to a taxpayer in the ordinary computation of tax liability that is taxed in the computation of alternative minimum tax"
+            }
+        },
+        "references": {}
+    }
+}

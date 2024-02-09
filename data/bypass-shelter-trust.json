@@ -1,0 +1,14 @@
+{
+    "Bypass Shelter Trust": {
+        "definition": "bypass trust at trust",
+        "sub_definitions": {
+            "1": {
+                "1": "bypass trust"
+            }
+        },
+        "references": {
+            "bypass trust": "https://dictionary.findlaw.com/definition/bypass-trust.html",
+            "trust": "https://dictionary.findlaw.com/definition/trust.html"
+        }
+    }
+}

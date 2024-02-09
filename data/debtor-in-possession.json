@@ -1,0 +1,11 @@
+{
+    "Debtor In Possession": {
+        "definition": "a debtor who remains in possession of an estate during chapter 11 or 12 bankruptcy and has the same duties as a trustee in bankruptcy",
+        "sub_definitions": {
+            "1": {
+                "1": "a debtor who remains in possession of an estate during chapter 11 or 12 bankruptcy and has the same duties as a trustee in bankruptcy"
+            }
+        },
+        "references": {}
+    }
+}

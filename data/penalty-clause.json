@@ -1,0 +1,15 @@
+{
+    "Penalty Clause": {
+        "definition": "a clause",
+        "sub_definitions": {
+            "1": {
+                "definition": "a clause (as in a contract) that calls for a penalty to be paid or suffered by a party under specified terms (as in the event of a breach) and that is usually unenforceable",
+                "note": " A penalty clause differs from a liquidated damages clause by not being tied to an estimate of possible actual damages."
+            },
+            "2": {
+                "definition": "a clause in a statute or judgment that sets forth a penalty for a specific act or omission (as failure to make a support payment on time)"
+            }
+        },
+        "references": {}
+    }
+}

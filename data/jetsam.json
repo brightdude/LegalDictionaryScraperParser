@@ -1,0 +1,15 @@
+{
+    "Jetsam": {
+        "definition": "the part of a ship",
+        "compare": "flotsam",
+        "sub_definitions": {
+            "1": {
+                "1": "the part of a ship, its equipment, or its cargo that is cast overboard to lighten the load in time of distress and that sinks or is washed ashore compare",
+                "compares": "flotsam"
+            }
+        },
+        "references": {
+            "flotsam": "https://dictionary.findlaw.com/definition/flotsam.html"
+        }
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "Gravamen": {
+        "definition": "gist",
+        "origin": "[Medieval Latin, from Late Latin, burden, from Latin gravare to burden, from gravis heavy, grave]",
+        "sub_definitions": {
+            "1": {
+                "1": "gist"
+            }
+        },
+        "references": {
+            "gist": "https://dictionary.findlaw.com/definition/gist.html"
+        }
+    }
+}

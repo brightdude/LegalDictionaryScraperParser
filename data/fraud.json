@@ -1,0 +1,75 @@
+{
+    "Fraud": {
+        "definition": "any act",
+        "origin": "[Latin fraud - fraus ]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "any act, expression, omission, or concealment calculated to deceive another to his or her disadvantagea misrepresentation or concealment with reference to some fact material to a transaction that is made with knowledge of its falsity or in reckless disregard of its truth or falsity and with the intent to deceive another and that is reasonably relied on by the other who is injured thereby",
+                "sub_terms": {
+                    "b": "the affirmative defense of having acted in response to a fraud"
+                }
+            },
+            "2": {
+                "definition": "in this entry used esp. in New Jersey"
+            },
+            "actual fraud": {
+                "definition": "fraud committed with the actual intent to deceive and thereby injure another called alsocomparein this entry",
+                "compares": "constructive fraud"
+            },
+            "collateral fraud": {
+                "definition": "in this entry"
+            },
+            "constructive fraud": {
+                "definition": "conduct that is considered fraud under the law despite the absence of an intent to deceive because it has the same consequences as an actual fraud would have and it is against public interests (as because of the violation of a public or private trust or confidence, the breach of a fiduciary duty, or the use of undue influence) called alsocomparein this entry",
+                "compares": "actual fraud"
+            },
+            "equitable fraud": {
+                "definition": "in this entry used esp. in New Jersey"
+            },
+            "extrinsic fraud": {
+                "definition": "fraud (as that involved in making a false offer of compromise) that induces one not to present a case in court or deprives one of the opportunity to be heardfraud that is not involved in the actual issues presented to a court and that prevents a full and fair hearing called alsocomparein this entry",
+                "compares": "intrinsic fraud"
+            },
+            "fraud in fact": {
+                "definition": "in this entry"
+            },
+            "fraud in law": {
+                "definition": "fraud that is presumed to have occurred in light of the circumstances irrespective of intent to deceive"
+            },
+            "fraud in the factum": {
+                "definition": "fraud in which the deception causes the other party to misunderstand the nature of the transaction in which he or she is engaging esp. with regard to the contents of an instrument (as a contract or promissory note) called alsocomparein this entry",
+                "compares": "fraud in the inducement"
+            },
+            "fraud in the inducement": {
+                "definition": "fraud in which the deception leads the other party to engage in a transaction the nature of which he or she understands comparein this entry",
+                "compares": "fraud in the factum"
+            },
+            "fraud on the court": {
+                "definition": "fraud involving conduct that undermines the integrity of the judicial process (as by improperly influencing a judge, jury, or other court personnel)in this entry"
+            },
+            "intrinsic fraud": {
+                "definition": "fraud (as by the use of false or forged documents, false claims, or perjured testimony) that deceives the trier of fact and results in a judgment in favor of the party perpetrating the fraud comparein this entry",
+                "compares": "extrinsic fraud"
+            },
+            "1": {
+                "definition": "in this entry"
+            },
+            "mail fraud": {
+                "definition": "fraud committed by use of the postal service esp. as described in title 18 section 1341 of the U.S. Code"
+            },
+            "wire fraud": {
+                "definition": "fraud committed by using a means of electronic communication (as a telephone) see alsoin the Important Laws section",
+                "Wire Fraud Act": "in the Important Laws section"
+            }
+        },
+        "references": {
+            "misrepresentation": "https://dictionary.findlaw.com/definition/misrepresentation.html",
+            "constructive fraud": "https://dictionary.findlaw.com/definition/constructive-fraud.html",
+            "extrinsic fraud": "https://dictionary.findlaw.com/definition/extrinsic-fraud.html",
+            "actual fraud": "https://dictionary.findlaw.com/definition/actual-fraud.html",
+            "intrinsic fraud": "https://dictionary.findlaw.com/definition/intrinsic-fraud.html",
+            "fraud in the inducement": "https://dictionary.findlaw.com/definition/fraud-in-the-inducement.html",
+            "fraud in the factum": "https://dictionary.findlaw.com/definition/fraud-in-the-factum.html"
+        }
+    }
+}

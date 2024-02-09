@@ -1,0 +1,25 @@
+{
+    "Compensation": {
+        "definition": "the act of compensating 2 in the civil law of Louisiana",
+        "origin": "[received for the breach of contract]",
+        "sub_definitions": {
+            "1": {
+                "definition": "the act of compensating"
+            },
+            "2": {
+                "definition": "the ending of mutual obligations between two people for money or quantities of fungible things usually by operation of law but sometimes by an agreement"
+            },
+            "3": {
+                "definition": "something that makes up for a loss [received for the breach of contract]payment to unemployed or injured workers or their dependents see also,",
+                "see also": "unemployment compensation"
+            },
+            "4": {
+                "definition": "payment for a thing of value tendered or a service rendered [the Senators and Representatives shall receive for their services \"art. I\"]"
+            }
+        },
+        "references": {
+            "unemployment compensation": "https://dictionary.findlaw.com/definition/unemployment-compensation.html",
+            "workers' compensation": "https://dictionary.findlaw.com/definition/workers-compensation.html"
+        }
+    }
+}

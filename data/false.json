@@ -1,0 +1,25 @@
+{
+    "False": {
+        "definition": "not genuine",
+        "origin": "[injured by accusations]",
+        "sub_definitions": {
+            "1": {
+                "definition": "not genuine, authentic, or legitimate compare",
+                "compares": "counterfeit"
+            },
+            "2 a": {
+                "definition": "not true or correctintentionally or knowingly untrue or incorrect [injured by accusations]",
+                "sub_terms": {
+                    "b": "intended to mislead or deceivecompare"
+                },
+                "compares": "fraudulent"
+            }
+        },
+        "references": {
+            "counterfeit": "https://dictionary.findlaw.com/definition/counterfeit.html",
+            "deceptive": "https://dictionary.findlaw.com/definition/deceptive.html",
+            "misleading": "https://dictionary.findlaw.com/definition/misleading.html",
+            "fraudulent": "https://dictionary.findlaw.com/definition/fraudulent.html"
+        }
+    }
+}

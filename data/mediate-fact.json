@@ -1,0 +1,8 @@
+{
+    "Mediate Fact": {
+        "definition": "Mediate Fact",
+        "references": {
+            "fact": "https://dictionary.findlaw.com/definition/fact.html"
+        }
+    }
+}

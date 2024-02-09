@@ -1,0 +1,8 @@
+{
+    "Natural Fruit": {
+        "definition": "Natural Fruit",
+        "references": {
+            "fruit": "https://dictionary.findlaw.com/definition/fruit.html"
+        }
+    }
+}

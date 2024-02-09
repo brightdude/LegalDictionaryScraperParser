@@ -1,0 +1,17 @@
+{
+    "Jurist": {
+        "definition": "an individual having a thorough knowledge of law ;esp",
+        "origin": "[Middle French juriste , from Medieval Latin jurista , from Latin jur- jus law]",
+        "sub_definitions": {
+            "1": {
+                "1": "an individual having a thorough knowledge of law"
+            },
+            "2": {
+                "1": "judge"
+            }
+        },
+        "references": {
+            "judge": "https://dictionary.findlaw.com/definition/judge.html"
+        }
+    }
+}

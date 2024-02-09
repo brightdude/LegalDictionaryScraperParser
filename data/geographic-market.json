@@ -1,0 +1,11 @@
+{
+    "Geographic Market": {
+        "definition": "the geographic area in which there is effective competition in the sale of products or services used in antitrust matters",
+        "sub_definitions": {
+            "1": {
+                "1": "the geographic area in which there is effective competition in the sale of products or services used in antitrust matters"
+            }
+        },
+        "references": {}
+    }
+}

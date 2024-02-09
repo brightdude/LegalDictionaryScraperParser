@@ -1,0 +1,15 @@
+{
+    "Communication": {
+        "definition": "the expression to another of information or thoughts through speech",
+        "sub_definitions": {
+            "1": {
+                "1": "the expression to another of information or thoughts through speech, writing, or gestures see also",
+                "see also": "confidential communication"
+            }
+        },
+        "references": {
+            "confidential communication": "https://dictionary.findlaw.com/definition/confidential-communication.html",
+            "privileged communication": "https://dictionary.findlaw.com/definition/privileged-communication.html"
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "Misnomer": {
+        "definition": "the misnaming of a person in a legal document or proceeding",
+        "origin": "[Anglo-French mesnomer , from mesnomer to misname, from Middle French mes- wrongly + nommer to name, from Latin nominare , from nomin- nomen name]",
+        "compare": "idem sonans",
+        "sub_definitions": {
+            "1": {
+                "1": "the misnaming of a person in a legal document or proceeding (as in a complaint or indictment)"
+            },
+            "2": {
+                "1": "the institution of proceedings against and service of process on the correct party using the incorrect name compare",
+                "compares": "idem sonans",
+                "note": " Amendment of the pleadings is generally allowed in cases of misnomer."
+            }
+        },
+        "references": {
+            "idem sonans": "https://dictionary.findlaw.com/definition/idem-sonans.html"
+        }
+    }
+}

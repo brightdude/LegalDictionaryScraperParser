@@ -1,0 +1,21 @@
+{
+    "Signature": {
+        "definition": "the act of signing one's name or of making a mark in lieu thereof b",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "the act of signing one's name or of making a mark in lieu thereof",
+                "sub_terms": {
+                    "b": "the name of a person written with his or her own hand to signify that the writing which precedes accords with his or her wishes or intentions",
+                    "c": "any mark (as initials, stamp, or printed name) made on a document and intended to serve as an indication of the party's execution or authentication of the document and intent to be bound by it see also"
+                },
+                "see also": "private signature"
+            },
+            "2": {
+                "definition": "a distinguishing or identifying mark, feature, or qualitya distinctive method of committing a crime that is characteristic of an offender"
+            }
+        },
+        "references": {
+            "private signature": "https://dictionary.findlaw.com/definition/private-signature.html"
+        }
+    }
+}

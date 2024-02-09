@@ -1,0 +1,16 @@
+{
+    "Service Mark": {
+        "definition": "a mark",
+        "compare": "trademark",
+        "sub_definitions": {
+            "1": {
+                "1": "a mark (as a name) used esp. in advertising to identify and distinguish services (as transportation) of one person from another and to indicate the source of the services see also",
+                "Trademark Act of 1946": "in the Important Laws section compare",
+                "compares": "trademark"
+            }
+        },
+        "references": {
+            "trademark": "https://dictionary.findlaw.com/definition/trademark.html"
+        }
+    }
+}

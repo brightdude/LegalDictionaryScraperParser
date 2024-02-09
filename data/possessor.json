@@ -1,0 +1,11 @@
+{
+    "Possessor": {
+        "definition": "one that has possession",
+        "sub_definitions": {
+            "1": {
+                "1": "one that has possession"
+            }
+        },
+        "references": {}
+    }
+}

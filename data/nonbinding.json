@@ -1,0 +1,12 @@
+{
+    "Nonbinding": {
+        "definition": "not binding [a referendum]",
+        "origin": "[a referendum]",
+        "sub_definitions": {
+            "1": {
+                "1": "not binding [a referendum]"
+            }
+        },
+        "references": {}
+    }
+}

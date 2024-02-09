@@ -1,0 +1,22 @@
+{
+    "Lay": {
+        "definition": "to impose as a duty",
+        "origin": "[ a tax]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to impose as a duty, burden, or punishment [ a tax]"
+            },
+            "2 a": {
+                "definition": "to put forward[ a claim]",
+                "sub_terms": {
+                    "b": "to submit for examination and determination [a case before the commission]"
+                },
+                "laid": "a case before the commission]"
+            }
+        },
+        "references": {
+            "assert": "https://dictionary.findlaw.com/definition/assert.html",
+            "lie": "https://dictionary.findlaw.com/definition/lie.html"
+        }
+    }
+}

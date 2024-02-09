@@ -1,0 +1,16 @@
+{
+    "Settlor": {
+        "definition": "a person who creates a trust compare beneficiary",
+        "compare": "beneficiary",
+        "sub_definitions": {
+            "1": {
+                "1": "a person who creates a trust compare",
+                "compares": "beneficiary"
+            }
+        },
+        "references": {
+            "beneficiary": "https://dictionary.findlaw.com/definition/beneficiary.html",
+            "trustee": "https://dictionary.findlaw.com/definition/trustee.html"
+        }
+    }
+}

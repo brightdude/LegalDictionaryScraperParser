@@ -1,0 +1,11 @@
+{
+    "John Doe Summons": {
+        "definition": "a summons made out to an unidentified defendant who is referred to in the summons as John Doe",
+        "sub_definitions": {
+            "1": {
+                "1": "a summons made out to an unidentified defendant who is referred to in the summons as John Doe"
+            }
+        },
+        "references": {}
+    }
+}

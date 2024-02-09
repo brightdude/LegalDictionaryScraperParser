@@ -1,0 +1,22 @@
+{
+    "Exonerate": {
+        "definition": "to relieve esp. of a charge",
+        "origin": "[Latin exonerare to relieve, free, discharge, from ex- out + onerare to burden, from oner- onus load]",
+        "sub_definitions": {
+            "-at·ing": {
+                "definition": "[Latinto relieve, free, discharge, fromout +to burden, fromload]"
+            },
+            "1": {
+                "definition": "to relieve esp. of a charge, obligation, or hardship"
+            },
+            "2": {
+                "definition": "to clear from accusation or blame compare,",
+                "compares": "acquit"
+            }
+        },
+        "references": {
+            "acquit": "https://dictionary.findlaw.com/definition/acquit.html",
+            "exculpate": "https://dictionary.findlaw.com/definition/exculpate.html"
+        }
+    }
+}

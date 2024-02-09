@@ -1,0 +1,23 @@
+{
+    "Hear": {
+        "definition": "to give a hearing to [the court heard the claims] [the judge agreed to argument on the objection] b",
+        "origin": "[the court heard the claims]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "to give a hearing to [the courtthe claims] [the judge agreed to argument on the objection]",
+                "sub_terms": {
+                    "b": "to conduct a hearing about [the magistrate's authority to a matter properly before him]"
+                },
+                "heard": "the claims] [the judge agreed to argument on the objection]"
+            },
+            "2 a": {
+                "definition": "to take testimony from [the committee will 30 witnesses]",
+                "sub_terms": {
+                    "b": "to take (as testimony) at a hearing [the judgestatements from the victim's family]"
+                },
+                "heard": "statements from the victim's family]"
+            }
+        },
+        "references": {}
+    }
+}

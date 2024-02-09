@@ -1,0 +1,40 @@
+{
+    "Error": {
+        "definition": "an act that through ignorance",
+        "origin": "[procedural s ]",
+        "sub_definitions": {
+            "clear error": {
+                "definition": "an error made by a judge in his or her findings of fact which is such that it leaves the reviewing court with the firm and definite conviction that a mistake has been made",
+                "note": " A clear error may or may not warrant reversal."
+            },
+            "fundamental error": {
+                "definition": "in this entry used esp. in criminal cases"
+            },
+            "harmless error": {
+                "definition": "an error that does not affect a substantial right or change the outcome of a trial and does not warrant reversal or other modification of the lower court's decision on appeal"
+            },
+            "invited error": {
+                "definition": "an error resulting from a party's own request for or encouragement of an action by the court",
+                "note": " A party may not seek relief based on invited error that he or she has induced."
+            },
+            "manifest error": {
+                "definition": "an error that is obvious and indisputable and that warrants reversal on appeal"
+            },
+            "plain error": {
+                "definition": "an obvious and prejudicial error that affects the substantial rights of the parties and that results or probably results in a miscarriage of justice",
+                "note": " Plain error warrants reversal on appeal even in the absence of objection to the error at trial."
+            },
+            "prejudicial error": {
+                "definition": "an error that affects or presumptively affects the outcome of a trial"
+            },
+            "reversible error": {
+                "definition": "a substantial and prejudicial error warranting reversal on appeal"
+            }
+        },
+        "references": {
+            "assignment of error": "https://dictionary.findlaw.com/definition/assignment-of-error.html",
+            "clearly erroneous": "https://dictionary.findlaw.com/definition/clearly-erroneous.html",
+            "plain error": "https://dictionary.findlaw.com/definition/plain-error.html"
+        }
+    }
+}

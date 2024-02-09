@@ -1,0 +1,11 @@
+{
+    "Mortgagee": {
+        "definition": "a party",
+        "sub_definitions": {
+            "1": {
+                "1": "a party (as a business or individual) to whom or in whose favor property is mortgaged"
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "Ex-Dividend": {
+        "definition": "without a dividend NOTE",
+        "sub_definitions": {
+            "1": {
+                "1": "without a dividend",
+                "note": " A stock is said to be sold “ex-dividend” when the sale occurs just before the next dividend on the stock is due to be paid, so that the payment date comes after the order to buy is executed but before the stock changes hands. In such cases, the dividend is paid to the seller, and the price of the stock is reduced by an appropriate amount."
+            }
+        },
+        "references": {}
+    }
+}

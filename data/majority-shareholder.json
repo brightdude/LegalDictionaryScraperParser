@@ -1,0 +1,11 @@
+{
+    "Majority Shareholder": {
+        "definition": "a shareholder who alone or in combination with others controls a majority of the outstanding shares in a corporation",
+        "sub_definitions": {
+            "1": {
+                "1": "a shareholder who alone or in combination with others controls a majority of the outstanding shares in a corporation"
+            }
+        },
+        "references": {}
+    }
+}

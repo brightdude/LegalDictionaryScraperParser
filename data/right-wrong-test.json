@@ -1,0 +1,13 @@
+{
+    "Right-Wrong Test": {
+        "definition": "m'naghten test",
+        "sub_definitions": {
+            "1": {
+                "1": "m'naghten test"
+            }
+        },
+        "references": {
+            "m'naghten test": "https://dictionary.findlaw.com/definition/m-naghten-test.html"
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "Inventory": {
+        "definition": "-ries 1",
+        "sub_definitions": {
+            "1": {
+                "definition": "an itemized list of current assets",
+                "sub_terms": {
+                    "a": "a written list or catalog of the property of an individual, organization, or estate or succession that is made by a fiduciary under oath and that usually describes and assigns a value to the items or classes of property",
+                    "b": "aggregate value assigned to an inventory"
+                }
+            },
+            "2": {
+                "definition": "goods or materials held on hand",
+                "sub_terms": {
+                    "a": "materials including personal property leased or furnished, held for sale or lease, or to be furnished under a contract for service, raw materials, work in process, or materials used or consumed in a business or held for sale or lease",
+                    "b": "goods that are held by a person who holds them for sale or lease or to be furnished under contracts of service or if he or she has so furnished them or that are raw materials, works in process, or materials used or consumed in a business"
+                }
+            }
+        },
+        "references": {}
+    }
+}

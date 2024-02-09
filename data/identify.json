@@ -1,0 +1,23 @@
+{
+    "Identify": {
+        "definition": "to consider as united or associated",
+        "origin": "[can ask leading questions of a witness who is identified with an adverse party]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to consider as united or associated (as in interests or principles) [can ask leading questions of a witness who iswith an adverse party]",
+                "identified": "with an adverse party]"
+            },
+            "2": {
+                "definition": "to establish the identity of [the suspect]",
+                "ing": "the suspect]"
+            },
+            "3": {
+                "definition": "to specify or designate (goods) as the object of a contract used in the phrase[the disputed beans were goodsto the contract]",
+                "note": " Under the Uniform Commercial Code, once goods are identified to a contract, the buyer has a special property interest and an insurable interest in the goods. This gives the buyer the right to seek damages and other relief. This identification can be done at any time and in any manner agreed to by the parties or as otherwise specified in the U.C.C.",
+                "identify to the contract": "[the disputed beans were goods",
+                "identified": "to the contract]"
+            }
+        },
+        "references": {}
+    }
+}

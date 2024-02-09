@@ -1,0 +1,11 @@
+{
+    "Mental Defect": {
+        "definition": "an abnormal mental condition",
+        "sub_definitions": {
+            "1": {
+                "1": "an abnormal mental condition (as mental retardation) that may be of a more fixed nature than a mental disease"
+            }
+        },
+        "references": {}
+    }
+}

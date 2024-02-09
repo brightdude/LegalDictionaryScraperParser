@@ -1,0 +1,17 @@
+{
+    "Deceptive": {
+        "definition": "tending or having capacity to deceive [ trade practices] compare fraudulent",
+        "origin": "[ trade practices]",
+        "compare": "fraudulent",
+        "sub_definitions": {
+            "1": {
+                "1": "tending or having capacity to deceive [ trade practices] compare",
+                "compares": "fraudulent"
+            }
+        },
+        "references": {
+            "fraudulent": "https://dictionary.findlaw.com/definition/fraudulent.html",
+            "misleading": "https://dictionary.findlaw.com/definition/misleading.html"
+        }
+    }
+}

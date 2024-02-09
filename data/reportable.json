@@ -1,0 +1,12 @@
+{
+    "Reportable": {
+        "definition": "required by law to be reported [ income]",
+        "origin": "[ income]",
+        "sub_definitions": {
+            "1": {
+                "1": "required by law to be reported [ income]"
+            }
+        },
+        "references": {}
+    }
+}

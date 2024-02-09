@@ -1,0 +1,17 @@
+{
+    "Annulment": {
+        "definition": "the act of annulling",
+        "sub_definitions": {
+            "1": {
+                "definition": "the act of annullingthe state of being annulled"
+            },
+            "2": {
+                "definition": "a declaration by a court that a marriage is invalid compare",
+                "compares": "divorce"
+            }
+        },
+        "references": {
+            "divorce": "https://dictionary.findlaw.com/definition/divorce.html"
+        }
+    }
+}

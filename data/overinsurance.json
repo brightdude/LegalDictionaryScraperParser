@@ -1,0 +1,15 @@
+{
+    "Overinsurance": {
+        "definition": "insurance",
+        "origin": "[ may lead to fraud by the insured]",
+        "sub_definitions": {
+            "1": {
+                "1": "insurance (as from two or more policies) that exceeds the value of the thing covered [ may lead to fraud by the insured]"
+            },
+            "2": {
+                "1": "excessive insurance (as from needlessly duplicative coverage)"
+            }
+        },
+        "references": {}
+    }
+}

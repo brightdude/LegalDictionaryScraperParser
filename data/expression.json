@@ -1,0 +1,18 @@
+{
+    "Expression": {
+        "definition": "an act",
+        "origin": "[protected under the First Amendment]",
+        "sub_definitions": {
+            "1": {
+                "definition": "an act, process, or instance of representing or conveying in words or some other medium[protected under the First Amendment]"
+            },
+            "2": {
+                "definition": "a mode or means of expressing an idea, opinion, or thought",
+                "note": " An expression is protectible under copyright law, but an idea is not."
+            }
+        },
+        "references": {
+            "speech": "https://dictionary.findlaw.com/definition/speech.html"
+        }
+    }
+}

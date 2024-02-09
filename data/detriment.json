@@ -1,0 +1,18 @@
+{
+    "Detriment": {
+        "definition": "injury loss ;also",
+        "origin": "[de-trə-men-təl]",
+        "sub_definitions": {
+            "1": {
+                "definition": "the cause of an injury or loss"
+            },
+            "2": {
+                "definition": "a giving up of a thing or mode of conduct to which one is entitled that constitutes consideration for a contract called also"
+            }
+        },
+        "references": {
+            "injury": "https://dictionary.findlaw.com/definition/injury.html",
+            "loss": "https://dictionary.findlaw.com/definition/loss.html"
+        }
+    }
+}

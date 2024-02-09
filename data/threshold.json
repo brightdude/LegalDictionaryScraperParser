@@ -1,0 +1,22 @@
+{
+    "Threshold": {
+        "definition": "a point of beginning",
+        "origin": "[the for inquiry]",
+        "sub_definitions": {
+            "1": {
+                "1": "a point of beginning"
+            },
+            "2": {
+                "1": "a minimum requirement for further action"
+            },
+            "3": {
+                "1": "a determination (as of fact or the existence of a reasonable doubt) upon which something else (as further consideration or a right of action) hinges [the for inquiry]"
+            },
+            "4": {
+                "1": "of, relating to, or being a threshold [the issue in a negligence action is whether the defendant owed a duty of care to the plaintiff \"",
+                "Noakes v. City of Seattle": "895 P.2d 842 (1995)\"] [a showing of the need for psychiatric evaluatio"
+            }
+        },
+        "references": {}
+    }
+}

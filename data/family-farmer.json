@@ -1,0 +1,13 @@
+{
+    "Family Farmer": {
+        "definition": "an individual or business entity whose debts and income arise primarily from a family owned and operated farming operation as set out in the Bankruptcy Code see also Bankruptcy Code in the Important Laws section NOTE",
+        "sub_definitions": {
+            "1": {
+                "1": "an individual or business entity whose debts and income arise primarily from a family owned and operated farming operation as set out in the Bankruptcy Code see also",
+                "Bankruptcy Code": "in the Important Laws section",
+                "note": " Only a person who qualifies as a family farmer with a regular annual income under the Bankruptcy Code may file for bankruptcy under chapter 12, although a family farmer may also have the option of filing under chapter 7 or chapter 13."
+            }
+        },
+        "references": {}
+    }
+}

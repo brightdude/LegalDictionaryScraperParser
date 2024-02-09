@@ -1,0 +1,55 @@
+{
+    "Case": {
+        "definition": "a civil or criminal suit or action [the judicial power shall extend to all s",
+        "origin": "[Latin casus accident, event, set of circumstances, literally, act of falling]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "a civil or criminal suit or action [the judicial power shall extend to all, in law and equity, arising under this Constitution \"art. III\"] see also",
+                "see also": "controversy",
+                "s": "in law and equity, arising under this Constitution",
+                "U.S. Constitution": "art. III\"] see also"
+            },
+            "case at bar": {
+                "definition": "a case being considered by the court [the facts of the]"
+            },
+            "case of first im·pres·sion": {
+                "definition": "a case that presents an issue or question never before decided or considered by the court"
+            },
+            "com·pan·ion case": {
+                "definition": "a case that is heard with another case because it involves similar or related questions of law"
+            },
+            "1": {
+                "definition": "a representative case whose outcome will serve as precedent for future cases and esp. for pending cases involving similar or related issues or circumstances and often some of the same parties",
+                "note": " A test case is selected from a number of cases in order to avoid a flood of litigation. All of the parties to the cases must agree to accept the outcome of the test case as binding."
+            },
+            "2": {
+                "definition": "atvt"
+            },
+            "land·mark case": {
+                "definition": "a case that marks a significant turning point on a particular issue"
+            },
+            "lead·ing case": {
+                "definition": "a case so well reasoned and important in the rules of law determined and in the principles declared that it becomes well-known and is frequently cited by courts and lawyers as settling the points of law ruled upon and as useful in resolving new questions of law",
+                "sub_terms": {
+                    "c": "the evidence and arguments presented by a party in court see also"
+                },
+                "see also": "case stated"
+            },
+            "case in chief": {
+                "definition": "the main part of a party's case including arguments for which the party bears the burden of proof but not including rebuttal"
+            },
+            "prima facie case": {
+                "definition": "a case established by evidence that is sufficient to raise a presumption of fact or establish the fact in question unless rebutted"
+            },
+            "cas·ing": {
+                "definition": "to inspect or study with intent to rob [a store]"
+            }
+        },
+        "references": {
+            "controversy": "https://dictionary.findlaw.com/definition/controversy.html",
+            "case stated": "https://dictionary.findlaw.com/definition/case-stated.html",
+            "trespass on the case": "https://dictionary.findlaw.com/definition/trespass-on-the-case.html",
+            "trespass": "https://dictionary.findlaw.com/definition/trespass.html"
+        }
+    }
+}

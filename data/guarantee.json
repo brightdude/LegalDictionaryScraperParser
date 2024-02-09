@@ -1,0 +1,22 @@
+{
+    "Guarantee": {
+        "definition": "guarantor 2",
+        "origin": "[probably alteration of guaranty ]",
+        "sub_definitions": {
+            "3": {
+                "definition": "an assurance that a condition will be fulfilled",
+                "sub_terms": {
+                    "a": "an agreement by which one person undertakes to secure another in the possession or enjoyment of something",
+                    "b": "an assurance of the quality or of the length of use to be expected from a product offered for sale often with a promise of reimbursement"
+                }
+            },
+            "4": {
+                "definition": "[constitutional]"
+            }
+        },
+        "references": {
+            "guarantor": "https://dictionary.findlaw.com/definition/guarantor.html",
+            "guaranty": "https://dictionary.findlaw.com/definition/guaranty.html"
+        }
+    }
+}

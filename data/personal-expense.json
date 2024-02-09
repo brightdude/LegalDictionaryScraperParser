@@ -1,0 +1,8 @@
+{
+    "Personal Expense": {
+        "definition": "Personal Expense",
+        "references": {
+            "expense": "https://dictionary.findlaw.com/definition/expense.html"
+        }
+    }
+}

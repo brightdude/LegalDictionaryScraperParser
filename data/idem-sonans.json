@@ -1,0 +1,19 @@
+{
+    "Idem Sonans": {
+        "definition": "relating to or being two names having the same or similar pronunciation or sound [the two names are not idem sonans \" Johnson v. Estelle",
+        "origin": "[Latin, sounding the same]",
+        "compare": "misnomer",
+        "sub_definitions": {
+            "1": {
+                "1": "relating to or being two names having the same or similar pronunciation or sound [the two names are not",
+                "Johnson v. Estelle": "704 F.2d 232 (1983)\"] [t",
+                "idem sonans": "test] compare",
+                "compares": "misnomer",
+                "note": " An idem sonans name allows a pleading or other document (as a warrant) to be considered valid despite the minor misspelling of a name or other misidentification of a party (as in identifying a corporation as a partnership). The fact that two trademarks are idem sonans may be used to establish the likelihood of confusion on the part of consumers in a trademark infringement case."
+            }
+        },
+        "references": {
+            "misnomer": "https://dictionary.findlaw.com/definition/misnomer.html"
+        }
+    }
+}

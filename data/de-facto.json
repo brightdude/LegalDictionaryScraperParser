@@ -1,0 +1,22 @@
+{
+    "De Facto": {
+        "definition": "in reality",
+        "origin": "[Medieval Latin, literally, from the fact]",
+        "compare": "actual",
+        "sub_definitions": {
+            "1": {
+                "definition": "being such in effect though not formally recognized see alsoat"
+            },
+            "2": {
+                "definition": "exercising power as if legally constituted or authorized [agovernment] [ajudge] compare",
+                "compares": "de jure",
+                "de facto": "judge] compare"
+            }
+        },
+        "references": {
+            "actual": "https://dictionary.findlaw.com/definition/actual.html",
+            "segregation": "https://dictionary.findlaw.com/definition/segregation.html",
+            "de jure": "https://dictionary.findlaw.com/definition/de-jure.html"
+        }
+    }
+}

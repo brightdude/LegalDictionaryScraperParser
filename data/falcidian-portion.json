@@ -1,0 +1,18 @@
+{
+    "Falcidian Portion": {
+        "definition": "the one-fourth portion of a succession that may be retained by the instituted heir in civil law if more than three-fourths of the succession was bequeathed to other legatees compare legitime",
+        "origin": "[from Falcidius , Roman tribune who proposed the law passed in 40 B.C. that established the portion]",
+        "compare": "legitime",
+        "sub_definitions": {
+            "1": {
+                "1": "the one-fourth portion of a succession that may be retained by the instituted heir in civil law if more than three-fourths of the succession was bequeathed to other legatees compare",
+                "compares": "legitime",
+                "note": " The Falcidian portion is expressly abolished in the Louisiana Civil Code."
+            }
+        },
+        "references": {
+            "legitime": "https://dictionary.findlaw.com/definition/legitime.html",
+            "marital portion": "https://dictionary.findlaw.com/definition/marital-portion.html"
+        }
+    }
+}

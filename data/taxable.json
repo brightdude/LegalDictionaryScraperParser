@@ -1,0 +1,18 @@
+{
+    "Taxable": {
+        "definition": "subject to being taxed",
+        "origin": "[a amount]",
+        "sub_definitions": {
+            "1": {
+                "definition": "subject to being taxedmaking one liable to taxation [a amount] [a event]"
+            },
+            "2": {
+                "definition": "that may be properly charged by the court against the plaintiff or defendant in a suit [ costs]"
+            },
+            "3": {
+                "definition": "used as the basis of a tax computation [a period]"
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "Intestate": {
+        "definition": "having not made a valid will [died ] 2",
+        "origin": "[Latin intestatus , from in- not + testatus testate]",
+        "sub_definitions": {
+            "1": {
+                "definition": "having not made a valid will [died ]"
+            },
+            "2": {
+                "definition": "not disposed of by a valid will [ property] [an estate]transmitted according to statutory rules governing intestate succession"
+            },
+            "3": {
+                "definition": "of or relating to intestate succession [ laws]"
+            }
+        },
+        "references": {}
+    }
+}

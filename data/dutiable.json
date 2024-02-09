@@ -1,0 +1,12 @@
+{
+    "Dutiable": {
+        "definition": "subject to a duty [purchased items while overseas]",
+        "origin": "[purchased items while overseas]",
+        "sub_definitions": {
+            "1": {
+                "1": "subject to a duty [purchased items while overseas]"
+            }
+        },
+        "references": {}
+    }
+}

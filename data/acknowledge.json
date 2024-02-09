@@ -1,0 +1,29 @@
+{
+    "Acknowledge": {
+        "definition": "to indicate recognition and acceptance of [the power of taxation in the general and state governments is acknowledged to be concurrent \" McCulloch v. Maryland",
+        "origin": "[the power of taxation in the general and state governments is acknowledged to be concurrent \" McCulloch v. Maryland , 17 U.S. 316 (1819)\"]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to indicate recognition and acceptance of [the power of taxation in the general and state governments isto be concurrent \", 17 U.S. 316 (1819)\"]",
+                "McCulloch v. Maryland": "17 U.S. 316 (1819)"
+            },
+            "2 a": {
+                "definition": "to show by word or act that one has knowledge of and accepts responsibility for (a duty, obligation, or indebtedness)",
+                "sub_terms": {
+                    "b": "to admit paternity of [will the child as his] compare"
+                },
+                "compares": "filiate"
+            },
+            "3": {
+                "definition": "to make known to a sender or giver the receipt of (what has been sent or given) or the fact of (one's having received what has been sent or given) [ receipt of a letter]"
+            },
+            "4": {
+                "definition": "to recognize as genuine so as to give validityavow or admit in legal form [the execution of any such power of attorney shall bebefore one of the officers \"\"]",
+                "acknowledged": "before one of the officers \""
+            }
+        },
+        "references": {
+            "filiate": "https://dictionary.findlaw.com/definition/filiate.html"
+        }
+    }
+}

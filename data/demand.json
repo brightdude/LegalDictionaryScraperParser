@@ -1,0 +1,23 @@
+{
+    "Demand": {
+        "definition": "a formal request or call for something",
+        "origin": "[a shareholder must first make a on the corporation's board of directors to act \"R. C. Clark\"]",
+        "sub_definitions": {
+            "1": {
+                "definition": "a formal request or call for something (as payment for a debt) esp. based on a right or made with force [a shareholder must first make a on the corporation's board of directors to act \"R. C. Clark\"] [a written for payment]"
+            },
+            "2": {
+                "definition": "something demanded [anyagainst the estate] see also",
+                "see also": "claim",
+                "s": "against the estate] see also"
+            },
+            "on demand:upon presentation and request for payment": {
+                "definition": "vtto ask or call for with force, authority, or by legal rightclaim as due [any party may a trial by jury of any issue triable of right by a jury \"Rule 38(b)\"]",
+                "Federal Rules of Civil Procedure": "Rule 38(b)\"]"
+            }
+        },
+        "references": {
+            "claim": "https://dictionary.findlaw.com/definition/claim.html"
+        }
+    }
+}

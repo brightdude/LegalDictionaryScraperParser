@@ -1,0 +1,29 @@
+{
+    "Record": {
+        "definition": "to put in a record 2",
+        "origin": "[ a deed]",
+        "sub_definitions": {
+            "1": {
+                "definition": "the documentary account of something [confidential medical]",
+                "sub_terms": {
+                    "a": "an official document that records the acts of a public body or officer",
+                    "b": "an official copy of a document deposited with a designated officer",
+                    "c": "the official set of papers used and generated in a proceeding [the appeals court reviewed the trial ]",
+                    "d": "documented evidence or history of one or more arrests or convictions see also,"
+                },
+                "see also": "business records exception"
+            },
+            "2": {
+                "definition": "something (as a disc or tape) on which images, sound, or data has been recorded"
+            },
+            "3": {
+                "definition": "to cause (as sound, images, or data) to be registered on something in reproducible form [ a telephone conversation]to record something[re-kərd] n"
+            }
+        },
+        "references": {
+            "recording act": "https://dictionary.findlaw.com/definition/recording-act.html",
+            "business records exception": "https://dictionary.findlaw.com/definition/business-records-exception.html",
+            "public records exception": "https://dictionary.findlaw.com/definition/public-records-exception.html"
+        }
+    }
+}

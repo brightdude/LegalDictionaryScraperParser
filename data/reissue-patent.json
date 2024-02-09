@@ -1,0 +1,11 @@
+{
+    "Reissue Patent": {
+        "definition": "a patent that is issued to fix defects",
+        "sub_definitions": {
+            "1": {
+                "1": "a patent that is issued to fix defects (as invalid claims) of an original patent and that replaces and is granted for the remainder of the term of the original patent"
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "Petit Larceny": {
+        "definition": "Petit Larceny",
+        "references": {
+            "larceny": "https://dictionary.findlaw.com/definition/larceny.html"
+        }
+    }
+}

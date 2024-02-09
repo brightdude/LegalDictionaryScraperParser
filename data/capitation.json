@@ -1,0 +1,17 @@
+{
+    "Capitation": {
+        "definition": "a direct uniform tax imposed on each head or person",
+        "origin": "[Late Latin capitatio , from Latin caput head]",
+        "sub_definitions": {
+            "1": {
+                "definition": "a direct uniform tax imposed on each head or person[no , or other direct, tax shall be laid \"art. I\"]"
+            },
+            "2": {
+                "definition": "a uniform per person payment or fee"
+            }
+        },
+        "references": {
+            "poll tax": "https://dictionary.findlaw.com/definition/poll-tax.html"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "Allege": {
+        "definition": "to state without proof or before proving 2",
+        "origin": "[Old French alegier to alleviate, free, confused with Old French alleguer to allege, from Medieval Latin allegare see allegata ]",
+        "sub_definitions": {
+            "al·leg·ing": {
+                "definition": "[Old Frenchto alleviate, free, confused with Old Frenchto allege, from Medieval Latinsee]"
+            },
+            "1": {
+                "definition": "to state without proof or before proving"
+            },
+            "2": {
+                "definition": "to state (as a fact) in a pleading[failed to malice]"
+            }
+        },
+        "references": {
+            "allegata": "https://dictionary.findlaw.com/definition/allegata.html",
+            "aver": "https://dictionary.findlaw.com/definition/aver.html"
+        }
+    }
+}

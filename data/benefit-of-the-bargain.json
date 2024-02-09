@@ -1,0 +1,18 @@
+{
+    "Benefit Of The Bargain": {
+        "definition": "the advantage that would be or have been gained under a contract if completed as agreed ;specif",
+        "compare": "out-of-pocket rule",
+        "sub_definitions": {
+            "1": {
+                "1": "the advantage that would be or have been gained under a contract if completed as agreed"
+            },
+            "2": {
+                "1": "the difference between the actual value of property and the value of property as it is represented in case of misrepresentation called also",
+                "compares": "out-of-pocket rule"
+            }
+        },
+        "references": {
+            "out-of-pocket rule": "https://dictionary.findlaw.com/definition/out-of-pocket-rule.html"
+        }
+    }
+}

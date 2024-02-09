@@ -1,0 +1,28 @@
+{
+    "Suppress": {
+        "definition": "to put down by authority or force 2 a",
+        "origin": "[ narcotics found in violation of the right against unreasonable search and seizure]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to put down by authority or force"
+            },
+            "2 a": {
+                "definition": "to keep secret",
+                "sub_terms": {
+                    "b": "to stop or prohibit the publication or revelation of"
+                }
+            },
+            "3 a": {
+                "definition": "to exclude (illegally obtained evidence) from use at trial [ narcotics found in violation of the right against unreasonable search and seizure]",
+                "sub_terms": {
+                    "b": "to fail to disclose (material evidence favorable to a defendant) in violation of due process [accused the prosecution ofevidence] compareto suppress evidence"
+                },
+                "compares": "brady material",
+                "ing": "evidence] compare"
+            }
+        },
+        "references": {
+            "brady material": "https://dictionary.findlaw.com/definition/brady-material.html"
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "Tenement": {
+        "definition": "any of various forms of property",
+        "origin": "[Anglo-French, from Old French, from Medieval Latin tenementum , from Latin tenēre to hold]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "any of various forms of property (as land) that is held by one person from another",
+                "sub_terms": {
+                    "b": "an estate in property"
+                }
+            }
+        },
+        "references": {
+            "dwelling": "https://dictionary.findlaw.com/definition/dwelling.html"
+        }
+    }
+}

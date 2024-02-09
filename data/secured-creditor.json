@@ -1,0 +1,8 @@
+{
+    "Secured Creditor": {
+        "definition": "Secured Creditor",
+        "references": {
+            "creditor": "https://dictionary.findlaw.com/definition/creditor.html"
+        }
+    }
+}

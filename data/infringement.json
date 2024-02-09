@@ -1,0 +1,19 @@
+{
+    "Infringement": {
+        "definition": "the act or an instance of infringing ;esp",
+        "sub_definitions": {
+            "1": {
+                "1": "the act or an instance of infringing"
+            },
+            "2": {
+                "1": "the unauthorized use of copyrighted or patented material or of a trademark, trade name, or trade dress see also",
+                "see also": "equivalent",
+                "note": " Infringement of a trademark, trade name, or trade dress involves use of one by the infringer that is the same as that of the owner or so similar that it is likely to deceive or to cause confusion or mistake on the part of the average purchaser. Infringement of a copyright involves the copying of a material and substantial portion of the protected work. If the alleged infringer denies copying, the copyright holder may be able to prove infringement with circumstantial evidence of the infringer's access to the protected work and of similarities between the two works."
+            }
+        },
+        "references": {
+            "equivalent": "https://dictionary.findlaw.com/definition/equivalent.html",
+            "fair use": "https://dictionary.findlaw.com/definition/fair-use.html"
+        }
+    }
+}

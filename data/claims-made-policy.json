@@ -1,0 +1,15 @@
+{
+    "Claims Made Policy": {
+        "definition": "an insurance policy providing coverage only for claims that are filed during the policy period called also discovery policy compare occurrence policy",
+        "compare": "occurrence policy",
+        "sub_definitions": {
+            "1": {
+                "1": "an insurance policy providing coverage only for claims that are filed during the policy period called also",
+                "compares": "occurrence policy"
+            }
+        },
+        "references": {
+            "occurrence policy": "https://dictionary.findlaw.com/definition/occurrence-policy.html"
+        }
+    }
+}

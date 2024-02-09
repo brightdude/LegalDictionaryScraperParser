@@ -1,0 +1,23 @@
+{
+    "Administrative": {
+        "definition": "of or relating to the performance of a function",
+        "origin": "[ communications include…instructions that encourage a jury to continue its deliberations \" National Law Journal \"]",
+        "sub_definitions": {
+            "1": {
+                "definition": "of or relating to the performance of a function[ communications include…instructions that encourage a jury to continue its deliberations \"\"]"
+            },
+            "2": {
+                "definition": "of or relating to the executive branch of a government compare,",
+                "compares": "legislative"
+            },
+            "3": {
+                "definition": "of or relating to a government agency [ remedies]"
+            }
+        },
+        "references": {
+            "ministerial": "https://dictionary.findlaw.com/definition/ministerial.html",
+            "legislative": "https://dictionary.findlaw.com/definition/legislative.html",
+            "judicial": "https://dictionary.findlaw.com/definition/judicial.html"
+        }
+    }
+}

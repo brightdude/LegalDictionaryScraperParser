@@ -1,0 +1,21 @@
+{
+    "Territory": {
+        "definition": "-ries 1",
+        "origin": "[ter-ə-tōr-ē-əl]",
+        "sub_definitions": {
+            "1": {
+                "definition": "a geographical area belonging to or under the jurisdiction of a governmental authority"
+            },
+            "2": {
+                "definition": "a political subdivision of a country"
+            },
+            "3": {
+                "definition": "a part of the U.S. (as Guam or the U.S. Virgin Islands) not included within any state but organized with a separate legislature compare",
+                "compares": "trust territory"
+            }
+        },
+        "references": {
+            "trust territory": "https://dictionary.findlaw.com/definition/trust-territory.html"
+        }
+    }
+}

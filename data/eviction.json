@@ -1,0 +1,17 @@
+{
+    "Eviction": {
+        "definition": "the dispossession of a tenant of leased property by force or esp. by legal process actual eviction",
+        "sub_definitions": {
+            "actual eviction": {
+                "definition": "eviction that involves the physical expulsion of a tenant"
+            },
+            "constructive eviction": {
+                "definition": "eviction effected by substantially interfering with a tenant's enjoyment of the property (as by allowing the property to become uninhabitable) so that the tenant is regarded as evicted under law"
+            },
+            "re·tal·ia·to·ry eviction": {
+                "definition": "wrongful eviction of a tenant in reaction to the tenant's exercising of a right (as of reporting health code violations) contrary to the landlord's interest"
+            }
+        },
+        "references": {}
+    }
+}

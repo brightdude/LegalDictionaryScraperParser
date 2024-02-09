@@ -1,0 +1,18 @@
+{
+    "Grand": {
+        "definition": "of",
+        "origin": "[convicted of embezzlement]",
+        "compare": "larceny",
+        "sub_definitions": {
+            "1": {
+                "1": "of, relating to, or being a crime involving the theft of money or property valued at over a set amount [convicted of embezzlement] see also",
+                "compares": "petty"
+            }
+        },
+        "references": {
+            "larceny": "https://dictionary.findlaw.com/definition/larceny.html",
+            "theft": "https://dictionary.findlaw.com/definition/theft.html",
+            "petty": "https://dictionary.findlaw.com/definition/petty.html"
+        }
+    }
+}

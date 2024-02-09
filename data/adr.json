@@ -1,0 +1,14 @@
+{
+    "Adr": {
+        "definition": "Adr",
+        "sub_definitions": {
+            "1": {
+                "definition": "administrative dispute resolution, alternative dispute resolution"
+            },
+            "2": {
+                "definition": "asset depreciation range"
+            }
+        },
+        "references": {}
+    }
+}

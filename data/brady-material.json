@@ -1,0 +1,15 @@
+{
+    "Brady Material": {
+        "definition": "evidence known to the prosecution that is favorable to a defendant's case and material to the issue of guilt or to punishment and that the prosecution is obligated to disclose to the defense",
+        "origin": "[from Brady v. Maryland , 373 U.S. 83 (1963), in which the Supreme Court ruled that suppression by the prosecution of evidence favorable to a defendant who has requested it violates due process]",
+        "sub_definitions": {
+            "1": {
+                "1": "evidence known to the prosecution that is favorable to a defendant's case and material to the issue of guilt or to punishment and that the prosecution is obligated to disclose to the defense"
+            },
+            "2": {
+                "1": "exculpatory evidence known to the prosecution that must be disclosed"
+            }
+        },
+        "references": {}
+    }
+}

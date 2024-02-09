@@ -1,0 +1,13 @@
+{
+    "Sep": {
+        "definition": "simplified employee pension",
+        "sub_definitions": {
+            "1": {
+                "1": "simplified employee pension"
+            }
+        },
+        "references": {
+            "simplified employee pension": "https://dictionary.findlaw.com/definition/simplified-employee-pension.html"
+        }
+    }
+}

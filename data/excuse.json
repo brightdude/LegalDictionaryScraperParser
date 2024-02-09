@@ -1,0 +1,28 @@
+{
+    "Excuse": {
+        "definition": "to grant exemption or release to [ excused the prospective juror] [ excused the witness after an hour of testimony] 2",
+        "origin": "[ excused the prospective juror]",
+        "sub_definitions": {
+            "2": {
+                "definition": "to serve as an excuse or justification [exigent circumstances may \"J. J. White and R. S. Summers\"][ik-skyüs] n"
+            },
+            "2 a": {
+                "definition": "a circumstance that allows for release under the law from an obligation, duty, or contractual liability compare,,,",
+                "sub_terms": {
+                    "b": "a circumstance (as a physical threat) that grants immunity for otherwise tortious or criminal conduct compare,"
+                },
+                "compares": "justification"
+            }
+        },
+        "references": {
+            "justify": "https://dictionary.findlaw.com/definition/justify.html",
+            "excusal": "https://dictionary.findlaw.com/definition/excusal.html",
+            "act of god": "https://dictionary.findlaw.com/definition/act-of-god.html",
+            "force majeure": "https://dictionary.findlaw.com/definition/force-majeure.html",
+            "fortuitous event": "https://dictionary.findlaw.com/definition/fortuitous-event.html",
+            "impossibility of performance": "https://dictionary.findlaw.com/definition/impossibility-of-performance.html",
+            "justification": "https://dictionary.findlaw.com/definition/justification.html",
+            "privilege": "https://dictionary.findlaw.com/definition/privilege.html"
+        }
+    }
+}

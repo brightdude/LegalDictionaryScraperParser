@@ -1,0 +1,94 @@
+{
+    "Warrant": {
+        "definition": "warranty [an implied of fitness] 2",
+        "origin": "[Anglo-French warant garant protector, guarantor, authority, authorization, of Germanic origin]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to guarantee esp. by giving assurances that make one liable or responsible",
+                "sub_terms": {
+                    "a": "to give a warranty (as of title) to",
+                    "b": "to protect or assure by warranty [thegoods] [an assignor is not liable for defaults of the obligor and does not his solvency \"\"]",
+                    "c": "to state as a warrantyguarantee to be as represented [the sellerthat the car is without defects] [expressly“prior endorsements guaranteed” \"J. J. White and R. S. Summers\"]"
+                },
+                "ed": "“prior endorsements guaranteed” \"J. J. White and R. S. Summers\"]",
+                "s": "that the car is without defects] [expressly"
+            },
+            "2": {
+                "definition": "a commission or document giving authority to do something",
+                "sub_terms": {
+                    "a": "an order from one person (as an official) to another to pay public funds to a designated person",
+                    "b": "a writ issued esp. by a judicial official (as a magistrate) authorizing an officer (as a sheriff) to perform a specified act required for the administration of justice [a of arrest] [by of commitment]"
+                }
+            },
+            "administrative warrant": {
+                "definition": "a warrant (as for an administrative search) issued by a judge upon application of an administrative agency"
+            },
+            "anticipatory search warrant": {
+                "definition": "a search warrant that is issued on the basis of an affidavit showing probable cause that there will be certain evidence at a specific location at a future time called also"
+            },
+            "arrest warrant": {
+                "definition": "a warrant issued to a law enforcement officer ordering the officer to arrest and bring the person named in the warrant before the court or a magistrate",
+                "note": " A criminal arrest warrant must be issued based upon probable cause. Not all arrests require an arrest warrant."
+            },
+            "bench warrant": {
+                "definition": "a warrant issued by a judge for the arrest of a person who is in contempt of court or indicted"
+            },
+            "death warrant": {
+                "definition": "a warrant issued to a warden or other prison official to carry out a sentence of death"
+            },
+            "dis·pos·ses·so·ry warrant": {
+                "definition": "[dis-pə-ze-sə-rē-]a warrant issued to evict someone (as a lessee) from real property used esp. in Georgia"
+            },
+            "distress warrant": {
+                "definition": "a warrant ordering the distress of property and specifying which items of property are to be distrained"
+            },
+            "extradition warrant": {
+                "definition": "a warrant for the extradition of a fugitivein this entry"
+            },
+            "fugitive warrant": {
+                "definition": "an arrest warrant issued in one jurisdiction for someone who is a fugitive from another jurisdiction called also"
+            },
+            "general warrant": {
+                "definition": "a warrant that is unconstitutional because it fails to state with sufficient particularity the place or person to be searched or things to be seized"
+            },
+            "no-knock search warrant": {
+                "definition": "a search warrant allowing law enforcement officers to enter premises without prior announcement in order to prevent destruction of evidence (as illegal drugs) or harm to the officers compare",
+                "compares": "exigent circumstances"
+            },
+            "rendition warrant": {
+                "definition": "a warrant issued by an official (as a governor) in one jurisdiction (as a state) for the extradition of a fugitive in that jurisdiction to another that is requesting the extradition"
+            },
+            "search warrant": {
+                "definition": "a warrant authorizing law enforcement officers to conduct a search of a place (as a house or vehicle) or person and usually also to seize evidence called also",
+                "note": " The Fourth Amendment to the U.S. Constitution requires that a search warrant for a criminal investigation be issued only upon a showing of probable cause, as established usually by a sworn affidavit. The search warrant has to specify the premises and persons to be searched as well as what is being searched for. Not all searches require a search warrant. Warrantless searches are permitted when they are of a kind that the courts have found to be reasonable (as by being limited) or when they are prompted by a level of suspicion or belief (as reasonable suspicion or probable cause) that is consistent with the level of intrusion of the search. Some searches have been found to be so intrusive that a court hearing is required before the search is permitted."
+            },
+            "3 a": {
+                "definition": "a short-term obligation of a governmental body (as a municipality) issued in anticipation of revenue",
+                "sub_terms": {
+                    "b": "an instrument issued by a corporation giving to the holder the right to purchase the capital stock of the corporation at a stated price either prior to a stipulated date or at any future time [stock ] compare"
+                },
+                "compares": "subscription"
+            },
+            "war·rant·lessadj": {
+                "definition": "vt  [Anglo-French, fromprotector, guarantor]",
+                "garant": "protector, guarantor]"
+            },
+            "2 a": {
+                "definition": "to authorize by a warrant [asearch]",
+                "sub_terms": {
+                    "b": "to serve as or give adequate reason or authorization for [the awarding of attorney's fees] [was notby the facts]"
+                },
+                "ed": "by the facts]"
+            },
+            "3": {
+                "definition": "to give proof of the authenticity or truth of [a formallystatement]"
+            }
+        },
+        "references": {
+            "warranty": "https://dictionary.findlaw.com/definition/warranty.html",
+            "rendition warrant": "https://dictionary.findlaw.com/definition/rendition-warrant.html",
+            "exigent circumstances": "https://dictionary.findlaw.com/definition/exigent-circumstances.html",
+            "subscription": "https://dictionary.findlaw.com/definition/subscription.html"
+        }
+    }
+}

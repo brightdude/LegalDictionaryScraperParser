@@ -1,0 +1,28 @@
+{
+    "Process": {
+        "definition": "a continuous operation",
+        "origin": "[whoever invents or discovers any new and useful …may obtain a patent therefor \" U.S. Code \"]",
+        "sub_definitions": {
+            "1": {
+                "definition": "a continuous operation, art, or method esp. in manufacture [whoever invents or discovers any new and useful …may obtain a patent therefor \"\"]"
+            },
+            "2 a": {
+                "definition": "see also,",
+                "sub_terms": {
+                    "b": "a means (as a summons) used to compel a defendant to appear in courta means by which a court acquires or exercises jurisdiction over a person or property see alsocompare,"
+                },
+                "note": " In civil procedure, service of a summons on a defendant is considered constitutionally sufficient process, although usually a copy of the complaint must also be provided according to the local rule of procedure.",
+                "compares": "notice",
+                "see also": "mesne process"
+            }
+        },
+        "references": {
+            "procedure": "https://dictionary.findlaw.com/definition/procedure.html",
+            "abuse of process": "https://dictionary.findlaw.com/definition/abuse-of-process.html",
+            "due process": "https://dictionary.findlaw.com/definition/due-process.html",
+            "mesne process": "https://dictionary.findlaw.com/definition/mesne-process.html",
+            "notice": "https://dictionary.findlaw.com/definition/notice.html",
+            "service": "https://dictionary.findlaw.com/definition/service.html"
+        }
+    }
+}

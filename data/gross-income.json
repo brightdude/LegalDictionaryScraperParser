@@ -1,0 +1,12 @@
+{
+    "Gross Income": {
+        "definition": "all income derived from any source except for items specifically excluded by law NOTE",
+        "sub_definitions": {
+            "1": {
+                "1": "all income derived from any source except for items specifically excluded by law",
+                "note": " Section 61 of the Internal Revenue Code lists fifteen nonexclusive items that should be included in gross income. They are (1) compensation for services, including fringe benefits and commissions; (2) gross income derived from business; (3) gains derived from dealings in property; (4) interest; (5) rents; (6) royalties; (7) dividends; (8) alimony and separate maintenance payments; (9) annuities; (10) income from life insurance and contracts for endowment insurance; (11) pensions; (12) income from discharge of a debt; (13) distributive share of partnership gross income; (14) income received (as by an estate or heir) by reason of a person's death; and (15) income from an interest in an estate or trust."
+            }
+        },
+        "references": {}
+    }
+}

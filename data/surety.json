@@ -1,0 +1,19 @@
+{
+    "Surety": {
+        "definition": "-ties [Anglo-French seurté",
+        "origin": "[Anglo-French seurté , literally, guarantee, security, from Old French, from Latin securitat- securitas , from securus secure]",
+        "sub_definitions": {
+            "-ties": {
+                "definition": "[Anglo-French, literally, guarantee, security, from Old French, from Latin, fromsecure]"
+            },
+            "1": {
+                "definition": "a formal engagement (as a pledge) given for the fulfillment of an undertaking"
+            },
+            "2": {
+                "definition": "one (as an accommodation party) who promises to answer for the debt or default of another",
+                "note": " At common law a surety is distinguished from a guarantor by being immediately liable as opposed to becoming liable only upon default of the principal. Under the Uniform Commercial Code, however, a surety includes a guarantor, and the two terms are generally interchangeable."
+            }
+        },
+        "references": {}
+    }
+}

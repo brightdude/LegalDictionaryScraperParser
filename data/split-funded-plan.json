@@ -1,0 +1,11 @@
+{
+    "Split-Funded Plan": {
+        "definition": "a retirement plan combining life insurance and an investment fund",
+        "sub_definitions": {
+            "1": {
+                "1": "a retirement plan combining life insurance and an investment fund"
+            }
+        },
+        "references": {}
+    }
+}

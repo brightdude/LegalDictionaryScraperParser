@@ -1,0 +1,27 @@
+{
+    "Degree": {
+        "definition": "a step in a direct line of descent or in the line of ascent to a common ancestor 2 a",
+        "sub_definitions": {
+            "1": {
+                "definition": "a step in a direct line of descent or in the line of ascent to a common ancestor"
+            },
+            "2 a": {
+                "definition": "a measure of the seriousness of a crime see also,,,,",
+                "sub_terms": {
+                    "b": "a measure of carea measure of negligence esp. in connection with bailments see also,"
+                },
+                "note": " Crimes are rated by degrees for the purpose of imposing more severe punishments for more serious crimes.",
+                "see also": "care"
+            }
+        },
+        "references": {
+            "fifth degree": "https://dictionary.findlaw.com/definition/fifth-degree.html",
+            "first degree": "https://dictionary.findlaw.com/definition/first-degree.html",
+            "fourth degree": "https://dictionary.findlaw.com/definition/fourth-degree.html",
+            "second degree": "https://dictionary.findlaw.com/definition/second-degree.html",
+            "third degree": "https://dictionary.findlaw.com/definition/third-degree.html",
+            "care": "https://dictionary.findlaw.com/definition/care.html",
+            "negligence": "https://dictionary.findlaw.com/definition/negligence.html"
+        }
+    }
+}

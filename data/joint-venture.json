@@ -1,0 +1,17 @@
+{
+    "Joint Venture": {
+        "definition": "a cooperative business agreement or partnership between two or more parties that is usually limited to a single enterprise and that involves the sharing of resources",
+        "sub_definitions": {
+            "1": {
+                "definition": "a cooperative business agreement or partnership between two or more parties that is usually limited to a single enterprise and that involves the sharing of resources, control, profits, and losses compare",
+                "compares": "combination"
+            },
+            "2": {
+                "definition": "a criminal undertaking by two or more persons in which each intentionally takes part used in the law of Massachusetts"
+            }
+        },
+        "references": {
+            "combination": "https://dictionary.findlaw.com/definition/combination.html"
+        }
+    }
+}

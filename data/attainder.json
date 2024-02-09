@@ -1,0 +1,16 @@
+{
+    "Attainder": {
+        "definition": "the termination of the civil rights of a person upon a sentence of death or outlawry for treason or a felony see also bill of attainder at bill",
+        "origin": "[Anglo-French atteinder , from ateindre to convict, sentence, literally, to reach, attain, ultimately from Latin attingere to reach, from ad to + tangere to touch]",
+        "sub_definitions": {
+            "1": {
+                "1": "the termination of the civil rights of a person upon a sentence of death or outlawry for treason or a felony see also",
+                "note": " In English law up to the nineteenth century, attainder was the harsh consequence of conviction for treason or a felony. It resulted in the forfeiture of the convicted person's property. It also involved corruption of blood, which barred the person from inheriting, retaining, or passing title, rank, or property. A person outlawed lost the right to seek protection under the law. Article III, Section 3 of the U.S. Constitution prohibits corruption of blood or forfeiture upon a conviction for treason “except during the life of the person attainted,” and Article I, Section 9 prohibits bills of attainder. Attainder was abolished in England in 1870."
+            }
+        },
+        "references": {
+            "bill": "https://dictionary.findlaw.com/definition/bill.html",
+            "corruption of blood": "https://dictionary.findlaw.com/definition/corruption-of-blood.html"
+        }
+    }
+}

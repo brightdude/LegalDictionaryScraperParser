@@ -1,0 +1,14 @@
+{
+    "Infeudation": {
+        "definition": "enfeoffment",
+        "origin": "[Medieval Latin infeudatio , from infeudare to enfeoff, from in- in + feudum feoff]",
+        "sub_definitions": {
+            "1": {
+                "1": "enfeoffment"
+            }
+        },
+        "references": {
+            "enfeoffment": "https://dictionary.findlaw.com/definition/enfeoffment.html"
+        }
+    }
+}

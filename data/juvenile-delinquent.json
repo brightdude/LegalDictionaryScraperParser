@@ -1,0 +1,16 @@
+{
+    "Juvenile Delinquent": {
+        "definition": "a juvenile who commits an act of juvenile delinquency compare status offender",
+        "compare": "status offender",
+        "sub_definitions": {
+            "1": {
+                "1": "a juvenile who commits an act of juvenile delinquency compare",
+                "compares": "status offender"
+            }
+        },
+        "references": {
+            "status offender": "https://dictionary.findlaw.com/definition/status-offender.html",
+            "youthful offender": "https://dictionary.findlaw.com/definition/youthful-offender.html"
+        }
+    }
+}

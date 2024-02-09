@@ -1,0 +1,16 @@
+{
+    "Detinuit": {
+        "definition": "an action for replevin where the plaintiff already has the goods that are the subject of the suit compare detinet",
+        "origin": "[Medieval Latin, he/she withheld]",
+        "compare": "detinet",
+        "sub_definitions": {
+            "1": {
+                "1": "an action for replevin where the plaintiff already has the goods that are the subject of the suit compare",
+                "compares": "detinet"
+            }
+        },
+        "references": {
+            "detinet": "https://dictionary.findlaw.com/definition/detinet.html"
+        }
+    }
+}

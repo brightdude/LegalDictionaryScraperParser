@@ -1,0 +1,41 @@
+{
+    "Return": {
+        "definition": "to give",
+        "origin": "[ the names of all residents in the ward]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "the delivery of a court order (as a writ) to the proper officer or court",
+                "sub_terms": {
+                    "b": ""
+                }
+            },
+            "re·turn·ableadj": {
+                "definition": "n"
+            },
+            "3": {
+                "definition": "an account or formal report (as of an action performed or duty discharged or of facts and statistics) [census]a set of tabulated statistics prepared for general information usually used in pl."
+            },
+            "4 a": {
+                "definition": "a report of the results of balloting [election]",
+                "sub_terms": {
+                    "b": "an official declaration of the election of a candidate [each house shall be the judge of the elections,, and qualifications of its own members \"art. I\"]"
+                },
+                "s": "and qualifications of its own members"
+            },
+            "5": {
+                "definition": "a formal document executed in accordance with law on a required form showing taxable income, allowable deductions and exemptions, and the computation of the tax due called also"
+            },
+            "6": {
+                "definition": "the profit from labor, investment, or business"
+            },
+            "7": {
+                "definition": "something returneda paper (as a check or draft) calling for payment that is returned by a bank to the clearinghouse because of a defect (as lack of funds or insufficient endorsement)"
+            }
+        },
+        "references": {
+            "yield": "https://dictionary.findlaw.com/definition/yield.html",
+            "proof of service": "https://dictionary.findlaw.com/definition/proof-of-service.html",
+            "return day": "https://dictionary.findlaw.com/definition/return-day.html"
+        }
+    }
+}

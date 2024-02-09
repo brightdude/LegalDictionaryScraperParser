@@ -1,0 +1,15 @@
+{
+    "Earned Income": {
+        "definition": "income",
+        "compare": "unearned income",
+        "sub_definitions": {
+            "1": {
+                "1": "income (as wages, salary, professional fees, or commissions) that results from the personal labor or services of an individual compare",
+                "compares": "unearned income"
+            }
+        },
+        "references": {
+            "unearned income": "https://dictionary.findlaw.com/definition/unearned-income.html"
+        }
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "Leaseholder": {
+        "definition": "one having a leasehold",
+        "sub_definitions": {
+            "1": {
+                "1": "one having a leasehold"
+            }
+        },
+        "references": {}
+    }
+}

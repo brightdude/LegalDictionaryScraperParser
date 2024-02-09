@@ -1,0 +1,15 @@
+{
+    "Conveyance": {
+        "definition": "an act of conveying [a of land] 2",
+        "origin": "[a of land]",
+        "sub_definitions": {
+            "1": {
+                "definition": "an act of conveying [a of land]"
+            },
+            "2": {
+                "definition": "an instrument (as a deed) that conveys property rights (as title) [lack of delivery of a \"J. D. Calamari and J. M. Perillo\"]"
+            }
+        },
+        "references": {}
+    }
+}

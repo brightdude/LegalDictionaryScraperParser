@@ -1,0 +1,24 @@
+{
+    "Participation": {
+        "definition": "the action or state of taking part in something",
+        "origin": "[a loan made directly or in with a bank]",
+        "sub_definitions": {
+            "1": {
+                "definition": "the action or state of taking part in something",
+                "sub_terms": {
+                    "a": "association with others in a relationship (as a partnership) or an enterprise usually on a formal basis with specified rights and obligations [a loan made directly or in with a bank]",
+                    "b": ""
+                }
+            },
+            "2 a": {
+                "definition": "something in which shares are taken by more than one party",
+                "sub_terms": {
+                    "b": "something that results in a share (as of a distribution)"
+                }
+            }
+        },
+        "references": {
+            "profit sharing": "https://dictionary.findlaw.com/definition/profit-sharing.html"
+        }
+    }
+}

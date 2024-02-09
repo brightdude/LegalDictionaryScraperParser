@@ -1,0 +1,26 @@
+{
+    "Liberty": {
+        "definition": "-ties 1 a",
+        "origin": "[the right to a fair trial is a fundamental secured by the Fourteenth Amendment \"W. R. LaFave and J. H. Israel\"]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "freedom from external (as governmental) restraint, compulsion, or interference in engaging in the pursuits or conduct of one's choice to the extent that they are lawful and not harmful to others",
+                "sub_terms": {
+                    "b": "enjoyment of the rights enjoyed by others in a society free of arbitrary or unreasonable limitation or interference"
+                }
+            },
+            "2": {
+                "definition": "freedom from physical restraint"
+            },
+            "3": {
+                "definition": "freedom from subjection to the will of another claiming ownership or services"
+            },
+            "4": {
+                "definition": "[the right to a fair trial is a fundamental secured by the Fourteenth Amendment \"W. R. LaFave and J. H. Israel\"]"
+            }
+        },
+        "references": {
+            "right": "https://dictionary.findlaw.com/definition/right.html"
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "Acknowledgment": {
+        "definition": "the act of acknowledging b",
+        "origin": "[an came in the mail]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "the act of acknowledging",
+                "sub_terms": {
+                    "b": "the act of admitting paternity compare"
+                },
+                "compares": "filiation"
+            },
+            "2": {
+                "definition": "a thing done or given in recognition of something received [an came in the mail]"
+            },
+            "3 a": {
+                "definition": "a declaration or avowal of one's act or a fact to give it legal validitya declaration before a duly qualified public officer (as a notary public) by a person who has executed an instrument that the execution was the person's free act and deed",
+                "sub_terms": {
+                    "b": "the formal certificate made by an officer before whom one has acknowledged a deed including as an essential part the signature and often the seal of the officer"
+                }
+            }
+        },
+        "references": {
+            "filiation": "https://dictionary.findlaw.com/definition/filiation.html"
+        }
+    }
+}

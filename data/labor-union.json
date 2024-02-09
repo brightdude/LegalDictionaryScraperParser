@@ -1,0 +1,16 @@
+{
+    "Labor Union": {
+        "definition": "a labor organization usually consisting of workers of the same trade that is formed for the purpose of advancing its members' interests",
+        "sub_definitions": {
+            "1": {
+                "1": "a labor organization usually consisting of workers of the same trade that is formed for the purpose of advancing its members' interests (as through collective bargaining) in respect to wages, benefits, and working conditions see also",
+                "see also": "craft union",
+                "note": " Labor unions and employers are subject to the provisions of the National Labor Relations Act (NLRA or Wagner Act), as amended by the Labor Management Relations (Taft-Hartley) Act and the Labor Management Reporting and Disclosure (Landrum-Griffin) Act. The NLRA authorized the establishment of the National Labor Relations Board, the federal agency which administers the provisions of the Act."
+            }
+        },
+        "references": {
+            "craft union": "https://dictionary.findlaw.com/definition/craft-union.html",
+            "bargaining unit": "https://dictionary.findlaw.com/definition/bargaining-unit.html"
+        }
+    }
+}

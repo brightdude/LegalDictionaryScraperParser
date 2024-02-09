@@ -1,0 +1,16 @@
+{
+    "Subsequent": {
+        "definition": "following in time",
+        "compare": "condition",
+        "sub_definitions": {
+            "1": {
+                "1": "following in time, order, or space see also",
+                "compares": "precedent"
+            }
+        },
+        "references": {
+            "condition": "https://dictionary.findlaw.com/definition/condition.html",
+            "precedent": "https://dictionary.findlaw.com/definition/precedent.html"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "Supra": {
+        "definition": "earlier in this writing",
+        "origin": "[Latin]",
+        "compare": "above",
+        "sub_definitions": {
+            "1": {
+                "1": "earlier in this writing"
+            },
+            "2": {
+                "1": "above",
+                "compares": "idem"
+            }
+        },
+        "references": {
+            "above": "https://dictionary.findlaw.com/definition/above.html",
+            "idem": "https://dictionary.findlaw.com/definition/idem.html",
+            "infra": "https://dictionary.findlaw.com/definition/infra.html"
+        }
+    }
+}

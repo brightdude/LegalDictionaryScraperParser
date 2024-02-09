@@ -1,0 +1,8 @@
+{
+    "Current Asset": {
+        "definition": "Current Asset",
+        "references": {
+            "asset": "https://dictionary.findlaw.com/definition/asset.html"
+        }
+    }
+}

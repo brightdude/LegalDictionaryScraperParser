@@ -1,0 +1,11 @@
+{
+    "Courtroom": {
+        "definition": "a room where court is held",
+        "sub_definitions": {
+            "1": {
+                "1": "a room where court is held"
+            }
+        },
+        "references": {}
+    }
+}

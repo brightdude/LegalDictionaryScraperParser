@@ -1,0 +1,16 @@
+{
+    "Drug-Free Zone": {
+        "definition": "a statutorily designated area or place",
+        "origin": "[it is irrelevant whether a person is aware that he or she is carrying on the prohibited drug activity in a drug-free zone \" State v. Silva-Baltazar , 886 P.2d 138 (1994)\"]",
+        "sub_definitions": {
+            "1": {
+                "1": "a statutorily designated area or place (as a public park or beach or a school bus) within which the distribution of or possession with intent to distribute a controlled substance is an aggravated felony"
+            },
+            "2": {
+                "1": "such an area including and extending outward usually 1000 feet from the real property of a public or private school [it is irrelevant whether a person is aware that he or she is carrying on the prohibited drug activity in a",
+                "State v. Silva-Baltazar": "886 P.2d 138 (1994)"
+            }
+        },
+        "references": {}
+    }
+}

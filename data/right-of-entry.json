@@ -1,0 +1,21 @@
+{
+    "Right Of Entry": {
+        "definition": "the legal right of taking or resuming possession of real property in a peaceable manner b",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "the legal right of taking or resuming possession of real property in a peaceable manner",
+                "sub_terms": {
+                    "b": "at",
+                    "c": "the legal right to enter upon real property of another for a special purpose (as to show leased property to a prospective purchaser or to make repairs) without being guilty of trespass"
+                }
+            },
+            "2": {
+                "definition": "the right of an alien to enter a nation, state, or other political jurisdiction for some special purpose (as journalism or academic study)"
+            }
+        },
+        "references": {
+            "power of termination": "https://dictionary.findlaw.com/definition/power-of-termination.html",
+            "power": "https://dictionary.findlaw.com/definition/power.html"
+        }
+    }
+}

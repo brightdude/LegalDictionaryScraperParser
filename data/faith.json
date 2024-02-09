@@ -1,0 +1,21 @@
+{
+    "Faith": {
+        "definition": "allegiance or loyalty to a duty or a person b",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "allegiance or loyalty to a duty or a person",
+                "sub_terms": {
+                    "b": "sincerity or honesty of intentions see also,"
+                },
+                "see also": "bad faith"
+            },
+            "2": {
+                "definition": "fidelity to one's promises and obligations"
+            }
+        },
+        "references": {
+            "bad faith": "https://dictionary.findlaw.com/definition/bad-faith.html",
+            "good faith": "https://dictionary.findlaw.com/definition/good-faith.html"
+        }
+    }
+}

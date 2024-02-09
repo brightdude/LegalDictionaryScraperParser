@@ -1,0 +1,13 @@
+{
+    "Partnership Rollup": {
+        "definition": "limited partnership rollup transaction",
+        "sub_definitions": {
+            "1": {
+                "1": "limited partnership rollup transaction"
+            }
+        },
+        "references": {
+            "limited partnership rollup transaction": "https://dictionary.findlaw.com/definition/limited-partnership-rollup-transaction.html"
+        }
+    }
+}

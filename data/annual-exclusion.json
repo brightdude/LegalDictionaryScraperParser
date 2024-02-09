@@ -1,0 +1,12 @@
+{
+    "Annual Exclusion": {
+        "definition": "the maximum amount that a person can give each year as a gift without having to pay a gift tax NOTE",
+        "sub_definitions": {
+            "1": {
+                "1": "the maximum amount that a person can give each year as a gift without having to pay a gift tax",
+                "note": " The annual exclusion is currently $10,000 per donee."
+            }
+        },
+        "references": {}
+    }
+}

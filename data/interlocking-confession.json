@@ -1,0 +1,12 @@
+{
+    "Interlocking Confession": {
+        "definition": "a confession of a defendant in a joint trial that agrees in important respects with that of a codefendant NOTE",
+        "sub_definitions": {
+            "1": {
+                "1": "a confession of a defendant in a joint trial that agrees in important respects with that of a codefendant",
+                "note": " The use of interlocking confessions at trial can pose difficult problems when a defendant's confession incriminates a codefendant. If the first defendant does not testify, the other may be deprived of the right to confront an accuser."
+            }
+        },
+        "references": {}
+    }
+}

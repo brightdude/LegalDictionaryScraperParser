@@ -1,0 +1,16 @@
+{
+    "Instruct": {
+        "definition": "to provide",
+        "origin": "[the judge ed the jury that the plaintiff bears the burden of proof]",
+        "sub_definitions": {
+            "1": {
+                "1": "to provide (a jury) with explanation and directions regarding the law applicable to a case [the judge",
+                "ed": "to ignore the attorney's comments]"
+            },
+            "2": {
+                "1": "to give instructions to a jury [the trial judge refused to on manslaughter \"W. R. LaFave and A. W. Scott, Jr.\"]"
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "Substantial Capacity Test": {
+        "definition": "a test used in many jurisdictions when considering an insanity defense which relieves a defendant of criminal responsibility if at the time of the crime as a result of mental disease or defect the defendant lacked the capacity to appreciate the wrongfulness of his or her conduct or to conform the conduct to the requirements of the law called also ALI test Model Penal Code test compare diminished capacity",
+        "compare": "diminished capacity",
+        "sub_definitions": {
+            "1": {
+                "1": "a test used in many jurisdictions when considering an insanity defense which relieves a defendant of criminal responsibility if at the time of the crime as a result of mental disease or defect the defendant lacked the capacity to appreciate the wrongfulness of his or her conduct or to conform the conduct to the requirements of the law called also",
+                "compares": "diminished capacity",
+                "note": " This test was first formulated in the Model Penal Code and has been adopted by many jurisdictions."
+            }
+        },
+        "references": {
+            "diminished capacity": "https://dictionary.findlaw.com/definition/diminished-capacity.html",
+            "irresistible impulse test": "https://dictionary.findlaw.com/definition/irresistible-impulse-test.html",
+            "m'naghten test": "https://dictionary.findlaw.com/definition/m-naghten-test.html"
+        }
+    }
+}

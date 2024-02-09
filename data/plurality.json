@@ -1,0 +1,15 @@
+{
+    "Plurality": {
+        "definition": "-ties",
+        "sub_definitions": {
+            "-ties": {
+                "definition": "an amount or group (as of votes) that is greater than any other amount or group within a total but that is not more than halfa group of justices on an appeals court who do not form a majority but with whose opinion enough other justices concur to render it the decision of the court see alsoatcompare",
+                "compares": "majority"
+            }
+        },
+        "references": {
+            "opinion": "https://dictionary.findlaw.com/definition/opinion.html",
+            "majority": "https://dictionary.findlaw.com/definition/majority.html"
+        }
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "Thrift": {
+        "definition": "an institution that promotes saving and provides mortgages ;esp",
+        "sub_definitions": {
+            "1": {
+                "1": "an institution that promotes saving and provides mortgages"
+            },
+            "2": {
+                "1": "savings and loan association"
+            }
+        },
+        "references": {
+            "savings and loan association": "https://dictionary.findlaw.com/definition/savings-and-loan-association.html"
+        }
+    }
+}

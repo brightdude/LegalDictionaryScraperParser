@@ -1,0 +1,50 @@
+{
+    "Public": {
+        "definition": "exposed to general view [ indecency] b",
+        "origin": "[ indecency]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "exposed to general view [ indecency]",
+                "sub_terms": {
+                    "b": "known or recognized by many or most people"
+                }
+            },
+            "2 a": {
+                "definition": "of, relating to, or affecting all of the people or the whole area of a nation or state [ statutes]",
+                "sub_terms": {
+                    "b": "of or relating to a governmentauthorized by, administered by, or acting for the people as a political entity [ expenditures] [the prosecutor]",
+                    "c": "of, relating to, or being in the service of the community or nation [holding office]",
+                    "d": "provided for, used by, or containing the records of a government agency [the post office and other buildings]"
+                }
+            },
+            "3": {
+                "definition": "of or relating to people in general"
+            },
+            "4": {
+                "definition": "of or relating to business or community interests as opposed to private affairs [ policy] [a matter of concern]"
+            },
+            "5": {
+                "definition": "devoted to the general or national welfare [actions motivated by spirit]"
+            },
+            "6": {
+                "definition": "accessible to or shared by all members of the community [a hearing] [a park] compare",
+                "compares": "private"
+            },
+            "7": {
+                "definition": "capitalized in shares that can be freely traded on the open market often used with"
+            },
+            "pub·lic·lyadv": {
+                "definition": "n"
+            },
+            "1": {
+                "definition": "a place accessible or visible to the public usually used in the phrase"
+            },
+            "2": {
+                "definition": "the people as a whole"
+            }
+        },
+        "references": {
+            "private": "https://dictionary.findlaw.com/definition/private.html"
+        }
+    }
+}

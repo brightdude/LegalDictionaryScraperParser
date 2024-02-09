@@ -1,0 +1,17 @@
+{
+    "Plan": {
+        "definition": "a diagram of an area of land",
+        "sub_definitions": {
+            "1": {
+                "definition": "a diagram of an area of land (as a subdivision) filed in the registry of deeds see also",
+                "see also": "plot plan"
+            },
+            "2": {
+                "definition": "a detailed programone made under chapter 13 of the Bankruptcy Code that places future earnings under the control of a trustee, provides for the payment of creditors, and is subject to approval by the creditors"
+            }
+        },
+        "references": {
+            "plot plan": "https://dictionary.findlaw.com/definition/plot-plan.html"
+        }
+    }
+}

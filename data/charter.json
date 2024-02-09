@@ -1,0 +1,28 @@
+{
+    "Charter": {
+        "definition": "a grant or guarantee of rights",
+        "origin": "[Old French chartre letter, formal document, from Late Latin chartula , from Latin, diminutive of charta sheet of papyrus]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "a grant or guarantee of rights, powers, or privileges from an authority or agency of a state or country [a state bank ] compare",
+                "sub_terms": {
+                    "b": "a written instrument that creates and defines the powers and privileges of a city, educational institution, or corporation compare"
+                },
+                "compares": "articles of incorporation"
+            },
+            "2": {
+                "definition": "to lease or hire for usually exclusive and temporary use [ a ship]"
+            },
+            "3": {
+                "definition": "a lease of a ship esp. for the delivery of cargo called alsovt"
+            },
+            "1": {
+                "definition": "to establish, enable, or convey by charter [ a bank]"
+            }
+        },
+        "references": {
+            "constitution": "https://dictionary.findlaw.com/definition/constitution.html",
+            "articles of incorporation": "https://dictionary.findlaw.com/definition/articles-of-incorporation.html"
+        }
+    }
+}

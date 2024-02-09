@@ -1,0 +1,13 @@
+{
+    "Overturn": {
+        "definition": "overrule",
+        "sub_definitions": {
+            "1": {
+                "1": "overrule"
+            }
+        },
+        "references": {
+            "overrule": "https://dictionary.findlaw.com/definition/overrule.html"
+        }
+    }
+}

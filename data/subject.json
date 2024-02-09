@@ -1,0 +1,20 @@
+{
+    "Subject": {
+        "definition": "the person upon whose life a life insurance policy is written and upon whose death the policy is payable",
+        "compare": "insured",
+        "sub_definitions": {
+            "1": {
+                "1": "the person upon whose life a life insurance policy is written and upon whose death the policy is payable"
+            },
+            "2": {
+                "1": "insured",
+                "compares": "beneficiary"
+            }
+        },
+        "references": {
+            "insured": "https://dictionary.findlaw.com/definition/insured.html",
+            "beneficiary": "https://dictionary.findlaw.com/definition/beneficiary.html",
+            "policyholder": "https://dictionary.findlaw.com/definition/policyholder.html"
+        }
+    }
+}

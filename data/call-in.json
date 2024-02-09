@@ -1,0 +1,13 @@
+{
+    "Call In": {
+        "definition": "call",
+        "sub_definitions": {
+            "1": {
+                "1": "call"
+            }
+        },
+        "references": {
+            "call": "https://dictionary.findlaw.com/definition/call.html"
+        }
+    }
+}

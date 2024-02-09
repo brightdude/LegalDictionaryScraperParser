@@ -1,0 +1,15 @@
+{
+    "Contract Carrier": {
+        "definition": "a transport line that carries persons or property under contract to one or a limited number of shippers compare common carrier",
+        "compare": "common carrier",
+        "sub_definitions": {
+            "1": {
+                "1": "a transport line that carries persons or property under contract to one or a limited number of shippers compare",
+                "compares": "common carrier"
+            }
+        },
+        "references": {
+            "common carrier": "https://dictionary.findlaw.com/definition/common-carrier.html"
+        }
+    }
+}

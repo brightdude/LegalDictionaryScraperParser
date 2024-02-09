@@ -1,0 +1,22 @@
+{
+    "Remove": {
+        "definition": "to change the location",
+        "origin": "[an independent counsel…may be removed from office…only by the personal action of the Attorney General \" U.S. Code \"]",
+        "sub_definitions": {
+            "re·mov·ing": {
+                "definition": "to change the location, position, station, status, or residence of",
+                "sub_terms": {
+                    "a": "to have (an action) transferred from one court to another and esp. from a state court to a federal court see also",
+                    "b": "to dismiss from office [an independent counsel…may befrom office…only by the personal action of the Attorney General \"\"]",
+                    "c": "to take away [should his incapacity beby a judgment of a court \"\"]"
+                },
+                "note": " Section 1441 et seq. of title 28 of the U.S. Code allows a defendant who is brought into a state court to remove the action to federal district court when diversity of citizenship exists, when the action involves a claim or right arising under the U.S. Constitution or under laws or treaties of the U.S., or when the defendant is a foreign country or its agency or instrumentality. Civil actions and criminal prosecutions brought against an officer or agency of the U.S. for any act under color of office may also be removed.",
+                "see also": "separable controversy",
+                "removed": "by a judgment of a court \""
+            }
+        },
+        "references": {
+            "separable controversy": "https://dictionary.findlaw.com/definition/separable-controversy.html"
+        }
+    }
+}

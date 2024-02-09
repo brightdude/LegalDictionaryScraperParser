@@ -1,0 +1,22 @@
+{
+    "Duplicity": {
+        "definition": "-ties [Late Latin duplicitat - duplicitas duality",
+        "origin": "[Late Latin duplicitat - duplicitas duality, double-dealing, from Latin duplex twofold]",
+        "sub_definitions": {
+            "-ties": {
+                "definition": "[Late Latin-duality, double-dealing, from Latintwofold]"
+            },
+            "1": {
+                "definition": "the use of deceptive words or actions"
+            },
+            "2": {
+                "definition": "the use of more than one claim, allegation, or defense in a single paragraph of a pleadingthe improper charging of more than one offense in one count in a charging instrument (as an indictment) compare,",
+                "compares": "misjoinder"
+            }
+        },
+        "references": {
+            "misjoinder": "https://dictionary.findlaw.com/definition/misjoinder.html",
+            "multiplicity": "https://dictionary.findlaw.com/definition/multiplicity.html"
+        }
+    }
+}

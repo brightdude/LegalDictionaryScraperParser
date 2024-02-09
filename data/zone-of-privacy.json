@@ -1,0 +1,18 @@
+{
+    "Zone Of Privacy": {
+        "definition": "an area or aspect of life that is held to be protected from intrusion by a specific constitutional guarantee",
+        "origin": "[allowed disclosure of medical records, records which were deemed to fall within a zone of privacy , upon a showing of proper government interest \" Stenger v. Lehigh Valley Hosp. Ctr. , 609 A.2d 796 (1992)\"]",
+        "compare": "expectation of privacy",
+        "sub_definitions": {
+            "1": {
+                "1": "an area or aspect of life that is held to be protected from intrusion by a specific constitutional guarantee (as of the right to be secure in one's person, house, papers, or effects against unreasonable searches or seizures) or is the object of an expectation of privacy [allowed disclosure of medical records, records which were deemed to fall within a",
+                "Stenger v. Lehigh Valley Hosp. Ctr.": "609 A.2d 796 (1992)\"] compa",
+                "compares": "expectation of privacy"
+            }
+        },
+        "references": {
+            "expectation of privacy": "https://dictionary.findlaw.com/definition/expectation-of-privacy.html",
+            "penumbra": "https://dictionary.findlaw.com/definition/penumbra.html"
+        }
+    }
+}

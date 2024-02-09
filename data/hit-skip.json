@@ -1,0 +1,13 @@
+{
+    "Hit-Skip": {
+        "definition": "hit-and-run",
+        "sub_definitions": {
+            "1": {
+                "1": "hit-and-run"
+            }
+        },
+        "references": {
+            "hit-and-run": "https://dictionary.findlaw.com/definition/hit-and-run.html"
+        }
+    }
+}

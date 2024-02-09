@@ -1,0 +1,11 @@
+{
+    "Eurocurrency": {
+        "definition": "-cies",
+        "sub_definitions": {
+            "-cies": {
+                "definition": "currency (as from the U.S. and Japan) held outside its country of origin and used in the money markets of Europe"
+            }
+        },
+        "references": {}
+    }
+}

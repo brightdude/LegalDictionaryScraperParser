@@ -1,0 +1,11 @@
+{
+    "Franchisee": {
+        "definition": "one granted a franchise",
+        "sub_definitions": {
+            "1": {
+                "1": "one granted a franchise"
+            }
+        },
+        "references": {}
+    }
+}

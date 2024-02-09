@@ -1,0 +1,21 @@
+{
+    "Accusation": {
+        "definition": "a formal charge of wrongdoing",
+        "origin": "[the accused shall enjoy the right…to be informed of the nature and cause of the \" U.S. Constitution amend. VI\"]",
+        "sub_definitions": {
+            "1": {
+                "definition": "a formal charge of wrongdoing, delinquency, or fault [the accused shall enjoy the right…to be informed of the nature and cause of the \"amend. VI\"] compare,,",
+                "compares": "allegation",
+                "U.S. Constitution": "amend. VI\"] compare"
+            },
+            "2": {
+                "definition": "the offense or fault of which one is accused [the was murder]"
+            }
+        },
+        "references": {
+            "allegation": "https://dictionary.findlaw.com/definition/allegation.html",
+            "indictment": "https://dictionary.findlaw.com/definition/indictment.html",
+            "information": "https://dictionary.findlaw.com/definition/information.html"
+        }
+    }
+}

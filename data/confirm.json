@@ -1,0 +1,23 @@
+{
+    "Confirm": {
+        "definition": "to make valid by necessary formal approval [the debtor's chapter 13 plan ed by the court] b",
+        "origin": "[the debtor's chapter 13 plan ed by the court]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "to make valid by necessary formal approval [the debtor's chapter 13 planby the court]",
+                "sub_terms": {
+                    "b": "to vote approval of [ a nomination]"
+                },
+                "ed": "by the court]"
+            },
+            "2": {
+                "definition": "to give formal acknowledgment of receipt of"
+            },
+            "3": {
+                "definition": "to remove doubt about by authoritative act or indisputable fact [a consent decreeCapt. Brown's right to his cargo \"W. G. Young\"]",
+                "ing": "Capt. Brown's right to his cargo \"W. G. Young\"]"
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "Allegation": {
+        "definition": "the act of alleging 2 a",
+        "origin": "[ s in an affidavit]",
+        "sub_definitions": {
+            "1": {
+                "definition": "the act of alleging"
+            },
+            "2 a": {
+                "definition": "a statement not yet proven [in an affidavit]",
+                "sub_terms": {
+                    "b": "a statement by a party to a lawsuit of what the party will attempt to proveaverment compare,,,"
+                },
+                "compares": "accusation",
+                "s": "in an affidavit]"
+            }
+        },
+        "references": {
+            "accusation": "https://dictionary.findlaw.com/definition/accusation.html",
+            "indictment": "https://dictionary.findlaw.com/definition/indictment.html",
+            "information": "https://dictionary.findlaw.com/definition/information.html",
+            "proof": "https://dictionary.findlaw.com/definition/proof.html"
+        }
+    }
+}

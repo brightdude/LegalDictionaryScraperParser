@@ -1,0 +1,11 @@
+{
+    "Security Deposit": {
+        "definition": "money provided by a tenant to a landlord to secure performance of a rental agreement or compensate for possible loss or damage",
+        "sub_definitions": {
+            "1": {
+                "1": "money provided by a tenant to a landlord to secure performance of a rental agreement or compensate for possible loss or damage"
+            }
+        },
+        "references": {}
+    }
+}

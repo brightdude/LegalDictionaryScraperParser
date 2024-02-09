@@ -1,0 +1,11 @@
+{
+    "Fidelity Insurance": {
+        "definition": "insurance against loss caused by the dishonesty or nonperformance of an employee of the insured",
+        "sub_definitions": {
+            "1": {
+                "1": "insurance against loss caused by the dishonesty or nonperformance of an employee of the insured"
+            }
+        },
+        "references": {}
+    }
+}

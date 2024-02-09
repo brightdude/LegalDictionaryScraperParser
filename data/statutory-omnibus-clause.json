@@ -1,0 +1,15 @@
+{
+    "Statutory Omnibus Clause": {
+        "definition": "a statutory provision requiring that coverage of an automobile insurance policy be extended to a person using the vehicle with the express or implied permission of the insured compare omnibus clause",
+        "compare": "omnibus clause",
+        "sub_definitions": {
+            "1": {
+                "1": "a statutory provision requiring that coverage of an automobile insurance policy be extended to a person using the vehicle with the express or implied permission of the insured compare",
+                "compares": "omnibus clause"
+            }
+        },
+        "references": {
+            "omnibus clause": "https://dictionary.findlaw.com/definition/omnibus-clause.html"
+        }
+    }
+}

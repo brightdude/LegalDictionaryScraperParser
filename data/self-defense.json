@@ -1,0 +1,17 @@
+{
+    "Self-Defense": {
+        "definition": "the use of force to defend oneself 2",
+        "sub_definitions": {
+            "1": {
+                "definition": "the use of force to defend oneself"
+            },
+            "2": {
+                "definition": "an affirmative defense (as to a murder charge) alleging that the defendant used force necessarily to protect himself or herself because of a reasonable belief that the other party intended to inflict great bodily harm or death see also",
+                "see also": "justification"
+            }
+        },
+        "references": {
+            "justification": "https://dictionary.findlaw.com/definition/justification.html"
+        }
+    }
+}

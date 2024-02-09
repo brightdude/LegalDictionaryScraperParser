@@ -1,0 +1,27 @@
+{
+    "Election": {
+        "definition": "the act or process of electing b",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "the act or process of electing",
+                "sub_terms": {
+                    "b": "an instance of the electorate voting for candidates for an elective office",
+                    "c": "the fact of being elected"
+                }
+            },
+            "2": {
+                "definition": "the right, power, or privilege of making a choice",
+                "sub_terms": {
+                    "a": "the right of a spouse to choose a statutorily prescribed amount of a deceased spouse's estate or whatever was devised to him or her under the will",
+                    "b": "the right of a person who has an interest in property that a deceased has disposed of by will either to claim his or her right to the property or to accept what he or she was devised under the will instead",
+                    "c": "the right of a party to a contract that has been breached by the other party to choose to continue or terminate the contract see also,"
+                },
+                "see also": "election of remedies"
+            }
+        },
+        "references": {
+            "election of remedies": "https://dictionary.findlaw.com/definition/election-of-remedies.html",
+            "equitable election": "https://dictionary.findlaw.com/definition/equitable-election.html"
+        }
+    }
+}

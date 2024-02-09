@@ -1,0 +1,11 @@
+{
+    "Discovery Rule": {
+        "definition": "a rule in tort law",
+        "sub_definitions": {
+            "1": {
+                "1": "a rule in tort law: the statute of limitations for a cause of action does not begin to run until the time that the injured party discovers or reasonably should have discovered the injury"
+            }
+        },
+        "references": {}
+    }
+}

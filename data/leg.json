@@ -1,0 +1,14 @@
+{
+    "Leg": {
+        "definition": "Leg",
+        "sub_definitions": {
+            "1": {
+                "definition": "legal"
+            },
+            "2": {
+                "definition": "legislative, legislature"
+            }
+        },
+        "references": {}
+    }
+}

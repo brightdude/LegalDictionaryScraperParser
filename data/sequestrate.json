@@ -1,0 +1,9 @@
+{
+    "Sequestrate": {
+        "definition": "sequester",
+        "sub_definitions": {},
+        "references": {
+            "sequester": "https://dictionary.findlaw.com/definition/sequester.html"
+        }
+    }
+}

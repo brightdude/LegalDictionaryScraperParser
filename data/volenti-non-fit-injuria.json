@@ -1,0 +1,15 @@
+{
+    "Volenti Non Fit Injuria": {
+        "definition": "to one who is willing no harm is done used as a common-law maxim expressing the principle that one is not injured when a risk is voluntarily assumed compare assumption of risk",
+        "compare": "assumption of risk",
+        "sub_definitions": {
+            "1": {
+                "1": "to one who is willing no harm is done used as a common-law maxim expressing the principle that one is not injured when a risk is voluntarily assumed compare",
+                "compares": "assumption of risk"
+            }
+        },
+        "references": {
+            "assumption of risk": "https://dictionary.findlaw.com/definition/assumption-of-risk.html"
+        }
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "Insurance Adjuster": {
+        "definition": "a person employed by insurer or insured to determine the loss under an insurance policy",
+        "sub_definitions": {
+            "1": {
+                "1": "a person employed by insurer or insured to determine the loss under an insurance policy"
+            }
+        },
+        "references": {}
+    }
+}

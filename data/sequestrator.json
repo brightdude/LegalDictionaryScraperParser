@@ -1,0 +1,14 @@
+{
+    "Sequestrator": {
+        "definition": "an official who executes a writ of sequestration 2",
+        "sub_definitions": {
+            "1": {
+                "definition": "an official who executes a writ of sequestration"
+            },
+            "2": {
+                "definition": "someone who holds property in sequestration"
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "Pro Confesso": {
+        "definition": "as though confessed [the plaintiff's pleadings were taken pro confesso since the defendant did not appear] see also decree pro confesso at decree",
+        "origin": "[Latin]",
+        "sub_definitions": {
+            "1": {
+                "1": "as though confessed [the plaintiff's pleadings were taken",
+                "pro confesso": "since the defendant did not appear] see also"
+            }
+        },
+        "references": {
+            "decree": "https://dictionary.findlaw.com/definition/decree.html"
+        }
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "Town Clerk": {
+        "definition": "a public officer charged with recording the official proceedings and vital statistics of a town",
+        "sub_definitions": {
+            "1": {
+                "1": "a public officer charged with recording the official proceedings and vital statistics of a town"
+            }
+        },
+        "references": {}
+    }
+}

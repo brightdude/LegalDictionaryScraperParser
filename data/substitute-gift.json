@@ -1,0 +1,14 @@
+{
+    "Substitute Gift": {
+        "definition": "substitutional gift at gift",
+        "sub_definitions": {
+            "1": {
+                "1": "substitutional gift"
+            }
+        },
+        "references": {
+            "substitutional gift": "https://dictionary.findlaw.com/definition/substitutional-gift.html",
+            "gift": "https://dictionary.findlaw.com/definition/gift.html"
+        }
+    }
+}

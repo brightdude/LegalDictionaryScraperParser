@@ -1,0 +1,12 @@
+{
+    "Common-Law Copyright": {
+        "definition": "a copyright in common law protecting unpublished works NOTE",
+        "sub_definitions": {
+            "1": {
+                "1": "a copyright in common law protecting unpublished works",
+                "note": " Works created after January 1, 1978, are protected by statutory rather than common-law copyright while unpublished."
+            }
+        },
+        "references": {}
+    }
+}

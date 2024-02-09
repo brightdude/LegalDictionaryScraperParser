@@ -1,0 +1,11 @@
+{
+    "Required Records Doctrine": {
+        "definition": "a doctrine holding that the privilege against self-incrimination does not apply to business records that are customarily kept in accordance with government regulation and that have aspects such that the records can be characterized as public",
+        "sub_definitions": {
+            "1": {
+                "1": "a doctrine holding that the privilege against self-incrimination does not apply to business records that are customarily kept in accordance with government regulation and that have aspects such that the records can be characterized as public"
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "Going And Coming Rule": {
+        "definition": "a rule that an employee cannot receive workers' compensation benefits for injuries suffered while coming to or going from work see also special hazard rule",
+        "sub_definitions": {
+            "1": {
+                "1": "a rule that an employee cannot receive workers' compensation benefits for injuries suffered while coming to or going from work see also",
+                "see also": "special hazard rule"
+            }
+        },
+        "references": {
+            "special hazard rule": "https://dictionary.findlaw.com/definition/special-hazard-rule.html",
+            "special mission exception": "https://dictionary.findlaw.com/definition/special-mission-exception.html"
+        }
+    }
+}

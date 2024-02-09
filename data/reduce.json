@@ -1,0 +1,19 @@
+{
+    "Reduce": {
+        "definition": "to make smaller 2 a",
+        "origin": "[enforcement action sought to to possession her property interest in the…determination of money damages \" Haynes v. Contat , 643 N.E.2d 941 (1994)\"]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to make smaller"
+            },
+            "2 a": {
+                "definition": "to convert (a chose in action) into a chose in possession [enforcement action sought to to possession her property interest in the…determination of money damages \", 643 N.E.2d 941 (1994)\"]",
+                "sub_terms": {
+                    "b": "to convert by enforcement through litigation [may his claim to judgment, foreclose or otherwise enforce the security interest \"\"]"
+                },
+                "Haynes v. Contat": "643 N.E.2d 941 (1994)"
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "Power Of Appointment": {
+        "definition": "a power granted under a deed or will authorizing the donee to dispose of an estate in a specified manner for the benefit of the donee or of others general power of appointment",
+        "sub_definitions": {
+            "general power of appointment": {
+                "definition": "a power of appointment which the donee may exercise in favor of anyone including himself or herselfa power of appointment defined by the Internal Revenue Code as one exercisable in favor of the individual possessing the power, his or her estate, his or her creditors, or the creditors of his or her estate with certain specified qualifications"
+            },
+            "limited power of appointment": {
+                "definition": "in this entrya power of appointment which the donee may exercise in favor of anyone but himself or herself"
+            },
+            "special power of appointment": {
+                "definition": "a power of appointment which the donee may exercise in favor of only a designated person or class of persons not including himself or herself or his or her estate"
+            },
+            "testamentary power of appointment": {
+                "definition": "a power of appointment that the donee may exercise only in his or her will"
+            }
+        },
+        "references": {
+            "special power of appointment": "https://dictionary.findlaw.com/definition/special-power-of-appointment.html"
+        }
+    }
+}

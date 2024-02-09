@@ -1,0 +1,14 @@
+{
+    "Icc": {
+        "definition": "Icc",
+        "sub_definitions": {
+            "1": {
+                "definition": "International Chamber of Commerce"
+            },
+            "2": {
+                "definition": "Interstate Commerce Commission see also the Important Agencies section"
+            }
+        },
+        "references": {}
+    }
+}

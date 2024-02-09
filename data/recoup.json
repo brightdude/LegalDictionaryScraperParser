@@ -1,0 +1,15 @@
+{
+    "Recoup": {
+        "definition": "recover [would the overpayment from current claims payments \" City of Cordova v. Medicaid Rate Commn.",
+        "origin": "[would the overpayment from current claims payments \" City of Cordova v. Medicaid Rate Commn. , 789 P.2d 346 (1990)\"]",
+        "sub_definitions": {
+            "1": {
+                "1": "recover",
+                "City of Cordova v. Medicaid Rate Commn.": "789 P.2d 346 (1990)"
+            }
+        },
+        "references": {
+            "recover": "https://dictionary.findlaw.com/definition/recover.html"
+        }
+    }
+}

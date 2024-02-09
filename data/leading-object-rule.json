@@ -1,0 +1,13 @@
+{
+    "Leading Object Rule": {
+        "definition": "main purpose rule",
+        "sub_definitions": {
+            "1": {
+                "1": "main purpose rule"
+            }
+        },
+        "references": {
+            "main purpose rule": "https://dictionary.findlaw.com/definition/main-purpose-rule.html"
+        }
+    }
+}

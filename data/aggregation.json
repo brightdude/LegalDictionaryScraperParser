@@ -1,0 +1,18 @@
+{
+    "Aggregation": {
+        "definition": "the collecting of individual units",
+        "sub_definitions": {
+            "1": {
+                "definition": "the collecting of individual units (as damages) into a whole"
+            },
+            "2": {
+                "definition": "a collection of separate parts that is unpatentable because no integrated mechanism or new and useful result is produced compare,",
+                "compares": "combination"
+            }
+        },
+        "references": {
+            "combination": "https://dictionary.findlaw.com/definition/combination.html",
+            "equivalent": "https://dictionary.findlaw.com/definition/equivalent.html"
+        }
+    }
+}

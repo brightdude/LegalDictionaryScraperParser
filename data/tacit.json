@@ -1,0 +1,15 @@
+{
+    "Tacit": {
+        "definition": "implied",
+        "origin": "[a admission]",
+        "sub_definitions": {
+            "1": {
+                "definition": "implied (as by an act or by silence) rather than express [a admission]"
+            },
+            "2": {
+                "definition": "arising by operation of law [a mortgage]"
+            }
+        },
+        "references": {}
+    }
+}

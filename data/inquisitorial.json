@@ -1,0 +1,18 @@
+{
+    "Inquisitorial": {
+        "definition": "constituting or relating to a system of justice in which the judge conducts an inquiry developing the facts of the litigant's case compare accusatorial",
+        "sub_definitions": {
+            "1": {
+                "definition": "constituting or relating to a system of justice in which the judge conducts an inquiry developing the facts of the litigant's case compare,",
+                "compares": "accusatorial"
+            },
+            "2": {
+                "definition": "having the authority to conduct official investigations"
+            }
+        },
+        "references": {
+            "accusatorial": "https://dictionary.findlaw.com/definition/accusatorial.html",
+            "adversary": "https://dictionary.findlaw.com/definition/adversary.html"
+        }
+    }
+}

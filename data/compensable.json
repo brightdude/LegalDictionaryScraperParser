@@ -1,0 +1,12 @@
+{
+    "Compensable": {
+        "definition": "entitling an individual to compensation [a job-related injury]",
+        "origin": "[a job-related injury]",
+        "sub_definitions": {
+            "1": {
+                "1": "entitling an individual to compensation [a job-related injury]"
+            }
+        },
+        "references": {}
+    }
+}

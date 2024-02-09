@@ -1,0 +1,13 @@
+{
+    "Flat Rule": {
+        "definition": "per se rule",
+        "sub_definitions": {
+            "1": {
+                "1": "per se rule"
+            }
+        },
+        "references": {
+            "per se rule": "https://dictionary.findlaw.com/definition/per-se-rule.html"
+        }
+    }
+}

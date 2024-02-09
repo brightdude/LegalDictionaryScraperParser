@@ -1,0 +1,12 @@
+{
+    "Ex-Warrants": {
+        "definition": "without warrants NOTE",
+        "sub_definitions": {
+            "1": {
+                "1": "without warrants",
+                "note": " The purchaser of stock traded ex-warrants does not receive any warrants that were formerly traded with the stock."
+            }
+        },
+        "references": {}
+    }
+}

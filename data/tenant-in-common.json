@@ -1,0 +1,11 @@
+{
+    "Tenant In Common": {
+        "definition": "any of the parties holding a piece of property as a tenancy in common",
+        "sub_definitions": {
+            "1": {
+                "1": "any of the parties holding a piece of property as a tenancy in common"
+            }
+        },
+        "references": {}
+    }
+}

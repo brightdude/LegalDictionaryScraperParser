@@ -1,0 +1,14 @@
+{
+    "Crime Against Humanity": {
+        "definition": "an inhumane act",
+        "sub_definitions": {
+            "1": {
+                "1": "an inhumane act (as enslavement) committed against civilians before or during a war for which criminal liability is imposed by a domestic or international tribunal see also",
+                "see also": "war crime"
+            }
+        },
+        "references": {
+            "war crime": "https://dictionary.findlaw.com/definition/war-crime.html"
+        }
+    }
+}

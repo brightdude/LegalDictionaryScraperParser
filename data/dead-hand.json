@@ -1,0 +1,13 @@
+{
+    "Dead Hand": {
+        "definition": "mortmain",
+        "sub_definitions": {
+            "1": {
+                "1": "mortmain"
+            }
+        },
+        "references": {
+            "mortmain": "https://dictionary.findlaw.com/definition/mortmain.html"
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "Workman's Compensation": {
+        "definition": "workers' compensation",
+        "sub_definitions": {
+            "1": {
+                "1": "workers' compensation"
+            }
+        },
+        "references": {
+            "workers' compensation": "https://dictionary.findlaw.com/definition/workers-compensation.html"
+        }
+    }
+}

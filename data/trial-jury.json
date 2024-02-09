@@ -1,0 +1,16 @@
+{
+    "Trial Jury": {
+        "definition": "a jury impaneled to try a case",
+        "sub_definitions": {
+            "1": {
+                "1": "a jury impaneled to try a case"
+            },
+            "2": {
+                "1": "petit jury"
+            }
+        },
+        "references": {
+            "petit jury": "https://dictionary.findlaw.com/definition/petit-jury.html"
+        }
+    }
+}

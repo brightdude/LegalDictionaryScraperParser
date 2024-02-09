@@ -1,0 +1,14 @@
+{
+    "Auction": {
+        "definition": "a public sale of property to the highest bidder see also reserve",
+        "sub_definitions": {
+            "1": {
+                "1": "a public sale of property to the highest bidder see also",
+                "see also": "reserve"
+            }
+        },
+        "references": {
+            "reserve": "https://dictionary.findlaw.com/definition/reserve.html"
+        }
+    }
+}

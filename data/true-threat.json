@@ -1,0 +1,12 @@
+{
+    "True Threat": {
+        "definition": "a threat that a reasonable person would interpret as a real and serious communication of an intent to inflict harm NOTE",
+        "sub_definitions": {
+            "1": {
+                "1": "a threat that a reasonable person would interpret as a real and serious communication of an intent to inflict harm",
+                "note": " True threats are not protected as free speech by the First Amendment to the U.S. Constitution and render the person making the threat liable to criminal prosecution."
+            }
+        },
+        "references": {}
+    }
+}

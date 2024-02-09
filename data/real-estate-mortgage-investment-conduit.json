@@ -1,0 +1,13 @@
+{
+    "Real Estate Mortgage Investment Conduit": {
+        "definition": "remic",
+        "sub_definitions": {
+            "1": {
+                "1": "remic"
+            }
+        },
+        "references": {
+            "remic": "https://dictionary.findlaw.com/definition/remic.html"
+        }
+    }
+}

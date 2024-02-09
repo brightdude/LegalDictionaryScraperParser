@@ -1,0 +1,14 @@
+{
+    "Non-Commercial Partnership": {
+        "definition": "nontrading partnership at partnership",
+        "sub_definitions": {
+            "1": {
+                "1": "nontrading partnership"
+            }
+        },
+        "references": {
+            "nontrading partnership": "https://dictionary.findlaw.com/definition/nontrading-partnership.html",
+            "partnership": "https://dictionary.findlaw.com/definition/partnership.html"
+        }
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "Arrest": {
+        "definition": "the restraining and seizure of a person whether or not by physical force by someone acting under authority",
+        "origin": "[Middle French arest , from arester to stop, seize, arrest, ultimately from Latin ad to, at + restare to stay]",
+        "compare": "miranda warnings",
+        "sub_definitions": {
+            "cit·i·zen's arrest": {
+                "definition": "an arrest made not by a law officer but by any citizen who derives the authority to arrest from the fact of being a citizen",
+                "note": " Under common law, a citizen may make an arrest for any felony actually committed, or for a breach of the peace committed in his or her presence."
+            },
+            "civil arrest": {
+                "definition": "the arrest and detention of a defendant in a civil suit until he or she posts bail or pays the judgment see also",
+                "note": " Civil arrest is restricted or prohibited in most states.",
+                "see also": "capias ad respondendum"
+            },
+            "custodial arrest": {
+                "definition": "an arrest of a person accompanied by or followed by taking the person into custody"
+            },
+            "false arrest": {
+                "definition": "an arrest made without legal authority called also",
+                "note": " If a person is taken into custody, no matter how briefly, a false arrest is also false imprisonment."
+            },
+            "pre·text arrest": {
+                "definition": "[prē-tekst-]the arrest of a person for a minor crime (as a traffic violation) for the real purpose of getting an opportunity to investigate (as through a search) the person's possible involvement in a more serious crime for which there are no lawful grounds to make an arrest called also"
+            },
+            "unlawful arrest": {
+                "definition": "in this entry"
+            },
+            "under arrest:in the condition of being restrained under legal authority": {
+                "definition": "vtto place under arrest"
+            }
+        },
+        "references": {
+            "miranda warnings": "https://dictionary.findlaw.com/definition/miranda-warnings.html",
+            "cause": "https://dictionary.findlaw.com/definition/cause.html",
+            "warrant": "https://dictionary.findlaw.com/definition/warrant.html",
+            "stop": "https://dictionary.findlaw.com/definition/stop.html",
+            "capias ad respondendum": "https://dictionary.findlaw.com/definition/capias-ad-respondendum.html",
+            "false arrest": "https://dictionary.findlaw.com/definition/false-arrest.html"
+        }
+    }
+}

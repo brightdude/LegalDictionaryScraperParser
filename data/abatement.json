@@ -1,0 +1,17 @@
+{
+    "Abatement": {
+        "definition": "the act or process of abating or the state of being abated [challenged the of her bequest] [ of a private nuisance by self-help \"W. L. Prosser and W. P. Keeton\"] 2",
+        "origin": "[challenged the of her bequest]",
+        "sub_definitions": {
+            "1": {
+                "definition": "the act or process of abating or the state of being abated [challenged the of her bequest] [ of a private nuisance by self-help \"W. L. Prosser and W. P. Keeton\"]"
+            },
+            "2": {
+                "definition": "an amount abateda deduction from the full amount of a tax"
+            }
+        },
+        "references": {
+            "deduction": "https://dictionary.findlaw.com/definition/deduction.html"
+        }
+    }
+}

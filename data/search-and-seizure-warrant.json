@@ -1,0 +1,14 @@
+{
+    "Search And Seizure Warrant": {
+        "definition": "search warrant at warrant",
+        "sub_definitions": {
+            "1": {
+                "1": "search warrant"
+            }
+        },
+        "references": {
+            "search warrant": "https://dictionary.findlaw.com/definition/search-warrant.html",
+            "warrant": "https://dictionary.findlaw.com/definition/warrant.html"
+        }
+    }
+}

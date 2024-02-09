@@ -1,0 +1,28 @@
+{
+    "Bill Of Lading": {
+        "definition": "a bill of lading that does not have any notations written or otherwise marked on it that qualify or amend the bill negotiable bill of lading",
+        "sub_definitions": {
+            "clean bill of lading": {
+                "definition": "a bill of lading that does not have any notations written or otherwise marked on it that qualify or amend the bill"
+            },
+            "negotiable bill of lading": {
+                "definition": "in this entry"
+            },
+            "nonnegotiable bill of lading": {
+                "definition": "in this entry"
+            },
+            "order bill of lading": {
+                "definition": "a bill of lading under which the goods are to be delivered to the person named in the bill or to the named person's order or to the bearer of the bill called alsocomparein this entry",
+                "compares": "straight bill of lading"
+            },
+            "straight bill of lading": {
+                "definition": "a bill of lading that names the only person to whom the goods may be delivered called alsocomparein this entry",
+                "compares": "order bill of lading"
+            }
+        },
+        "references": {
+            "order bill of lading": "https://dictionary.findlaw.com/definition/order-bill-of-lading.html",
+            "straight bill of lading": "https://dictionary.findlaw.com/definition/straight-bill-of-lading.html"
+        }
+    }
+}

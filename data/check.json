@@ -1,0 +1,35 @@
+{
+    "Check": {
+        "definition": "something that limits or restrains see also checks and balances 2",
+        "origin": "[ N ot S ufficient F unds]",
+        "sub_definitions": {
+            "1": {
+                "definition": "something that limits or restrains see also",
+                "see also": "checks and balances"
+            },
+            "2": {
+                "definition": "a written order signed by its maker directing a bank to pay a specified sum to a named person or to that person's order on demand see alsocompare",
+                "compares": "draft",
+                "see also": "negotiable instrument"
+            },
+            "bank check": {
+                "definition": "a check drawn by a bank on its deposits in another bank"
+            },
+            "ca·shier's check": {
+                "definition": "a check drawn by a bank on its own funds and signed by the cashier or another bank official"
+            },
+            "certified check": {
+                "definition": "a check certified to be good by the bank upon which it is drawn by the signature of usually the cashier or paying teller with the wordoracross the face of the check",
+                "accepted": "across the face of the check"
+            },
+            "NSF check": {
+                "definition": "[otufficientunds]a check drawn on an account with insufficient funds from which to make payment"
+            }
+        },
+        "references": {
+            "checks and balances": "https://dictionary.findlaw.com/definition/checks-and-balances.html",
+            "negotiable instrument": "https://dictionary.findlaw.com/definition/negotiable-instrument.html",
+            "draft": "https://dictionary.findlaw.com/definition/draft.html"
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "Separation Of Powers": {
+        "definition": "the constitutional allocation of the legislative",
+        "sub_definitions": {
+            "1": {
+                "definition": "the constitutional allocation of the legislative, executive, and judicial powers among the three branches of government"
+            },
+            "2": {
+                "definition": "the doctrine under which the legislative, executive, and judicial branches of government are not to infringe upon each other's constitutionally vested powers see also",
+                "see also": "nondelegation doctrine"
+            }
+        },
+        "references": {
+            "nondelegation doctrine": "https://dictionary.findlaw.com/definition/nondelegation-doctrine.html"
+        }
+    }
+}

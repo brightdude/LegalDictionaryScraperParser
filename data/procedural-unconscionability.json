@@ -1,0 +1,16 @@
+{
+    "Procedural Unconscionability": {
+        "definition": "unconscionability that derives from the process of making a contract rather than from inherent unfairness or unreasonableness in the terms of the contract compare substantive unconscionability NOTE",
+        "compare": "substantive unconscionability",
+        "sub_definitions": {
+            "1": {
+                "1": "unconscionability that derives from the process of making a contract rather than from inherent unfairness or unreasonableness in the terms of the contract compare",
+                "compares": "substantive unconscionability",
+                "note": " Procedural unconscionability is based on factors, such as consumer ignorance or a great deal of unexplained fine print, that serve to deprive a party of a meaningful choice."
+            }
+        },
+        "references": {
+            "substantive unconscionability": "https://dictionary.findlaw.com/definition/substantive-unconscionability.html"
+        }
+    }
+}

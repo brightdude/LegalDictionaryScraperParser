@@ -1,0 +1,32 @@
+{
+    "Conspiracy": {
+        "definition": "-cies [Latin conspiratio",
+        "origin": "[Latin conspiratio , from conspirare to conspire see conspire ]",
+        "sub_definitions": {
+            "-cies": {
+                "definition": "[Latin, fromto conspire see]"
+            },
+            "1": {
+                "definition": "an agreement between two or more people to commit an act prohibited by law or to commit a lawful act by means prohibited by lawthe crime or tort of participating in a conspiracy compare",
+                "note": " Some states require an overt act in addition to the agreement to constitute conspiracy.",
+                "compares": "substantive crime"
+            },
+            "chain conspiracy": {
+                "definition": "a conspiracy in which the conspirators act separately and successively (as in distributing narcotics)"
+            },
+            "civil conspiracy": {
+                "definition": "a conspiracy that is not prosecuted as a crime but that forms the grounds for a lawsuit"
+            },
+            "criminal conspiracy": {
+                "definition": "a conspiracy prosecuted as a crime"
+            },
+            "2": {
+                "definition": "a group of conspirators"
+            }
+        },
+        "references": {
+            "conspire": "https://dictionary.findlaw.com/definition/conspire.html",
+            "substantive crime": "https://dictionary.findlaw.com/definition/substantive-crime.html"
+        }
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "Mandatory Instruction": {
+        "definition": "an instruction that sets out a factual situation which if found by the jury to be supported by the evidence requires a certain verdict",
+        "sub_definitions": {
+            "1": {
+                "1": "an instruction that sets out a factual situation which if found by the jury to be supported by the evidence requires a certain verdict"
+            }
+        },
+        "references": {}
+    }
+}

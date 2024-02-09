@@ -1,0 +1,20 @@
+{
+    "Vertical Price-Fixing": {
+        "definition": "an illegal arrangement in which parties at different levels of a system of production and distribution act to fix the market price of goods ;esp",
+        "compare": "resale price maintenance",
+        "sub_definitions": {
+            "1": {
+                "1": "an illegal arrangement in which parties at different levels of a system of production and distribution act to fix the market price of goods"
+            },
+            "2": {
+                "1": "resale price maintenance",
+                "compares": "horizontal price-fixing",
+                "note": " Vertical price-fixing is a per se violation of antitrust laws."
+            }
+        },
+        "references": {
+            "resale price maintenance": "https://dictionary.findlaw.com/definition/resale-price-maintenance.html",
+            "horizontal price-fixing": "https://dictionary.findlaw.com/definition/horizontal-price-fixing.html"
+        }
+    }
+}

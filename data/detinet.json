@@ -1,0 +1,16 @@
+{
+    "Detinet": {
+        "definition": "a common-law action alleging that the defendant is withholding money or items owed",
+        "origin": "[Medieval Latin, he/she withholds]",
+        "compare": "detinuit",
+        "sub_definitions": {
+            "1": {
+                "1": "a common-law action alleging that the defendant is withholding money or items owed (as under a contract) compare",
+                "compares": "detinuit"
+            }
+        },
+        "references": {
+            "detinuit": "https://dictionary.findlaw.com/definition/detinuit.html"
+        }
+    }
+}

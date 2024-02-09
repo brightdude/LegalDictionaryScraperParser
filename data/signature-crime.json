@@ -1,0 +1,12 @@
+{
+    "Signature Crime": {
+        "definition": "any of two or more crimes that involve the use of a method",
+        "sub_definitions": {
+            "1": {
+                "1": "any of two or more crimes that involve the use of a method, plan, or modus operandi so distinctive that it logically follows that the crimes must have been committed by the same person",
+                "note": " Evidence of other criminal acts is usually not admissible against a defendant. Evidence of other crimes to prove that the crime in question is a signature crime committed by the defendant, however, is usually allowed."
+            }
+        },
+        "references": {}
+    }
+}

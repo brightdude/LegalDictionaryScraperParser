@@ -1,0 +1,15 @@
+{
+    "Falsity": {
+        "definition": "-ties 1",
+        "origin": "[did not establish the of the statement]",
+        "sub_definitions": {
+            "1": {
+                "definition": "something false"
+            },
+            "2": {
+                "definition": "the quality or state of being false [did not establish the of the statement]"
+            }
+        },
+        "references": {}
+    }
+}

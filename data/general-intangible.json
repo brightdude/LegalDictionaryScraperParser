@@ -1,0 +1,11 @@
+{
+    "General Intangible": {
+        "definition": "any personal property that is not an account",
+        "sub_definitions": {
+            "1": {
+                "1": "any personal property that is not an account, chattel paper, document, instrument, goods, or money esp. as identified by section 9-106 of the Uniform Commercial Code"
+            }
+        },
+        "references": {}
+    }
+}

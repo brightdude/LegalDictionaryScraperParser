@@ -1,0 +1,14 @@
+{
+    "Stipulator": {
+        "definition": "one that stipulates 2 in the civil law of Louisiana",
+        "sub_definitions": {
+            "1": {
+                "definition": "one that stipulates"
+            },
+            "2": {
+                "definition": "the promisee in a stipulation pour autrui who bargains for and receives the promise that benefits the third-party beneficiary"
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "Honor": {
+        "definition": "to accept and pay [the bank ed the check] 2",
+        "origin": "[the bank ed the check]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to accept and pay [the bankthe check]"
+            },
+            "2": {
+                "definition": "to purchase or discount (a draft) in compliance with a letter of credit"
+            }
+        },
+        "references": {}
+    }
+}

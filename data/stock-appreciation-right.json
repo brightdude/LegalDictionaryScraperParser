@@ -1,0 +1,11 @@
+{
+    "Stock Appreciation Right": {
+        "definition": "a form of deferred compensation that allows an employee to receive as a bonus the cash value of the appreciation of stock over a period of years and that defers taxation until paid",
+        "sub_definitions": {
+            "1": {
+                "1": "a form of deferred compensation that allows an employee to receive as a bonus the cash value of the appreciation of stock over a period of years and that defers taxation until paid"
+            }
+        },
+        "references": {}
+    }
+}

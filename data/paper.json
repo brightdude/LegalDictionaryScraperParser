@@ -1,0 +1,43 @@
+{
+    "Paper": {
+        "definition": "a piece of paper containing a written statement",
+        "origin": "[the Federalist s ]",
+        "sub_definitions": {
+            "1": {
+                "definition": "a piece of paper containing a written statement",
+                "sub_terms": {
+                    "a": "a formal written composition or document often intended for publication [the Federalist]",
+                    "b": "a document containing a statement of legal status, identity, authority, or ownership often used in pl. whether applying to one or more items [naturalization] [this policy, including the endorsements and the attached\"\"]",
+                    "c": "a document (as an answer, motion, or brief) prepared in furtherance of a legal action [allafter the complaint required to be served upon a party shall be filed with the court \"Rule 5(d)\"]"
+                },
+                "s": "after the complaint required to be served upon a party shall be filed with the court \"",
+                "Federal Rules of Civil Procedure": "Rule 5(d)\"]"
+            },
+            "2": {
+                "definition": "a document providing evidence of a financial obligationin this entry"
+            },
+            "accommodation paper": {
+                "definition": "commercial paper used by one party to accommodate another party"
+            },
+            "bearer paper": {
+                "definition": "commercial paper that is freely negotiable by the holder and is made payable to bearer comparein this entry",
+                "compares": "order paper"
+            },
+            "chattel paper": {
+                "definition": "paper that sets out both a buyer's obligation to repay and a lender's or a seller's security interest in the goods bought or that contains the provisions of a lease of the goods"
+            },
+            "commercial paper": {
+                "definition": "a usually negotiable instrument (as a note, draft, or certificate of deposit) arising out of a commercial transactionany of the instruments constituting the obligations of a business organization that are sold as investments"
+            },
+            "order paper": {
+                "definition": "commercial paper that is payable to order comparein this entry",
+                "compares": "bearer paper"
+            }
+        },
+        "references": {
+            "commercial paper": "https://dictionary.findlaw.com/definition/commercial-paper.html",
+            "order paper": "https://dictionary.findlaw.com/definition/order-paper.html",
+            "bearer paper": "https://dictionary.findlaw.com/definition/bearer-paper.html"
+        }
+    }
+}

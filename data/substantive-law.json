@@ -1,0 +1,17 @@
+{
+    "Substantive Law": {
+        "definition": "law that creates or defines rights",
+        "compare": "adjective law",
+        "sub_definitions": {
+            "1": {
+                "1": "law that creates or defines rights, duties, obligations, and causes of action that can be enforced by law compare",
+                "compares": "adjective law",
+                "note": " There are restrictions on applying new substantive law (as statutory or case law) retroactively."
+            }
+        },
+        "references": {
+            "adjective law": "https://dictionary.findlaw.com/definition/adjective-law.html",
+            "procedural law": "https://dictionary.findlaw.com/definition/procedural-law.html"
+        }
+    }
+}

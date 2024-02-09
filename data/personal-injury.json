@@ -1,0 +1,14 @@
+{
+    "Personal Injury": {
+        "definition": "an injury to one's body",
+        "sub_definitions": {
+            "1": {
+                "1": "an injury to one's body, mind, or emotions"
+            },
+            "2": {
+                "1": "an injury that is not to one's property"
+            }
+        },
+        "references": {}
+    }
+}

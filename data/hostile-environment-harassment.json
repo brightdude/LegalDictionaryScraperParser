@@ -1,0 +1,16 @@
+{
+    "Hostile Environment Harassment": {
+        "definition": "employment discrimination consisting of unwelcome verbal or physical conduct",
+        "sub_definitions": {
+            "1": {
+                "1": "employment discrimination consisting of unwelcome verbal or physical conduct (as comments, jokes, or acts) relating to the victim's constitutionally or statutorily protected classification (as race, religion, ethnic origin, or age) that has the effect of substantially interfering with a person's work performance or of creating a hostile work environment"
+            },
+            "2": {
+                "1": "hostile environment sexual harassment"
+            }
+        },
+        "references": {
+            "hostile environment sexual harassment": "https://dictionary.findlaw.com/definition/hostile-environment-sexual-harassment.html"
+        }
+    }
+}

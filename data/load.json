@@ -1,0 +1,15 @@
+{
+    "Load": {
+        "definition": "an amount added",
+        "compare": "no-load",
+        "sub_definitions": {
+            "1": {
+                "1": "an amount added (as to the price of a security or the net premium in insurance) to represent selling expense and profit to the distributor compare",
+                "compares": "no-load"
+            }
+        },
+        "references": {
+            "no-load": "https://dictionary.findlaw.com/definition/no-load.html"
+        }
+    }
+}

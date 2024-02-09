@@ -1,0 +1,14 @@
+{
+    "Informer's Privilege": {
+        "definition": "informant's privilege at privilege",
+        "sub_definitions": {
+            "1": {
+                "1": "informant's privilege"
+            }
+        },
+        "references": {
+            "informant's privilege": "https://dictionary.findlaw.com/definition/informant-s-privilege.html",
+            "privilege": "https://dictionary.findlaw.com/definition/privilege.html"
+        }
+    }
+}

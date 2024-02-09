@@ -1,0 +1,31 @@
+{
+    "Testimony": {
+        "definition": "-nies [Latin testimonium",
+        "origin": "[Latin testimonium , from testis witness]",
+        "sub_definitions": {
+            "-nies": {
+                "definition": "[Latin, fromwitness]evidence furnished by a witness under oath or affirmation and either orally or in an affidavit or deposition"
+            },
+            "former testimony": {
+                "definition": "testimony that a witness gives at a different proceeding (as another hearing or a deposition)",
+                "note": " Under Federal Rule of Evidence 804, former testimony is admissible as an exception to the hearsay rule when the declarant is unavailable and if a predecessor in interest in a civil proceeding or the party against whom the testimony is offered had an opportunity and similar motive to develop the testimony."
+            },
+            "negative testimony": {
+                "definition": "testimony concerning what did not happentestimony concerning what one did not perceive [that the witness did not hear a train whistle]",
+                "note": " Negative testimony is sometimes accorded the same weight as positive testimony when the witness was in a position to perceive something and was eagerly attentive.",
+                "negative testimony": "that the witness did not hear a train whistle]"
+            },
+            "opinion testimony": {
+                "definition": "testimony relaying opinion as opposed to direct knowledge of the facts at issue",
+                "note": " Opinion testimony may be allowed in evidence when it helps the factfinder understand or determine the facts at issue. Such testimony by a lay witness must be rationally based on his or her perception. A qualified expert witness may also give opinion testimony. The expert's opinion may be based on facts or data that he or she perceives directly or of which he or she is made aware other than by direct perception at or before trial."
+            },
+            "positive testimony": {
+                "definition": "testimony that presents an affirmative declaration of fact and is based on the personal knowledge of the testifier"
+            },
+            "reputation testimony": {
+                "definition": "testimony concerning a person's reputation among associates or in the community"
+            }
+        },
+        "references": {}
+    }
+}

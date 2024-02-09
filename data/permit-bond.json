@@ -1,0 +1,8 @@
+{
+    "Permit Bond": {
+        "definition": "Permit Bond",
+        "references": {
+            "bond": "https://dictionary.findlaw.com/definition/bond.html"
+        }
+    }
+}

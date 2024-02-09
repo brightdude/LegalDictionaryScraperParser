@@ -1,0 +1,16 @@
+{
+    "John Doe": {
+        "definition": "a party to legal proceedings",
+        "compare": "jane roe",
+        "sub_definitions": {
+            "1": {
+                "1": "a party to legal proceedings (as a suspect) whose true name is unknown or withheld compare",
+                "compares": "jane roe"
+            }
+        },
+        "references": {
+            "jane roe": "https://dictionary.findlaw.com/definition/jane-roe.html",
+            "richard roe": "https://dictionary.findlaw.com/definition/richard-roe.html"
+        }
+    }
+}

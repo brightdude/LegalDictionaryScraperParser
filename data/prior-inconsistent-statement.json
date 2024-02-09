@@ -1,0 +1,16 @@
+{
+    "Prior Inconsistent Statement": {
+        "definition": "a witness's statement made out of court prior to testifying that is inconsistent with the witness's testimony and that may be offered to impeach the witness's credibility compare prior consistent statement NOTE",
+        "compare": "prior consistent statement",
+        "sub_definitions": {
+            "1": {
+                "1": "a witness's statement made out of court prior to testifying that is inconsistent with the witness's testimony and that may be offered to impeach the witness's credibility compare",
+                "compares": "prior consistent statement",
+                "note": " If a prior inconsistent statement was made under oath subject to the penalties of perjury at a previous proceeding (as a deposition or grand jury hearing), the statement is not hearsay under Federal Rule of Evidence 801(d)(1) and may be offered to prove that what was asserted in the statement is true."
+            }
+        },
+        "references": {
+            "prior consistent statement": "https://dictionary.findlaw.com/definition/prior-consistent-statement.html"
+        }
+    }
+}

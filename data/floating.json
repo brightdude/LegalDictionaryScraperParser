@@ -1,0 +1,18 @@
+{
+    "Floating": {
+        "definition": "not presently committed or invested [ capital] 2",
+        "origin": "[ capital]",
+        "sub_definitions": {
+            "1": {
+                "definition": "not presently committed or invested [ capital]"
+            },
+            "2": {
+                "definition": "short-term and usually not funded [ debt]"
+            },
+            "3": {
+                "definition": "having no fixed value or rate [ currencies] [ interest rates]"
+            }
+        },
+        "references": {}
+    }
+}

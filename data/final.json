@@ -1,0 +1,28 @@
+{
+    "Final": {
+        "definition": "ending a court action or proceeding leaving nothing further to be determined by the court or to be done except execution of the judgment but not precluding appeal used of an order",
+        "origin": "[a payment]",
+        "sub_definitions": {
+            "1": {
+                "definition": "ending a court action or proceeding leaving nothing further to be determined by the court or to be done except execution of the judgment but not precluding appeal used of an order, decision, judgment, decree, determination, or sentence see also,compare",
+                "compares": "interlocutory",
+                "see also": "finality"
+            },
+            "2": {
+                "definition": "being a decision that precludes the right to appeal or to continue a case in any other court upon the merits",
+                "sub_terms": {
+                    "a": "being a decision for which availability of appeal has been exhausted and concerning which a writ of certiorari has been denied or the time to petition for certiorari has expired",
+                    "b": "being a decision of the Supreme Court of the U.S. that terminates the litigation between parties on the merits and leaves nothing for the lower court to do in case of an affirmance except to execute the judgment"
+                }
+            },
+            "3": {
+                "definition": "being the last in a series, process, or progress [a payment]"
+            }
+        },
+        "references": {
+            "finality": "https://dictionary.findlaw.com/definition/finality.html",
+            "final judgment rule": "https://dictionary.findlaw.com/definition/final-judgment-rule.html",
+            "interlocutory": "https://dictionary.findlaw.com/definition/interlocutory.html"
+        }
+    }
+}

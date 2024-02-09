@@ -1,0 +1,27 @@
+{
+    "Array": {
+        "definition": "to set",
+        "compare": "impanel",
+        "sub_definitions": {
+            "1": {
+                "1": "to set (a jury) for trial"
+            },
+            "2": {
+                "1": "to set (a jury) by calling out the names of the jurors one at a time compare",
+                "compares": "impanel"
+            },
+            "3": {
+                "1": "the group of people summoned to serve as jurors from which the jury will be chosen"
+            },
+            "4": {
+                "1": "a list of the jurors' names see also",
+                "compares": "venire"
+            }
+        },
+        "references": {
+            "impanel": "https://dictionary.findlaw.com/definition/impanel.html",
+            "challenge": "https://dictionary.findlaw.com/definition/challenge.html",
+            "venire": "https://dictionary.findlaw.com/definition/venire.html"
+        }
+    }
+}

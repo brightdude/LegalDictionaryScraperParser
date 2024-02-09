@@ -1,0 +1,8 @@
+{
+    "Unsecured Creditor": {
+        "definition": "Unsecured Creditor",
+        "references": {
+            "creditor": "https://dictionary.findlaw.com/definition/creditor.html"
+        }
+    }
+}

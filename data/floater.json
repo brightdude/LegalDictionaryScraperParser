@@ -1,0 +1,17 @@
+{
+    "Floater": {
+        "definition": "a policy or supplemental attachment to a policy insuring specific items of personal property",
+        "sub_definitions": {
+            "1": {
+                "definition": "from the notion that the policy “floats” with the goods it insures, wherever they might be locateda policy or supplemental attachment to a policy insuring specific items of personal property (as jewelry or art)a policy of insurance to protect against loss or damage of goods in transit or goods (as jewels) naturally subject to use in various places called also"
+            },
+            "2": {
+                "definition": "a debt security that yields an indexed variable rate of interestat"
+            }
+        },
+        "references": {
+            "floating rate note": "https://dictionary.findlaw.com/definition/floating-rate-note.html",
+            "note": "https://dictionary.findlaw.com/definition/note.html"
+        }
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "Marriage Certificate": {
+        "definition": "a document which certifies that a marriage has taken place",
+        "sub_definitions": {
+            "1": {
+                "1": "a document which certifies that a marriage has taken place, which contains information (as time and place) about the ceremony, and which is signed by the parties, witnesses, and officiant"
+            }
+        },
+        "references": {}
+    }
+}

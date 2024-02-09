@@ -1,0 +1,24 @@
+{
+    "Utility": {
+        "definition": "-ties 1",
+        "origin": "[paid for rent and utilities ]",
+        "sub_definitions": {
+            "1": {
+                "definition": "fitness for some purpose or worth to some end"
+            },
+            "2 a": {
+                "sub_terms": {
+                    "b": "a service or commodity provided by a public utility [paid for rent and]equipment or material used in providing such a service or commodity [an easement limited to purposes of travel which does not include the right to install\", 412 A.2d 84 (1980)\"]"
+                },
+                "Ware v. Public Serv. Co.": "412 A.2d 84 (1980)"
+            },
+            "3": {
+                "definition": "stocks or bonds of utility companies [performed poorly]",
+                "utilities": "performed poorly]"
+            }
+        },
+        "references": {
+            "public utility": "https://dictionary.findlaw.com/definition/public-utility.html"
+        }
+    }
+}

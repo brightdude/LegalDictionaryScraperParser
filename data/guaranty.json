@@ -1,0 +1,27 @@
+{
+    "Guaranty": {
+        "definition": "-ties [Old French garantie",
+        "origin": "[Old French garantie , from garantir to guarantee, from garant warrant]",
+        "sub_definitions": {
+            "-ties": {
+                "definition": "[Old French, fromto guarantee, fromwarrant]"
+            },
+            "1": {
+                "definition": "a pledge to pay another's debt or to perform another's duty in case of the other's default or inadequate performance compare",
+                "compares": "letter of credit"
+            },
+            "4": {
+                "definition": "something given as security"
+            },
+            "5": {
+                "definition": "the protection of a right afforded by legal provision (as in a constitution)"
+            }
+        },
+        "references": {
+            "letter of credit": "https://dictionary.findlaw.com/definition/letter-of-credit.html",
+            "guarantee": "https://dictionary.findlaw.com/definition/guarantee.html",
+            "guarantor": "https://dictionary.findlaw.com/definition/guarantor.html",
+            "pledge": "https://dictionary.findlaw.com/definition/pledge.html"
+        }
+    }
+}

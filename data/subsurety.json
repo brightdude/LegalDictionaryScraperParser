@@ -1,0 +1,11 @@
+{
+    "Subsurety": {
+        "definition": "one who is a surety along with another surety who may be liable for the entire loss upon the default of the principal",
+        "sub_definitions": {
+            "1": {
+                "1": "one who is a surety along with another surety who may be liable for the entire loss upon the default of the principal"
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "Fair Trial": {
+        "definition": "a trial that is conducted fairly",
+        "sub_definitions": {
+            "1": {
+                "1": "a trial that is conducted fairly, justly, and with procedural regularity by an impartial judge and in which the defendant is afforded his or her rights under the U.S. Constitution or the appropriate state constitution or other law",
+                "note": " Among the factors used to determine whether a defendant received a fair trial are these: the effectiveness of the assistance of counsel, the opportunity to present evidence and witnesses, the opportunity to rebut the opposition's evidence and cross-examine the opposition's witnesses, the presence of an impartial jury, and the judge's freedom from bias."
+            }
+        },
+        "references": {}
+    }
+}

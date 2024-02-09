@@ -1,0 +1,11 @@
+{
+    "Nonproprietary": {
+        "definition": "not proprietary",
+        "sub_definitions": {
+            "1": {
+                "1": "not proprietary"
+            }
+        },
+        "references": {}
+    }
+}

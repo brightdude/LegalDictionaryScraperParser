@@ -1,0 +1,25 @@
+{
+    "Holding": {
+        "definition": "a ruling of a court upon an issue of law raised in a case",
+        "origin": "[an increase in the company's s ]",
+        "sub_definitions": {
+            "1": {
+                "definition": "a ruling of a court upon an issue of law raised in a casethe pronouncement of law supported by the reasoning in a court's opinion compare,,,,,,,",
+                "compares": "decision"
+            },
+            "2": {
+                "definition": "any property that is owned or possessed usually used in pl. [an increase in the company's]adjintended for temporary custody or detention [a facility] [a cell]"
+            }
+        },
+        "references": {
+            "decision": "https://dictionary.findlaw.com/definition/decision.html",
+            "dictum": "https://dictionary.findlaw.com/definition/dictum.html",
+            "disposition": "https://dictionary.findlaw.com/definition/disposition.html",
+            "finding": "https://dictionary.findlaw.com/definition/finding.html",
+            "judgment": "https://dictionary.findlaw.com/definition/judgment.html",
+            "opinion": "https://dictionary.findlaw.com/definition/opinion.html",
+            "ruling": "https://dictionary.findlaw.com/definition/ruling.html",
+            "verdict": "https://dictionary.findlaw.com/definition/verdict.html"
+        }
+    }
+}

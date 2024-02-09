@@ -1,0 +1,20 @@
+{
+    "Follow": {
+        "definition": "to be in accordance with",
+        "compare": "precedent",
+        "sub_definitions": {
+            "1": {
+                "1": "to be in accordance with (a prior decision)"
+            },
+            "2": {
+                "1": "accept as authoritative see also",
+                "see also": "precedent",
+                "compares": "overrule"
+            }
+        },
+        "references": {
+            "precedent": "https://dictionary.findlaw.com/definition/precedent.html",
+            "overrule": "https://dictionary.findlaw.com/definition/overrule.html"
+        }
+    }
+}

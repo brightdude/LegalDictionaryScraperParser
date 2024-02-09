@@ -1,0 +1,22 @@
+{
+    "Offense": {
+        "definition": "a violation of the law ;esp",
+        "origin": "[ə-fens]",
+        "sub_definitions": {
+            "1": {
+                "definition": "a violation of the lawa criminal act [nor shall any person be subject for the same to be twice put in jeopardy \"amend. V\"] see also",
+                "see also": "lesser included offense",
+                "U.S. Constitution": "amend. V\"] see also"
+            },
+            "2": {
+                "definition": "an intentional unlawful act that causes damage to another and for which the law imposes an obligation for damages compareat,",
+                "note": " Breach of contract, offenses, quasi-offenses, and quasi contracts are the bases for civil liability under the civil law. Offenses and quasi-offenses are comparable to common-law torts."
+            }
+        },
+        "references": {
+            "lesser included offense": "https://dictionary.findlaw.com/definition/lesser-included-offense.html",
+            "contract": "https://dictionary.findlaw.com/definition/contract.html",
+            "quasi-offense": "https://dictionary.findlaw.com/definition/quasi-offense.html"
+        }
+    }
+}

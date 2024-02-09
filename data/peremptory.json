@@ -1,0 +1,24 @@
+{
+    "Peremptory": {
+        "definition": "permitting no dispute",
+        "origin": "[Late Latin peremptorius , from Latin, destructive, from perimere to take entirely, destroy]",
+        "sub_definitions": {
+            "1": {
+                "definition": "permitting no dispute, alternative, or delaynot providing an opportunity to show cause why one should not comply [when the right to require the performance of the act is clear and it is apparent that no valid excuse can be given for not performing it, a mandamus may be allowed \"\"]"
+            },
+            "2": {
+                "definition": "not requiring cause see alsoat"
+            },
+            "pe·remp·to·ri·ness   [-remp-tə-rē-nəs]n": {
+                "definition": "n"
+            },
+            "-ries": {
+                "definition": "at"
+            }
+        },
+        "references": {
+            "challenge": "https://dictionary.findlaw.com/definition/challenge.html",
+            "peremptory challenge": "https://dictionary.findlaw.com/definition/peremptory-challenge.html"
+        }
+    }
+}

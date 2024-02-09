@@ -1,0 +1,21 @@
+{
+    "Calendar": {
+        "definition": "a list of cases ready to be heard on a procedural action [the motion ] ;specif",
+        "origin": "[the motion ]",
+        "sub_definitions": {
+            "1": {
+                "definition": "a list of cases ready to be heard on a procedural action [the motion ]a list of cases ready for trial called alsocompare",
+                "note": " Generally it is up to the party that wants to go to trial to have a case placed on the calendar. The party must file with the court a notice that the case is ready for trial and that a jury trial, if desired, is demanded.",
+                "compares": "docket"
+            },
+            "2": {
+                "definition": "a list of bills or other items reported out of committee for consideration by a legislative assemblyvtto place (a case) on a calendar [the Appellate Division, Second Department, is nowcivil appeals \"\"] compare",
+                "compares": "docket",
+                "ing": "civil appeals \""
+            }
+        },
+        "references": {
+            "docket": "https://dictionary.findlaw.com/definition/docket.html"
+        }
+    }
+}

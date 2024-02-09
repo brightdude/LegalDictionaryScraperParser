@@ -1,0 +1,14 @@
+{
+    "Belligerent": {
+        "definition": "waging war",
+        "sub_definitions": {
+            "1": {
+                "definition": "waging warcarrying on warbelonging to or recognized as an organized military power protected by and subject to the laws of war"
+            },
+            "2": {
+                "definition": "inclined to or exhibiting hostility or a combative temperamentna belligerent nation, state, or person"
+            }
+        },
+        "references": {}
+    }
+}

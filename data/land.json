@@ -1,0 +1,18 @@
+{
+    "Land": {
+        "definition": "an area of the earth usually inclusive of improvements",
+        "origin": "[ means both surface and mineral rights \" California Public Resources Code \"]",
+        "sub_definitions": {
+            "1": {
+                "definition": "an area of the earth usually inclusive of improvements, bodies of water, and natural or man-made objects and extending indefinitely upward and downward compare",
+                "compares": "air right"
+            },
+            "2": {
+                "definition": "an estate, interest, or right in land [ means both surface and mineral rights \"\"]"
+            }
+        },
+        "references": {
+            "air right": "https://dictionary.findlaw.com/definition/air-right.html"
+        }
+    }
+}

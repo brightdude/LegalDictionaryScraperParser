@@ -1,0 +1,13 @@
+{
+    "Special Permit": {
+        "definition": "special exception",
+        "sub_definitions": {
+            "1": {
+                "1": "special exception"
+            }
+        },
+        "references": {
+            "special exception": "https://dictionary.findlaw.com/definition/special-exception.html"
+        }
+    }
+}

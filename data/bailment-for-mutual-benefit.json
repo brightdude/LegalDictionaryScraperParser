@@ -1,0 +1,9 @@
+{
+    "Bailment For Mutual Benefit": {
+        "definition": "bailment for hire at bailment",
+        "references": {
+            "bailment for hire": "https://dictionary.findlaw.com/definition/bailment-for-hire.html",
+            "bailment": "https://dictionary.findlaw.com/definition/bailment.html"
+        }
+    }
+}

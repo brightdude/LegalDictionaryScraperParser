@@ -1,0 +1,49 @@
+{
+    "Homicide": {
+        "definition": "a person who kills another 2",
+        "origin": "[Latin homicidium , from homo human being + caedere to cut, kill]",
+        "sub_definitions": {
+            "1": {
+                "definition": "a person who kills another"
+            },
+            "2": {
+                "definition": "the killing of one human being by another compare,",
+                "compares": "manslaughter"
+            },
+            "criminal homicide": {
+                "definition": "homicide committed by a person with a criminal state of mind (as intentionally, with premeditation, knowingly, recklessly, or with criminal negligence)"
+            },
+            "deliberate homicide": {
+                "definition": "homicide caused purposely and knowingly used in Montana"
+            },
+            "excusable homicide": {
+                "definition": "homicide that is committed by accident or misfortune by a person doing a lawful act by lawful means with usual and ordinary caution and without any unlawful intent and that is excused under the law with no criminal punishment imposedin this entry"
+            },
+            "felonious homicide": {
+                "definition": "homicide committed without justification"
+            },
+            "homicide by misadventure": {
+                "definition": "homicide that occurs as the result of an accident caused by a person doing a lawful act with no unlawful intent"
+            },
+            "justifiable homicide": {
+                "definition": "homicide that is committed in self-defense, in defense of another and esp. a member of one's family or sometimes in defense of a residence, in preventing a felony esp. involving great bodily harm, or in performing a legal duty and that is justified under the law with no criminal punishment imposedin this entry"
+            },
+            "negligent homicide": {
+                "definition": "homicide caused by a person's criminally negligent act"
+            },
+            "reckless homicide": {
+                "definition": "homicide caused by a person's reckless acts",
+                "note": " In Illinois, involuntary manslaughter committed by use of a motor vehicle is called reckless homicide."
+            },
+            "ve·hic·u·lar homicide": {
+                "definition": "[vē-hi-kyə-lər-]homicide committed by the use of a vehicle (as an automobile or boat)"
+            }
+        },
+        "references": {
+            "manslaughter": "https://dictionary.findlaw.com/definition/manslaughter.html",
+            "murder": "https://dictionary.findlaw.com/definition/murder.html",
+            "justifiable homicide": "https://dictionary.findlaw.com/definition/justifiable-homicide.html",
+            "excusable homicide": "https://dictionary.findlaw.com/definition/excusable-homicide.html"
+        }
+    }
+}

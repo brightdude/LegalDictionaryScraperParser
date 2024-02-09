@@ -1,0 +1,15 @@
+{
+    "Main Purpose Rule": {
+        "definition": "a doctrine in contract law",
+        "compare": "statute of frauds",
+        "sub_definitions": {
+            "1": {
+                "1": "a doctrine in contract law: a promise to pay the debt of another need not be in writing to be enforceable if the promisor was motivated by a desire for advantage or benefit called also",
+                "compares": "statute of frauds"
+            }
+        },
+        "references": {
+            "statute of frauds": "https://dictionary.findlaw.com/definition/statute-of-frauds.html"
+        }
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "Child": {
+        "definition": "chil·dren 1",
+        "origin": "[assault on a under 16 years of age]",
+        "sub_definitions": {
+            "1": {
+                "definition": "a son or daughter of any age and usually including one formally adopted compare",
+                "note": " The wordchildas used in a statute or will is often held to include a stepchild, an illegitimate child, a person for whom one stands in loco parentis, or sometimes a more remote descendant, such as a grandchild. In interpreting the wordchildas used in a will, the court will try to effectuate the intent of the person who made the will as it can be determined from the language of the will.",
+                "compares": "issue"
+            },
+            "2": {
+                "definition": "a person below an age specified by law[assault on a under 16 years of age] compare",
+                "note": " A person who is below the statutory age but is married will usually be considered an adult.",
+                "compares": "adult"
+            }
+        },
+        "references": {
+            "issue": "https://dictionary.findlaw.com/definition/issue.html",
+            "infant": "https://dictionary.findlaw.com/definition/infant.html",
+            "minor": "https://dictionary.findlaw.com/definition/minor.html",
+            "adult": "https://dictionary.findlaw.com/definition/adult.html"
+        }
+    }
+}

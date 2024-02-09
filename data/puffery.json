@@ -1,0 +1,13 @@
+{
+    "Puffery": {
+        "definition": "puffing",
+        "sub_definitions": {
+            "1": {
+                "1": "puffing"
+            }
+        },
+        "references": {
+            "puffing": "https://dictionary.findlaw.com/definition/puffing.html"
+        }
+    }
+}

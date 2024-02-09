@@ -1,0 +1,11 @@
+{
+    "Condemnee": {
+        "definition": "the owner of property that is condemned",
+        "sub_definitions": {
+            "1": {
+                "1": "the owner of property that is condemned"
+            }
+        },
+        "references": {}
+    }
+}

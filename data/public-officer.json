@@ -1,0 +1,11 @@
+{
+    "Public Officer": {
+        "definition": "a person who has been elected or appointed to a public office",
+        "sub_definitions": {
+            "1": {
+                "1": "a person who has been elected or appointed to a public office"
+            }
+        },
+        "references": {}
+    }
+}

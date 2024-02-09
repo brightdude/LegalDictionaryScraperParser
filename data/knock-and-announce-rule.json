@@ -1,0 +1,16 @@
+{
+    "Knock And Announce Rule": {
+        "definition": "a rule of criminal procedure requiring that police announce their authority and purpose before entering a premises in execution of a search or arrest warrant unless special circumstances",
+        "compare": "exigent circumstances",
+        "sub_definitions": {
+            "1": {
+                "1": "a rule of criminal procedure requiring that police announce their authority and purpose before entering a premises in execution of a search or arrest warrant unless special circumstances (as risk of harm to the police) warrant unannounced or forcible entry compare",
+                "compares": "exigent circumstances"
+            }
+        },
+        "references": {
+            "exigent circumstances": "https://dictionary.findlaw.com/definition/exigent-circumstances.html",
+            "warrant": "https://dictionary.findlaw.com/definition/warrant.html"
+        }
+    }
+}

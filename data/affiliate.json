@@ -1,0 +1,23 @@
+{
+    "Affiliate": {
+        "definition": "to bring or receive into close association as a member or division 2",
+        "origin": "[has just affiliated with the huge corporation]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to bring or receive into close association as a member or division"
+            },
+            "2": {
+                "definition": "to join or associate as a member or divisionto connect or associate oneself usually used with[has justwith the huge corporation]",
+                "affiliated": "with the huge corporation]"
+            },
+            "af·fil·i·a·tion   [ə-fi-lē-ā-shən]n": {
+                "definition": "[ə-fi-lē-ət] nan affiliated person or organizationa business entity effectively controlling or controlled by another or associated with others under common ownership or control compare,",
+                "compares": "parent"
+            }
+        },
+        "references": {
+            "parent": "https://dictionary.findlaw.com/definition/parent.html",
+            "subsidiary": "https://dictionary.findlaw.com/definition/subsidiary.html"
+        }
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "Jus Privatum": {
+        "definition": "a right of private ownership compare jus publicum",
+        "origin": "[New Latin, from Latin, private law or right]",
+        "compare": "jus publicum",
+        "sub_definitions": {
+            "1": {
+                "1": "a right of private ownership compare",
+                "compares": "jus publicum"
+            }
+        },
+        "references": {
+            "jus publicum": "https://dictionary.findlaw.com/definition/jus-publicum.html"
+        }
+    }
+}

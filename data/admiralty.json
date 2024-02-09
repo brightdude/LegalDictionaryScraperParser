@@ -1,0 +1,16 @@
+{
+    "Admiralty": {
+        "definition": "the court having jurisdiction over questions of maritime law ;also",
+        "sub_definitions": {
+            "1": {
+                "1": "the court having jurisdiction over questions of maritime law"
+            },
+            "2": {
+                "1": "maritime law"
+            }
+        },
+        "references": {
+            "maritime law": "https://dictionary.findlaw.com/definition/maritime-law.html"
+        }
+    }
+}

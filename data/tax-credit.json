@@ -1,0 +1,15 @@
+{
+    "Tax Credit": {
+        "definition": "an amount that may be subtracted from the sum of tax otherwise due and that is distinguished from a deduction applied to gross income in the calculation of taxable income compare exemption",
+        "compare": "exemption",
+        "sub_definitions": {
+            "1": {
+                "1": "an amount that may be subtracted from the sum of tax otherwise due and that is distinguished from a deduction applied to gross income in the calculation of taxable income compare",
+                "compares": "exemption"
+            }
+        },
+        "references": {
+            "exemption": "https://dictionary.findlaw.com/definition/exemption.html"
+        }
+    }
+}

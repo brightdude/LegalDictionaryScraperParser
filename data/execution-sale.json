@@ -1,0 +1,8 @@
+{
+    "Execution Sale": {
+        "definition": "Execution Sale",
+        "references": {
+            "sale": "https://dictionary.findlaw.com/definition/sale.html"
+        }
+    }
+}

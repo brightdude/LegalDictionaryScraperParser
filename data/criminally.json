@@ -1,0 +1,15 @@
+{
+    "Criminally": {
+        "definition": "according to criminal law [ liable] [ insane] 2",
+        "origin": "[ liable]",
+        "sub_definitions": {
+            "1": {
+                "definition": "according to criminal law [ liable] [ insane]"
+            },
+            "2": {
+                "definition": "in a manner that constitutes a crime [ negligent]"
+            }
+        },
+        "references": {}
+    }
+}

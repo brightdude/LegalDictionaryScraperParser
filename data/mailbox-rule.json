@@ -1,0 +1,14 @@
+{
+    "Mailbox Rule": {
+        "definition": "a rule treating the sending of something as constituting a filing or as a basis for assuming receipt ;specif",
+        "sub_definitions": {
+            "1": {
+                "1": "a rule treating the sending of something as constituting a filing or as a basis for assuming receipt"
+            },
+            "2": {
+                "1": "a rule in contract law: a notice of acceptance of an offer sent to the offeror by reasonable means or as agreed by the parties is effective and is not affected by any notice of revocation of the offer subsequently received"
+            }
+        },
+        "references": {}
+    }
+}

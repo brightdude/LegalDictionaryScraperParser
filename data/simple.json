@@ -1,0 +1,21 @@
+{
+    "Simple": {
+        "definition": "oral or written but not under seal or of record 2",
+        "origin": "[ kidnapping]",
+        "sub_definitions": {
+            "1": {
+                "definition": "oral or written but not under seal or of record"
+            },
+            "2": {
+                "definition": "not extreme, aggravated, or complicated [ kidnapping]"
+            },
+            "3": {
+                "definition": "having no limitations or restrictions see also",
+                "see also": "fee simple"
+            }
+        },
+        "references": {
+            "fee simple": "https://dictionary.findlaw.com/definition/fee-simple.html"
+        }
+    }
+}

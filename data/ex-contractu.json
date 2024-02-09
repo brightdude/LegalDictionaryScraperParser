@@ -1,0 +1,16 @@
+{
+    "Ex Contractu": {
+        "definition": "arising from or based on a contract [damages ex contractu ] compare ex delicto",
+        "origin": "[Latin]",
+        "compare": "ex delicto",
+        "sub_definitions": {
+            "1": {
+                "1": "arising from or based on a contract [damages",
+                "compares": "ex delicto"
+            }
+        },
+        "references": {
+            "ex delicto": "https://dictionary.findlaw.com/definition/ex-delicto.html"
+        }
+    }
+}

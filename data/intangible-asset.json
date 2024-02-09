@@ -1,0 +1,8 @@
+{
+    "Intangible Asset": {
+        "definition": "Intangible Asset",
+        "references": {
+            "asset": "https://dictionary.findlaw.com/definition/asset.html"
+        }
+    }
+}

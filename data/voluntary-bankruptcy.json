@@ -1,0 +1,14 @@
+{
+    "Voluntary Bankruptcy": {
+        "definition": "bankruptcy declared upon petition of the debtor see also bankruptcy",
+        "sub_definitions": {
+            "1": {
+                "1": "bankruptcy declared upon petition of the debtor see also",
+                "see also": "bankruptcy"
+            }
+        },
+        "references": {
+            "bankruptcy": "https://dictionary.findlaw.com/definition/bankruptcy.html"
+        }
+    }
+}

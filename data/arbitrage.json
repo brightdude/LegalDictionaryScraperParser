@@ -1,0 +1,15 @@
+{
+    "Arbitrage": {
+        "definition": "the purchase of a security",
+        "origin": "[French, literally, arbitration, decision-making]",
+        "sub_definitions": {
+            "1": {
+                "definition": "the purchase of a security, commodity, or foreign currency in one market for the purpose of immediately selling it at a higher price in another market"
+            },
+            "2": {
+                "definition": "the purchase of the stock of a takeover target esp. for the purpose of selling it to the raider for a profit"
+            }
+        },
+        "references": {}
+    }
+}

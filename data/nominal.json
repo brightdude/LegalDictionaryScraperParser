@@ -1,0 +1,24 @@
+{
+    "Nominal": {
+        "definition": "existing or being something in name or form but usually not in reality [defenses…raised by the corporation as defendant in a derivative suit \"R. C. Clark\"] 2",
+        "origin": "[defenses…raised by the corporation as defendant in a derivative suit \"R. C. Clark\"]",
+        "sub_definitions": {
+            "1": {
+                "definition": "existing or being something in name or form but usually not in reality [defenses…raised by the corporation as defendant in a derivative suit \"R. C. Clark\"]"
+            },
+            "2": {
+                "definition": "being so small or trivial as to be a mere token [charging a fee]"
+            },
+            "3": {
+                "sub_terms": {
+                    "a": "equal to the annual rate of simple interest that would obtain if interest were not compounded when in fact it is compounded and paid for periods of less than a year",
+                    "b": "equal to the percentage by which a repaid loan exceeds the principal borrowed with no adjustment made for inflation compare"
+                },
+                "compares": "effective"
+            }
+        },
+        "references": {
+            "effective": "https://dictionary.findlaw.com/definition/effective.html"
+        }
+    }
+}

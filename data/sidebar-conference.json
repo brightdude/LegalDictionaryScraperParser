@@ -1,0 +1,11 @@
+{
+    "Sidebar Conference": {
+        "definition": "a conference between the judge",
+        "sub_definitions": {
+            "1": {
+                "1": "a conference between the judge, the lawyers, and sometimes the parties to a case that the jury does not hear"
+            }
+        },
+        "references": {}
+    }
+}

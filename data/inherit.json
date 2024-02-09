@@ -1,0 +1,17 @@
+{
+    "Inherit": {
+        "definition": "to receive",
+        "origin": "[Middle French enheriter to make one an heir, from Late Latin inhereditare , from Latin in- in + hereditas inheritance]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to receive (property) from an estate by operation of the laws of intestacyto receive (property) either by will or through intestate succession"
+            },
+            "2": {
+                "definition": "to take or hold a possession or rights by inheritance"
+            }
+        },
+        "references": {
+            "succeed": "https://dictionary.findlaw.com/definition/succeed.html"
+        }
+    }
+}

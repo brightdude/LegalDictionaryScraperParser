@@ -1,0 +1,13 @@
+{
+    "Criminal Attempt": {
+        "definition": "attempt",
+        "sub_definitions": {
+            "1": {
+                "1": "attempt"
+            }
+        },
+        "references": {
+            "attempt": "https://dictionary.findlaw.com/definition/attempt.html"
+        }
+    }
+}

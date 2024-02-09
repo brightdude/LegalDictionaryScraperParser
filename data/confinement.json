@@ -1,0 +1,14 @@
+{
+    "Confinement": {
+        "definition": "the act of confining 2",
+        "sub_definitions": {
+            "1": {
+                "definition": "the act of confining"
+            },
+            "2": {
+                "definition": "the state of being confined"
+            }
+        },
+        "references": {}
+    }
+}

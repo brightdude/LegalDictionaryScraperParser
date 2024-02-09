@@ -1,0 +1,18 @@
+{
+    "Share": {
+        "definition": "a portion belonging to",
+        "origin": "[a joint tortfeasor is liable for her of the damages]",
+        "sub_definitions": {
+            "1": {
+                "definition": "a portion belonging to, due to, or due from an individual [a joint tortfeasor is liable for her of the damages]the part allotted or belonging to one of a number owning together any property or interest [the of a joint tenant] [his passed to his widow]"
+            },
+            "2 a": {
+                "definition": "any of the equal interests into which ownership of something (as a fund) is dividedany of the equal interests or rights into which the entire capital stock of a corporation is divided",
+                "sub_terms": {
+                    "b": "a certificate representing such a share"
+                }
+            }
+        },
+        "references": {}
+    }
+}

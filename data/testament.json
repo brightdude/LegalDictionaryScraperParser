@@ -1,0 +1,17 @@
+{
+    "Testament": {
+        "definition": "an act by which a person determines the disposition of his or her property after death [a of property] 2",
+        "origin": "[Latin testamentum , from testari to call as a witness, make a will, from testis witness]",
+        "sub_definitions": {
+            "1": {
+                "definition": "an act by which a person determines the disposition of his or her property after death [a of property]"
+            },
+            "2": {
+                "note": " A testament was formerly concerned specifically with personal property, as in the phraselast will and testament. Now a will covers both personal and real property and the termswillandtestamentare generally synonymous, but the phrase lives on."
+            }
+        },
+        "references": {
+            "will": "https://dictionary.findlaw.com/definition/will.html"
+        }
+    }
+}

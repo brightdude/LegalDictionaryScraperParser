@@ -1,0 +1,17 @@
+{
+    "Additur": {
+        "definition": "the increase by a court of the jury's award of damages which the court deems insufficient compare remittitur NOTE",
+        "origin": "[Latin, it is increased]",
+        "compare": "remittitur",
+        "sub_definitions": {
+            "1": {
+                "1": "the increase by a court of the jury's award of damages which the court deems insufficient compare",
+                "compares": "remittitur",
+                "note": " The Supreme Court held inDimick v. Schiedt, 293 U.S. 474 (1935) that additur violates the Seventh Amendment and so is not permissible in federal courts. Many state courts allow additur, however, when the defendant agrees to the increased award on the condition that the court deny plaintiff's motion for a new trial."
+            }
+        },
+        "references": {
+            "remittitur": "https://dictionary.findlaw.com/definition/remittitur.html"
+        }
+    }
+}

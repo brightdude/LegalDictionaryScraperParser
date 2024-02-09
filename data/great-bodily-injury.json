@@ -1,0 +1,14 @@
+{
+    "Great Bodily Injury": {
+        "definition": "physical injury suffered by the victim of a violent crime that causes a substantial risk of death",
+        "sub_definitions": {
+            "1": {
+                "1": "physical injury suffered by the victim of a violent crime that causes a substantial risk of death, extended loss or impairment of a body part or function, or permanent disfigurement"
+            },
+            "2": {
+                "1": "physical injury that is more serious than that ordinarily suffered in a battery"
+            }
+        },
+        "references": {}
+    }
+}

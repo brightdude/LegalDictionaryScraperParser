@@ -1,0 +1,12 @@
+{
+    "Fixed Rate": {
+        "definition": "a rate",
+        "origin": "[a mortgage with a fixed rate ]",
+        "sub_definitions": {
+            "1": {
+                "1": "a rate (as of interest) that stays the same [a mortgage with a"
+            }
+        },
+        "references": {}
+    }
+}

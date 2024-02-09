@@ -1,0 +1,22 @@
+{
+    "Represent": {
+        "definition": "to substitute in some capacity for",
+        "sub_definitions": {
+            "1": {
+                "definition": "to substitute in some capacity foract the part of, in place of, or for (as another person) usually by legal right",
+                "sub_terms": {
+                    "a": "to serve esp. in a legislative body by delegated authority usually resulting from an election",
+                    "b": "to provide legal representation to as a lawyer",
+                    "c": "to act as the representative of in a class action"
+                }
+            },
+            "2 a": {
+                "definition": "to describe as having a specified character or quality",
+                "sub_terms": {
+                    "b": "to give one's impression and judgment ofstate in a manner intended to affect action or judgment"
+                }
+            }
+        },
+        "references": {}
+    }
+}

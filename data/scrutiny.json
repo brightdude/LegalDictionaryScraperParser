@@ -1,0 +1,17 @@
+{
+    "Scrutiny": {
+        "definition": "-nies",
+        "sub_definitions": {
+            "-nies": {
+                "definition": "searching study or inquiryjudicial investigation of the constitutionality of a statutory classification of persons under the equal protection clause of the U.S. Constitution see also,compare",
+                "compares": "rational basis test",
+                "see also": "intermediate"
+            }
+        },
+        "references": {
+            "intermediate": "https://dictionary.findlaw.com/definition/intermediate.html",
+            "strict scrutiny": "https://dictionary.findlaw.com/definition/strict-scrutiny.html",
+            "rational basis test": "https://dictionary.findlaw.com/definition/rational-basis-test.html"
+        }
+    }
+}

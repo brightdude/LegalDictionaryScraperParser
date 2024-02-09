@@ -1,0 +1,20 @@
+{
+    "Delinquency": {
+        "definition": "-cies 1 a",
+        "origin": "[contributing to the of a minor]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "the quality or state of being delinquent",
+                "sub_terms": {
+                    "b": "[contributing to the of a minor]"
+                }
+            },
+            "2": {
+                "definition": "a debt on which payment is overdue [consumer loan]"
+            }
+        },
+        "references": {
+            "juvenile delinquency": "https://dictionary.findlaw.com/definition/juvenile-delinquency.html"
+        }
+    }
+}

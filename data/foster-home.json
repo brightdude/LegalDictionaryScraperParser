@@ -1,0 +1,11 @@
+{
+    "Foster Home": {
+        "definition": "a household in which care is provided to a child who has been orphaned or removed from the home of his or her natural parents",
+        "sub_definitions": {
+            "1": {
+                "1": "a household in which care is provided to a child who has been orphaned or removed from the home of his or her natural parents (as for reasons of abuse, neglect, or delinquency)"
+            }
+        },
+        "references": {}
+    }
+}

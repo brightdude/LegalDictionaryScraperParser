@@ -1,0 +1,14 @@
+{
+    "Survivorship": {
+        "definition": "the right of one or more joint tenants who have survived another to take the interest of the person who has died 2",
+        "sub_definitions": {
+            "1": {
+                "definition": "the right of one or more joint tenants who have survived another to take the interest of the person who has died"
+            },
+            "2": {
+                "definition": "the state of being a survivor"
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "Reverter": {
+        "definition": "reversion 2",
+        "origin": "[Anglo-French, from reverter to return, from Old French revertir to return, revert, from Latin revertere to turn back]",
+        "sub_definitions": {
+            "2": {
+                "note": " Althoughreversionandpossibility of reverterorreverterare sometimes used synonymously, many authorities disapprove such use."
+            }
+        },
+        "references": {
+            "reversion": "https://dictionary.findlaw.com/definition/reversion.html",
+            "possibility of reverter": "https://dictionary.findlaw.com/definition/possibility-of-reverter.html"
+        }
+    }
+}

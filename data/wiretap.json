@@ -1,0 +1,27 @@
+{
+    "Wiretap": {
+        "definition": "to engage in wiretapping [had probable cause to ] vt",
+        "origin": "[had probable cause to ]",
+        "sub_definitions": {
+            "-tap·ping": {
+                "definition": "to engage in wiretapping [had probable cause to ]to interpret through wiretapping [atelephone conversation]to connect to the telephone line of for the purpose of wiretapping [her home] compare,n",
+                "compares": "bug",
+                "wiretapped": "her home] compare"
+            },
+            "1": {
+                "definition": "an act or instance of wiretapping [we have held previously thatare a form of a search \", 615 A.2d 1226 (1992)\"]",
+                "s": "are a form of a search \"",
+                "Whack v. State": "615 A.2d 1226 (1992)"
+            },
+            "2": {
+                "definition": "an electrical connection for wiretapping compare",
+                "compares": "pen register"
+            }
+        },
+        "references": {
+            "bug": "https://dictionary.findlaw.com/definition/bug.html",
+            "eavesdrop": "https://dictionary.findlaw.com/definition/eavesdrop.html",
+            "pen register": "https://dictionary.findlaw.com/definition/pen-register.html"
+        }
+    }
+}

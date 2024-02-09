@@ -1,0 +1,21 @@
+{
+    "Lis Pendens": {
+        "definition": "a pending suit 2",
+        "origin": "[Latin]",
+        "sub_definitions": {
+            "1": {
+                "definition": "a pending suit"
+            },
+            "2": {
+                "definition": "a written notice of a pending suit involving property usually filed in the appropriate office (as a registry of deeds) called also"
+            },
+            "3 a": {
+                "definition": "the jurisdiction and control of the court over property involved in a pending suit",
+                "sub_terms": {
+                    "b": "a doctrine under which one purchasing an interest in property involved in a pending suit does so subject to the adjudication of the rights of the parties to the suit"
+                }
+            }
+        },
+        "references": {}
+    }
+}

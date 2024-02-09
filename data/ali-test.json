@@ -1,0 +1,13 @@
+{
+    "Ali Test": {
+        "definition": "substantial capacity test",
+        "sub_definitions": {
+            "1": {
+                "1": "substantial capacity test"
+            }
+        },
+        "references": {
+            "substantial capacity test": "https://dictionary.findlaw.com/definition/substantial-capacity-test.html"
+        }
+    }
+}

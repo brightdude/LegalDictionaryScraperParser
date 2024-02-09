@@ -1,0 +1,18 @@
+{
+    "Entirety": {
+        "definition": "-ties 1",
+        "origin": "[in its ]",
+        "sub_definitions": {
+            "1": {
+                "definition": "the state of being entire or complete [in its ]"
+            },
+            "2": {
+                "definition": "an undivided wholean interest in real property that cannot be divided compare",
+                "compares": "moiety"
+            }
+        },
+        "references": {
+            "moiety": "https://dictionary.findlaw.com/definition/moiety.html"
+        }
+    }
+}

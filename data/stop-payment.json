@@ -1,0 +1,11 @@
+{
+    "Stop Payment": {
+        "definition": "a depositor's order to a bank to refuse to honor a specified check drawn by him or her",
+        "sub_definitions": {
+            "1": {
+                "1": "a depositor's order to a bank to refuse to honor a specified check drawn by him or her"
+            }
+        },
+        "references": {}
+    }
+}

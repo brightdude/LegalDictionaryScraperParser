@@ -1,0 +1,19 @@
+{
+    "Attorney": {
+        "definition": "-neys [Anglo-French atorné legal representative",
+        "origin": "[Anglo-French atorné legal representative, from past participle of atorner to designate, appoint, from Old French, to prepare, arrange see attorn ]",
+        "sub_definitions": {
+            "-neys": {
+                "definition": "[Anglo-Frenchlegal representative, from past participle ofto designate, appoint, from Old French, to prepare, arrange see]a person authorized to act on another's behalfsee alsocompare",
+                "compares": "counsel",
+                "see also": "attorney-in-fact"
+            }
+        },
+        "references": {
+            "attorn": "https://dictionary.findlaw.com/definition/attorn.html",
+            "lawyer": "https://dictionary.findlaw.com/definition/lawyer.html",
+            "attorney-in-fact": "https://dictionary.findlaw.com/definition/attorney-in-fact.html",
+            "counsel": "https://dictionary.findlaw.com/definition/counsel.html"
+        }
+    }
+}

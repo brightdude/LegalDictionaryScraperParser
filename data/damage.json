@@ -1,0 +1,85 @@
+{
+    "Damage": {
+        "definition": "loss or harm resulting from injury to person",
+        "origin": "[Old French, from dam injury, harm, from Latin damnum financial loss, fine]",
+        "sub_definitions": {
+            "1": {
+                "definition": "damages for a loss that is the natural, foreseeable, and logical result of a wrongful act comparein this entry",
+                "compares": "special damages"
+            },
+            "2": {
+                "definition": "damages for losses (as pain and suffering, inconvenience, or loss of lifestyle) whose monetary values are difficult to assign"
+            },
+            "actual damages": {
+                "definition": "damages deemed to compensate the injured party for losses sustained as a direct result of the injury suffered called also"
+            },
+            "consequential damages": {
+                "definition": "in this entry"
+            },
+            "direct damages": {
+                "definition": "damages for a loss that is an immediate, natural, and foreseeable result of the wrongful act comparein this entry",
+                "compares": "special damages"
+            },
+            "ex·em·pla·ry damages": {
+                "definition": "[ig-zem-plə-rē-]in this entry"
+            },
+            "ex·pec·ta·tion damages": {
+                "definition": "damages recoverable for breach of contract and designed to put the injured party in the position he or she would have been in had the contract been completed called also"
+            },
+            "he·don·ic damages": {
+                "definition": "[hi-dÄ -nik-]damages deemed to compensate for the loss of enjoyment of life resulting from a wrongful act",
+                "note": " Hedonic damages are not recognized in all jurisdictions."
+            },
+            "incidental damages": {
+                "definition": "damages recoverable under section 2-715 of the Uniform Commercial Code in breach of contract cases for losses that include expenses incurred in handling and caring for goods which were the subject of the contract, reasonable expenses incurred in obtaining cover, and any other reasonable expenses resulting from the breach that do not fall into any other category"
+            },
+            "liquidated damages": {
+                "definition": "damages whose amount is agreed upon by the parties to a contract as adequately compensating for loss in the event of a breach called also",
+                "note": " Liquidated damages in an amount exceeding that needed to reasonably compensate the injured party constitute a penalty and are therefore void."
+            },
+            "mor·a·to·ry damages": {
+                "definition": "damages recoverable for loss resulting from an obligor's delay in performing",
+                "note": " Compensatory damages are recoverable in a case of failure to perform."
+            },
+            "nominal damages": {
+                "definition": "damages awarded in a small amount (as one dollar) in cases in which a party has been injured but no loss resulted from the injury or in which the injured party failed to prove that loss resulted from the injury"
+            },
+            "presumed damages": {
+                "definition": "damages that are presumed under the law to result naturally and necessarily from a tortious act and that therefore do not require proof"
+            },
+            "punitive damages": {
+                "definition": "damages awarded in cases of serious or malicious wrongdoing to punish or deter the wrongdoer or deter others from behaving similarly called also"
+            },
+            "spe·cial damages": {
+                "definition": "damages awarded in an amount deemed to compensate for losses that arise not as a natural result of the injury but because of some particular circumstance of the injured partydamages relating to a business, profession, or property that are easily calculable in monetary terms called alsocomparein this entryin this entry",
+                "note": " Because special damages do not arise in every case, they must be specifically requested in the pleadings. This is an issue of particular importance in cases of harm to reputation, such as slander, libel, and malicious prosecution.",
+                "compares": "direct damages"
+            },
+            "stipulated damages": {
+                "definition": "in this entry"
+            },
+            "tre·ble damages": {
+                "definition": "[tre-bəl-]damages awarded in an amount that is three times the amount for which the trier of fact finds the wrongdoer liable",
+                "note": " Treble damages are recoverable where authorized by statute and are usually imposed as a punishment."
+            },
+            "3": {
+                "definition": "losses for which damages are recoverable [did not incur, because he was unlikely to win the foreclosure case \"Rosalind Resnick\"]adjof or relating to damages [a action] [a remedy]",
+                "s": "because he was unlikely to win the foreclosure case \"Rosalind Resnick"
+            }
+        },
+        "references": {
+            "additur": "https://dictionary.findlaw.com/definition/additur.html",
+            "cover": "https://dictionary.findlaw.com/definition/cover.html",
+            "mitigate": "https://dictionary.findlaw.com/definition/mitigate.html",
+            "remittitur": "https://dictionary.findlaw.com/definition/remittitur.html",
+            "judgment": "https://dictionary.findlaw.com/definition/judgment.html",
+            "injunction": "https://dictionary.findlaw.com/definition/injunction.html",
+            "performance": "https://dictionary.findlaw.com/definition/performance.html",
+            "special damages": "https://dictionary.findlaw.com/definition/special-damages.html",
+            "punitive damages": "https://dictionary.findlaw.com/definition/punitive-damages.html",
+            "direct damages": "https://dictionary.findlaw.com/definition/direct-damages.html",
+            "general damages": "https://dictionary.findlaw.com/definition/general-damages.html",
+            "liquidated damages": "https://dictionary.findlaw.com/definition/liquidated-damages.html"
+        }
+    }
+}

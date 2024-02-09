@@ -1,0 +1,8 @@
+{
+    "Contingent Beneficiary": {
+        "definition": "Contingent Beneficiary",
+        "references": {
+            "beneficiary": "https://dictionary.findlaw.com/definition/beneficiary.html"
+        }
+    }
+}

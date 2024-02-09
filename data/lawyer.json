@@ -1,0 +1,11 @@
+{
+    "Lawyer": {
+        "definition": "one whose profession is to advise clients as to legal rights and obligations and to represent clients in legal proceedings",
+        "sub_definitions": {
+            "1": {
+                "1": "one whose profession is to advise clients as to legal rights and obligations and to represent clients in legal proceedings"
+            }
+        },
+        "references": {}
+    }
+}

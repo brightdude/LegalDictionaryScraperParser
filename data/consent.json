@@ -1,0 +1,25 @@
+{
+    "Consent": {
+        "definition": "compliance in or approval of what is done or proposed by another ;specif",
+        "origin": "[shall have power, by and with the advice and of the Senate, to make treaties \" U.S. Constitution art. II\"]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "compliance in or approval of what is done or proposed by anotherthe voluntary agreement or acquiescence by a person of age or with requisite mental capacity who is not under duress or coercion and usually who has knowledge or understanding see also,,,",
+                "sub_terms": {
+                    "b": "a defense claiming that the victim consented to an alleged crime (as rape)"
+                },
+                "see also": "age of consent"
+            },
+            "2": {
+                "definition": "agreement as to action or opinion [shall have power, by and with the advice and of the Senate, to make treaties \"art. II\"] [a contract is formed by the of the parties established through offer and acceptance \"\"]voluntary agreement by a people to organize a civil society and give authority to a government",
+                "U.S. Constitution": "art. II\"] [a contract is formed by the of the parties established through offer and acceptance \""
+            }
+        },
+        "references": {
+            "age of consent": "https://dictionary.findlaw.com/definition/age-of-consent.html",
+            "informed consent": "https://dictionary.findlaw.com/definition/informed-consent.html",
+            "rape": "https://dictionary.findlaw.com/definition/rape.html",
+            "statutory rape": "https://dictionary.findlaw.com/definition/statutory-rape.html"
+        }
+    }
+}

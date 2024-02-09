@@ -1,0 +1,14 @@
+{
+    "Retained Earnings": {
+        "definition": "earned surplus at surplus",
+        "sub_definitions": {
+            "1": {
+                "1": "earned surplus"
+            }
+        },
+        "references": {
+            "earned surplus": "https://dictionary.findlaw.com/definition/earned-surplus.html",
+            "surplus": "https://dictionary.findlaw.com/definition/surplus.html"
+        }
+    }
+}

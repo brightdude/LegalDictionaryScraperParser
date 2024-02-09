@@ -1,0 +1,11 @@
+{
+    "Account Receivable": {
+        "definition": "accounts receivable",
+        "sub_definitions": {
+            "accounts receivable": {
+                "definition": "a balance due from a debtor on a current account"
+            }
+        },
+        "references": {}
+    }
+}

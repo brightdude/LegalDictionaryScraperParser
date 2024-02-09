@@ -1,0 +1,66 @@
+{
+    "Tenancy": {
+        "definition": "-cies 1",
+        "origin": "[liable for payment of rent in a holdover tenancy ]",
+        "sub_definitions": {
+            "1": {
+                "definition": "the holding of or a mode of holding an estate in property",
+                "sub_terms": {
+                    "a": "a form of ownership of property",
+                    "b": "the temporary possession or occupancy of property that belongs to another"
+                }
+            },
+            "holdover tenancy": {
+                "definition": "a tenancy that arises when one remains in possession of property after the expiration of the previous tenancy (as one under a lease), that may be established as a tenancy at will by the recognition of the landlord (as by accepting rent), and that may sometimes be statutorily converted to a periodic tenancy for the same or a different term than that of the original tenancy [liable for payment of rent in a] called also",
+                "holdover tenancy": "] called also"
+            },
+            "joint tenancy": {
+                "definition": "a tenancy in which two or more parties hold equal and simultaneously created interests in the same property and in which title to the entire property is to remain to the survivors upon the death of one of them (as a spouse) and so on to the last survivor [a right to sever the] see alsoin this entry comparein this entry",
+                "compares": "tenancy in common",
+                "see also": "tenancy by the entirety"
+            },
+            "life tenancy": {
+                "definition": "the tenancy of one with a life estateat[created afor her husband]",
+                "life tenancy": "for her husband]"
+            },
+            "pe·ri·od·ic tenancy": {
+                "definition": "[pir-ē-Ä -dik-]a tenancy that is carried forward by specified time periods (as months) without a lease and that may be terminated by the landlord or tenant after giving proper notice"
+            },
+            "tenancy at sufferance": {
+                "definition": "in this entry"
+            },
+            "tenancy at will": {
+                "definition": "a tenancy that is terminable at the will of the landlord or tenant provided that applicable statutory requirements for notice are met"
+            },
+            "tenancy by the entirety": {
+                "definition": "a tenancy that is shared by spouses who are considered one person in law and have the rights of survivorship inherent in joint tenancy and that becomes a tenancy in common in the event of divorce [property subject to acannot be encumbered by one tenant acting alone \", 832 S.W.2d 347 (1992)\"] called alsocompareat",
+                "tenancy by the entirety": "cannot be encumbered by one tenant acting alone \"",
+                "Mays v. Brighton Bank": "832 S.W.2d 347 (1992)\"] called al"
+            },
+            "tenancy for years": {
+                "definition": "a tenancy that is for a specified period of time comparein this entry",
+                "compares": "tenancy at will"
+            },
+            "tenancy in common": {
+                "definition": "a tenancy in which two or more parties share ownership of property but have no right to each other's interest (as upon the death of another tenant) comparein this entry",
+                "compares": "joint tenancy"
+            },
+            "tenancy in partnership": {
+                "definition": "a tenancy that binds partners to the use of partnership property only for partnership purposes and that does not permit the separate assignment by a partner of his or her right to the property"
+            },
+            "2": {
+                "definition": "the period of a tenant's occupancy or possession"
+            }
+        },
+        "references": {
+            "tenure": "https://dictionary.findlaw.com/definition/tenure.html",
+            "tenancy by the entirety": "https://dictionary.findlaw.com/definition/tenancy-by-the-entirety.html",
+            "tenancy in common": "https://dictionary.findlaw.com/definition/tenancy-in-common.html",
+            "life estate": "https://dictionary.findlaw.com/definition/life-estate.html",
+            "estate": "https://dictionary.findlaw.com/definition/estate.html",
+            "holdover tenancy": "https://dictionary.findlaw.com/definition/holdover-tenancy.html",
+            "tenancy at will": "https://dictionary.findlaw.com/definition/tenancy-at-will.html",
+            "joint tenancy": "https://dictionary.findlaw.com/definition/joint-tenancy.html"
+        }
+    }
+}

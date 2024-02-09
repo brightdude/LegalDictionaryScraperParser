@@ -1,0 +1,21 @@
+{
+    "Judiciary": {
+        "definition": "-ries 1 a",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "a system of courts of law",
+                "sub_terms": {
+                    "b": "the judges of these courts"
+                }
+            },
+            "2": {
+                "definition": "a branch of government in which judicial power is vested compare,",
+                "compares": "executive"
+            }
+        },
+        "references": {
+            "executive": "https://dictionary.findlaw.com/definition/executive.html",
+            "legislature": "https://dictionary.findlaw.com/definition/legislature.html"
+        }
+    }
+}

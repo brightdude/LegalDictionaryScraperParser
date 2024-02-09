@@ -1,0 +1,11 @@
+{
+    "Insured": {
+        "definition": "a person whose life",
+        "sub_definitions": {
+            "1": {
+                "1": "a person whose life, physical well-being, or property is the subject of insurance"
+            }
+        },
+        "references": {}
+    }
+}

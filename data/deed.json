@@ -1,0 +1,57 @@
+{
+    "Deed": {
+        "definition": "something done",
+        "origin": "[my free act and ]",
+        "sub_definitions": {
+            "1": {
+                "definition": "a deed that grants only whatever title or interest the grantor had to the property without any warranty as to the title"
+            },
+            "2": {
+                "definition": "in this entry comparein this entry",
+                "compares": "warranty deed"
+            },
+            "deed of trust": {
+                "definition": "an instrument securing a debt in which a debtor conveys the legal ownership of real property to a trustee to be held in trust for the benefit of the creditor or to be sold upon the debtor's default to pay the debta mortgage with a power of sale called also"
+            },
+            "mas·ter deed": {
+                "definition": "a deed that submits the land described therein to the provisions of a state's law regarding condominiums and sets out various information (as about the units, common areas, bylaws, and rights of the owners) as required under state law compareat"
+            },
+            "sheriff's deed": {
+                "definition": "a deed given to a buyer of property purchased at a sheriff's sale"
+            },
+            "special warranty deed": {
+                "definition": "a deed in which the property transferred is warranted to be free of all liens or encumbrances made by, through, or under the grantor"
+            },
+            "tax deed": {
+                "definition": "a deed evidencing the transfer of title acquired by the grantee as purchaser of property at a tax sale compare",
+                "compares": "tax certificate"
+            },
+            "trust deed": {
+                "definition": "in this entry"
+            },
+            "unit deed": {
+                "definition": "a deed conveying a condominium unit"
+            },
+            "warranty deed": {
+                "definition": "a deed warranting that the grantor has a good title free and clear of all encumbrances and will defend the grantee against all claims comparein this entryvtto convey by deed",
+                "compares": "quitclaim deed"
+            }
+        },
+        "references": {
+            "act": "https://dictionary.findlaw.com/definition/act.html",
+            "deliver": "https://dictionary.findlaw.com/definition/deliver.html",
+            "grantee": "https://dictionary.findlaw.com/definition/grantee.html",
+            "grantor": "https://dictionary.findlaw.com/definition/grantor.html",
+            "recording act": "https://dictionary.findlaw.com/definition/recording-act.html",
+            "registry": "https://dictionary.findlaw.com/definition/registry.html",
+            "title": "https://dictionary.findlaw.com/definition/title.html",
+            "certificate of title": "https://dictionary.findlaw.com/definition/certificate-of-title.html",
+            "declaration": "https://dictionary.findlaw.com/definition/declaration.html",
+            "special warranty deed": "https://dictionary.findlaw.com/definition/special-warranty-deed.html",
+            "warranty deed": "https://dictionary.findlaw.com/definition/warranty-deed.html",
+            "tax certificate": "https://dictionary.findlaw.com/definition/tax-certificate.html",
+            "deed of trust": "https://dictionary.findlaw.com/definition/deed-of-trust.html",
+            "quitclaim deed": "https://dictionary.findlaw.com/definition/quitclaim-deed.html"
+        }
+    }
+}

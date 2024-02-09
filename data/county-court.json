@@ -1,0 +1,11 @@
+{
+    "County Court": {
+        "definition": "a court in some states that has a designated jurisdiction usually both civil and criminal within the limits of a county",
+        "sub_definitions": {
+            "1": {
+                "1": "a court in some states that has a designated jurisdiction usually both civil and criminal within the limits of a county"
+            }
+        },
+        "references": {}
+    }
+}

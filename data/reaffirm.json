@@ -1,0 +1,16 @@
+{
+    "Reaffirm": {
+        "definition": "to affirm again 2",
+        "origin": "[ ed her debt in order to keep her car]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to affirm again"
+            },
+            "2": {
+                "definition": "to agree to the payment of (a dischargeable debt) with a creditor prior to the discharge of debts in bankruptcy [her debt in order to keep her car]",
+                "ed": "her debt in order to keep her car]"
+            }
+        },
+        "references": {}
+    }
+}

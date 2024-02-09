@@ -1,0 +1,23 @@
+{
+    "Satisfaction": {
+        "definition": "the act or fact of satisfying b",
+        "origin": "[a of mortgage]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "the act or fact of satisfying",
+                "sub_terms": {
+                    "b": "execution of an accord by performance of the substituted obligation often used in the phrasecompare,",
+                    "c": "a document indicating that an obligation has been satisfied [a of mortgage]"
+                },
+                "compares": "accord"
+            },
+            "2": {
+                "definition": "the quality or state of being satisfied"
+            }
+        },
+        "references": {
+            "accord": "https://dictionary.findlaw.com/definition/accord.html",
+            "transaction": "https://dictionary.findlaw.com/definition/transaction.html"
+        }
+    }
+}

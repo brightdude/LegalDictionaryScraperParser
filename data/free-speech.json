@@ -1,0 +1,18 @@
+{
+    "Free Speech": {
+        "definition": "speech that is protected by the First Amendment to the U.S. Constitution [setting off an alarm bell is not free speech \"A. M. Dershowitz\"] 2",
+        "origin": "[setting off an alarm bell is not free speech \"A. M. Dershowitz\"]",
+        "sub_definitions": {
+            "1": {
+                "definition": "speech that is protected by the First Amendment to the U.S. Constitution [setting off an alarm bell is not\"A. M. Dershowitz\"]",
+                "free speech": "\"A. M. Dershowitz\"]"
+            },
+            "2": {
+                "definition": "[an unconstitutional restraint on\"\"]"
+            }
+        },
+        "references": {
+            "freedom of speech": "https://dictionary.findlaw.com/definition/freedom-of-speech.html"
+        }
+    }
+}

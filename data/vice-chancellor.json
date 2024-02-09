@@ -1,0 +1,14 @@
+{
+    "Vice-Chancellor": {
+        "definition": "an officer ranking next below a chancellor and serving as deputy 2",
+        "sub_definitions": {
+            "1": {
+                "definition": "an officer ranking next below a chancellor and serving as deputy"
+            },
+            "2": {
+                "definition": "a judge appointed to act for or to assist a chancellor"
+            }
+        },
+        "references": {}
+    }
+}

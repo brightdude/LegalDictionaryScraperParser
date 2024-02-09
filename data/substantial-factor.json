@@ -1,0 +1,15 @@
+{
+    "Substantial Factor": {
+        "definition": "an important or significant factor that is not necessarily the only factor leading to a plaintiff's injury but is sufficient to have caused the injury by itself compare but-for",
+        "compare": "but-for",
+        "sub_definitions": {
+            "1": {
+                "1": "an important or significant factor that is not necessarily the only factor leading to a plaintiff's injury but is sufficient to have caused the injury by itself compare",
+                "compares": "but-for"
+            }
+        },
+        "references": {
+            "but-for": "https://dictionary.findlaw.com/definition/but-for.html"
+        }
+    }
+}

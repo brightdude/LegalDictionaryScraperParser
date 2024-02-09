@@ -1,0 +1,20 @@
+{
+    "Confusion": {
+        "definition": "a uniting of two interests or rights in property into one compare merger 2 in the civil law of Louisiana",
+        "sub_definitions": {
+            "1": {
+                "definition": "a uniting of two interests or rights in property into one compare",
+                "compares": "merger"
+            },
+            "2": {
+                "definition": "the termination of an obligation by a person acquiring the right from which the obligation arose"
+            },
+            "3": {
+                "definition": "the mixing or blending together of goods or commodities so that the individual owners cannot identify their own property called also"
+            }
+        },
+        "references": {
+            "merger": "https://dictionary.findlaw.com/definition/merger.html"
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "Fruit Of The Poisonous Tree": {
+        "definition": "a doctrine of evidence",
+        "sub_definitions": {
+            "1": {
+                "definition": "a doctrine of evidence: evidence that is derived from or gathered during an illegal action (as an unlawful search) cannot be admitted into court"
+            },
+            "2": {
+                "definition": "evidence that is inadmissible under an evidentiary exclusionary rule because it was derived from or gathered during an illegal action see alsoin the Important Cases section compare,,",
+                "compares": "independent source",
+                "Wong Sun v. U.S.": "in the Important Cases section compare"
+            }
+        },
+        "references": {
+            "independent source": "https://dictionary.findlaw.com/definition/independent-source.html",
+            "inevitable discovery": "https://dictionary.findlaw.com/definition/inevitable-discovery.html",
+            "plain view": "https://dictionary.findlaw.com/definition/plain-view.html"
+        }
+    }
+}

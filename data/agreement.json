@@ -1,0 +1,22 @@
+{
+    "Agreement": {
+        "definition": "the act or fact of agreeing [by mutual ] b",
+        "origin": "[by mutual ]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "the act or fact of agreeing [by mutual ]",
+                "sub_terms": {
+                    "b": "unity of opinion, understanding, or intentthe mutual assent of contracting parties to the same terms [if they reach ]"
+                },
+                "note": " Under common law, agreement is a necessary element of a valid contract. Under Uniform Commercial Code section 1-201(3), agreement is the bargain of the contracting parties as represented explicitly by their language or implicitly by other circumstances (as a course of dealings)."
+            },
+            "2 a": {
+                "definition": "an expression (as a settlement, covenant, or contract) of the intent or willingness of two or more parties to bind at least one to terms usually determined by negotiation [an must be sufficiently definite before a court can enforce it \"J. D. Calamari and J. M. Perillo\"]",
+                "sub_terms": {
+                    "b": "the language or instrument embodying such an expression [signed the ]"
+                }
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "Separate Maintenance": {
+        "definition": "maintenance paid",
+        "origin": "[entitlement to separate maintenance does not extend to the division of marital assets \" Kennedy v. Kennedy , 662 So. 2d 179 (1995)\"]",
+        "sub_definitions": {
+            "1": {
+                "1": "maintenance paid (as by court order) from one spouse to another during separation [entitlement to",
+                "Kennedy v. Kennedy": "662 So. 2d 179 (1995)"
+            }
+        },
+        "references": {}
+    }
+}

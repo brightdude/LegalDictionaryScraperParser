@@ -1,0 +1,16 @@
+{
+    "Aforethought": {
+        "definition": "previously in mind",
+        "sub_definitions": {
+            "1": {
+                "1": "previously in mind"
+            },
+            "2": {
+                "1": "premeditated"
+            }
+        },
+        "references": {
+            "premeditated": "https://dictionary.findlaw.com/definition/premeditated.html"
+        }
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "Third-Party Plaintiff": {
+        "definition": "a defendant who files a third-party complaint against a third party",
+        "sub_definitions": {
+            "1": {
+                "1": "a defendant who files a third-party complaint against a third party"
+            }
+        },
+        "references": {}
+    }
+}

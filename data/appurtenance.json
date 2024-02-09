@@ -1,0 +1,12 @@
+{
+    "Appurtenance": {
+        "definition": "property",
+        "origin": "[Anglo-French apurtenance , alteration of Old French apartenance , from apartenant appurtenant]",
+        "sub_definitions": {
+            "1": {
+                "1": "property (as an outbuilding or fixture) or a property right (as a right of way) that is incidental to a principal property and that passes with the principal property upon transfer"
+            }
+        },
+        "references": {}
+    }
+}

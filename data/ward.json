@@ -1,0 +1,20 @@
+{
+    "Ward": {
+        "definition": "a division of a city for representative",
+        "sub_definitions": {
+            "1": {
+                "definition": "a division of a city for representative, electoral, or administrative purposes"
+            },
+            "2 a": {
+                "definition": "a person who by reason of incapacity (as minority or incompetency) is under the control of a guardian",
+                "sub_terms": {
+                    "b": "a person who by reason of incapacity is under the protection of a court either directly or through a guardian appointed by the court called alsocompare"
+                },
+                "compares": "interdict"
+            }
+        },
+        "references": {
+            "interdict": "https://dictionary.findlaw.com/definition/interdict.html"
+        }
+    }
+}

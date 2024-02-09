@@ -1,0 +1,11 @@
+{
+    "Account Stated": {
+        "definition": "accounts stated",
+        "sub_definitions": {
+            "accounts stated": {
+                "definition": "an account presented by a creditor to his or her debtor which by implied or express acceptance has been agreed upon by both parties as correct"
+            }
+        },
+        "references": {}
+    }
+}

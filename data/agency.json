@@ -1,0 +1,87 @@
+{
+    "Agency": {
+        "definition": "-cies 1",
+        "origin": "[death by criminal \"W. R. LaFave and A. W. Scott, Jr.\"]",
+        "sub_definitions": {
+            "1": {
+                "definition": "the person or thing through which power is exerted or an end is achieved [death by criminal \"W. R. LaFave and A. W. Scott, Jr.\"]"
+            },
+            "2 a": {
+                "definition": "a consensual fiduciary relationship in which one party acts on behalf of and under the control of another in dealing with third partiesthe power of one in such a relationship to act on behalf of another",
+                "note": " A principal is bound by and liable for acts of his or her agent that are within the scope of the agency."
+            },
+            "ac·tu·al agency": {
+                "definition": "the agency that exists when an agent is in fact employed by a principal see alsoandin this entry",
+                "see also": "express agency"
+            },
+            "agency by estoppel": {
+                "definition": "an agency that is not created as an actual agency by a principal and an agent but that is imposed by law when a principal acts in such a way as to lead a third party to reasonably believe that another is the principal's agent and the third party is injured by relying on and acting in accordance with that belief",
+                "note": " A principal has a duty to correct a third party's mistaken belief in an agent's authority to act on the principal's behalf. If the principal could have corrected the misunderstanding but failed to do so, he or she is estopped from denying the existence of the agency and is bound by the agent's acts in dealing with the third party."
+            },
+            "agency cou·pled with an interest": {
+                "definition": "an agency in which the agent has an interest in the property regarding which he or she is acting on the principal's behalf"
+            },
+            "ap·par·ent agency": {
+                "definition": "in this entry"
+            },
+            "exclusive agency": {
+                "definition": "an agency common in real estate sales in which the property owner agrees to employ no agents to sell the property other than the one hired for a specified period"
+            },
+            "express agency": {
+                "definition": "an actual agency created by the written or spoken words of the principal authorizing the agent to act comparein this entry",
+                "compares": "implied agency"
+            },
+            "general agency": {
+                "definition": "an agency in which the agent is authorized to perform on behalf of the principal in all matters in furtherance of a particular business of the principal comparein this entry",
+                "compares": "special agency"
+            },
+            "implied agency": {
+                "definition": "an actual agency created by acts of a principal that reasonably imply an intention to create an agency relationship comparein this entry",
+                "compares": "express agency"
+            },
+            "ostensible agency": {
+                "definition": "in this entry"
+            },
+            "special agency": {
+                "definition": "an agency in which the agent is authorized to perform only specified acts or to act only in a specified transaction comparein this entry",
+                "compares": "general agency"
+            },
+            "universal agency": {
+                "definition": "in this entry",
+                "sub_terms": {
+                    "b": "the office and function of an agent [even when granted discretion in carrying out his \"R. C. Clark\"]",
+                    "c": "the law concerned with the relationship of a principal and an agent"
+                }
+            },
+            "3": {
+                "definition": "an establishment engaged in doing the business of another",
+                "sub_terms": {
+                    "a": "an establishment authorized by an insurance company to sell insurance policies and provide services offered by the insurer",
+                    "b": "an establishment authorized by property owners to find a buyer for their property"
+                },
+                "note": " Many businesses that use the termagencyare not truly agencies as defined in sense 2."
+            },
+            "4": {
+                "definition": "a department or other unit of government created by legislation to administer the law in a particular area of public concern called alsosee also,in the Important Laws section",
+                "note": " When a legislature determines that government involvement is needed in a particular social activity or problem, it may write legislation creating an agency either directly or by authorizing the executive to set it up. Agencies exist at the federal, state, and local level. Most federal agencies are attached to the executive branch of government. Some agencies (such as the Environmental Protection Agency) are called an agency. An agency may, however, be called such other names asboard(as the National Labor Relations Board)commission(as the Securities and Exchange Commission)administration(as the Social Security Administration), andservice(as the Internal Revenue Service). Agencies at the federal level are governed by the provisions of the Administrative Procedure Act, which is found at title 5 of the U.S. Code.",
+                "see also": "enabling statute",
+                "Administrative Procedure Act": "in the Important Laws section"
+            },
+            "independent agency": {
+                "definition": "an agency that is not part of any of the three branches of government"
+            },
+            "regulatory agency": {
+                "definition": "an agency that is authorized by the legislature to establish and enforce rules regulating its particular area of concern often used interchangeably withor"
+            }
+        },
+        "references": {
+            "express agency": "https://dictionary.findlaw.com/definition/express-agency.html",
+            "implied agency": "https://dictionary.findlaw.com/definition/implied-agency.html",
+            "agency by estoppel": "https://dictionary.findlaw.com/definition/agency-by-estoppel.html",
+            "special agency": "https://dictionary.findlaw.com/definition/special-agency.html",
+            "general agency": "https://dictionary.findlaw.com/definition/general-agency.html",
+            "enabling statute": "https://dictionary.findlaw.com/definition/enabling-statute.html",
+            "exhaustion of remedies": "https://dictionary.findlaw.com/definition/exhaustion-of-remedies.html"
+        }
+    }
+}

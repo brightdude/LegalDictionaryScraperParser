@@ -1,0 +1,15 @@
+{
+    "Counselor-At-Law": {
+        "definition": "counselors-at-law",
+        "sub_definitions": {
+            "counselors-at-law": {
+                "definition": "compare",
+                "compares": "attorney-at-law"
+            }
+        },
+        "references": {
+            "counsel": "https://dictionary.findlaw.com/definition/counsel.html",
+            "attorney-at-law": "https://dictionary.findlaw.com/definition/attorney-at-law.html"
+        }
+    }
+}

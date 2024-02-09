@@ -1,0 +1,19 @@
+{
+    "Object": {
+        "definition": "something toward which thought",
+        "origin": "[əb-jekt]",
+        "sub_definitions": {
+            "1": {
+                "definition": "something toward which thought, feeling, or action is directed see also",
+                "see also": "natural object"
+            },
+            "2": {
+                "definition": "the purpose or goal of somethingthe purpose for which a contract or obligation is formed[əb-jekt] vtto state in opposition or as an objection [that the evidence was inadmissible]to state opposition esp. to something in a judicial proceeding [to the testimony on the ground that it was hearsay]",
+                "ed": "to the testimony on the ground that it was hearsay]"
+            }
+        },
+        "references": {
+            "natural object": "https://dictionary.findlaw.com/definition/natural-object.html"
+        }
+    }
+}

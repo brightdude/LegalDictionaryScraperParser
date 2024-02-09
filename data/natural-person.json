@@ -1,0 +1,16 @@
+{
+    "Natural Person": {
+        "definition": "a human being as distinguished from a person",
+        "compare": "juridical person",
+        "sub_definitions": {
+            "1": {
+                "1": "a human being as distinguished from a person (as a corporation) created by operation of law compare",
+                "compares": "juridical person"
+            }
+        },
+        "references": {
+            "juridical person": "https://dictionary.findlaw.com/definition/juridical-person.html",
+            "legal person": "https://dictionary.findlaw.com/definition/legal-person.html"
+        }
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "Overinclusive": {
+        "definition": "including more than is necessary or advisable ;specif",
+        "compare": "underinclusive",
+        "sub_definitions": {
+            "1": {
+                "1": "including more than is necessary or advisable"
+            },
+            "2": {
+                "1": "relating to or being legislation that burdens more people than necessary to accomplish the legislation's goal compare",
+                "compares": "underinclusive"
+            }
+        },
+        "references": {
+            "underinclusive": "https://dictionary.findlaw.com/definition/underinclusive.html"
+        }
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "Pretrial Conference": {
+        "definition": "a proceeding attended by the parties to an action and a judge or magistrate and held at a party's request or on the judge's initiative for the purpose of focusing the issues",
+        "sub_definitions": {
+            "1": {
+                "1": "a proceeding attended by the parties to an action and a judge or magistrate and held at a party's request or on the judge's initiative for the purpose of focusing the issues, making discovery, entering into stipulations, obtaining rulings, and dealing with any matters that may facilitate fair and efficient disposition of the case including settlement"
+            }
+        },
+        "references": {}
+    }
+}

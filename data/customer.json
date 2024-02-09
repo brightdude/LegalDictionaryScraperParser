@@ -1,0 +1,17 @@
+{
+    "Customer": {
+        "definition": "a person or business that purchases a commodity or service 2 a",
+        "sub_definitions": {
+            "1": {
+                "definition": "a person or business that purchases a commodity or service"
+            },
+            "2 a": {
+                "definition": "a person or entity having an account with a bank or on whose behalf the bank has agreed to collect items",
+                "sub_terms": {
+                    "b": "a person or entity for whom an issuer issues a letter of credit"
+                }
+            }
+        },
+        "references": {}
+    }
+}

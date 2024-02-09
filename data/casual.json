@@ -1,0 +1,21 @@
+{
+    "Casual": {
+        "definition": "not expected or foreseen b",
+        "origin": "[a worker]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "not expected or foreseen",
+                "sub_terms": {
+                    "b": "not done purposefullyaccidental"
+                }
+            },
+            "2 a": {
+                "definition": "employed for irregular periods [a worker]",
+                "sub_terms": {
+                    "b": "engaging in an activity on an occasional basis [a seller]"
+                }
+            }
+        },
+        "references": {}
+    }
+}

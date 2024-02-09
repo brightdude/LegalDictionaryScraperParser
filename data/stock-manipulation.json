@@ -1,0 +1,11 @@
+{
+    "Stock Manipulation": {
+        "definition": "illicit behavior that creates or attempts to give the appearance of active trading in a security",
+        "sub_definitions": {
+            "1": {
+                "1": "illicit behavior that creates or attempts to give the appearance of active trading in a security (as to induce others to buy or sell)"
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "Solicitor": {
+        "definition": "one that solicits ;esp",
+        "sub_definitions": {
+            "1": {
+                "definition": "one that solicitsan agent that solicits customers (as in insurance) or charitable contributions"
+            },
+            "2": {
+                "definition": "a British lawyer who advises clients, represents them in the lower courts, and prepares cases for barristers to try in higher courts"
+            },
+            "3": {
+                "definition": "the chief law officer of a municipality, county, or government department see also",
+                "see also": "city attorney"
+            }
+        },
+        "references": {
+            "city attorney": "https://dictionary.findlaw.com/definition/city-attorney.html"
+        }
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "Anticipatory Warrant": {
+        "definition": "anticipatory search warrant at warrant",
+        "sub_definitions": {
+            "1": {
+                "1": "anticipatory search warrant"
+            }
+        },
+        "references": {
+            "anticipatory search warrant": "https://dictionary.findlaw.com/definition/anticipatory-search-warrant.html",
+            "warrant": "https://dictionary.findlaw.com/definition/warrant.html"
+        }
+    }
+}

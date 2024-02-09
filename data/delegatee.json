@@ -1,0 +1,13 @@
+{
+    "Delegatee": {
+        "definition": "delegate",
+        "sub_definitions": {
+            "1": {
+                "1": "delegate"
+            }
+        },
+        "references": {
+            "delegate": "https://dictionary.findlaw.com/definition/delegate.html"
+        }
+    }
+}

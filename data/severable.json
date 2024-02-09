@@ -1,0 +1,12 @@
+{
+    "Severable": {
+        "definition": "capable of being severed",
+        "origin": "[a contract]",
+        "compare": "divisible",
+        "sub_definitions": {},
+        "references": {
+            "divisible": "https://dictionary.findlaw.com/definition/divisible.html",
+            "entire": "https://dictionary.findlaw.com/definition/entire.html"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "Qualified": {
+        "definition": "fitted",
+        "origin": "[a voter]",
+        "sub_definitions": {
+            "1": {
+                "definition": "fitted (as by training or experience) for a given purpose or condition"
+            },
+            "2 a": {
+                "definition": "being in compliance or accordance with specific requirements or conditions [a voter]",
+                "sub_terms": {
+                    "b": "eligible under applicable requirements for favorable tax treatment (as exemption of funds from taxation until retirement) [a pension plan]"
+                }
+            },
+            "3": {
+                "definition": "limited or modified in some wayless than absolute"
+            }
+        },
+        "references": {}
+    }
+}

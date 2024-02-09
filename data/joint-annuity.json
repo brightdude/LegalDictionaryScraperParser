@@ -1,0 +1,14 @@
+{
+    "Joint Annuity": {
+        "definition": "joint life annuity at annuity",
+        "sub_definitions": {
+            "1": {
+                "1": "joint life annuity"
+            }
+        },
+        "references": {
+            "joint life annuity": "https://dictionary.findlaw.com/definition/joint-life-annuity.html",
+            "annuity": "https://dictionary.findlaw.com/definition/annuity.html"
+        }
+    }
+}

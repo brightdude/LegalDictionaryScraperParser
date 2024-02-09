@@ -1,0 +1,15 @@
+{
+    "Suspect": {
+        "definition": "regarded or deserving to be regarded with suspicion or heightened scrutiny [səs-pekt] n",
+        "origin": "[Latin suspectus , from past participle of suspicere to look up at, regard with awe, suspect, from sub- sus- up, secretly + specere to look at]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to imagine (one) to be guilty on slight evidence or without proof"
+            },
+            "2": {
+                "definition": "to imagine to exist or be probable [they had reasonable cause to abuse]"
+            }
+        },
+        "references": {}
+    }
+}

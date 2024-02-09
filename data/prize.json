@@ -1,0 +1,14 @@
+{
+    "Prize": {
+        "definition": "property",
+        "sub_definitions": {
+            "1": {
+                "definition": "property (as a ship) lawfully captured in time of war"
+            },
+            "2": {
+                "definition": "the wartime capture of a ship and its cargo at sea"
+            }
+        },
+        "references": {}
+    }
+}

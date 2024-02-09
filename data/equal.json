@@ -1,0 +1,20 @@
+{
+    "Equal": {
+        "definition": "like in quality",
+        "origin": "[Latin aequalis , from aequus level, equal]",
+        "sub_definitions": {
+            "1": {
+                "definition": "like in quality, nature, or status"
+            },
+            "2": {
+                "definition": "like for each member of a group, class, or society"
+            },
+            "3": {
+                "definition": "regarding or affecting all objects in the same waynone that is equal"
+            }
+        },
+        "references": {
+            "impartial": "https://dictionary.findlaw.com/definition/impartial.html"
+        }
+    }
+}

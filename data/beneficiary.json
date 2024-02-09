@@ -1,0 +1,64 @@
+{
+    "Beneficiary": {
+        "definition": "-ries",
+        "origin": "[prī-mer-ē-, -mə-rē-]",
+        "sub_definitions": {
+            "-ries": {
+                "definition": "a person or entity (as a charity or estate) that receives a benefit from something",
+                "sub_terms": {
+                    "a": "the person or entity named or otherwise entitled to receive the principal or income or both from a trust compare,"
+                },
+                "compares": "settlor"
+            },
+            "contingent beneficiary": {
+                "definition": "a beneficiary named to receive the insurance proceeds if the primary beneficiary has died called also"
+            },
+            "income beneficiary": {
+                "definition": "a beneficiary that according to the provisions of a trust is to receive income but not the principal of the trust",
+                "sub_terms": {
+                    "b": "the person or entity named by the insured of a life insurance policy to receive the proceeds upon the insured's death"
+                },
+                "note": " A trust may provide for income to be paid to someone (as a spouse) for his or her lifetime and then for payment of the principal to another person. A trustee is sometimes allowed to distribute some of the principal of the trust to an income beneficiary when necessary for the support of the beneficiary if support of the beneficiary was the purpose of the trust."
+            },
+            "pri·ma·ry beneficiary": {
+                "definition": "[prī-mer-ē-, -mə-rē-]a beneficiary named to receive the insurance proceeds before any other"
+            },
+            "sec·ond·ary beneficiary": {
+                "definition": "[sek-ən-der-ē-]in this entry",
+                "sub_terms": {
+                    "c": "a person or entity entitled under a letter of credit to demand payment from the issuer of the letter",
+                    "d": "a person or entity that benefits from a promise, agreement, or contractin this entry [the contractual…are mortgagees and investors \", 845 P.2d 1087 (1993)\"]"
+                },
+                "beneficiaries": "…are mortgagees and investors \"",
+                "Key Pac. Mortg. Inc. v. Industrial Indem. Co.": "845 P.2d 1087 (1993)"
+            },
+            "creditor beneficiary": {
+                "definition": "a direct beneficiary whom the party paying for the other party's performance intends to benefit as payment for a debt or obligation comparein this entry",
+                "compares": "donee beneficiary"
+            },
+            "direct beneficiary": {
+                "definition": "a third-party beneficiary to a contract whom the parties to the contract intended to benefit comparein this entry",
+                "compares": "incidental beneficiary"
+            },
+            "donee beneficiary": {
+                "definition": "a direct beneficiary whom the party paying for the other party's performance intends to benefit as a gift or donation"
+            },
+            "incidental beneficiary": {
+                "definition": "a third-party beneficiary to a contract whom the parties to the contract did not intend to benefit comparein this entry",
+                "compares": "direct beneficiary"
+            },
+            "third-party beneficiary": {
+                "definition": "a person or entity that is not a party to but has rights under a contract made by two other parties"
+            }
+        },
+        "references": {
+            "settlor": "https://dictionary.findlaw.com/definition/settlor.html",
+            "trustee": "https://dictionary.findlaw.com/definition/trustee.html",
+            "contingent beneficiary": "https://dictionary.findlaw.com/definition/contingent-beneficiary.html",
+            "third-party beneficiary": "https://dictionary.findlaw.com/definition/third-party-beneficiary.html",
+            "donee beneficiary": "https://dictionary.findlaw.com/definition/donee-beneficiary.html",
+            "incidental beneficiary": "https://dictionary.findlaw.com/definition/incidental-beneficiary.html",
+            "direct beneficiary": "https://dictionary.findlaw.com/definition/direct-beneficiary.html"
+        }
+    }
+}

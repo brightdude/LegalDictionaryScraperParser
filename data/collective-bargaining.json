@@ -1,0 +1,15 @@
+{
+    "Collective Bargaining": {
+        "definition": "negotiation between an employer and a labor union usually on wages",
+        "sub_definitions": {
+            "1": {
+                "1": "negotiation between an employer and a labor union usually on wages, benefits, hours, and working conditions see also",
+                "Labor Management Relations Act": "in the Important Laws section"
+            }
+        },
+        "references": {
+            "agent": "https://dictionary.findlaw.com/definition/agent.html",
+            "bargaining unit": "https://dictionary.findlaw.com/definition/bargaining-unit.html"
+        }
+    }
+}

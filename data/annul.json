@@ -1,0 +1,20 @@
+{
+    "Annul": {
+        "definition": "to declare",
+        "sub_definitions": {
+            "1": {
+                "definition": "to declare (a marriage) to have never validly existed compare",
+                "compares": "divorce"
+            },
+            "2 a": {
+                "definition": "to make legally void",
+                "sub_terms": {
+                    "b": "to declare to no longer have legal effect"
+                }
+            }
+        },
+        "references": {
+            "divorce": "https://dictionary.findlaw.com/definition/divorce.html"
+        }
+    }
+}

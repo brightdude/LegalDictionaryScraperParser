@@ -1,0 +1,19 @@
+{
+    "Peremption": {
+        "definition": "the absolute extinguishment of a right that prevents the bringing of an action [a claim barred by ] ;also",
+        "origin": "[Late Latin peremption- peremptio , the act of quashing, from Latin perimere to take away entirely, destroy, kill]",
+        "compare": "prescription",
+        "sub_definitions": {
+            "1": {
+                "1": "the absolute extinguishment of a right that prevents the bringing of an action [a claim barred by ]"
+            },
+            "2": {
+                "1": "the period of time after which such an extinguishment automatically occurs compare",
+                "compares": "prescription"
+            }
+        },
+        "references": {
+            "prescription": "https://dictionary.findlaw.com/definition/prescription.html"
+        }
+    }
+}

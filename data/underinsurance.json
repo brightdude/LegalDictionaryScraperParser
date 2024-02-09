@@ -1,0 +1,14 @@
+{
+    "Underinsurance": {
+        "definition": "insufficient insurance 2",
+        "sub_definitions": {
+            "1": {
+                "definition": "insufficient insurance"
+            },
+            "2": {
+                "definition": "insurance coverage protecting usually against uninsured or underinsured motorists by compensating the insured if the tortfeasor's liability policy limits fall short of the insured's lossesinsurance providing uninsured motorist coverage"
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "Da": {
+        "definition": "Da",
+        "sub_definitions": {
+            "1": {
+                "definition": "deposit account"
+            },
+            "2": {
+                "definition": "district attorney"
+            }
+        },
+        "references": {}
+    }
+}

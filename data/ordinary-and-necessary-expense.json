@@ -1,0 +1,8 @@
+{
+    "Ordinary And Necessary Expense": {
+        "definition": "Ordinary And Necessary Expense",
+        "references": {
+            "expense": "https://dictionary.findlaw.com/definition/expense.html"
+        }
+    }
+}

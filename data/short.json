@@ -1,0 +1,19 @@
+{
+    "Short": {
+        "definition": "treated or disposed of quickly in court [the calendar for causes] 2 a",
+        "origin": "[the calendar for causes]",
+        "sub_definitions": {
+            "1": {
+                "definition": "treated or disposed of quickly in court [the calendar for causes]"
+            },
+            "2 a": {
+                "definition": "not having goods or property that one has sold in anticipation of a fall in prices [a seller who was at the time of the sale]",
+                "sub_terms": {
+                    "b": "consisting of or relating to a sale of securities or commodities that the seller does not possess or has not contracted for at the time of the sale [a sale] [a position]advby or as if by a short sale [sold the stock ]"
+                },
+                "note": " The purpose of a short sale is to profit from an anticipated drop in the price of a security or commodity. Typically, an investor directs a broker to borrow a quantity of stocks and to sell them at the current price. If the price drops, the investor then repurchases an equal quantity at the lower price, returns the borrowed stocks, and retains the difference in price as profit. If the price rises instead of falling, the investor may choose or be compelled to repurchase the stocks at a higher price and to accept a loss."
+            }
+        },
+        "references": {}
+    }
+}

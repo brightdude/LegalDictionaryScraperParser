@@ -1,0 +1,16 @@
+{
+    "Status Offender": {
+        "definition": "a juvenile under the jurisdiction of the court because of acts that would not be criminal if committed by an adult but that indicate the child is beyond parental control compare juvenile delinquent",
+        "compare": "juvenile delinquent",
+        "sub_definitions": {
+            "1": {
+                "1": "a juvenile under the jurisdiction of the court because of acts that would not be criminal if committed by an adult but that indicate the child is beyond parental control compare",
+                "compares": "juvenile delinquent"
+            }
+        },
+        "references": {
+            "juvenile delinquent": "https://dictionary.findlaw.com/definition/juvenile-delinquent.html",
+            "youthful offender": "https://dictionary.findlaw.com/definition/youthful-offender.html"
+        }
+    }
+}

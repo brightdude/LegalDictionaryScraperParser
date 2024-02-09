@@ -1,0 +1,16 @@
+{
+    "Agency Shop": {
+        "definition": "a shop in which the labor union serves as the bargaining agent for and receives dues from all employees in the bargaining unit regardless of union membership compare open shop",
+        "compare": "open shop",
+        "sub_definitions": {
+            "1": {
+                "1": "a shop in which the labor union serves as the bargaining agent for and receives dues from all employees in the bargaining unit regardless of union membership compare",
+                "compares": "open shop"
+            }
+        },
+        "references": {
+            "open shop": "https://dictionary.findlaw.com/definition/open-shop.html",
+            "union shop": "https://dictionary.findlaw.com/definition/union-shop.html"
+        }
+    }
+}

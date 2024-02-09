@@ -1,0 +1,21 @@
+{
+    "Alter Ego": {
+        "definition": "second self ;esp",
+        "origin": "[Latin, literally, second I]",
+        "compare": "instrumentality",
+        "sub_definitions": {
+            "1": {
+                "1": "second self"
+            },
+            "2": {
+                "1": "a person or entity vicariously liable for another (as an agent) [had the officer been the",
+                "alter ego": "of the corporation \"J. J. White and R. S. Summers\"] compare",
+                "compares": "instrumentality",
+                "note": " The concept of a legal alter ego is used primarily to hold the controlling parties of a corporation personally liable instead of limiting liability to the corporate entity."
+            }
+        },
+        "references": {
+            "instrumentality": "https://dictionary.findlaw.com/definition/instrumentality.html"
+        }
+    }
+}

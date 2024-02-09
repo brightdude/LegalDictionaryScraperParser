@@ -1,0 +1,11 @@
+{
+    "Tentative Minimum Tax": {
+        "definition": "a tax that to the extent it exceeds regular tax liability is the alternative minimum tax liability and that is determined by adjusting taxable income by adding tax preference items under Internal Revenue Code section 57 and subtracting an exemption amount under section 55",
+        "sub_definitions": {
+            "1": {
+                "1": "a tax that to the extent it exceeds regular tax liability is the alternative minimum tax liability and that is determined by adjusting taxable income by adding tax preference items under Internal Revenue Code section 57 and subtracting an exemption amount under section 55"
+            }
+        },
+        "references": {}
+    }
+}

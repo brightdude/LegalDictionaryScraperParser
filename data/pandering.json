@@ -1,0 +1,17 @@
+{
+    "Pandering": {
+        "definition": "the act or crime of recruiting prostitutes or of arranging a situation for another to practice prostitution compare pimp 2",
+        "sub_definitions": {
+            "1": {
+                "definition": "the act or crime of recruiting prostitutes or of arranging a situation for another to practice prostitution compare",
+                "compares": "pimp"
+            },
+            "2": {
+                "definition": "the act or crime of selling or distributing visual or print media (as magazines) designed to appeal to the recipient's sexual interest"
+            }
+        },
+        "references": {
+            "pimp": "https://dictionary.findlaw.com/definition/pimp.html"
+        }
+    }
+}

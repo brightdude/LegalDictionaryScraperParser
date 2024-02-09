@@ -1,0 +1,14 @@
+{
+    "Pay Off": {
+        "definition": "to pay",
+        "origin": "[the loan was paid off ]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to pay (a debt or credit) in full [the loan was]"
+            }
+        },
+        "references": {
+            "bribe": "https://dictionary.findlaw.com/definition/bribe.html"
+        }
+    }
+}

@@ -1,0 +1,165 @@
+{
+    "Bond": {
+        "definition": "a usually formal written agreement by which a person undertakes to perform a certain act",
+        "origin": "[ an employee]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "a usually formal written agreement by which a person undertakes to perform a certain act (as appear in court or fulfill the obligations of a contract) or abstain from performing an act (as committing a crime) with the condition that failure to perform or abstain will obligate the person or often a surety to pay a sum of money or will result in the forfeiture of money put up by the person or suretythe money put up",
+                "note": " The purpose of a bond is to provide an incentive for the fulfillment of an obligation. It also provides reassurance that the obligation will be fulfilled and that compensation is available if it is not fulfilled. In most cases a surety is involved, and the bond makes the surety responsible for the consequences of the obligated person's behavior. Some bonds, such as fidelity bonds, function as insurance agreements, in which the surety promises to pay for financial loss caused by the bad behavior of an obligated person or by some contingency over which the person may have no control."
+            },
+            "appeal bond": {
+                "definition": "a cost bond required by a rule of procedure (as Federal Rule of Appellate Procedure 7) to be given by an appellant in order to cover the costs of an appeal"
+            },
+            "appearance bond": {
+                "definition": "an often unsecured bond given by a defendant in a criminal trial to guarantee the defendant's appearance in court as scheduled"
+            },
+            "1": {
+                "definition": "to convert into a debt secured by bonds"
+            },
+            "2": {
+                "definition": "to provide a bond for [ an employee]"
+            },
+            "bail bond": {
+                "definition": "a bond given by a criminal defendant or by his or her surety to ensure compliance with the terms of bail and esp. with the requirement that the defendant appear in court as scheduled"
+            },
+            "bid bond": {
+                "definition": "a surety bond often required of contractors bidding on construction work to ensure that the successful bidder will accept the job and will also provide a performance bond"
+            },
+            "blanket bond": {
+                "definition": "a fidelity bond covering all persons or all of a category of persons employed (as by a bank) or holding office (as of a trustee in bankruptcy)"
+            },
+            "com·ple·tion bond": {
+                "definition": "in this entry"
+            },
+            "contract bond": {
+                "definition": "a bond given to protect a person or business entity against loss caused by a breach of a contract (as for building, construction, or supply)"
+            },
+            "cost bond": {
+                "definition": "a bond given by a plaintiff to ensure payment of court costs"
+            },
+            "depository bond": {
+                "definition": "a bond given by a bank often for deposits from state or municipal governments that covers the amount of the deposit in the event of the bank's insolvency"
+            },
+            "fidelity bond": {
+                "definition": "a bond or other form of contract to cover an employer against financial loss due to the dishonesty of an employee"
+            },
+            "injunction bond": {
+                "definition": "a bond required to be given by the applicant for an injunction to cover costs and damages incurred by a party found to have been wrongfully enjoined"
+            },
+            "judicial bond": {
+                "definition": "a bond (as an appeal bond or bail bond) required to be given in a court proceeding"
+            },
+            "license bond": {
+                "definition": "a surety bond required by law or as a condition to the conduct of a specific business or profession called also"
+            },
+            "pay·ment bond": {
+                "definition": "a surety bond that covers payment to certain parties (as suppliers) in the event that a contractor breaches a construction contract"
+            },
+            "peace bond": {
+                "definition": "a bond required to be given by a defendant to ensure good behavior and discourage breaches of the peace"
+            },
+            "penal bond": {
+                "definition": "a bond that ensures payment of a stipulated sum in the event of a party's nonperformance and that is often required for government contracts"
+            },
+            "performance bond": {
+                "definition": "a surety bond that ensures a property owner (as a developer or municipality) of the completion of a construction contract or payment of actual damages to the extent of the bond in the event that the contractor fails to complete it called also"
+            },
+            "permit bond": {
+                "definition": "in this entry"
+            },
+            "personal bond": {
+                "definition": "a criminal defendant's unsecured promise to appear in court as scheduled after release from custody"
+            },
+            "replevin bond": {
+                "definition": "a bond given by a plaintiff in a replevin action to cover losses to the defendant or court officer seizing the property in the defendant's possession and transferring it to the plaintiff in the event that the plaintiff loses the case"
+            },
+            "supersedeas bond": {
+                "definition": "a bond given by an appellant in order to obtain a stay of the judgment awarded at trial and for the purpose of ensuring that if the appellant loses the appeal the appellee will be paid the judgment plus any damages incident to the delay caused by the appeal"
+            },
+            "surety bond": {
+                "definition": "a bond in which a surety agrees to assume responsibility for the performance of an obligation of another in the event of a default",
+                "sub_terms": {
+                    "b": "one who acts as a surety"
+                }
+            },
+            "accrual bond": {
+                "definition": "a bond that is usually the last tranche of a collateralized mortgage obligation and from which no payments of principal or interest are made until the earlier tranches are paid in full called also"
+            },
+            "adjustment bond": {
+                "definition": "a bond that is issued in settlement of a prior obligation as part of a business reorganization and on which interest payments are usually contingent upon earnings"
+            },
+            "ba·by bond": {
+                "definition": "a bond having a face value of usually $500 or less"
+            },
+            "bearer bond": {
+                "definition": "a fully negotiable bond payable to its bearer comparein this entry",
+                "compares": "registered bond"
+            },
+            "book-entry bond": {
+                "definition": "a bond whose ownership is recorded by computer but for which no certificate is issued"
+            },
+            "convertible bond": {
+                "definition": "a bond that may be exchanged for another type of security (as common stock) at prearranged terms"
+            },
+            "coupon bond": {
+                "definition": "a bearer bond that has coupons that must be cut off and presented for payment of interest"
+            },
+            "debenture bond": {
+                "definition": "a bond backed by the general credit of the issuer rather than by a specific lien on particular assets"
+            },
+            "discount bond": {
+                "definition": "a bond with a market value lower than its face value"
+            },
+            "flower bond": {
+                "definition": "a Treasury bond that may be redeemed at face value before maturity if used in settling federal estate taxes"
+            },
+            "guaranteed bond": {
+                "definition": "a bond on which payment of interest or principal or both is guaranteed by a corporation other than the issuer"
+            },
+            "income bond": {
+                "definition": "a bond that pays interest at a rate based on the issuer's earnings"
+            },
+            "junk bond": {
+                "definition": "a high-risk bond that offers a high yield and is often issued to finance the takeover of a company"
+            },
+            "mortgage bond": {
+                "definition": "a bond secured by a mortgage on property compare",
+                "compares": "debenture"
+            },
+            "municipal bond": {
+                "definition": "a bond issued by a municipality to fund the expenses of running the government or of specific programs or projects"
+            },
+            "registered bond": {
+                "definition": "a bond registered in the name of the holder on the books of the company and issued with the name of the holder written on the bond certificate comparein this entry",
+                "compares": "bearer bond"
+            },
+            "revenue bond": {
+                "definition": "a bond issued by a public agency authorized to build, acquire, or improve a revenue-producing property (as a toll road) and payable solely out of the revenue derived from such property"
+            },
+            "sav·ings bond": {
+                "definition": "a nontransferable registered bond issued by the U.S. government in denominations of $50 to $10,000"
+            },
+            "se·ri·al bond": {
+                "definition": "one of a series of bonds maturing periodically rather than on a single maturity date"
+            },
+            "Treasury bond": {
+                "definition": "a long-term government bond issued by or under the authority of the U.S. Treasury compareatat"
+            },
+            "ze·ro-coupon bond": {
+                "definition": "a bond that is sold at a price significantly below face value, pays no annual interest, and is redeemable at full value at maturity comparevt",
+                "compares": "strip"
+            }
+        },
+        "references": {
+            "performance bond": "https://dictionary.findlaw.com/definition/performance-bond.html",
+            "license bond": "https://dictionary.findlaw.com/definition/license-bond.html",
+            "collateralized mortgage obligation": "https://dictionary.findlaw.com/definition/collateralized-mortgage-obligation.html",
+            "registered bond": "https://dictionary.findlaw.com/definition/registered-bond.html",
+            "debenture": "https://dictionary.findlaw.com/definition/debenture.html",
+            "bearer bond": "https://dictionary.findlaw.com/definition/bearer-bond.html",
+            "bill": "https://dictionary.findlaw.com/definition/bill.html",
+            "note": "https://dictionary.findlaw.com/definition/note.html",
+            "strip": "https://dictionary.findlaw.com/definition/strip.html"
+        }
+    }
+}

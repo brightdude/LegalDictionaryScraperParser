@@ -1,0 +1,11 @@
+{
+    "Valued Policy": {
+        "definition": "an insurance policy in which the insurer and insured agree on a stated amount that will be paid in the event of a future loss instead of an amount that would have to be proven as the actual loss",
+        "sub_definitions": {
+            "1": {
+                "1": "an insurance policy in which the insurer and insured agree on a stated amount that will be paid in the event of a future loss instead of an amount that would have to be proven as the actual loss"
+            }
+        },
+        "references": {}
+    }
+}

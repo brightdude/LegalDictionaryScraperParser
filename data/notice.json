@@ -1,0 +1,64 @@
+{
+    "Notice": {
+        "definition": "a notification or communication of a fact",
+        "origin": "[had actual notice of the meeting]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "a notification or communication of a fact, claim, demand, or proceeding see also,",
+                "sub_terms": {
+                    "b": "awareness of such a fact, claim, demand, or proceeding"
+                },
+                "note": " The requirements of when, how, and what notice must be given to a person are often prescribed by a statute, rule, or contract.",
+                "see also": "process"
+            },
+            "1": {
+                "definition": "to make known through notice [appealsfor the coming session] [ashareholder meeting]",
+                "noticed": "shareholder meeting]"
+            },
+            "2": {
+                "definition": "to recognize formally [in a civil action or proceeding, the court shall instruct the jury to accept as conclusive any fact judicially\"Rule 201(g)\"]",
+                "Federal Rules of Evidence": "Rule 201(g)\"]"
+            },
+            "constructive notice": {
+                "definition": "notice that one exercising ordinary care and diligence as a matter of duty would possess and esp. that is imputed by law rather than from fact [held to haveof the prior recorded deed] compare",
+                "compares": "recording act",
+                "constructive notice": "of the prior recorded deed] compare"
+            },
+            "express notice": {
+                "definition": "in this entry"
+            },
+            "implied notice": {
+                "definition": "notice that is imputed to a party having knowledge of a fact or circumstance that would cause a reasonable party to inquire further or having possession of a means of knowing a particular fact and that is considered a form of actual notice called also"
+            },
+            "notice by publication": {
+                "definition": "notice published in a public medium (as a newspaper) that is used, allowed, or required esp. in matters of public concern, land, or estates or after due diligence in attempting personal service of process"
+            },
+            "3": {
+                "definition": "to serve a notice toto bring about by means of notice [allowed to a deposition from the other party]adjof, relating to, or being a recording act in which a party having an interest in property has priority over any earlier unrecorded claims of which the party had no notice compare,",
+                "compares": "pure race"
+            },
+            "4": {
+                "definition": "something (as information) that would cause a reasonable party to inquire further see alsoin this entry",
+                "see also": "implied notice"
+            },
+            "5": {
+                "definition": "a written document containing notice [filed a of appeal]"
+            },
+            "6": {
+                "definition": "recognition or attention esp. by a court see alsovt",
+                "see also": "judicial notice"
+            }
+        },
+        "references": {
+            "process": "https://dictionary.findlaw.com/definition/process.html",
+            "service": "https://dictionary.findlaw.com/definition/service.html",
+            "implied notice": "https://dictionary.findlaw.com/definition/implied-notice.html",
+            "recording act": "https://dictionary.findlaw.com/definition/recording-act.html",
+            "actual notice": "https://dictionary.findlaw.com/definition/actual-notice.html",
+            "constructive notice": "https://dictionary.findlaw.com/definition/constructive-notice.html",
+            "judicial notice": "https://dictionary.findlaw.com/definition/judicial-notice.html",
+            "pure race": "https://dictionary.findlaw.com/definition/pure-race.html",
+            "race-notice": "https://dictionary.findlaw.com/definition/race-notice.html"
+        }
+    }
+}

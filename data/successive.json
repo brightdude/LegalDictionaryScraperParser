@@ -1,0 +1,21 @@
+{
+    "Successive": {
+        "definition": "of or relating to succession [ rights] b",
+        "origin": "[ rights]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "of or relating to succession [ rights]",
+                "sub_terms": {
+                    "b": "created by succession"
+                }
+            },
+            "2": {
+                "definition": "following in orderfollowing each other without interruption [ bankruptcy filings]"
+            },
+            "3": {
+                "definition": "of, relating to, or being a petition for habeas corpus that raises a claim already adjudicated"
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "Misleading": {
+        "definition": "possessing the capacity or tendency to create a mistaken understanding or impression compare deceptive",
+        "compare": "deceptive",
+        "sub_definitions": {
+            "1": {
+                "1": "possessing the capacity or tendency to create a mistaken understanding or impression compare",
+                "compares": "deceptive"
+            }
+        },
+        "references": {
+            "deceptive": "https://dictionary.findlaw.com/definition/deceptive.html",
+            "fraudulent": "https://dictionary.findlaw.com/definition/fraudulent.html"
+        }
+    }
+}

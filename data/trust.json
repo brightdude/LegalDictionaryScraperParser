@@ -1,0 +1,266 @@
+{
+    "Trust": {
+        "definition": "a fiduciary relationship in which one party holds legal title to another's property for the benefit of a party who holds equitable title to the property b",
+        "origin": "[-lēd-]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "a fiduciary relationship in which one party holds legal title to another's property for the benefit of a party who holds equitable title to the property",
+                "sub_terms": {
+                    "b": "an entity resulting from the establishment of such a relationship see also,,at,,"
+                },
+                "note": " Trusts developed out of the old English use. The traditional requirements of a trust are a named beneficiary and trustee (who may be the settlor), an identified res, or property, to be transferred to the trustee and constitute the principal of the trust, and delivery of the res to the trustee with the intent to create a trust. Not all relationships labeled as trusts have all of these characteristics, however. Trusts are often created for their advantageous tax treatment.",
+                "see also": "beneficiary"
+            },
+            "accumulation trust": {
+                "definition": "a trust in which principal and income are allowed to accumulate rather than being paid out",
+                "note": " Accumulation trusts are disfavored and often restricted in the law."
+            },
+            "active trust": {
+                "definition": "a trust in which legal title remains in the trustee who has a duty to act affirmatively (as in exercising control, discretion, and judgment) with regard to the property comparein this entry",
+                "compares": "passive trust"
+            },
+            "alimony trust": {
+                "definition": "a trust created often in accordance with a separation agreement in which property is transferred to the trust as a source of support for a divorced spouse with a remainder to someone else"
+            },
+            "bank account trust": {
+                "definition": "in this entry"
+            },
+            "business trust": {
+                "definition": "a trust that is created for the purpose of making profit and that is usually characterized by some kind of commercial activity, transferable certificates of interest, existence continuing after the death of beneficiaries, limited liability, legal title in the hands of trustees, and officers having duties of management called also",
+                "note": " A trust that qualifies as a business trust is eligible for bankruptcy protection under chapter 13 of the Bankruptcy Code."
+            },
+            "by·pass trust": {
+                "definition": "a trust in which a spouse leaves his or her estate upon death to a trust naming the surviving spouse as beneficiary usually with remainders to children or other descendants called also",
+                "note": " The purpose of a bypass trust is to reduce the surviving spouse's taxable estate. Such trusts do not qualify for the marital deduction."
+            },
+            "charitable lead trust": {
+                "definition": "[-lēd-]a trust in which a charity is named as the beneficiary for a period of time after which named individuals succeed as beneficiaries"
+            },
+            "charitable remainder annuity trust": {
+                "definition": "a charitable remainder trust in which the named beneficiaries receive a fixed payment of not less than five percent of the fair market value of the original principal over the course of a specified period after which the remaining principal passes to charity"
+            },
+            "charitable remainder trust": {
+                "definition": "a trust in which individuals are named as beneficiaries to receive income for a period of time (as the lifetimes of the beneficiaries) after which the principal passes to charity",
+                "note": " Charitable remainder trusts qualify for tax exemptions under section 664 of the Internal Revenue Code."
+            },
+            "charitable remainder uni·trust": {
+                "definition": "[-yü-nə-trəst]a charitable remainder trust in which the named beneficiaries receive payments of a fixed percentage and not less than five percent of the value of the trust assets as determined annually for a specified period after which the remainder passes to charity"
+            },
+            "charitable trust": {
+                "definition": "a trust created for the purpose of performing charity or providing social benefits",
+                "note": " Unlike most trusts, a charitable trust does not require definite beneficiaries and may exist in perpetuity."
+            },
+            "Clif·ford trust": {
+                "definition": "[kli-fərd-]a grantor trust lasting at least ten years with income payable to a beneficiary and principal reverting to the settlor upon termination",
+                "note": " Prior to the Tax Reform Act of 1986, a Clifford trust could be used as a tax shelter that diverted income from the settlor, who was in a higher tax bracket, to a beneficiary, often a child, who was in a lower tax bracket. Under the current rules, the settlor is treated as the owner of any portion of a trust in which he or she has a reversionary interest, and therefore taxes are calculated at the settlor's rate."
+            },
+            "common-law trust": {
+                "definition": "in this entry"
+            },
+            "com·plex trust": {
+                "definition": "a trust under which any or all income does not have to be distributed and principal may be distributed comparein this entry",
+                "compares": "simple trust"
+            },
+            "1": {
+                "definition": "an implied trust imposed by a court to prevent the unjust enrichment of one who has wrongfully obtained (as through fraud or bad faith) title to the property or a property interest of another called alsocomparein this entry",
+                "compares": "resulting trust"
+            },
+            "2": {
+                "definition": "an equitable remedy to prevent unjust enrichment through the imposition of a constructive trust"
+            },
+            "credit shel·ter trust": {
+                "definition": "in this entry"
+            },
+            "discretionary trust": {
+                "definition": "a trust that gives the trustee authority to exercise his or her discretion in distributing principal or income to the beneficiary"
+            },
+            "dry trust": {
+                "definition": "in this entry"
+            },
+            "executed trust": {
+                "definition": "a trust in which nothing is left to be done by the trustee but preserve the property and execute the purpose of the trust to benefit the beneficiaries"
+            },
+            "executory trust": {
+                "definition": "a trust in which the settlor or trustee has duties to perform (as securing the property, ascertaining the objects of the trust, or making distributions)"
+            },
+            "express trust": {
+                "definition": "a trust intentionally created by the settlora trust created by a positive act of the settlor and set down in writing that expresses the intention to create a trust, identifies the property to be placed in trust, and names beneficiaries"
+            },
+            "gen·er·a·tion-skip·ping trust": {
+                "definition": "a trust in which the principal will eventually go to a skip person usually following payment of income for life to a non-skip persona trust created by a generation-skipping transfer of property in trust"
+            },
+            "grantor trust": {
+                "definition": "a trust that is taxed at the settlor's tax rate because the settlor has the power to control the beneficial enjoyment of the trust, retains a reversionary interest in the trust, has administrative powers over the trust, has the power to revoke the trust, or benefits from the income of the trust see alsoin this entry",
+                "see also": "clifford trust"
+            },
+            "hon·or·ary trust": {
+                "definition": "[Ä -nə-rer-ē-]a trust that is created for a purpose which is not charitable and that names no specific beneficiary",
+                "note": " An honorary trust may be upheld as valid where allowed by statute providing that its purpose (as for the care of an animal or grave) is sufficiently clear. Unlike a charitable trust, however, an honorary trust is subject to the rule against perpetuities."
+            },
+            "Illinois land trust": {
+                "definition": "in this entry"
+            },
+            "implied trust": {
+                "definition": "a trust arising by operation of law when the circumstances of a transaction imply the creation of a trust that is not expressly created by the parties and esp. when a trust is necessary to avoid an inequitable result or to prevent fraud"
+            },
+            "individual policy pension trust": {
+                "definition": "an insurance trust created as a retirement plan in which individual life insurance policies are purchased for employees and held in trust by the employer to fund the plan"
+            },
+            "insurance trust": {
+                "definition": "a trust in which the principal consists of an insurance policy or its proceeds"
+            },
+            "inter vivos trust": {
+                "definition": "a trust that becomes effective during the lifetime of the settlor called alsocomparein this entry",
+                "compares": "testamentary trust"
+            },
+            "investment trust": {
+                "definition": "a business trust that is a closed-end investment company"
+            },
+            "involuntary trust": {
+                "definition": "in this entryin this entry"
+            },
+            "irrevocable trust": {
+                "definition": "a trust that cannot be revoked by the settlor after its creation except upon the consent of all the beneficiaries"
+            },
+            "land trust": {
+                "definition": "a trust created to effectuate a real estate ownership arrangement in which the trustee holds legal and equitable title to the property subject to the provisions of a trust agreement setting out the rights of the beneficiaries whose interests in the trust are declared to be personal property called also"
+            },
+            "living trust": {
+                "definition": "in this entry"
+            },
+            "marital deduction trust": {
+                "definition": "a marital trust created in order to qualify for the marital deductionin this entry"
+            },
+            "marital trust": {
+                "definition": "a testamentary trust naming a surviving spouse as the beneficiary see alsoandin this entry",
+                "see also": "marital deduction trust"
+            },
+            "Mas·sa·chu·setts trust": {
+                "definition": "[ma-sə-chü-səts-, -zəts-]in this entry"
+            },
+            "naked land trust": {
+                "definition": "in this entry"
+            },
+            "naked trust": {
+                "definition": "in this entry"
+            },
+            "nominee trust": {
+                "definition": "a trust created for the purpose of holding property for beneficiaries whose identities are kept secret"
+            },
+            "oral trust": {
+                "definition": "a trust created by the settlor's spoken statements esp. for the purpose of transferring real property as part of an agreement between the settlor and the trustee"
+            },
+            "passive trust": {
+                "definition": "a trust or use under which the trustee has no duties to performa trust in which legal and equitable titles are merged in the beneficiaries called alsocomparein this entry",
+                "compares": "active trust"
+            },
+            "pour-over trust": {
+                "definition": "a trust that receives the assets that make up its principal by operation of a testamentary disposition to it usually of the residue of an estate or from another trust upon the settlor's death"
+            },
+            "power of appointment trust": {
+                "definition": "a marital trust that provides a surviving spouse with a life estate in property and a power of appointment allowing appointment of the property to the surviving spouse or to his or her estate",
+                "note": " A power of appointment trust made in accordance with Internal Revenue Code section 2056(b)(5) qualifies for the marital deduction."
+            },
+            "pro·tec·tive trust": {
+                "definition": "a trust that attempts to shield assets from the beneficiaries' creditors by providing that it is within the trustee's discretion to refuse to pay a beneficiary or that a beneficiary forfeits his or her interest in the trust upon a creditor's attempt to reach it"
+            },
+            "purchase money re·sult·ing trust": {
+                "definition": "a resulting trust arising where not abolished by statute when property is purchased with title in the name of one person but using the money of another"
+            },
+            "QTIP trust": {
+                "definition": "[kyü-tip-]a trust to which qualified terminable interest property is transferred for purposes of taking the marital deduction"
+            },
+            "qualified charitable remainder trust": {
+                "definition": "a trust that is either a charitable remainder annuity trust or a charitable remainder unitrust"
+            },
+            "real estate investment trust": {
+                "definition": "a business trust similar to a closed-end investment company except that it invests in real estate either as an owner having equity in the property or as a lender holding mortgages on the property"
+            },
+            "resulting trust": {
+                "definition": "an implied trust based upon the presumed intentions of the parties as inferred from all the circumstances that the party holding legal title to trust property holds it for the benefit of the other comparein this entry",
+                "compares": "constructive trust"
+            },
+            "revocable trust": {
+                "definition": "a trust over which the settlor has retained the power of revocation"
+            },
+            "savings bank trust": {
+                "definition": "in this entry"
+            },
+            "shelter trust": {
+                "definition": "in this entry"
+            },
+            "simple trust": {
+                "definition": "a trust under which all current income must be distributed and no principal may be distributed"
+            },
+            "spendthrift trust": {
+                "definition": "a trust that is created for the benefit of a spendthrift who is paid income therefrom and that cannot be reached by creditors to satisfy the spendthrift's debts"
+            },
+            "tentative trust": {
+                "definition": "in this entry"
+            },
+            "testamentary trust": {
+                "definition": "a trust created in a will to be effective upon the settlor's death"
+            },
+            "Tot·ten trust": {
+                "definition": "[tÄ t-n-]a trust created by a deposit in a bank by one person as trustee for another that is revocable until the death of the depositor called also"
+            },
+            "trust de son tort": {
+                "definition": "[-də-sōn-tȯrt, -sȯ-tȯr][Anglo-French() from his or her (own) wrongful act]in this entry",
+                "desmesne": ") from his or her (own) wrongful act]"
+            },
+            "trust ex delicto": {
+                "definition": "in this entry"
+            },
+            "trust ex maleficio": {
+                "definition": "in this entry"
+            },
+            "unit trust": {
+                "definition": "a trust operating as a vehicle for investment whose portfolio consists of long-term bonds that are held to maturity"
+            },
+            "voting trust": {
+                "definition": "a trust created by the transfer of legal title to shares of stock to a trustee or trustees who exercise the corporate voting rights conferred by ownership of the shares as agreed in the trust instrument",
+                "note": " The shareholders transferring legal title to their shares retain the equitable title and continue to receive dividends and other distributions. They also receive certificates as evidence of their interest in the trust, which provides the holder with the rights of a shareholder except for voting rights."
+            },
+            "2 a": {
+                "definition": "a combination of firms or corporations formed by an agreement establishing a trust whereby shareholders in the separate corporations exchange their shares for shares representing proportionate interest in the principal and income of the combination and surrender to the trustees the management and operation of the combined firms or corporations",
+                "sub_terms": {
+                    "b": "a combination or aggregation of business entities formed by any of various meansone that reduces competition or is thought to present a threat of reducing competition compare"
+                },
+                "compares": "antitrust"
+            },
+            "3 a": {
+                "definition": "a charge or duty imposed in faith or confidence or as a condition of some relationship",
+                "sub_terms": {
+                    "b": "something committed or entrusted to one to be used or cared for in the interest of another [no religious test shall ever be required as a qualification to any office or public under the United States \"art. VI\"]",
+                    "c": "the condition, obligation, or right of one to whom something is confidedresponsible charge or office [acted diligently in carrying out his as chairman of the board]",
+                    "d": "[a child committed to their ]"
+                }
+            }
+        },
+        "references": {
+            "beneficiary": "https://dictionary.findlaw.com/definition/beneficiary.html",
+            "cestui que trust": "https://dictionary.findlaw.com/definition/cestui-que-trust.html",
+            "corpus": "https://dictionary.findlaw.com/definition/corpus.html",
+            "declaration": "https://dictionary.findlaw.com/definition/declaration.html",
+            "principal": "https://dictionary.findlaw.com/definition/principal.html",
+            "settlor": "https://dictionary.findlaw.com/definition/settlor.html",
+            "passive trust": "https://dictionary.findlaw.com/definition/passive-trust.html",
+            "totten trust": "https://dictionary.findlaw.com/definition/totten-trust.html",
+            "business trust": "https://dictionary.findlaw.com/definition/business-trust.html",
+            "simple trust": "https://dictionary.findlaw.com/definition/simple-trust.html",
+            "resulting trust": "https://dictionary.findlaw.com/definition/resulting-trust.html",
+            "bypass trust": "https://dictionary.findlaw.com/definition/bypass-trust.html",
+            "clifford trust": "https://dictionary.findlaw.com/definition/clifford-trust.html",
+            "land trust": "https://dictionary.findlaw.com/definition/land-trust.html",
+            "testamentary trust": "https://dictionary.findlaw.com/definition/testamentary-trust.html",
+            "implied trust": "https://dictionary.findlaw.com/definition/implied-trust.html",
+            "constructive trust": "https://dictionary.findlaw.com/definition/constructive-trust.html",
+            "inter vivos trust": "https://dictionary.findlaw.com/definition/inter-vivos-trust.html",
+            "power of appointment trust": "https://dictionary.findlaw.com/definition/power-of-appointment-trust.html",
+            "marital deduction trust": "https://dictionary.findlaw.com/definition/marital-deduction-trust.html",
+            "active trust": "https://dictionary.findlaw.com/definition/active-trust.html",
+            "antitrust": "https://dictionary.findlaw.com/definition/antitrust.html",
+            "custody": "https://dictionary.findlaw.com/definition/custody.html"
+        }
+    }
+}

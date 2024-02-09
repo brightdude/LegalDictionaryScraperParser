@@ -1,0 +1,13 @@
+{
+    "Articles Of Association": {
+        "definition": "the instrument under which an association is organized 2",
+        "sub_definitions": {
+            "1": {
+                "definition": "the instrument under which an association is organized"
+            }
+        },
+        "references": {
+            "articles of incorporation": "https://dictionary.findlaw.com/definition/articles-of-incorporation.html"
+        }
+    }
+}

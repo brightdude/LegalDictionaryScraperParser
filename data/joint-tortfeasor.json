@@ -1,0 +1,15 @@
+{
+    "Joint Tortfeasor": {
+        "definition": "any of two or more parties held jointly or severally liable for the same tort see also contribution joint liability at liability",
+        "sub_definitions": {
+            "1": {
+                "1": "any of two or more parties held jointly or severally liable for the same tort see also",
+                "see also": "contribution"
+            }
+        },
+        "references": {
+            "contribution": "https://dictionary.findlaw.com/definition/contribution.html",
+            "liability": "https://dictionary.findlaw.com/definition/liability.html"
+        }
+    }
+}

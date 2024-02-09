@@ -1,0 +1,32 @@
+{
+    "Job": {
+        "definition": "to do odd or occasional pieces of work for hire 2",
+        "origin": "[a description]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to buy and sell (as stock) for profit"
+            },
+            "2": {
+                "definition": "to hire or let by the job or for a period of service"
+            },
+            "3": {
+                "definition": "to do or cause to be done by separate portions or lotsn"
+            },
+            "1 a": {
+                "definition": "a piece of worka small miscellaneous piece of work undertaken on order at a stated rate",
+                "sub_terms": {
+                    "b": "the object or material on which work is being done"
+                }
+            },
+            "2 a": {
+                "definition": "a specific duty, role, or function [a description]",
+                "sub_terms": {
+                    "b": "a regular remunerative position"
+                }
+            }
+        },
+        "references": {
+            "subcontract": "https://dictionary.findlaw.com/definition/subcontract.html"
+        }
+    }
+}

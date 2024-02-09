@@ -1,0 +1,18 @@
+{
+    "Age Of Consent": {
+        "definition": "the age at which a person is deemed competent by law to give consent esp. to sexual intercourse or marriage see also statutory rape compare emancipation",
+        "compare": "statutory rape",
+        "sub_definitions": {
+            "1": {
+                "1": "the age at which a person is deemed competent by law to give consent esp. to sexual intercourse or marriage see also",
+                "see also": "statutory rape",
+                "compares": "emancipation"
+            }
+        },
+        "references": {
+            "statutory rape": "https://dictionary.findlaw.com/definition/statutory-rape.html",
+            "emancipation": "https://dictionary.findlaw.com/definition/emancipation.html",
+            "legal age": "https://dictionary.findlaw.com/definition/legal-age.html"
+        }
+    }
+}

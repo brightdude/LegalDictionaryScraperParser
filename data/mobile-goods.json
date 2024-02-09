@@ -1,0 +1,8 @@
+{
+    "Mobile Goods": {
+        "definition": "Mobile Goods",
+        "references": {
+            "good": "https://dictionary.findlaw.com/definition/good.html"
+        }
+    }
+}

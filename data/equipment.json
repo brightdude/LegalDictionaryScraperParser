@@ -1,0 +1,14 @@
+{
+    "Equipment": {
+        "definition": "the implements used in an operation or activity ;specif in the Uniform Commercial Code",
+        "sub_definitions": {
+            "1": {
+                "1": "the implements used in an operation or activity"
+            },
+            "2": {
+                "1": "goods that are bought for or used in a business enterprise or by a debtor which is a nonprofit organization or a government agency and that are not inventory, farm products, or consumer goods"
+            }
+        },
+        "references": {}
+    }
+}

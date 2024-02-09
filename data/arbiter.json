@@ -1,0 +1,14 @@
+{
+    "Arbiter": {
+        "definition": "arbitrator",
+        "origin": "[Latin, onlooker, arbitrator]",
+        "sub_definitions": {
+            "1": {
+                "1": "arbitrator"
+            }
+        },
+        "references": {
+            "arbitrator": "https://dictionary.findlaw.com/definition/arbitrator.html"
+        }
+    }
+}

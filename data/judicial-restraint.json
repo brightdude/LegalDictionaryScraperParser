@@ -1,0 +1,15 @@
+{
+    "Judicial Restraint": {
+        "definition": "a refraining in the judiciary from departure from precedent and the formulation of broad doctrine compare judicial activism",
+        "compare": "judicial activism",
+        "sub_definitions": {
+            "1": {
+                "1": "a refraining in the judiciary from departure from precedent and the formulation of broad doctrine compare",
+                "compares": "judicial activism"
+            }
+        },
+        "references": {
+            "judicial activism": "https://dictionary.findlaw.com/definition/judicial-activism.html"
+        }
+    }
+}

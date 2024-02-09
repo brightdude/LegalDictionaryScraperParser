@@ -1,0 +1,13 @@
+{
+    "Gender Discrimination": {
+        "definition": "sex discrimination",
+        "sub_definitions": {
+            "1": {
+                "1": "sex discrimination"
+            }
+        },
+        "references": {
+            "sex discrimination": "https://dictionary.findlaw.com/definition/sex-discrimination.html"
+        }
+    }
+}

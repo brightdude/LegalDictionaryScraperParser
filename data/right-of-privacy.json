@@ -1,0 +1,16 @@
+{
+    "Right Of Privacy": {
+        "definition": "the right of a person to be free from intrusion into or publicity concerning matters of a personal nature called also right to privacy compare invasion of privacy NOTE",
+        "compare": "invasion of privacy",
+        "sub_definitions": {
+            "1": {
+                "1": "the right of a person to be free from intrusion into or publicity concerning matters of a personal nature called also",
+                "compares": "invasion of privacy",
+                "note": " Although not explicitly mentioned in the U.S. Constitution, a penumbral right of privacy has been held to be encompassed in the Bill of Rights, providing protection from unwarranted governmental intrusion into areas such as marriage and contraception. A person's right of privacy may be overcome by a showing that it is outweighed by a compelling state interest."
+            }
+        },
+        "references": {
+            "invasion of privacy": "https://dictionary.findlaw.com/definition/invasion-of-privacy.html"
+        }
+    }
+}

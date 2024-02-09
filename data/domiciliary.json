@@ -1,0 +1,16 @@
+{
+    "Domiciliary": {
+        "definition": "of",
+        "origin": "[ jurisdiction]",
+        "compare": "resident",
+        "sub_definitions": {
+            "-ar·ies": {
+                "definition": "a person who is domiciled in a particular jurisdiction (as a country) [a French ] compare",
+                "compares": "resident"
+            }
+        },
+        "references": {
+            "resident": "https://dictionary.findlaw.com/definition/resident.html"
+        }
+    }
+}

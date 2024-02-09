@@ -1,0 +1,14 @@
+{
+    "D": {
+        "definition": "D",
+        "sub_definitions": {
+            "1": {
+                "definition": "district"
+            },
+            "2": {
+                "definition": "defendant"
+            }
+        },
+        "references": {}
+    }
+}

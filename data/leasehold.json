@@ -1,0 +1,22 @@
+{
+    "Leasehold": {
+        "definition": "a tenure of real property held by a lessee under a lease",
+        "compare": "fee",
+        "sub_definitions": {
+            "1": {
+                "1": "a tenure of real property held by a lessee under a lease"
+            },
+            "2": {
+                "1": "a lessee's estate in the property"
+            },
+            "3": {
+                "1": "the property so held compare",
+                "compares": "fee"
+            }
+        },
+        "references": {
+            "fee": "https://dictionary.findlaw.com/definition/fee.html",
+            "freehold": "https://dictionary.findlaw.com/definition/freehold.html"
+        }
+    }
+}

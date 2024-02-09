@@ -1,0 +1,14 @@
+{
+    "Attorney-In-Fact": {
+        "definition": "attorneys-in-fact",
+        "sub_definitions": {
+            "attorneys-in-fact": {
+                "definition": "an attorney who may or may not be a lawyer who is given written authority to act on another's behalf esp. by a power of attorney compare",
+                "compares": "attorney-at-law"
+            }
+        },
+        "references": {
+            "attorney-at-law": "https://dictionary.findlaw.com/definition/attorney-at-law.html"
+        }
+    }
+}

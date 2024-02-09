@@ -1,0 +1,18 @@
+{
+    "Smart Money": {
+        "definition": "punitive damages at damage n 1",
+        "origin": "[ smart pain]",
+        "sub_definitions": {
+            "1": {
+                "definition": "money invested by one having inside information or much experience"
+            },
+            "2": {
+                "definition": "well-informed investors or speculators"
+            }
+        },
+        "references": {
+            "punitive damages": "https://dictionary.findlaw.com/definition/punitive-damages.html",
+            "damage": "https://dictionary.findlaw.com/definition/damage.html"
+        }
+    }
+}

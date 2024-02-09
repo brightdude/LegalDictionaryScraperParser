@@ -1,0 +1,17 @@
+{
+    "Labor Organization": {
+        "definition": "an organization",
+        "sub_definitions": {
+            "1": {
+                "1": "an organization, agency, committee, group, or plan in which employees take part that deals with employers about such matters as wages and grievances"
+            },
+            "2": {
+                "1": "labor union",
+                "note": " Designation by the court as a labor organization subject to applicable statutes can confer a variety of liabilities and protections, esp. in regard to antitrust issues, unfair labor and management practices, and right-to-work laws."
+            }
+        },
+        "references": {
+            "labor union": "https://dictionary.findlaw.com/definition/labor-union.html"
+        }
+    }
+}

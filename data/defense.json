@@ -1,0 +1,82 @@
+{
+    "Defense": {
+        "definition": "the act or action of defending see also self-defense 2 a",
+        "origin": "[the rests]",
+        "sub_definitions": {
+            "1": {
+                "definition": "the act or action of defending see also",
+                "see also": "self-defense"
+            },
+            "2 a": {
+                "definition": "the theory or ground that forms the basis for a defendant's opposition to an allegation in a complaint or to a charge in a charging instrument (as an indictment)the evidence and arguments presented supporting the defendant's opposition see also,,,,at,,,,,,,,,,,,,,",
+                "see also": "accord"
+            },
+            "absolute defense": {
+                "definition": "in this entry"
+            },
+            "af·fir·ma·tive defense": {
+                "definition": "a defense that does not deny the truth of the allegations against the defendant but gives some other reason (as insanity, assumption of risk, or expiration of the statute of limitations) why the defendant cannot be held liable",
+                "note": " The defendant bears the burden of proof as to affirmative defenses."
+            },
+            "choice of evils defense": {
+                "definition": "a defense to a criminal charge based on the assertion that the criminal act was committed to avoid the commission of an even greater evil called also",
+                "note": " In jurisdictions that recognize the choice of evils defense, it encompasses both of the older defenses of duress and necessity."
+            },
+            "complete defense": {
+                "definition": "a defense that shields the defendant from any liability and bars any recovery by the plaintiff comparein this entry",
+                "compares": "partial defense"
+            },
+            "lesser evils defense": {
+                "definition": "in this entry"
+            },
+            "meritorious defense": {
+                "definition": "a defense that is based on evidence sufficient to warrant setting aside a default judgment against the defendant in civil litigation"
+            },
+            "partial defense": {
+                "definition": "a defense by which the defendant reduces the amount of damages of which he or she is liable comparein this entry",
+                "sub_terms": {
+                    "b": "a basis upon which an obligor of a negotiable instrument may avoid liability under the instrument"
+                },
+                "compares": "complete defense"
+            },
+            "personal defense": {
+                "definition": "a defense of an obligor under a negotiable instrument that can be asserted against anyone but a holder in due course"
+            },
+            "real defense": {
+                "definition": "a defense of an obligor of a negotiable instrument that may be asserted even against a holder in due course",
+                "note": " Section 3-305(a)(1) of the Uniform Commercial Code sets out the real defenses as infancy, duress, lack of legal capacity, illegality of the transaction, fraud in the factum, and discharge of the obligor by a bankruptcy court. By exclusion, all other defenses are personal defenses."
+            },
+            "3": {
+                "definition": "the defending side in a legal proceeding [the rests] compare",
+                "compares": "prosecution"
+            }
+        },
+        "references": {
+            "self-defense": "https://dictionary.findlaw.com/definition/self-defense.html",
+            "accord": "https://dictionary.findlaw.com/definition/accord.html",
+            "alibi": "https://dictionary.findlaw.com/definition/alibi.html",
+            "assumption of risk": "https://dictionary.findlaw.com/definition/assumption-of-risk.html",
+            "coercion": "https://dictionary.findlaw.com/definition/coercion.html",
+            "consent": "https://dictionary.findlaw.com/definition/consent.html",
+            "negligence": "https://dictionary.findlaw.com/definition/negligence.html",
+            "denial": "https://dictionary.findlaw.com/definition/denial.html",
+            "diminished capacity": "https://dictionary.findlaw.com/definition/diminished-capacity.html",
+            "duress": "https://dictionary.findlaw.com/definition/duress.html",
+            "entrapment": "https://dictionary.findlaw.com/definition/entrapment.html",
+            "estoppel": "https://dictionary.findlaw.com/definition/estoppel.html",
+            "fraud": "https://dictionary.findlaw.com/definition/fraud.html",
+            "infancy": "https://dictionary.findlaw.com/definition/infancy.html",
+            "insanity": "https://dictionary.findlaw.com/definition/insanity.html",
+            "intoxication": "https://dictionary.findlaw.com/definition/intoxication.html",
+            "laches": "https://dictionary.findlaw.com/definition/laches.html",
+            "mistake": "https://dictionary.findlaw.com/definition/mistake.html",
+            "necessity": "https://dictionary.findlaw.com/definition/necessity.html",
+            "res judicata": "https://dictionary.findlaw.com/definition/res-judicata.html",
+            "statute of limitations": "https://dictionary.findlaw.com/definition/statute-of-limitations.html",
+            "complete defense": "https://dictionary.findlaw.com/definition/complete-defense.html",
+            "partial defense": "https://dictionary.findlaw.com/definition/partial-defense.html",
+            "choice of evils defense": "https://dictionary.findlaw.com/definition/choice-of-evils-defense.html",
+            "prosecution": "https://dictionary.findlaw.com/definition/prosecution.html"
+        }
+    }
+}

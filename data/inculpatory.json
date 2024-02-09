@@ -1,0 +1,17 @@
+{
+    "Inculpatory": {
+        "definition": "incriminating [made statements to the police] compare exculpatory",
+        "origin": "[made statements to the police]",
+        "compare": "incriminating",
+        "sub_definitions": {
+            "1": {
+                "1": "incriminating",
+                "compares": "exculpatory"
+            }
+        },
+        "references": {
+            "incriminating": "https://dictionary.findlaw.com/definition/incriminating.html",
+            "exculpatory": "https://dictionary.findlaw.com/definition/exculpatory.html"
+        }
+    }
+}

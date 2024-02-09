@@ -1,0 +1,11 @@
+{
+    "Bank Discount": {
+        "definition": "the interest that is discounted in advance on a note and computed on the face value of the note",
+        "sub_definitions": {
+            "1": {
+                "1": "the interest that is discounted in advance on a note and computed on the face value of the note"
+            }
+        },
+        "references": {}
+    }
+}

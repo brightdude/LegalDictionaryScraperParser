@@ -1,0 +1,20 @@
+{
+    "Remitter": {
+        "definition": "remittitur n",
+        "origin": "[Anglo-French, from remitter to remit]",
+        "sub_definitions": {
+            "1": {
+                "1": "remittitur"
+            },
+            "2": {
+                "1": "one that remits"
+            },
+            "3": {
+                "1": "one that sends a remittance"
+            }
+        },
+        "references": {
+            "remittitur": "https://dictionary.findlaw.com/definition/remittitur.html"
+        }
+    }
+}

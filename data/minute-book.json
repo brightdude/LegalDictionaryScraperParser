@@ -1,0 +1,14 @@
+{
+    "Minute Book": {
+        "definition": "a book in which written minutes or other records are entered 2",
+        "sub_definitions": {
+            "1": {
+                "definition": "a book in which written minutes or other records are entered"
+            },
+            "2": {
+                "definition": "the official written record of the transactions of the stockholders and directors of a corporation"
+            }
+        },
+        "references": {}
+    }
+}

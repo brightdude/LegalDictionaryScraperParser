@@ -1,0 +1,19 @@
+{
+    "Dishonor": {
+        "definition": "refusal on the part of the issuer",
+        "origin": "[a bank ing the checks for insufficient funds]",
+        "sub_definitions": {
+            "1": {
+                "1": "refusal on the part of the issuer (as a bank) to pay or accept commercial paper (as a check) when it is presented see also",
+                "see also": "wrongful dishonor"
+            },
+            "2": {
+                "1": "to refuse to pay or accept [a bank",
+                "ing": "the checks for insufficient funds]"
+            }
+        },
+        "references": {
+            "wrongful dishonor": "https://dictionary.findlaw.com/definition/wrongful-dishonor.html"
+        }
+    }
+}

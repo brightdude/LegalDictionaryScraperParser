@@ -1,0 +1,25 @@
+{
+    "Adversary": {
+        "definition": "one that contends with or opposes another ;esp",
+        "compare": "accusatorial",
+        "sub_definitions": {
+            "1": {
+                "1": "one that contends with or opposes another"
+            },
+            "2": {
+                "1": "any of the opposing parties in a legal action"
+            },
+            "3": {
+                "1": "of, relating to, or involving opposing parties or interests"
+            },
+            "4": {
+                "1": "of, relating to, or involving a system of justice in which opposing parties usually represented by counsel present evidence to an impartial decision-maker (as a jury) by a process of questioning witnesses under the supervision of a judge compare",
+                "compares": "accusatorial"
+            }
+        },
+        "references": {
+            "accusatorial": "https://dictionary.findlaw.com/definition/accusatorial.html",
+            "inquisitorial": "https://dictionary.findlaw.com/definition/inquisitorial.html"
+        }
+    }
+}

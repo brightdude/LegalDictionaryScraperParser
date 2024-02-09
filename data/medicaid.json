@@ -1,0 +1,11 @@
+{
+    "Medicaid": {
+        "definition": "a program of medical aid designed for those unable to afford regular medical care and financed by the state and federal governments",
+        "sub_definitions": {
+            "1": {
+                "1": "a program of medical aid designed for those unable to afford regular medical care and financed by the state and federal governments"
+            }
+        },
+        "references": {}
+    }
+}

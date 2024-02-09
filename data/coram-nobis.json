@@ -1,0 +1,15 @@
+{
+    "Coram Nobis": {
+        "definition": "writ of error coram nobis at writ",
+        "origin": "[Latin, in our presence]",
+        "sub_definitions": {
+            "1": {
+                "1": "writ of error coram nobis"
+            }
+        },
+        "references": {
+            "writ of error coram nobis": "https://dictionary.findlaw.com/definition/writ-of-error-coram-nobis.html",
+            "writ": "https://dictionary.findlaw.com/definition/writ.html"
+        }
+    }
+}

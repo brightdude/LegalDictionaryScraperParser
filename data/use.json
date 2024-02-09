@@ -1,0 +1,66 @@
+{
+    "Use": {
+        "definition": "an arrangement in which property is granted to another with the trust and confidence that the grantor or another is entitled to the beneficial enjoyment of it see also trust Statute of Uses in the Important Laws section NOTE",
+        "origin": "[the secret conveyance of s in early English law]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "an arrangement in which property is granted to another with the trust and confidence that the grantor or another is entitled to the beneficial enjoyment of it see alsoin the Important Laws section",
+                "sub_terms": {
+                    "b": "the right to the utilization and benefit of property to which legal title is held by another [the secret conveyance ofin early English law]the fact or right of having the benefits and profits of property"
+                },
+                "note": " Uses originated in early English law and were the origin of the modern trust. Uses became popular in medieval England, where they were often secretly employed as a method of evading laws (as those prohibiting mortmain) and penalties (as attainder) and to defeat creditors. In response, the Statute of Uses was enacted in 1535. The purpose of the Statute was to execute the use, investing the legal ownership of the property in the cestui que use, or one entitled to the beneficial enjoyment, and abolishing the ownership of the grantee. The Statute did not have blanket application, however. Certain uses, particularly those in which the grantee was not merely a passive holder of the property, were not executed under the Statute. These uses were called trusts, and they were the basis of the modern trust.",
+                "see also": "trust",
+                "Statute of Uses": "in the Important Laws section",
+                "s": "in early English law]"
+            },
+            "re·sult·ing use": {
+                "definition": "a use that equity attributes back to a grantor when there is no person declared to receive it or no transfer of consideration"
+            },
+            "shift·ing use": {
+                "definition": "a use that is transferred or takes effect in derogation of some estate upon the happening of a future event"
+            },
+            "spring·ing use": {
+                "definition": "a use that arises upon the happening of a future event and is not in derogation of any other estate"
+            },
+            "2": {
+                "definition": "use of an invention by one who is under no limitation, restriction, or obligation of secrecy to the inventor",
+                "note": " Under federal law one is not entitled to a patent for an invention that was in public use more than a year prior to the date of application for the patent."
+            },
+            "1": {
+                "definition": "a use of one's property or of water that is for a suitable and beneficial purpose and that does not lead to unreasonable interference with another's use of property or with the natural flow of water"
+            },
+            "conditional use": {
+                "definition": "use of property in a zone for a particular purpose that is allowed under conditions set forth in a zoning ordinance"
+            },
+            "fair use": {
+                "definition": "a use of copyrighted material that does not constitute an infringement of the copyright provided the use is fair and reasonable and does not substantially impair the value of the work or the profits expected from it by its ownerthe privilege of making a fair use of copyrighted work",
+                "note": " Among the factors determining if a use of a copyrighted work is a fair use are these: the purpose of the use, the character of the use (as in being commercial or educational in nature), the nature of the copyrighted work, and the amount of the work used."
+            },
+            "non·con·form·ing use": {
+                "definition": "use of property in a manner that does not conform to the restrictions of a zoning law (as an ordinance)one in lawful existence when a restriction takes effect and so allowed to continue"
+            },
+            "2 a": {
+                "definition": "a rule whereby one may alter the natural flow of a watercourse as part of the reasonable use of property even though some harm results to another landowner",
+                "sub_terms": {
+                    "b": "a rule whereby a use of the water under the surface of one's land that causes harm to an adjacent landowner is reasonable if made for a suitable purpose in connection with the overlying land",
+                    "c": "a rule that recognizes a landowner as entitled to make a reasonable use of property if it does not cause unreasonable harm to another and that may be applied to the alteration of a watercourse, the drainage of surface water, and the use of water beneath the surface"
+                },
+                "note": " This rule originated when cities began to use land in the country for wells that caused injury to adjacent farmers; the water was not for use there and so unreasonableness ultimately depended not on waste or harm but on the final destination of the water."
+            },
+            "3": {
+                "definition": "utilization of a motor vehicle in a manner that is not completely foreign to its purpose [insurance for accidents arising from the ownership, maintenance, or of the car][yüz] vt"
+            },
+            "us·ing": {
+                "definition": "to put into servicehave enjoyment of"
+            }
+        },
+        "references": {
+            "trust": "https://dictionary.findlaw.com/definition/trust.html",
+            "use": "https://dictionary.findlaw.com/definition/use.html",
+            "unnecessary hardship": "https://dictionary.findlaw.com/definition/unnecessary-hardship.html",
+            "taking": "https://dictionary.findlaw.com/definition/taking.html",
+            "special exception": "https://dictionary.findlaw.com/definition/special-exception.html",
+            "eminent domain": "https://dictionary.findlaw.com/definition/eminent-domain.html"
+        }
+    }
+}

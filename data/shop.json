@@ -1,0 +1,19 @@
+{
+    "Shop": {
+        "definition": "a business establishment",
+        "sub_definitions": {
+            "1": {
+                "1": "a business establishment"
+            },
+            "2": {
+                "1": "a place of employment see also",
+                "see also": "closed shop"
+            }
+        },
+        "references": {
+            "closed shop": "https://dictionary.findlaw.com/definition/closed-shop.html",
+            "open shop": "https://dictionary.findlaw.com/definition/open-shop.html",
+            "union shop": "https://dictionary.findlaw.com/definition/union-shop.html"
+        }
+    }
+}

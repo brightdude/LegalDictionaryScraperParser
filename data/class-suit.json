@@ -1,0 +1,13 @@
+{
+    "Class Suit": {
+        "definition": "class action",
+        "sub_definitions": {
+            "1": {
+                "1": "class action"
+            }
+        },
+        "references": {
+            "class action": "https://dictionary.findlaw.com/definition/class-action.html"
+        }
+    }
+}

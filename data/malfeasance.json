@@ -1,0 +1,17 @@
+{
+    "Malfeasance": {
+        "definition": "the commission",
+        "origin": "[ mal- bad + obsolete English feasance doing, execution, from Old French faisance , from fais- , stem of faire to make, do, from Latin facere ]",
+        "compare": "misfeasance",
+        "sub_definitions": {
+            "1": {
+                "1": "the commission (as by a public official) of a wrongful or unlawful act involving or affecting the performance of one's duties compare",
+                "compares": "misfeasance"
+            }
+        },
+        "references": {
+            "misfeasance": "https://dictionary.findlaw.com/definition/misfeasance.html",
+            "nonfeasance": "https://dictionary.findlaw.com/definition/nonfeasance.html"
+        }
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "Redeem": {
+        "definition": "repurchase b",
+        "origin": "[ preferred shares]",
+        "sub_definitions": {
+            "1 a": {
+                "sub_terms": {
+                    "b": "to repurchase by right and not on the open market [ preferred shares]"
+                }
+            },
+            "2 a": {
+                "definition": "to free from a lien or pledge usually by payment of the amount secured thereby [ collateral]",
+                "sub_terms": {
+                    "b": "to exercise an equity of redemption in (real property) by payment in full of a mortgage debt after default but prior to a foreclosure becoming effective [a right to property prior to the actual sale under a judgment of foreclosure \", 558 N.Y.S.2d 821 (1990)\"] see also",
+                    "c": "to exercise a right of redemption in (real property) within the period set by law by a repurchase that voids the effect of foreclosure or sale see also",
+                    "d": "to remove the obligation of by payment (as at maturity) [ a bond]"
+                },
+                "note": " A mortgagor with a right of redemption might redeem property within the set period following a foreclosure sale by paying the new purchaser the purchase price, interest, taxes, and lawful charges.",
+                "see also": "right of redemption",
+                "Bowery Sav. Bank v. Harbert Offset Corp.": "558 N.Y.S.2d 821 (1990)\"] see al"
+            },
+            "3 a": {
+                "definition": "to present and have redeemed",
+                "sub_terms": {
+                    "b": "to exchange for something of valueto redeem something (as real property) [failed to exercise its equity of redemption, and this part of the right to was therefore cut off \", 653 N.E.2d 1190 (1995)\"]"
+                },
+                "Hausman v. Dayton": "653 N.E.2d 1190 (1995)"
+            }
+        },
+        "references": {
+            "repurchase": "https://dictionary.findlaw.com/definition/repurchase.html",
+            "equity of redemption": "https://dictionary.findlaw.com/definition/equity-of-redemption.html",
+            "right of redemption": "https://dictionary.findlaw.com/definition/right-of-redemption.html"
+        }
+    }
+}

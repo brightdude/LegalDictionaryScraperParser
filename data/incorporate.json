@@ -1,0 +1,22 @@
+{
+    "Incorporate": {
+        "definition": "to unite with something else to form a whole [ the agreement into the divorce] 2",
+        "origin": "[ the agreement into the divorce]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to unite with something else to form a whole [ the agreement into the divorce]"
+            },
+            "2": {
+                "definition": "to form (as a business) into a legal corporation"
+            },
+            "3": {
+                "definition": "to include (rights guaranteed by the Bill of Rights) within the guarantees of the Fourteenth Amendment see also,to form a legal corporation",
+                "see also": "selective incorporation"
+            }
+        },
+        "references": {
+            "selective incorporation": "https://dictionary.findlaw.com/definition/selective-incorporation.html",
+            "total incorporation": "https://dictionary.findlaw.com/definition/total-incorporation.html"
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "Penal": {
+        "definition": "of",
+        "origin": "[ sanctions]",
+        "sub_definitions": {
+            "1": {
+                "definition": "of, relating to, or being punishment [ sanctions]"
+            },
+            "2": {
+                "definition": "making one (as an offender) punishable [a offense]"
+            },
+            "3": {
+                "definition": "used as a place of confinement and punishment [a institution]"
+            }
+        },
+        "references": {
+            "criminal": "https://dictionary.findlaw.com/definition/criminal.html"
+        }
+    }
+}

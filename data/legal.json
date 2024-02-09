@@ -1,0 +1,42 @@
+{
+    "Legal": {
+        "definition": "of or relating to law or the processes of law [a question] [take action] 2 a",
+        "origin": "[Latin legalis , from leg- lex law]",
+        "sub_definitions": {
+            "1": {
+                "definition": "of or relating to law or the processes of law [a question] [take action]"
+            },
+            "2 a": {
+                "definition": "deriving authority from or founded on law [a tariff rate] [a government]",
+                "sub_terms": {
+                    "b": "fulfilling the requirements of law [a voter]",
+                    "c": "having a status derived from lawrecognized as such by law [a certainty]",
+                    "d": "created by operation of esp. statutory law [ incompetence] [a presumption] compare,",
+                    "e": "established by law [the test for mental capacity]"
+                },
+                "compares": "conventional"
+            },
+            "3": {
+                "definition": "conforming to or permitted by law[a referendum to make gambling ]"
+            },
+            "4": {
+                "definition": "recognized or made effective under principles of law as distinguished from principles of equityderiving from or existing or valid in law as distinguished from equity see alsocompare",
+                "compares": "equitable",
+                "see also": "equity"
+            },
+            "5 a": {
+                "definition": "of, relating to, or having the characteristics of the profession of law or one of its members [a corporate department] [the community]",
+                "sub_terms": {
+                    "b": "of or relating to the study of law [continuing education]"
+                }
+            }
+        },
+        "references": {
+            "conventional": "https://dictionary.findlaw.com/definition/conventional.html",
+            "judicial": "https://dictionary.findlaw.com/definition/judicial.html",
+            "lawful": "https://dictionary.findlaw.com/definition/lawful.html",
+            "equity": "https://dictionary.findlaw.com/definition/equity.html",
+            "equitable": "https://dictionary.findlaw.com/definition/equitable.html"
+        }
+    }
+}

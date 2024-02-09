@@ -1,0 +1,17 @@
+{
+    "Ripe": {
+        "definition": "of",
+        "sub_definitions": {
+            "1": {
+                "definition": "of, relating to, or being a claim for relief that is ready for judicial resolution because the injury is certain to occur and is not merely hypothetical or speculative compare",
+                "compares": "moot"
+            },
+            "2": {
+                "definition": "ready and appropriate for disclosure because reasonably determined to be valid and not required to be kept secret for business reasons used of corporate information"
+            }
+        },
+        "references": {
+            "moot": "https://dictionary.findlaw.com/definition/moot.html"
+        }
+    }
+}

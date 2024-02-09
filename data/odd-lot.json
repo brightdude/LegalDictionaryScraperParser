@@ -1,0 +1,15 @@
+{
+    "Odd Lot": {
+        "definition": "a quantity of stock that is less than the usual rounded amount",
+        "compare": "round lot",
+        "sub_definitions": {
+            "1": {
+                "1": "a quantity of stock that is less than the usual rounded amount (as 100 shares) compare",
+                "compares": "round lot"
+            }
+        },
+        "references": {
+            "round lot": "https://dictionary.findlaw.com/definition/round-lot.html"
+        }
+    }
+}

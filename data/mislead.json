@@ -1,0 +1,18 @@
+{
+    "Mislead": {
+        "definition": "to lead into a mistaken action or belief",
+        "origin": "[-led]",
+        "sub_definitions": {
+            "-led": {
+                "definition": "[-led]"
+            },
+            "-lead·ing": {
+                "definition": "to lead into a mistaken action or beliefto cause to have a false impressionto create a false impression compare",
+                "compares": "deceive"
+            }
+        },
+        "references": {
+            "deceive": "https://dictionary.findlaw.com/definition/deceive.html"
+        }
+    }
+}

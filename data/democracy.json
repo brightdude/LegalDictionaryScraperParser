@@ -1,0 +1,18 @@
+{
+    "Democracy": {
+        "definition": "-cies 1 a",
+        "origin": "[de-mə-kra-tik]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "government by the peoplerule of the majority",
+                "sub_terms": {
+                    "b": "a government in which the supreme power is vested in the people and exercised by them directly or indirectly through a system of representation usually involving periodically held free elections"
+                }
+            },
+            "2": {
+                "definition": "a political unit that has a democratic government"
+            }
+        },
+        "references": {}
+    }
+}

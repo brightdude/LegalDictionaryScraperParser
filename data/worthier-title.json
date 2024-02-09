@@ -1,0 +1,12 @@
+{
+    "Worthier Title": {
+        "definition": "a common-law doctrine providing that an heir receiving a devise of an estate that is the same as the estate he or she would receive by descent if the grantor died without a will receives the property by descent rather than by devise since descent has been thought to convey a better title NOTE",
+        "sub_definitions": {
+            "1": {
+                "1": "a common-law doctrine providing that an heir receiving a devise of an estate that is the same as the estate he or she would receive by descent if the grantor died without a will receives the property by descent rather than by devise since descent has been thought to convey a better title",
+                "note": " The doctrine of worthier title today is usually considered in light of its implication for inter vivos transfers (that is, transfers made between living persons) to an heir. When a grantor makes an inter vivos conveyance of property followed by a future estate to his or her heirs, the conveyance is deemed to create a reversion in the grantor rather than a remainder, so that the heirs take by descent and receive a superior title than that which would have been received through the remainder."
+            }
+        },
+        "references": {}
+    }
+}

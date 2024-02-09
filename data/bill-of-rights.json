@@ -1,0 +1,17 @@
+{
+    "Bill Of Rights": {
+        "definition": "a summary of fundamental rights and privileges guaranteed to a people against violation by the government; esp",
+        "sub_definitions": {
+            "1": {
+                "1": "a summary of fundamental rights and privileges guaranteed to a people against violation by the government;"
+            },
+            "2": {
+                "1": "the first 10 amendments to the U.S. Constitution see also the",
+                "see also": "Constitution"
+            }
+        },
+        "references": {
+            "Constitution": "https://dictionary.findlaw.com/definition/constitution.html"
+        }
+    }
+}

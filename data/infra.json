@@ -1,0 +1,21 @@
+{
+    "Infra": {
+        "definition": "in the following text",
+        "origin": "[see textual discussion accompanying note 22 \"D. Q. Posin\"]",
+        "compare": "below",
+        "sub_definitions": {
+            "1": {
+                "1": "in the following text"
+            },
+            "2": {
+                "1": "below",
+                "compares": "idem"
+            }
+        },
+        "references": {
+            "below": "https://dictionary.findlaw.com/definition/below.html",
+            "idem": "https://dictionary.findlaw.com/definition/idem.html",
+            "supra": "https://dictionary.findlaw.com/definition/supra.html"
+        }
+    }
+}

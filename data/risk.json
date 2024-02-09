@@ -1,0 +1,26 @@
+{
+    "Risk": {
+        "definition": "possibility of loss or injury b",
+        "origin": "[the of loss passes to the buyer when the goods are duly delivered to the carrier \" Uniform Commercial Code \"]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "possibility of loss or injury",
+                "sub_terms": {
+                    "b": "liability for loss or injury if it occurs [the of loss passes to the buyer when the goods are duly delivered to the carrier \"\"] [the of personal injury and property damage should be placed with the manufacturer rather than the consumer \"\"]"
+                },
+                "Uniform Commercial Code": "\"] [the of personal injury and property damage should be placed with the manufacturer rather than the consumer \""
+            },
+            "2 a": {
+                "definition": "the chance of loss to the subject matter of an insurance contractuncertainty with regard to lossthe degree of probability of such loss compare",
+                "sub_terms": {
+                    "b": "a person or thing that is a specified hazard to an insurer [a poor for insurance]",
+                    "c": "an insurance hazard from a specified cause or source [a war ]"
+                },
+                "compares": "peril"
+            }
+        },
+        "references": {
+            "peril": "https://dictionary.findlaw.com/definition/peril.html"
+        }
+    }
+}

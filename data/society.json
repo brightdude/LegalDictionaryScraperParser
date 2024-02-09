@@ -1,0 +1,21 @@
+{
+    "Society": {
+        "definition": "-ties 1",
+        "origin": "[sought damages for loss of from his wife's wrongful death]",
+        "sub_definitions": {
+            "1": {
+                "definition": "the benefits of love, care, affection, and companionship that family members receive from each other [sought damages for loss of from his wife's wrongful death] compare",
+                "compares": "consortium"
+            },
+            "2": {
+                "definition": "a voluntary association of individuals dedicated to common ends [a conservation ]"
+            },
+            "3": {
+                "definition": "a community, nation, or broad grouping of people having common traditions, institutions, and collective activities and interests"
+            }
+        },
+        "references": {
+            "consortium": "https://dictionary.findlaw.com/definition/consortium.html"
+        }
+    }
+}

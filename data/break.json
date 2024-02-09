@@ -1,0 +1,35 @@
+{
+    "Break": {
+        "definition": "violate transgress [ the law] b",
+        "origin": "[brōk]",
+        "sub_definitions": {
+            "bro·ken": {
+                "definition": "[brō-kən]"
+            },
+            "break·ing": {
+                "definition": "[brā-ki]"
+            },
+            "1 a": {
+                "definition": "[ the law]",
+                "sub_terms": {
+                    "b": "to invalidate (a will) by a court proceeding"
+                }
+            },
+            "2 a": {
+                "definition": "to open (another's real property) by force or without privilege (as consent) for entry often used in the phrase[one whoand enters a dwelling-house of another \"W. R. LaFave and A. W. Scott, Jr.\"]",
+                "sub_terms": {
+                    "b": "to escape by force from [prison or escapes or flees from justice \"\"]"
+                },
+                "s": "prison or escapes or flees from justice \""
+            },
+            "3": {
+                "definition": "to cause (a strike) to fail and discontinue by means (as force) other than bargainingto escape with forceful effort often used with[prisoners wounded while attempting to out]",
+                "out": "[prisoners wounded while attempting to out]"
+            }
+        },
+        "references": {
+            "violate": "https://dictionary.findlaw.com/definition/violate.html",
+            "transgress": "https://dictionary.findlaw.com/definition/transgress.html"
+        }
+    }
+}

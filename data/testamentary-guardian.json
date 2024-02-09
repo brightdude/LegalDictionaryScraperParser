@@ -1,0 +1,8 @@
+{
+    "Testamentary Guardian": {
+        "definition": "Testamentary Guardian",
+        "references": {
+            "guardian": "https://dictionary.findlaw.com/definition/guardian.html"
+        }
+    }
+}

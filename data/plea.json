@@ -1,0 +1,41 @@
+{
+    "Plea": {
+        "definition": "an allegation of fact in civil litigation made in response to a claim compare demurrer b",
+        "origin": "[Anglo-French plei plai legal action, trial, from Old French plait plaid , from Medieval Latin placitum , from Latin, decision, decree, from neuter of placitus , past participle of placēre to please, be decided]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "an allegation of fact in civil litigation made in response to a claim compare",
+                "sub_terms": {
+                    "b": "a defendant's answer to a plaintiff's claim in civil litigation"
+                },
+                "note": " Under the Federal Rules of Civil Procedure, and in states where they have been adopted, civil pleas are abolished, and answers and motions are used instead. Such pleas were used at common law.",
+                "compares": "demurrer"
+            },
+            "dil·a·to·ry plea": {
+                "definition": "[di-lə-tōr-ē-]a common-law plea which is intended to defeat the pending action or proceeding without involving any decision on the merits of the case"
+            },
+            "plea in abatement": {
+                "definition": "a plea entered by a party seeking postponement or dismissal of an action by setting forth some matter or defect regarding procedure, jurisdiction, or timing called also"
+            },
+            "plea in bar": {
+                "definition": "a plea that alleges the existence of an absolute bar (as a statute of limitations) to an action"
+            },
+            "plea of abatement": {
+                "definition": "in this entry"
+            },
+            "2 a": {
+                "definition": "an accused party's answer to a criminal charge or indictment",
+                "sub_terms": {
+                    "b": "a plea of guilty"
+                }
+            },
+            "3": {
+                "definition": "an earnest entreaty"
+            }
+        },
+        "references": {
+            "demurrer": "https://dictionary.findlaw.com/definition/demurrer.html",
+            "plea in abatement": "https://dictionary.findlaw.com/definition/plea-in-abatement.html"
+        }
+    }
+}

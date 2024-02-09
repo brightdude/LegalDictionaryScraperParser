@@ -1,0 +1,15 @@
+{
+    "Mutuum": {
+        "definition": "loan for consumption at loan",
+        "origin": "[Latin, from neuter of mutuus borrowed, lent]",
+        "sub_definitions": {
+            "1": {
+                "1": "loan for consumption"
+            }
+        },
+        "references": {
+            "loan for consumption": "https://dictionary.findlaw.com/definition/loan-for-consumption.html",
+            "loan": "https://dictionary.findlaw.com/definition/loan.html"
+        }
+    }
+}

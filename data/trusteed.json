@@ -1,0 +1,11 @@
+{
+    "Trusteed": {
+        "definition": "managed or administered by a trustee",
+        "sub_definitions": {
+            "1": {
+                "1": "managed or administered by a trustee"
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "Defeasance": {
+        "definition": "a condition",
+        "origin": "[Anglo-French defesance , literally, undoing, destruction, from Old French deffesant , present participle of deffaire to destroy, undo see defeat ]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "a condition (as in a deed or will) that upon fulfillment terminates a property interest",
+                "sub_terms": {
+                    "b": "an instrument setting forth such a condition"
+                }
+            },
+            "2": {
+                "definition": "a rendering null or void"
+            }
+        },
+        "references": {
+            "defeat": "https://dictionary.findlaw.com/definition/defeat.html"
+        }
+    }
+}

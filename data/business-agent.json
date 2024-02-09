@@ -1,0 +1,8 @@
+{
+    "Business Agent": {
+        "definition": "Business Agent",
+        "references": {
+            "agent": "https://dictionary.findlaw.com/definition/agent.html"
+        }
+    }
+}

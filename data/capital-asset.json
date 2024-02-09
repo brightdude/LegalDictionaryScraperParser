@@ -1,0 +1,8 @@
+{
+    "Capital Asset": {
+        "definition": "Capital Asset",
+        "references": {
+            "asset": "https://dictionary.findlaw.com/definition/asset.html"
+        }
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "Procuration": {
+        "definition": "power of attorney 2",
+        "sub_definitions": {},
+        "references": {
+            "power of attorney": "https://dictionary.findlaw.com/definition/power-of-attorney.html",
+            "procurement": "https://dictionary.findlaw.com/definition/procurement.html"
+        }
+    }
+}

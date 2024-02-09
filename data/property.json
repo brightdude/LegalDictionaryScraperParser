@@ -1,0 +1,77 @@
+{
+    "Property": {
+        "definition": "-ties [Anglo-French propreté proprieté",
+        "origin": "[Anglo-French propreté proprieté , from Latin proprietat- proprietas , from proprius own, particular]",
+        "sub_definitions": {
+            "-ties": {
+                "definition": "[Anglo-French, from Latin, fromown, particular]"
+            },
+            "1": {
+                "definition": "property (as a vehicle) that is movable but not including crops or other resources still attached to landproperty other than real property [a tax on theof the corporation]",
+                "personal property": "of the corporation]"
+            },
+            "abandoned property": {
+                "definition": "property to which the owner has relinquished all rights",
+                "note": " When property is abandoned, the owner gives up the reasonable expectation of privacy concerning it. The finder of abandoned property is entitled to keep it, and a police officer may take possession of abandoned property as evidence without violating the Fourth Amendment to the U.S. Constitution."
+            },
+            "2": {
+                "definition": "one or more rights of ownership"
+            },
+            "3": {
+                "definition": "property transferred to the estate of a decedent after execution of the will"
+            },
+            "common property": {
+                "definition": "property owned or used by more than one partyproperty owned or leased by tenants in common compareat"
+            },
+            "com·mu·ni·ty property": {
+                "definition": "property held jointly by husband and wifeproperty esp. from employment and debts acquired by either spouse after marriage that is deemed in states having a community property system to belong to each spouse as an undivided one-half interest compareat",
+                "note": " The states having community property are Louisiana, Arizona, California, Texas, Washington, Idaho, Nevada, New Mexico, and Wisconsin."
+            },
+            "immovable property": {
+                "definition": "in this entrytracts of land with their component parts"
+            },
+            "intangible property": {
+                "definition": "property (as a stock certificate or professional license) that derives value not from its intrinsic physical nature but from what it represents"
+            },
+            "in·tel·lec·tu·al property": {
+                "definition": "[in-tə-lek-chə-wəl-]property that derives from the work of the mind or intellectan idea, invention, trade secret, process, program, data, formula, patent, copyright, or trademark or application, right, or registration relating thereto"
+            },
+            "lost property": {
+                "definition": "property that has been left in an unknown location involuntarily but through no one's fault",
+                "note": " The finder of lost property has title to the property against all the world except the true owner."
+            },
+            "marital property": {
+                "definition": "property acquired by either spouse during the course of a marriage that is subject to division upon divorce",
+                "note": " In community property states, marital property is the same as community property and is divided equally upon divorce. In nearly all other states, marital property is divided according to what the court determines is equitable."
+            },
+            "movable property": {
+                "definition": "property (as personal property or crops) that can be moved"
+            },
+            "qualified terminable interest property": {
+                "definition": "property passing to a surviving spouse that qualifies for the marital deduction if the executor so elects providing that the spouse is entitled to receive income in payments made at least annually for life and that no one has a power to appoint any part of the property to any person other than the surviving spouse see alsoat",
+                "note": " Under federal tax law the property must be included in the gross estate of the surviving spouse at his or her own death, where it is subject to taxation."
+            },
+            "real property": {
+                "definition": "property consisting of land, buildings, crops, or other resources still attached to or within the land or improvements or fixtures permanently attached to the land or a structure on itan interest, benefit, right, or privilege in such property called also"
+            },
+            "separate property": {
+                "definition": "property of a spouse that is not community property or marital propertyproperty acquired by a spouse before marriage or individually during marriage (as by gift or often by inheritance)"
+            },
+            "tangible property": {
+                "definition": "property that has a tangible and corporeal existence and intrinsic economic value because of it [the insurance policy restricted property damage coverage to] comparein this entry",
+                "compares": "intangible property"
+            }
+        },
+        "references": {
+            "asset": "https://dictionary.findlaw.com/definition/asset.html",
+            "estate": "https://dictionary.findlaw.com/definition/estate.html",
+            "interest": "https://dictionary.findlaw.com/definition/interest.html",
+            "possession": "https://dictionary.findlaw.com/definition/possession.html",
+            "tenancy": "https://dictionary.findlaw.com/definition/tenancy.html",
+            "ownership": "https://dictionary.findlaw.com/definition/ownership.html",
+            "real property": "https://dictionary.findlaw.com/definition/real-property.html",
+            "trust": "https://dictionary.findlaw.com/definition/trust.html",
+            "intangible property": "https://dictionary.findlaw.com/definition/intangible-property.html"
+        }
+    }
+}

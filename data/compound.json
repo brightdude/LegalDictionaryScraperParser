@@ -1,0 +1,15 @@
+{
+    "Compound": {
+        "definition": "to agree for a consideration not to prosecute",
+        "sub_definitions": {
+            "1": {
+                "definition": "to agree for a consideration not to prosecute (an offense)",
+                "note": " Compounding a felony is a common-law crime."
+            },
+            "2": {
+                "definition": "to pay (interest) on both the accrued interest and the principal"
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "State's Attorney": {
+        "definition": "a district attorney that represents a state compare united states attorney",
+        "compare": "united states attorney",
+        "sub_definitions": {
+            "1": {
+                "1": "a district attorney that represents a state compare",
+                "compares": "united states attorney"
+            }
+        },
+        "references": {
+            "united states attorney": "https://dictionary.findlaw.com/definition/united-states-attorney.html"
+        }
+    }
+}

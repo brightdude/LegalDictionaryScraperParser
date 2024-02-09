@@ -1,0 +1,15 @@
+{
+    "Major": {
+        "definition": "a person who has attained majority compare minor",
+        "compare": "minor",
+        "sub_definitions": {
+            "1": {
+                "1": "a person who has attained majority compare",
+                "compares": "minor"
+            }
+        },
+        "references": {
+            "minor": "https://dictionary.findlaw.com/definition/minor.html"
+        }
+    }
+}

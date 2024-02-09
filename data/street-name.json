@@ -1,0 +1,11 @@
+{
+    "Street Name": {
+        "definition": "a brokerage firm's name in which securities owned by another",
+        "sub_definitions": {
+            "1": {
+                "1": "a brokerage firm's name in which securities owned by another (as an individual investor) are listed (as to expedite transfer at time of sale by avoiding handling of the actual certificates)"
+            }
+        },
+        "references": {}
+    }
+}

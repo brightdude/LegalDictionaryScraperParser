@@ -1,0 +1,8 @@
+{
+    "Aggravated Robbery": {
+        "definition": "Aggravated Robbery",
+        "references": {
+            "robbery": "https://dictionary.findlaw.com/definition/robbery.html"
+        }
+    }
+}

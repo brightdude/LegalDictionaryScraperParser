@@ -1,0 +1,60 @@
+{
+    "Assault": {
+        "definition": "the crime or tort of threatening or attempting to inflict immediate offensive physical contact or bodily harm that one has the present ability to inflict and that puts the victim in fear of such harm or contact compare battery 2",
+        "origin": "[Old French assaut , literally, attack, ultimately from Latin assultus , from assilire to leap (on), attack]",
+        "sub_definitions": {
+            "1": {
+                "definition": "the crime or tort of threatening or attempting to inflict immediate offensive physical contact or bodily harm that one has the present ability to inflict and that puts the victim in fear of such harm or contact compare",
+                "compares": "battery"
+            },
+            "2": {
+                "definition": "the crime of assault accompanied by batteryin this entry called also"
+            },
+            "aggravated assault": {
+                "definition": "a criminal assault accompanied by aggravating factors",
+                "sub_terms": {
+                    "a": "a criminal assault that is committed with an intent to cause or that causes serious bodily injury esp. through the use of a dangerous weapon",
+                    "b": "a criminal assault accompanied by the intent to commit or the commission of a felony (as rape) comparein this entry"
+                },
+                "compares": "simple assault"
+            },
+            "assault with intent": {
+                "definition": "a criminal assault committed with the intent to commit another specified crime [to rob] [to kill]"
+            },
+            "civil assault": {
+                "definition": "an assault considered as a tort rather than as a crime comparein this entry",
+                "compares": "criminal assault"
+            },
+            "criminal assault": {
+                "definition": "an assault considered as a crime rather than as a tort comparein this entry",
+                "note": " An assault may be both a criminal assault and a civil assault.",
+                "compares": "civil assault"
+            },
+            "felonious assault": {
+                "definition": "a criminal assault that is classified as a felony and involves the infliction of serious bodily injury by the use of a dangerous weapon"
+            },
+            "indecent assault": {
+                "definition": "intentional offensive sexual contact that does not amount to sexual intercourse or involve penetration and that is committed without consent of the victim and without the intent to commit rape"
+            },
+            "sexual assault": {
+                "definition": "sexual contact usually that is forced upon a person without consent or inflicted upon a person who is incapable of giving consent (as because of age or physical or mental incapacity) or who places the assailant (as a doctor) in a position of trust see also",
+                "note": " Sexual assault in its most serious forms (often classified as first degree sexual assault) involves nonconsensual sexual penetration. In its less serious forms it may be the equivalent of statutory rape.",
+                "see also": "rape"
+            },
+            "simple assault": {
+                "definition": "a criminal assault that is not accompanied by any aggravating factors (as infliction of serious injury or use of a dangerous weapon) comparein this entryvtto make an assault onto subject to a sexual assaultto make an assault",
+                "note": " Simple assault is usually classified as a misdemeanor.",
+                "compares": "aggravated assault"
+            }
+        },
+        "references": {
+            "battery": "https://dictionary.findlaw.com/definition/battery.html",
+            "sexual assault": "https://dictionary.findlaw.com/definition/sexual-assault.html",
+            "simple assault": "https://dictionary.findlaw.com/definition/simple-assault.html",
+            "criminal assault": "https://dictionary.findlaw.com/definition/criminal-assault.html",
+            "civil assault": "https://dictionary.findlaw.com/definition/civil-assault.html",
+            "rape": "https://dictionary.findlaw.com/definition/rape.html",
+            "aggravated assault": "https://dictionary.findlaw.com/definition/aggravated-assault.html"
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "Past Recollection Recorded": {
+        "definition": "a witness's written account of a past event prepared at a time when his or her memory of it was fresh ;also",
+        "compare": "present recollection refreshed",
+        "sub_definitions": {
+            "1": {
+                "1": "a witness's written account of a past event prepared at a time when his or her memory of it was fresh"
+            },
+            "2": {
+                "1": "an exception to the hearsay rule allowing admission of such an account into evidence if the witness has insufficient present memory of the event or has no memory of having recorded it but is confident that the account is accurate compare",
+                "compares": "present recollection refreshed",
+                "note": " A document containing a past recollection recorded may only be admitted as an exhibit if offered by an adverse party. Otherwise, it may only be read into evidence."
+            }
+        },
+        "references": {
+            "present recollection refreshed": "https://dictionary.findlaw.com/definition/present-recollection-refreshed.html"
+        }
+    }
+}

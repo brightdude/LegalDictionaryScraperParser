@@ -1,0 +1,11 @@
+{
+    "Holder For Value": {
+        "definition": "a holder to whom an instrument is issued or transferred in exchange for something of value",
+        "sub_definitions": {
+            "1": {
+                "1": "a holder to whom an instrument is issued or transferred in exchange for something of value (as a promise of performance, a security interest or lien in the instrument not obtained by judicial process, payment of or use of the instrument as security for a claim against another person, a negotiable instrument, or the incurring of an irrevocable obligation to a third party)"
+            }
+        },
+        "references": {}
+    }
+}

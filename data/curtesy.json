@@ -1,0 +1,16 @@
+{
+    "Curtesy": {
+        "definition": "-sies [Anglo-French curteisie",
+        "origin": "[Anglo-French curteisie , literally, favor, courtesy, originally in the phrase par la corteysie de Engleterre (tenancy) by courtesy of (the law of) England (as opposed to natural right)]",
+        "sub_definitions": {
+            "-sies": {
+                "definition": "[Anglo-French, literally, favor, courtesy, originally in the phrase(tenancy) by courtesy of (the law of) England (as opposed to natural right)]a husband's interest at common law in a life estate upon the death of his wife in the real property that she either solely owned or inherited provided that they bore a child capable of inheriting the property compare,",
+                "compares": "dower"
+            }
+        },
+        "references": {
+            "dower": "https://dictionary.findlaw.com/definition/dower.html",
+            "elective share": "https://dictionary.findlaw.com/definition/elective-share.html"
+        }
+    }
+}

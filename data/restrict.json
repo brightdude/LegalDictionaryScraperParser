@@ -1,0 +1,16 @@
+{
+    "Restrict": {
+        "definition": "to subject to bounds or limits [ the height of buildings] [ visitation rights] 2",
+        "origin": "[ the height of buildings]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to subject to bounds or limits [ the height of buildings] [ visitation rights]"
+            },
+            "2": {
+                "definition": "to place under restrictions as to use or distribution [the land to recreational use]",
+                "ed": "the land to recreational use]"
+            }
+        },
+        "references": {}
+    }
+}

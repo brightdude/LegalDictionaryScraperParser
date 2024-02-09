@@ -1,0 +1,27 @@
+{
+    "Arbitrary": {
+        "definition": "depending on individual discretion",
+        "origin": "[the manner of punishment is ]",
+        "sub_definitions": {
+            "1": {
+                "definition": "depending on individual discretion (as of a judge) and not fixed by standards, rules, or law [the manner of punishment is ]"
+            },
+            "2 a": {
+                "definition": "not restrained or limited in the exercise of power [an government]",
+                "sub_terms": {
+                    "b": "marked by or resulting from the unrestrained exercise of power [protection from arrest and detention]"
+                }
+            },
+            "3 a": {
+                "definition": "based on preference, bias, prejudice, or convenience rather than on reason or fact [an standard] [different provisions for the married and the unmarried were irrational and \"K. A. Cohen\"]",
+                "sub_terms": {
+                    "b": "existing or coming about seemingly at random or by chance or as an unreasonable act of individual will without regard for facts or applicable law often used in the phrase[an agency finding or conclusion of lack of evidence would be and capricious if the record afforded no substantial basis for such a finding \", 131 F. Supp. 851 (1955)\"]"
+                },
+                "note": " Under section 706 of the Administrative Procedure Act, a court shall set aside an agency's action, findings, or conclusions determined upon review to be arbitrary.",
+                "arbitrary and capricious": "[an agency finding or conclusion of lack of evidence would be and capricious if the record afforded no substantial basis for such a finding \"",
+                "Irvin v. Hobby": "131 F. Supp. 851 (1955)"
+            }
+        },
+        "references": {}
+    }
+}

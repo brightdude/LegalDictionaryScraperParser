@@ -1,0 +1,13 @@
+{
+    "Tax Write-Off": {
+        "definition": "a tax deduction of an amount of depreciation",
+        "origin": "[cancelled the debt and took a tax write-off on the loss]",
+        "sub_definitions": {
+            "1": {
+                "1": "a tax deduction of an amount of depreciation, expense, or loss [cancelled the debt and took a",
+                "tax write-off": "on the loss]"
+            }
+        },
+        "references": {}
+    }
+}

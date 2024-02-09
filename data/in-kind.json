@@ -1,0 +1,18 @@
+{
+    "In-Kind": {
+        "definition": "made in a form other than money [an contribution to a political campaign] b",
+        "origin": "[an contribution to a political campaign]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "made in a form other than money [an contribution to a political campaign]",
+                "sub_terms": {
+                    "b": "made without conversion (as of assets) into money [an distribution of assets]"
+                }
+            },
+            "2": {
+                "definition": "made in a form or amount equivalent to another [an payment to substitute for meals]"
+            }
+        },
+        "references": {}
+    }
+}

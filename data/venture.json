@@ -1,0 +1,17 @@
+{
+    "Venture": {
+        "definition": "an undertaking involving chance",
+        "sub_definitions": {
+            "1": {
+                "1": "an undertaking involving chance, risk, or danger"
+            },
+            "2": {
+                "1": "a speculative business enterprise see also",
+                "see also": "joint venture"
+            }
+        },
+        "references": {
+            "joint venture": "https://dictionary.findlaw.com/definition/joint-venture.html"
+        }
+    }
+}

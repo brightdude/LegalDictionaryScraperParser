@@ -1,0 +1,13 @@
+{
+    "Nonpar": {
+        "definition": "nonparticipating",
+        "sub_definitions": {
+            "1": {
+                "1": "nonparticipating"
+            }
+        },
+        "references": {
+            "nonparticipating": "https://dictionary.findlaw.com/definition/nonparticipating.html"
+        }
+    }
+}

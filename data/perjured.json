@@ -1,0 +1,15 @@
+{
+    "Perjured": {
+        "definition": "guilty of perjury [a witness] 2",
+        "origin": "[a witness]",
+        "sub_definitions": {
+            "1": {
+                "definition": "guilty of perjury [a witness]"
+            },
+            "2": {
+                "definition": "marked by perjury [ testimony]"
+            }
+        },
+        "references": {}
+    }
+}

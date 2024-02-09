@@ -1,0 +1,20 @@
+{
+    "Liable": {
+        "definition": "answerable according to law",
+        "origin": "[ultimately from Old French lier to bind, from Latin ligare ]",
+        "sub_definitions": {
+            "1": {
+                "definition": "answerable according to lawbound or obligated according to law or equity [one is as an accomplice to the crime of another \"W. R. LaFave and A. W. Scott, Jr.\"] [the estate is for succession taxes \", 493 A.2d 297 (1985)\"]",
+                "Commissioner of Revenue Services v. Estate of Culpepper": "493 A.2d 297 (1985)"
+            },
+            "2 a": {
+                "definition": "being in a position to incur used with[ to a fire] [property to duties]",
+                "sub_terms": {
+                    "b": "subject or amenable according to law"
+                },
+                "to": "[ to a fire] [property to duties]"
+            }
+        },
+        "references": {}
+    }
+}

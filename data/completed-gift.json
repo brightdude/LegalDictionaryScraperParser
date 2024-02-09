@@ -1,0 +1,8 @@
+{
+    "Completed Gift": {
+        "definition": "Completed Gift",
+        "references": {
+            "gift": "https://dictionary.findlaw.com/definition/gift.html"
+        }
+    }
+}

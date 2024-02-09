@@ -1,0 +1,15 @@
+{
+    "Interstate Commerce": {
+        "definition": "commerce",
+        "sub_definitions": {
+            "1": {
+                "1": "commerce, traffic, transportation, and exchange between states of the U.S. see also",
+                "see also": "commerce clause",
+                "note": " While interstate commerce has been narrowly interpreted in judicial decisions in the past, more recent decisions have interpreted it more broadly and have allowed Congress to regulate internal or local activities that affect interstate commerce. For example, cattle crossing a state line while grazing and the movement of pollutants across state lines have been considered interstate commerce by federal courts in order to uphold Congress's regulatory jurisdiction."
+            }
+        },
+        "references": {
+            "commerce clause": "https://dictionary.findlaw.com/definition/commerce-clause.html"
+        }
+    }
+}

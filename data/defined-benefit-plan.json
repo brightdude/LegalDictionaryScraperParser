@@ -1,0 +1,11 @@
+{
+    "Defined Benefit Plan": {
+        "definition": "a pension plan in which the amount of benefits paid to an employee after retirement is fixed in advance in accordance with a formula given in the plan",
+        "sub_definitions": {
+            "1": {
+                "1": "a pension plan in which the amount of benefits paid to an employee after retirement is fixed in advance in accordance with a formula given in the plan"
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "Rent": {
+        "definition": "a return made by a tenant or occupant of real property to the owner for possession and use thereof ;esp",
+        "origin": "[ren-tər]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "a return made by a tenant or occupant of real property to the owner for possession and use thereofa sum of money agreed upon between a landlord and tenant for the use of real property",
+                "sub_terms": {
+                    "b": "a contract by which one party conveys to another to hold as owner a tract of land or other immovable property in perpetuity in exchange for payment of an annual sum or quantity of fruits",
+                    "c": "the amount paid by a hirer of personal property to the owner for the use thereof",
+                    "d": "a royalty under a mineral lease"
+                }
+            },
+            "2": {
+                "definition": "to take and hold under an agreement to pay rent"
+            },
+            "for rent:available for use or service in return for payment": {
+                "definition": "vt"
+            },
+            "1": {
+                "definition": "to be for rent"
+            },
+            "2 a": {
+                "definition": "to obtain use and possession of a place or property in exchange for rent",
+                "sub_terms": {
+                    "b": "to allow the possession and use of property in exchange for rent"
+                }
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "Contingent Fee": {
+        "definition": "contingency fee at FEE",
+        "sub_definitions": {
+            "1": {
+                "1": "contingency fee"
+            }
+        },
+        "references": {
+            "contingency fee": "https://dictionary.findlaw.com/definition/contingency-fee.html",
+            "FEE": "https://dictionary.findlaw.com/definition/fee.html"
+        }
+    }
+}

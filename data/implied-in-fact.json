@@ -1,0 +1,11 @@
+{
+    "Implied In Fact": {
+        "definition": "recognized by inference based on the facts",
+        "sub_definitions": {
+            "1": {
+                "1": "recognized by inference based on the facts (as the parties' conduct or statements)"
+            }
+        },
+        "references": {}
+    }
+}

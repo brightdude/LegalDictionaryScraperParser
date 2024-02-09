@@ -1,0 +1,15 @@
+{
+    "Straight Voting": {
+        "definition": "a system of voting for corporate directors in which each shareholder may cast one vote for each share of stock owned for each seat in contention compare cumulative voting",
+        "compare": "cumulative voting",
+        "sub_definitions": {
+            "1": {
+                "1": "a system of voting for corporate directors in which each shareholder may cast one vote for each share of stock owned for each seat in contention compare",
+                "compares": "cumulative voting"
+            }
+        },
+        "references": {
+            "cumulative voting": "https://dictionary.findlaw.com/definition/cumulative-voting.html"
+        }
+    }
+}

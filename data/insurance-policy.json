@@ -1,0 +1,11 @@
+{
+    "Insurance Policy": {
+        "definition": "a writing whereby a contract of insurance is made in which the rights and duties of the insurer and the insured are set out",
+        "sub_definitions": {
+            "1": {
+                "1": "a writing whereby a contract of insurance is made in which the rights and duties of the insurer and the insured are set out"
+            }
+        },
+        "references": {}
+    }
+}

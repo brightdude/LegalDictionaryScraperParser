@@ -1,0 +1,11 @@
+{
+    "Asset Depreciation Range": {
+        "definition": "a range of useful lives assigned to types of property under the Internal Revenue Code for purposes of depreciation",
+        "sub_definitions": {
+            "1": {
+                "1": "a range of useful lives assigned to types of property under the Internal Revenue Code for purposes of depreciation"
+            }
+        },
+        "references": {}
+    }
+}

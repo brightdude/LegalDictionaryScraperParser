@@ -1,0 +1,11 @@
+{
+    "Fixed Charge": {
+        "definition": "a regularly recurring expense",
+        "sub_definitions": {
+            "1": {
+                "1": "a regularly recurring expense (as rent, taxes, or interest) that must be met when due"
+            }
+        },
+        "references": {}
+    }
+}

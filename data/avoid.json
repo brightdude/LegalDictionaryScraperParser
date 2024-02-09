@@ -1,0 +1,27 @@
+{
+    "Avoid": {
+        "definition": "to make void or undo",
+        "origin": "[modification of Old French esvuider to destroy, literally, to empty, from es - out + vuider to empty]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to make void or undo[the trustee may any transfer of interest of the debtor in property \"\"]"
+            },
+            "2": {
+                "definition": "to respond to (an allegation or averment) by declaring that facts alleged do not result in liability [averments in a pleading to which no responsive pleading is required or permitted shall be taken as denied or\"Rule 8(d)\"] see alsocompare",
+                "compares": "deny",
+                "see also": "confession and avoidance",
+                "Federal Rules of Civil Procedure": "Rule 8(d)\"] see also"
+            },
+            "3": {
+                "definition": "to prevent the occurrence of or responsibility for esp. through lawful means [ a tax] compare",
+                "compares": "evade"
+            }
+        },
+        "references": {
+            "annul": "https://dictionary.findlaw.com/definition/annul.html",
+            "confession and avoidance": "https://dictionary.findlaw.com/definition/confession-and-avoidance.html",
+            "deny": "https://dictionary.findlaw.com/definition/deny.html",
+            "evade": "https://dictionary.findlaw.com/definition/evade.html"
+        }
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "Petit Jury": {
+        "definition": "a jury of twelve persons that is impaneled to try and to decide the facts at issue in a trial compare grand jury",
+        "compare": "grand jury",
+        "sub_definitions": {
+            "1": {
+                "1": "a jury of twelve persons that is impaneled to try and to decide the facts at issue in a trial compare",
+                "compares": "grand jury"
+            }
+        },
+        "references": {
+            "grand jury": "https://dictionary.findlaw.com/definition/grand-jury.html"
+        }
+    }
+}

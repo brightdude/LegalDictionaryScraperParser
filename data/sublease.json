@@ -1,0 +1,9 @@
+{
+    "Sublease": {
+        "definition": "a lease that is given by a tenant or lessee to another person of part or all of the leased premises for a shorter term than that of the original lease and under which some interest is retained compare assignment of lease at assignment sublease vt",
+        "compare": "assignment",
+        "references": {
+            "assignment": "https://dictionary.findlaw.com/definition/assignment.html"
+        }
+    }
+}

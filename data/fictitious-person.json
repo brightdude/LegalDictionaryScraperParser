@@ -1,0 +1,16 @@
+{
+    "Fictitious Person": {
+        "definition": "a supposed but in fact nonexistent person referred to in some legal documents or proceedings ;also",
+        "sub_definitions": {
+            "1": {
+                "1": "a supposed but in fact nonexistent person referred to in some legal documents or proceedings"
+            },
+            "2": {
+                "1": "fictitious payee"
+            }
+        },
+        "references": {
+            "fictitious payee": "https://dictionary.findlaw.com/definition/fictitious-payee.html"
+        }
+    }
+}

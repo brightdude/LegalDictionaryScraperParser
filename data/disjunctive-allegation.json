@@ -1,0 +1,13 @@
+{
+    "Disjunctive Allegation": {
+        "definition": "an allegation that is unclear in meaning because it includes the word or in charging the defendant with two or more wrongful acts NOTE",
+        "sub_definitions": {
+            "1": {
+                "1": "an allegation that is unclear in meaning because it includes the word",
+                "or": "in charging the defendant with two or more wrongful acts",
+                "note": " Disjunctive allegations are inadmissible."
+            }
+        },
+        "references": {}
+    }
+}

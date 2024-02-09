@@ -1,0 +1,16 @@
+{
+    "Juridical Person": {
+        "definition": "an entity",
+        "compare": "natural person",
+        "sub_definitions": {
+            "1": {
+                "1": "an entity (as a partnership or corporation) that is given rights and responsibilities compare",
+                "compares": "natural person",
+                "note": " The rights and responsibilities of a juridical person are distinct from those of the natural persons constituting it."
+            }
+        },
+        "references": {
+            "natural person": "https://dictionary.findlaw.com/definition/natural-person.html"
+        }
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "Compensated Bailment": {
+        "definition": "bailment for hire at bailment",
+        "sub_definitions": {
+            "1": {
+                "1": "bailment for hire"
+            }
+        },
+        "references": {
+            "bailment for hire": "https://dictionary.findlaw.com/definition/bailment-for-hire.html",
+            "bailment": "https://dictionary.findlaw.com/definition/bailment.html"
+        }
+    }
+}

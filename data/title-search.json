@@ -1,0 +1,12 @@
+{
+    "Title Search": {
+        "definition": "a search of public records to determine the condition of title to real property usually that is the subject of a transaction",
+        "origin": "[the borrower was required to pay for a title search ]",
+        "sub_definitions": {
+            "1": {
+                "1": "a search of public records to determine the condition of title to real property usually that is the subject of a transaction (as a purchase or mortgage) [the borrower was required to pay for a"
+            }
+        },
+        "references": {}
+    }
+}

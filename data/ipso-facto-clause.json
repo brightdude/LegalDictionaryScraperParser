@@ -1,0 +1,12 @@
+{
+    "Ipso Facto Clause": {
+        "definition": "a clause in an agreement stipulating the consequences",
+        "sub_definitions": {
+            "1": {
+                "1": "a clause in an agreement stipulating the consequences (as termination of a lease or acceleration of a payment) of the insolvency of one of the parties called also",
+                "note": " An ipso facto clause is invalid under the Bankruptcy Code because a trustee is not bound by any provision or applicable law that is conditioned on the debtor's insolvency."
+            }
+        },
+        "references": {}
+    }
+}

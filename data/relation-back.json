@@ -1,0 +1,16 @@
+{
+    "Relation Back": {
+        "definition": "the assigning of a prior date",
+        "origin": "[the relation back of amendments to the date of the original pleading]",
+        "sub_definitions": {
+            "1": {
+                "1": "the assigning of a prior date (as the date of execution of a document) to an act (as filing of a document and esp. a pleading) as the time of its effect esp. to avoid a time limit [the",
+                "relation back": "of amendments to the date of the original pleading]"
+            },
+            "2": {
+                "1": "the legal fiction that an action (as the filing of a document) was taken on a previous date to avoid the expiration of a time limit"
+            }
+        },
+        "references": {}
+    }
+}

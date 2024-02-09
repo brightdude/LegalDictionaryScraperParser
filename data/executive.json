@@ -1,0 +1,44 @@
+{
+    "Executive": {
+        "definition": "of or relating to the execution or carrying out of laws [serving a warrant is an function] ;esp",
+        "origin": "[serving a warrant is an function]",
+        "sub_definitions": {
+            "1": {
+                "definition": "of or relating to the execution or carrying out of laws [serving a warrant is an function]belonging to the branch of government that is charged with such powers as diplomatic representation, overseeing the execution of laws, and appointment of officials see alsoof thein the back matter compare,",
+                "compares": "judicial",
+                "see also": "administrative"
+            },
+            "2 a": {
+                "definition": "of or relating to execution",
+                "sub_terms": {
+                    "b": "having administrative or managerial responsibility [an director]"
+                }
+            },
+            "3": {
+                "definition": "of, relating to, or issued by an executive [an pardon]n"
+            },
+            "1 a": {
+                "definition": "the executive branch of a government compare,",
+                "sub_terms": {
+                    "b": "the person or persons making up that branch see also,,"
+                },
+                "compares": "judiciary",
+                "see also": "governor"
+            },
+            "2": {
+                "definition": "a person who exercises administrative or managerial control"
+            }
+        },
+        "references": {
+            "administrative": "https://dictionary.findlaw.com/definition/administrative.html",
+            "Constitution": "https://dictionary.findlaw.com/definition/constitution.html",
+            "judicial": "https://dictionary.findlaw.com/definition/judicial.html",
+            "legislative": "https://dictionary.findlaw.com/definition/legislative.html",
+            "judiciary": "https://dictionary.findlaw.com/definition/judiciary.html",
+            "legislature": "https://dictionary.findlaw.com/definition/legislature.html",
+            "governor": "https://dictionary.findlaw.com/definition/governor.html",
+            "mayor": "https://dictionary.findlaw.com/definition/mayor.html",
+            "president": "https://dictionary.findlaw.com/definition/president.html"
+        }
+    }
+}

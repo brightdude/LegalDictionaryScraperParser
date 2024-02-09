@@ -1,0 +1,13 @@
+{
+    "Lords": {
+        "definition": "house of lords",
+        "sub_definitions": {
+            "1": {
+                "1": "house of lords"
+            }
+        },
+        "references": {
+            "house of lords": "https://dictionary.findlaw.com/definition/house-of-lords.html"
+        }
+    }
+}

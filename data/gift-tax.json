@@ -1,0 +1,21 @@
+{
+    "Gift Tax": {
+        "definition": "an excise tax imposed on a donor for gifts of property made during the donor's lifetime see also annual exclusion",
+        "compare": "annual exclusion",
+        "sub_definitions": {
+            "1": {
+                "1": "an excise tax imposed on a donor for gifts of property made during the donor's lifetime see also",
+                "see also": "annual exclusion",
+                "compares": "death tax"
+            }
+        },
+        "references": {
+            "annual exclusion": "https://dictionary.findlaw.com/definition/annual-exclusion.html",
+            "gift": "https://dictionary.findlaw.com/definition/gift.html",
+            "unified transfer tax": "https://dictionary.findlaw.com/definition/unified-transfer-tax.html",
+            "death tax": "https://dictionary.findlaw.com/definition/death-tax.html",
+            "estate tax": "https://dictionary.findlaw.com/definition/estate-tax.html",
+            "generation-skipping transfer tax": "https://dictionary.findlaw.com/definition/generation-skipping-transfer-tax.html"
+        }
+    }
+}

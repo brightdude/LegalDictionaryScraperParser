@@ -1,0 +1,15 @@
+{
+    "Underinsured": {
+        "definition": "not sufficiently insured",
+        "origin": "[an motorist]",
+        "sub_definitions": {
+            "1": {
+                "1": "not sufficiently insured"
+            },
+            "2": {
+                "1": "having insufficient insurance to cover losses or damages [an motorist]"
+            }
+        },
+        "references": {}
+    }
+}

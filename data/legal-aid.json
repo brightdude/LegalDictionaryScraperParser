@@ -1,0 +1,11 @@
+{
+    "Legal Aid": {
+        "definition": "aid provided by an organization established to serve the legal needs of the poor",
+        "sub_definitions": {
+            "1": {
+                "1": "aid provided by an organization established to serve the legal needs of the poor"
+            }
+        },
+        "references": {}
+    }
+}

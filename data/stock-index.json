@@ -1,0 +1,11 @@
+{
+    "Stock Index": {
+        "definition": "an index that tracks the performance of a particular group of stocks",
+        "sub_definitions": {
+            "1": {
+                "1": "an index that tracks the performance of a particular group of stocks"
+            }
+        },
+        "references": {}
+    }
+}

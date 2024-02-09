@@ -1,0 +1,79 @@
+{
+    "Annuity": {
+        "definition": "-ities [Medieval Latin annuitas",
+        "origin": "[Medieval Latin annuitas , from Latin annuus yearly]",
+        "sub_definitions": {
+            "-ities": {
+                "definition": "[Medieval Latin, from Latinyearly]"
+            },
+            "1": {
+                "definition": "an amount payable at regular intervals (as yearly or quarterly) for a certain or uncertain period"
+            },
+            "2": {
+                "definition": "the grant of or the right to receive an annuity [his will includedfor several old friends]",
+                "annuities": "for several old friends]"
+            },
+            "3": {
+                "definition": "a contract (as with an insurance company) under which one or more persons receive annuities in return for prior fixed payments made by themselves or another (as an employer)"
+            },
+            "annuities certain": {
+                "definition": "an annuity payable over a specified period even if the annuitant dies"
+            },
+            "annuities due": {
+                "definition": "an immediate annuity in which the payment of the benefits is made at the beginning of each payment interval rather than at the end"
+            },
+            "contingent annuity": {
+                "definition": "an annuity whose starting or ending date depends on the occurrence of an event (as the death of the annuitant) whose date is uncertain"
+            },
+            "con·ven·tion·al annuity": {
+                "definition": "an annuity under which the annuitant receives a specified minimum amount at each payment comparein this entry",
+                "compares": "variable annuity"
+            },
+            "deferred annuity": {
+                "definition": "an annuity in which payment of benefits is delayed until a particular time (as at retirement) comparein this entry",
+                "compares": "immediate annuity"
+            },
+            "group annuity": {
+                "definition": "a pension plan paying annuity benefits at retirement for all eligible persons under a single master contract usually issued to an employer for the benefit of its employees"
+            },
+            "im·me·di·ate annuity": {
+                "definition": "an annuity purchased with a single premium in which payment of benefits begins within the first payment interval (as within a year) comparein this entry",
+                "compares": "deferred annuity"
+            },
+            "joint-and-survivor annuity": {
+                "definition": "an annuity payable as long as any of the two or more annuitants remains alive called alsocomparein this entry",
+                "compares": "joint life annuity"
+            },
+            "joint life annuity": {
+                "definition": "an annuity payable only until the death of any of the annuitants called alsocomparein this entry",
+                "compares": "joint-and-survivor annuity"
+            },
+            "life annuity": {
+                "definition": "an annuity payable during the annuitant's lifetime and terminating at death called also"
+            },
+            "life income-pe·ri·od cer·tain annuity": {
+                "definition": "an annuity that guarantees a minimum number of payments even if the annuitant dies before the minimum amount is paid or a minimum number of payments plus income for life if the annuitant is still alive after the minimum amount is paid"
+            },
+            "refund annuity": {
+                "definition": "an annuity in which payments to the annuitant or to the annuitant's estate or to a beneficiary are guaranteed to equal at least the amount of the premium paid for the annuity"
+            },
+            "straight life annuity": {
+                "definition": "in this entry"
+            },
+            "var·i·able annuity": {
+                "definition": "[ver-ē-ə-bəl-]an annuity that is backed primarily by a fund of common stocks and whose payments go up or down depending on how well the stocks perform comparein this entryat",
+                "compares": "conventional annuity"
+            }
+        },
+        "references": {
+            "variable annuity": "https://dictionary.findlaw.com/definition/variable-annuity.html",
+            "immediate annuity": "https://dictionary.findlaw.com/definition/immediate-annuity.html",
+            "deferred annuity": "https://dictionary.findlaw.com/definition/deferred-annuity.html",
+            "joint life annuity": "https://dictionary.findlaw.com/definition/joint-life-annuity.html",
+            "joint-and-survivor annuity": "https://dictionary.findlaw.com/definition/joint-and-survivor-annuity.html",
+            "life annuity": "https://dictionary.findlaw.com/definition/life-annuity.html",
+            "conventional annuity": "https://dictionary.findlaw.com/definition/conventional-annuity.html",
+            "life insurance": "https://dictionary.findlaw.com/definition/life-insurance.html"
+        }
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "Juror": {
+        "definition": "a member of a jury [an alternate ] ;broadly",
+        "origin": "[an alternate ]",
+        "sub_definitions": {
+            "1": {
+                "1": "a member of a jury [an alternate ]"
+            },
+            "2": {
+                "1": "an individual who is summoned but not yet selected to serve on a jury"
+            }
+        },
+        "references": {}
+    }
+}

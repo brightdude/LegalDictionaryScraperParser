@@ -1,0 +1,14 @@
+{
+    "Insider Trading": {
+        "definition": "the illegal use of esp. material inside information for profit in financial trading see also tippee",
+        "sub_definitions": {
+            "1": {
+                "1": "the illegal use of esp. material inside information for profit in financial trading see also",
+                "see also": "tippee"
+            }
+        },
+        "references": {
+            "tippee": "https://dictionary.findlaw.com/definition/tippee.html"
+        }
+    }
+}

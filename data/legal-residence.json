@@ -1,0 +1,13 @@
+{
+    "Legal Residence": {
+        "definition": "domicile",
+        "sub_definitions": {
+            "1": {
+                "1": "domicile"
+            }
+        },
+        "references": {
+            "domicile": "https://dictionary.findlaw.com/definition/domicile.html"
+        }
+    }
+}

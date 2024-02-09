@@ -1,0 +1,12 @@
+{
+    "Jurat": {
+        "definition": "a certification added to an affidavit stating when",
+        "origin": "[short for Latin juratum ( est ) it has been sworn]",
+        "sub_definitions": {
+            "1": {
+                "1": "a certification added to an affidavit stating when, before whom, and where the affidavit was made"
+            }
+        },
+        "references": {}
+    }
+}

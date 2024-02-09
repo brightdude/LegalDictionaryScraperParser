@@ -1,0 +1,17 @@
+{
+    "Limited Public Forum": {
+        "definition": "a public forum created by the government voluntarily for expressive activity that may be restricted as to subject matter or class of speaker called also limited forum limited open forum compare open forum",
+        "compare": "open forum",
+        "sub_definitions": {
+            "1": {
+                "1": "a public forum created by the government voluntarily for expressive activity that may be restricted as to subject matter or class of speaker called also",
+                "compares": "open forum",
+                "note": " The restriction of a limited public forum must be able to withstand strict judicial scrutiny of its effect on First Amendment rights."
+            }
+        },
+        "references": {
+            "open forum": "https://dictionary.findlaw.com/definition/open-forum.html",
+            "public forum": "https://dictionary.findlaw.com/definition/public-forum.html"
+        }
+    }
+}

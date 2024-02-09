@@ -1,0 +1,16 @@
+{
+    "Artificial Person": {
+        "definition": "legal person compare natural person",
+        "compare": "legal person",
+        "sub_definitions": {
+            "1": {
+                "1": "legal person",
+                "compares": "natural person"
+            }
+        },
+        "references": {
+            "legal person": "https://dictionary.findlaw.com/definition/legal-person.html",
+            "natural person": "https://dictionary.findlaw.com/definition/natural-person.html"
+        }
+    }
+}

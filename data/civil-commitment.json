@@ -1,0 +1,11 @@
+{
+    "Civil Commitment": {
+        "definition": "court-ordered institutionalization of a person suffering from mental illness",
+        "sub_definitions": {
+            "1": {
+                "1": "court-ordered institutionalization of a person suffering from mental illness, alcoholism, or drug addiction usually upon a finding that the person is dangerous to himself or herself or to others"
+            }
+        },
+        "references": {}
+    }
+}

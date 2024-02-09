@@ -1,0 +1,18 @@
+{
+    "Slander Of Title": {
+        "definition": "a false and malicious written or spoken public statement disparaging a person's title to property that causes harm for which special damages may be awarded [damages for the filing of a fraudulent lien and for slander of title \" M & P Concrete Prods. v. Woods",
+        "origin": "[damages for the filing of a fraudulent lien and for slander of title \" M & P Concrete Prods. v. Woods , 590 So. 2d 429 (1991)\"]",
+        "compare": "defamation",
+        "sub_definitions": {
+            "1": {
+                "1": "a false and malicious written or spoken public statement disparaging a person's title to property that causes harm for which special damages may be awarded [damages for the filing of a fraudulent lien and for",
+                "M & P Concrete Prods. v. Woods": "590 So. 2d 429 (1991)\"] called al",
+                "compares": "defamation"
+            }
+        },
+        "references": {
+            "defamation": "https://dictionary.findlaw.com/definition/defamation.html",
+            "disparagement": "https://dictionary.findlaw.com/definition/disparagement.html"
+        }
+    }
+}

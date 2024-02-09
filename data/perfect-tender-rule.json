@@ -1,0 +1,14 @@
+{
+    "Perfect Tender Rule": {
+        "definition": "a rule that permits a buyer to reject goods if they or the tender of delivery fail to conform to contract in any respect [the perfect tender rule is preserved to the extent of permitting a buyer to reject goods for any defects \" Ramirez v. Autosport",
+        "origin": "[the perfect tender rule is preserved to the extent of permitting a buyer to reject goods for any defects \" Ramirez v. Autosport , 440 A.2d 1345 (1982)\"]",
+        "sub_definitions": {
+            "1": {
+                "1": "a rule that permits a buyer to reject goods if they or the tender of delivery fail to conform to contract in any respect [the",
+                "Ramirez v. Autosport": "440 A.2d 1345 (1982)",
+                "note": " The Uniform Commercial Code contains provisions for a seller's right to cure a nonconforming shipment that counteract the strictness of the perfect tender rule."
+            }
+        },
+        "references": {}
+    }
+}

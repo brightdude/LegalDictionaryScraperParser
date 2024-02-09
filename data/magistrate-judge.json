@@ -1,0 +1,13 @@
+{
+    "Magistrate Judge": {
+        "definition": "magistrate",
+        "sub_definitions": {
+            "1": {
+                "1": "magistrate"
+            }
+        },
+        "references": {
+            "magistrate": "https://dictionary.findlaw.com/definition/magistrate.html"
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "Quasi In Rem": {
+        "definition": "as if one were proceeding against the thing used esp. in reference to proceedings",
+        "origin": "[Latin, as if against a thing]",
+        "compare": "jurisdiction",
+        "sub_definitions": {
+            "1": {
+                "1": "as if one were proceeding against the thing used esp. in reference to proceedings (as for attachment of property) in which one seeks satisfaction of a claim against a person by adjudication of rights to a particular property over which jurisdiction can be obtained see also",
+                "compares": "in personam",
+                "note": " The plaintiff in a quasi in rem action uses the court's jurisdiction over the defendant's property in hopes of obtaining a remedy for a claim (as for money) against the defendant. A quasi in rem action is often used when jurisdiction over the defendant cannot be obtained due to his or her absence from the state."
+            }
+        },
+        "references": {
+            "jurisdiction": "https://dictionary.findlaw.com/definition/jurisdiction.html",
+            "in personam": "https://dictionary.findlaw.com/definition/in-personam.html",
+            "in rem": "https://dictionary.findlaw.com/definition/in-rem.html"
+        }
+    }
+}

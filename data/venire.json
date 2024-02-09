@@ -1,0 +1,16 @@
+{
+    "Venire": {
+        "definition": "a panel from which a jury is to be selected compare array",
+        "origin": "[probably from venireman ]",
+        "compare": "array",
+        "sub_definitions": {
+            "1": {
+                "1": "a panel from which a jury is to be selected compare",
+                "compares": "array"
+            }
+        },
+        "references": {
+            "array": "https://dictionary.findlaw.com/definition/array.html"
+        }
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "Ex Delicto": {
+        "definition": "arising from or based on a tort or delict",
+        "origin": "[Latin, of or by reason of a wrong]",
+        "compare": "ex contractu",
+        "sub_definitions": {
+            "1": {
+                "1": "arising from or based on a tort or delict (as a breach of duty) [the action is",
+                "compares": "ex contractu"
+            }
+        },
+        "references": {
+            "ex contractu": "https://dictionary.findlaw.com/definition/ex-contractu.html"
+        }
+    }
+}

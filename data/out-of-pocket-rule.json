@@ -1,0 +1,15 @@
+{
+    "Out-Of-Pocket Rule": {
+        "definition": "a measure of damages from fraud used in some jurisdictions that is based on the difference between the amount paid by the plaintiff and the market value of the thing paid for rather than the value attributed by the defendant compare benefit of the bargain",
+        "compare": "benefit of the bargain",
+        "sub_definitions": {
+            "1": {
+                "1": "a measure of damages from fraud used in some jurisdictions that is based on the difference between the amount paid by the plaintiff and the market value of the thing paid for rather than the value attributed by the defendant compare",
+                "compares": "benefit of the bargain"
+            }
+        },
+        "references": {
+            "benefit of the bargain": "https://dictionary.findlaw.com/definition/benefit-of-the-bargain.html"
+        }
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "Perpetual Injunction": {
+        "definition": "permanent injunction at injunction",
+        "sub_definitions": {
+            "1": {
+                "1": "permanent injunction"
+            }
+        },
+        "references": {
+            "permanent injunction": "https://dictionary.findlaw.com/definition/permanent-injunction.html",
+            "injunction": "https://dictionary.findlaw.com/definition/injunction.html"
+        }
+    }
+}

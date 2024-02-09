@@ -1,0 +1,23 @@
+{
+    "Reasonable": {
+        "definition": "being in accordance with reason",
+        "origin": "[a belief that force was necessary for self-defense]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "being in accordance with reason, fairness, duty, or prudence",
+                "sub_terms": {
+                    "b": "of an appropriate degree or kind",
+                    "c": "supported or justified by fact or circumstance [a belief that force was necessary for self-defense]",
+                    "d": ""
+                }
+            },
+            "2": {
+                "definition": "applying reason or logic[a mind]"
+            }
+        },
+        "references": {
+            "commercially reasonable": "https://dictionary.findlaw.com/definition/commercially-reasonable.html",
+            "rational": "https://dictionary.findlaw.com/definition/rational.html"
+        }
+    }
+}

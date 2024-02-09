@@ -1,0 +1,15 @@
+{
+    "Discountable": {
+        "definition": "set apart for discounting [within the period] 2",
+        "origin": "[within the period]",
+        "sub_definitions": {
+            "1": {
+                "definition": "set apart for discounting [within the period]"
+            },
+            "2": {
+                "definition": "subject to being discounted [a note]"
+            }
+        },
+        "references": {}
+    }
+}

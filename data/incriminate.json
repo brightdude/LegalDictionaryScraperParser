@@ -1,0 +1,20 @@
+{
+    "Incriminate": {
+        "definition": "to charge with involvement in a crime [he was incriminated in the conspiracy] 2",
+        "origin": "[he was incriminated in the conspiracy]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to charge with involvement in a crime [he wasin the conspiracy]",
+                "incriminated": "in the conspiracy]"
+            },
+            "2": {
+                "definition": "to suggest or show involvement of in a crime [among the evidence thathim was a box of trigger devices] see also",
+                "see also": "self-incrimination",
+                "incriminated": "him was a box of trigger devices] see also"
+            }
+        },
+        "references": {
+            "self-incrimination": "https://dictionary.findlaw.com/definition/self-incrimination.html"
+        }
+    }
+}

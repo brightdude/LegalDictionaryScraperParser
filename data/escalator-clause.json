@@ -1,0 +1,14 @@
+{
+    "Escalator Clause": {
+        "definition": "a clause in a contract that provides for an increase in the amount of the payments made under the contract to reflect an increase in costs or the raising of a government-imposed cap on costs 2",
+        "sub_definitions": {
+            "1": {
+                "definition": "a clause in a contract that provides for an increase in the amount of the payments made under the contract to reflect an increase in costs or the raising of a government-imposed cap on costs"
+            },
+            "2": {
+                "definition": "a clause in an employment contract that provides for an increase in wages to reflect a rise in the cost of living but prohibits a decrease to reflect a drop in the cost of living"
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "Bank": {
+        "definition": "an organization for the custody",
+        "origin": "[ba-kər]",
+        "sub_definitions": {
+            "branch bank": {
+                "definition": "a banking facility that is a separate but dependent part of a chartered banka facility that performs some banking functions and is separate from a main office"
+            },
+            "bridge bank": {
+                "definition": "a national bank that is chartered for a limited time to operate an insolvent bank until it is sold"
+            },
+            "central bank": {
+                "definition": "a national bank that establishes monetary and fiscal policy and controls the money supply and interest rate"
+            },
+            "collecting bank": {
+                "definition": "a bank other than the payor bank that is handling for collection a negotiable instrument or a promise or order to pay money"
+            },
+            "commercial bank": {
+                "definition": "a bank organized chiefly to handle the everyday financial transactions of businesses (as through deposit accounts and commercial loans)"
+            },
+            "cooperative bank": {
+                "definition": "an association (as a credit union) owned by and offering banking services for its members"
+            },
+            "depositary bank": {
+                "definition": "the first bank to take a negotiable instrument or promise or order to pay money unless the instrument, promise, or order is presented for immediate payment over the counter"
+            },
+            "federal land bank": {
+                "definition": "a land bank that is under federal charter and regulated by the Farm Credit Administration"
+            },
+            "Federal Re·serve bank": {
+                "definition": "one of 12 central banks set up under the Federal Reserve Act to hold reserves for and extend credit to affiliated banks in their respective districts"
+            },
+            "intermediary bank": {
+                "definition": "a bank other than the depositary or payor bank to which a negotiable instrument or promise or order to pay is transferred in the course of collection"
+            },
+            "1": {
+                "definition": "a bank that provides financing for land development and farm mortgages esp. by issuing stock see also federal land bank in this entry"
+            },
+            "2": {
+                "definition": "a trust that holds land for purposes of preservation or conservation"
+            },
+            "national bank": {
+                "definition": "a bank operating under federal charter and supervision"
+            },
+            "nonbank bank": {
+                "definition": "a financial organization (as a branch of an out-of-state bank) that either accepts demand deposits or makes commercial loans"
+            },
+            "payor bank": {
+                "definition": "a bank that is the drawee of a draft"
+            },
+            "presenting bank": {
+                "definition": "a bank other than a payor bank that presents a negotiable instrument or promise or order to pay money"
+            },
+            "sav·ings bank": {
+                "definition": "a bank organized to hold depositors' funds in interest-bearing accounts and to make long-term investments (as in home mortgage loans)"
+            },
+            "state bank": {
+                "definition": "a bank operating under state charter and law"
+            }
+        },
+        "references": {
+            "savings and loan association": "https://dictionary.findlaw.com/definition/savings-and-loan-association.html"
+        }
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "Discount Share": {
+        "definition": "a share of corporate stock issued at less than par value",
+        "sub_definitions": {
+            "1": {
+                "1": "a share of corporate stock issued at less than par value"
+            }
+        },
+        "references": {}
+    }
+}

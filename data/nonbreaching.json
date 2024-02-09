@@ -1,0 +1,12 @@
+{
+    "Nonbreaching": {
+        "definition": "not breaching [a party]",
+        "origin": "[a party]",
+        "sub_definitions": {
+            "1": {
+                "1": "not breaching [a party]"
+            }
+        },
+        "references": {}
+    }
+}

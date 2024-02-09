@@ -1,0 +1,15 @@
+{
+    "Fraud On The Market Theory": {
+        "definition": "a theory of liability in securities fraud cases",
+        "compare": "efficient market",
+        "sub_definitions": {
+            "1": {
+                "1": "a theory of liability in securities fraud cases: a defendant's material misrepresentation regarding a security traded in the open market that affects the price of the security is presumed to have been relied on by a plaintiff who purchased the security and suffered a loss compare",
+                "compares": "efficient market"
+            }
+        },
+        "references": {
+            "efficient market": "https://dictionary.findlaw.com/definition/efficient-market.html"
+        }
+    }
+}

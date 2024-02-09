@@ -1,0 +1,14 @@
+{
+    "Expressed Authority": {
+        "definition": "express authority at authority",
+        "sub_definitions": {
+            "1": {
+                "1": "express authority"
+            }
+        },
+        "references": {
+            "express authority": "https://dictionary.findlaw.com/definition/express-authority.html",
+            "authority": "https://dictionary.findlaw.com/definition/authority.html"
+        }
+    }
+}

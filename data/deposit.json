@@ -1,0 +1,72 @@
+{
+    "Deposit": {
+        "definition": "to place for safekeeping or as security [may the property with the court] ;esp",
+        "origin": "[may the property with the court]",
+        "sub_definitions": {
+            "1": {
+                "definition": "the state of being deposited (as in an account) [holding the property on ] compare,",
+                "compares": "escrow"
+            },
+            "2": {
+                "definition": "something placed for safekeeping",
+                "sub_terms": {
+                    "a": "money deposited in a bank esp. to one's credit"
+                }
+            },
+            "de·pos·i·tor   [di-pÄ -zə-tər]n": {
+                "definition": "n"
+            },
+            "demand deposit": {
+                "definition": "a bank deposit that can be withdrawn without prior notice"
+            },
+            "general deposit": {
+                "definition": "a deposit of money in a bank that is to the credit of the depositor thereby giving the depositor the right to money and creating a debtor-creditor relationship"
+            },
+            "special deposit": {
+                "definition": "a deposit that is made for a specific purpose, that is to be returned to the depositor, and that creates a bailment or trust"
+            },
+            "time deposit": {
+                "definition": "a bank deposit that can be withdrawn only after a set period of time or with prior notice",
+                "sub_terms": {
+                    "b": "something given as security see also"
+                },
+                "note": " A deposit may be applied to a purchase price or may be considered partial payment.",
+                "see also": "security deposit"
+            },
+            "3": {
+                "sub_terms": {
+                    "a": "the gratuitous transfer of possession of movable property to another for a limited time or specified purpose such that the depositary is liable to some extent for loss or damage to the property see alsocomparehiringandat"
+                },
+                "note": " Like the common-law bailment, the civil law deposit requires either actual or constructive delivery.",
+                "compares": "bailment",
+                "see also": "sequestration"
+            },
+            "necessary deposit": {
+                "definition": "a deposit compelled by a sudden emergency",
+                "note": " The Louisiana Civil Code deems the deposit of travelers' belongings with an innkeeper a necessary deposit."
+            },
+            "voluntary deposit": {
+                "definition": "a deposit that is made by the mutual consent of the depositor and depositary",
+                "sub_terms": {
+                    "b": "the movable property that is the object of a deposit [the depositary is bound to use the same diligence in preserving the that he uses in preserving his own property \"\"]"
+                },
+                "note": " The consent required may be express or implied, and because of the requirements of consent, only persons with the capacity to contract can make a voluntary deposit."
+            },
+            "4": {
+                "definition": "an act of depositing [upon the of the money in the escrow account]"
+            },
+            "5": {
+                "definition": "[night ]"
+            }
+        },
+        "references": {
+            "escrow": "https://dictionary.findlaw.com/definition/escrow.html",
+            "trust": "https://dictionary.findlaw.com/definition/trust.html",
+            "security deposit": "https://dictionary.findlaw.com/definition/security-deposit.html",
+            "sequestration": "https://dictionary.findlaw.com/definition/sequestration.html",
+            "bailment": "https://dictionary.findlaw.com/definition/bailment.html",
+            "loan": "https://dictionary.findlaw.com/definition/loan.html",
+            "depository": "https://dictionary.findlaw.com/definition/depository.html"
+        }
+    }
+}

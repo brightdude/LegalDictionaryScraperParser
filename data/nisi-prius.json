@@ -1,0 +1,24 @@
+{
+    "Nisi Prius": {
+        "definition": "a court of record that tries an issue of fact before a jury and a single judge",
+        "origin": "[Medieval Latin, unless before, the words introducing a clause in an English writ commanding a sheriff to provide a jury at the Court of Westminster on a certain day unless the judges of assize previously come to the county from which the jury is to be returned]",
+        "sub_definitions": {
+            "1": {
+                "1": "a court of record that tries an issue of fact before a jury and a single judge"
+            },
+            "2": {
+                "1": "trial court"
+            },
+            "3": {
+                "1": "the proceedings in such a court"
+            },
+            "4": {
+                "1": "the conducting of jury trials [long-distance travel eliminated the",
+                "nisi prius": "practice of the justices \"W. J. Brennan, Jr.\"]"
+            }
+        },
+        "references": {
+            "trial court": "https://dictionary.findlaw.com/definition/trial-court.html"
+        }
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "Tax Certificate": {
+        "definition": "a certificate issued to the purchaser of property at a tax sale that certifies the sale and entitles the purchaser to a tax deed upon expiration of the period for right of redemption if all taxes and charges have been paid [voided the tax certificate when it was determined that the original owner was exempt from paying the delinquent taxes] called also tax sale certificate compare tax deed at deed",
+        "origin": "[voided the tax certificate when it was determined that the original owner was exempt from paying the delinquent taxes]",
+        "compare": "deed",
+        "sub_definitions": {
+            "1": {
+                "1": "a certificate issued to the purchaser of property at a tax sale that certifies the sale and entitles the purchaser to a tax deed upon expiration of the period for right of redemption if all taxes and charges have been paid [voided the",
+                "tax certificate": "when it was determined that the original owner was exempt from paying the delinquent taxes] called also"
+            }
+        },
+        "references": {
+            "deed": "https://dictionary.findlaw.com/definition/deed.html"
+        }
+    }
+}

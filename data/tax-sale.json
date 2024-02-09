@@ -1,0 +1,8 @@
+{
+    "Tax Sale": {
+        "definition": "Tax Sale",
+        "references": {
+            "sale": "https://dictionary.findlaw.com/definition/sale.html"
+        }
+    }
+}

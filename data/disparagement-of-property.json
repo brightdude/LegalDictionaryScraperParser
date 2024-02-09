@@ -1,0 +1,10 @@
+{
+    "Disparagement Of Property": {
+        "definition": "disparagement 2",
+        "sub_definitions": {},
+        "references": {
+            "disparagement": "https://dictionary.findlaw.com/definition/disparagement.html",
+            "slander of title": "https://dictionary.findlaw.com/definition/slander-of-title.html"
+        }
+    }
+}

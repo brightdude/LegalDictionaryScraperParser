@@ -1,0 +1,27 @@
+{
+    "Term": {
+        "definition": "a specified period of time [the policy ] 2",
+        "origin": "[the policy ]",
+        "sub_definitions": {
+            "1": {
+                "definition": "a specified period of time [the policy ]"
+            },
+            "2": {
+                "definition": "the whole period for which an estate is grantedthe estate itself"
+            },
+            "3 a": {
+                "definition": "the period in which the powers of a court may be validly exercised",
+                "sub_terms": {
+                    "b": ""
+                }
+            },
+            "4": {
+                "definition": "a word, phrase, or provision of import esp. in determining the nature and scope of an agreement usually used in pl. [theof the contract]",
+                "s": "of the contract]"
+            }
+        },
+        "references": {
+            "session": "https://dictionary.findlaw.com/definition/session.html"
+        }
+    }
+}

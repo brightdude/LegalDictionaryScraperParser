@@ -1,0 +1,101 @@
+{
+    "Lien": {
+        "definition": "a charge or encumbrance upon property for the satisfaction of a debt or other duty that is created by agreement of the parties or esp. by operation of law ;specif",
+        "origin": "[Anglo-French, bond, obligation, literally, tie, band, from Old French, from Latin ligamen , from ligare to bind]",
+        "compare": "retaining lien",
+        "sub_definitions": {
+            "assessment lien": {
+                "definition": "a lien that is on property benefiting from an improvement made by a municipality and that secures payment of the taxes assessed to pay for the improvement"
+            },
+            "attachment lien": {
+                "definition": "a lien acquired on property by a creditor upon levy of an attachment"
+            },
+            "car·ri·er's lien": {
+                "definition": "a lien against freight conferring on the carrier the right to retain the property until the amount due is paid"
+            },
+            "charging lien": {
+                "definition": "a lien attaching to a judgment or recovery awarded to a plaintiff and securing payment of the plaintiff's attorney's fees and expenses called also"
+            },
+            "choate lien": {
+                "definition": "a lien that requires no further action to be made enforceable and that identifies the lienor, the property subject to the lien, and the amount of the lien"
+            },
+            "common-law lien": {
+                "definition": "a lien under common law giving a creditor (as a bailee) in possession of property the right to retain possession until payment of the amount due"
+            },
+            "equitable lien": {
+                "definition": "a lien against property that does not require possession of the property and that is available in equity to prevent unjust enrichment"
+            },
+            "factor's lien": {
+                "definition": "a lien against property held on consignment by a factor conferring the right to retain possession of the property until payment of the amount due",
+                "note": " Under Article 9 of the Uniform Commercial Code, a factor's lien is simply a security interest and, unlike a common-law lien, is enforceable even after the factor is no longer in possession of the property."
+            },
+            "first lien": {
+                "definition": "a lien taking precedence over all other claims, charges, or encumbrances of the same general category but not necessarily over those (as taxes) imposed by government sanction"
+            },
+            "float·ing lien": {
+                "definition": "a lien created in a security agreement against property owned by the debtor at the time of the agreement's creation as well as property acquired after the agreement's creation"
+            },
+            "1": {
+                "definition": "an equitable lien enforceable to compel performance of an obligation (as under a divorce settlement)"
+            },
+            "2": {
+                "definition": "in this entry"
+            },
+            "inchoate lien": {
+                "definition": "a lien for which some procedure remains unfinished or some term remains undetermined"
+            },
+            "involuntary lien": {
+                "definition": "a lien that arises other than by the debtor's consent (as by operation of law)"
+            },
+            "judgment lien": {
+                "definition": "a lien acquired against the property of a debtor by a creditor upon obtaining a favorable judgment"
+            },
+            "judicial lien": {
+                "definition": "a lien obtained by a legal or equitable process (as judgment, levy, attachment, or execution)"
+            },
+            "ju·nior lien": {
+                "definition": "a lien that is lower in priority relative to other liens"
+            },
+            "landlord's lien": {
+                "definition": "a lien against the goods and valuables of a tenant to secure payment of rent or sometimes repayment of money otherwise owed to a landlord"
+            },
+            "maritime lien": {
+                "definition": "a lien arising under maritime law against a ship or its cargo (as for services or supplies tendered or for damages caused by a collision) which may be enforced by a court-ordered seizure of the property in order to satisfy the obligation"
+            },
+            "ma·te·ri·al·man's lien": {
+                "definition": "[mə-tir-ē-əl-mənz-]a lien on property for materials supplied"
+            },
+            "me·chan·ic's lien": {
+                "definition": "a lien against a building and its site to assure priority of payment for labor or services (as construction and sometimes design) or material"
+            },
+            "retaining lien": {
+                "definition": "a lien that attaches to the papers or property of a client which have come into his or her attorney's possession in the course of employment and that secures payment of the attorney's fees called also"
+            },
+            "se·nior lien": {
+                "definition": "a lien that is higher in priority relative to other liens"
+            },
+            "spe·cif·ic lien": {
+                "definition": "a lien upon specific property as security for the payment of a debt or the satisfaction of some other obligation arising out of a transaction or agreement involving that property comparein this entry",
+                "compares": "general lien"
+            },
+            "statutory lien": {
+                "definition": "a lien imposed by statute"
+            },
+            "tax lien": {
+                "definition": "a statutory lien on property for taxes due giving the taxing authority a security interest in the property compareat"
+            },
+            "vendor's lien": {
+                "definition": "a lien on esp. real property securing payment in full of the purchase price by the buyer"
+            },
+            "voluntary lien": {
+                "definition": "a lien created (as by contract) with the consent of the debtor"
+            }
+        },
+        "references": {
+            "retaining lien": "https://dictionary.findlaw.com/definition/retaining-lien.html",
+            "charging lien": "https://dictionary.findlaw.com/definition/charging-lien.html",
+            "general lien": "https://dictionary.findlaw.com/definition/general-lien.html",
+            "sale": "https://dictionary.findlaw.com/definition/sale.html"
+        }
+    }
+}

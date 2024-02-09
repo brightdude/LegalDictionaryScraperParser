@@ -1,0 +1,18 @@
+{
+    "Riparian": {
+        "definition": "of or relating to or living or located on the bank of a watercourse",
+        "compare": "littoral",
+        "sub_definitions": {
+            "1": {
+                "1": "of or relating to or living or located on the bank of a watercourse (as a river or stream) or sometimes a lake"
+            },
+            "2": {
+                "1": "of or relating to or living or located on the bank of a body of water compare",
+                "compares": "littoral"
+            }
+        },
+        "references": {
+            "littoral": "https://dictionary.findlaw.com/definition/littoral.html"
+        }
+    }
+}

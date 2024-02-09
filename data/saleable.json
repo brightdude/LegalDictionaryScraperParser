@@ -1,0 +1,8 @@
+{
+    "Saleable": {
+        "definition": "Saleable",
+        "references": {
+            "salable": "https://dictionary.findlaw.com/definition/salable.html"
+        }
+    }
+}

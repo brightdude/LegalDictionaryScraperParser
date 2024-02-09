@@ -1,0 +1,27 @@
+{
+    "Trade": {
+        "definition": "the business or work in which one engages regularly b",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "the business or work in which one engages regularly",
+                "sub_terms": {
+                    "b": "an occupation requiring manual or mechanical skill",
+                    "c": "the persons engaged in an occupation"
+                }
+            },
+            "3": {
+                "definition": "to engage in selling"
+            },
+            "1": {
+                "definition": "of, relating to, or used in trade or in a particular trade or business"
+            },
+            "trad·ablealsotrade·ableadj": {
+                "definition": "adj"
+            },
+            "also:trades": {
+                "definition": "of, composed of, or representing the trades or labor unions"
+            }
+        },
+        "references": {}
+    }
+}

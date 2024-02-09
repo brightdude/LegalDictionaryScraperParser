@@ -1,0 +1,21 @@
+{
+    "Secured": {
+        "definition": "guaranteed or protected by security [a claim] b",
+        "origin": "[a claim]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "guaranteed or protected by security [a claim]",
+                "sub_terms": {
+                    "b": "constituting security [ property]"
+                }
+            },
+            "2": {
+                "definition": "having a security interest [an interest rendering the primary lender ]"
+            },
+            "3": {
+                "definition": "involving or providing for the creation of a security interest [a sale]"
+            }
+        },
+        "references": {}
+    }
+}

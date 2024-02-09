@@ -1,0 +1,11 @@
+{
+    "Certificate Of Occupancy": {
+        "definition": "a certificate issued by a local authority indicating that a building meets building-code requirements",
+        "sub_definitions": {
+            "1": {
+                "1": "a certificate issued by a local authority indicating that a building meets building-code requirements"
+            }
+        },
+        "references": {}
+    }
+}

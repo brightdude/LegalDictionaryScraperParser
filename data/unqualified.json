@@ -1,0 +1,11 @@
+{
+    "Unqualified": {
+        "definition": "not qualified",
+        "sub_definitions": {
+            "1": {
+                "1": "not qualified"
+            }
+        },
+        "references": {}
+    }
+}

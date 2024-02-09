@@ -1,0 +1,15 @@
+{
+    "Mortgage Clause": {
+        "definition": "a clause in an insurance contract",
+        "sub_definitions": {
+            "1": {
+                "1": "a clause in an insurance contract (as for fire insurance) that entitles a named mortgagee to be paid for damage or loss to the property see also",
+                "see also": "open mortgage clause"
+            }
+        },
+        "references": {
+            "open mortgage clause": "https://dictionary.findlaw.com/definition/open-mortgage-clause.html",
+            "standard mortgage clause": "https://dictionary.findlaw.com/definition/standard-mortgage-clause.html"
+        }
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "Opportunity To Be Heard": {
+        "definition": "the chance to present one's views or objections before being deprived of a right by government authority see also due process",
+        "sub_definitions": {
+            "1": {
+                "1": "the chance to present one's views or objections before being deprived of a right by government authority see also",
+                "see also": "due process"
+            }
+        },
+        "references": {
+            "due process": "https://dictionary.findlaw.com/definition/due-process.html"
+        }
+    }
+}

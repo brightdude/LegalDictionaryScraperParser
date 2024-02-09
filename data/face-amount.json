@@ -1,0 +1,11 @@
+{
+    "Face Amount": {
+        "definition": "the amount of money payable under an insurance policy at the time of a loss",
+        "sub_definitions": {
+            "1": {
+                "1": "the amount of money payable under an insurance policy at the time of a loss"
+            }
+        },
+        "references": {}
+    }
+}

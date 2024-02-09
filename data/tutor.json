@@ -1,0 +1,12 @@
+{
+    "Tutor": {
+        "definition": "a guardian of a minor or sometimes of a person with mental retardation compare committee",
+        "compare": "committee",
+        "sub_definitions": {},
+        "references": {
+            "committee": "https://dictionary.findlaw.com/definition/committee.html",
+            "conservator": "https://dictionary.findlaw.com/definition/conservator.html",
+            "curator": "https://dictionary.findlaw.com/definition/curator.html"
+        }
+    }
+}

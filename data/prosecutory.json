@@ -1,0 +1,13 @@
+{
+    "Prosecutory": {
+        "definition": "prosecutorial",
+        "sub_definitions": {
+            "1": {
+                "1": "prosecutorial"
+            }
+        },
+        "references": {
+            "prosecutorial": "https://dictionary.findlaw.com/definition/prosecutorial.html"
+        }
+    }
+}

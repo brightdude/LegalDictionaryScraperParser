@@ -1,0 +1,11 @@
+{
+    "Regulation Q": {
+        "definition": "a regulation of the Board of Governors of the Federal Reserve System prohibiting member banks from paying interest on demand deposits",
+        "sub_definitions": {
+            "1": {
+                "1": "a regulation of the Board of Governors of the Federal Reserve System prohibiting member banks from paying interest on demand deposits"
+            }
+        },
+        "references": {}
+    }
+}

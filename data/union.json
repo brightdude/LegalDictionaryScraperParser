@@ -1,0 +1,21 @@
+{
+    "Union": {
+        "definition": "an act or instance of uniting or joining two or more things into one ;esp",
+        "sub_definitions": {
+            "1": {
+                "definition": "an act or instance of uniting or joining two or more things into onethe formation of a single political unit from two or more separate and individual units"
+            },
+            "2": {
+                "definition": "something that is made onesomething formed by a combining or coalition of its members",
+                "sub_terms": {
+                    "a": "a confederation of independent individuals (as nations or persons) for some common purpose",
+                    "b": "a political unit constituting an organic whole formed usually from previously independent units (as England and Scotland in 1707) which have surrendered their principal powers to the government of the whole or to a newly created government (as the U.S. in 1789)",
+                    "c": ""
+                }
+            }
+        },
+        "references": {
+            "labor union": "https://dictionary.findlaw.com/definition/labor-union.html"
+        }
+    }
+}

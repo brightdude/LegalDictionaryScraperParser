@@ -1,0 +1,14 @@
+{
+    "Nonconsensual": {
+        "definition": "not involving consent",
+        "sub_definitions": {
+            "1": {
+                "1": "not involving consent"
+            },
+            "2": {
+                "1": "not consented to"
+            }
+        },
+        "references": {}
+    }
+}

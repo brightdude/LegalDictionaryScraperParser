@@ -1,0 +1,8 @@
+{
+    "Bargain And Sale Deed": {
+        "definition": "Bargain And Sale Deed",
+        "references": {
+            "deed": "https://dictionary.findlaw.com/definition/deed.html"
+        }
+    }
+}

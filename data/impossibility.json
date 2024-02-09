@@ -1,0 +1,30 @@
+{
+    "Impossibility": {
+        "definition": "-ties 1",
+        "sub_definitions": {
+            "1": {
+                "definition": "a doctrine in contract law that a party may be released from liability for breach of contract for failing to perform an obligation that is rendered impossible by uncontrollable circumstances (as death or failure of the means of delivery)"
+            },
+            "2": {
+                "definition": "a defense to breach of contract or a basis for release from contractual obligations because of impossibility of performance compare,",
+                "compares": "frustration"
+            },
+            "3": {
+                "definition": "in this entry"
+            },
+            "fac·tu·al impossibility": {
+                "definition": "impossibility based on factual circumstancesa partial defense to criminal liability based on the incompletion of an intended criminal act",
+                "note": " Factual impossibility is not a complete defense and does allow prosecution for attempt or for another inchoate offense. For example, if the defendant constructed a bomb that failed to explode, factual impossibility would be a defense against murder charges, but not attempted murder."
+            },
+            "le·gal impossibility": {
+                "definition": "impossibility based on or with reference to a lawa complete defense to criminal liability based on the commitment of acts that are not criminal or illegal",
+                "note": " Legal impossibility is founded on the principle that an act is not a crime unless there is a law prohibiting it."
+            }
+        },
+        "references": {
+            "impossibility of performance": "https://dictionary.findlaw.com/definition/impossibility-of-performance.html",
+            "frustration": "https://dictionary.findlaw.com/definition/frustration.html",
+            "impracticability": "https://dictionary.findlaw.com/definition/impracticability.html"
+        }
+    }
+}

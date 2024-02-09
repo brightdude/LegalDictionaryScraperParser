@@ -1,0 +1,13 @@
+{
+    "Prime Interest Rate": {
+        "definition": "prime rate",
+        "sub_definitions": {
+            "1": {
+                "1": "prime rate"
+            }
+        },
+        "references": {
+            "prime rate": "https://dictionary.findlaw.com/definition/prime-rate.html"
+        }
+    }
+}

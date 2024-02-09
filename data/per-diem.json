@@ -1,0 +1,17 @@
+{
+    "Per Diem": {
+        "definition": "by the day",
+        "origin": "[Latin]",
+        "sub_definitions": {
+            "1": {
+                "definition": "a daily allowance [received afor expenses]",
+                "per diem": "for expenses]"
+            },
+            "2": {
+                "definition": "a daily fee [paid afor maintenance of the equipment]",
+                "per diem": "for maintenance of the equipment]"
+            }
+        },
+        "references": {}
+    }
+}

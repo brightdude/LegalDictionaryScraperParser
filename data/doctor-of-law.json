@@ -1,0 +1,13 @@
+{
+    "Doctor Of Law": {
+        "definition": "juris doctor",
+        "sub_definitions": {
+            "1": {
+                "1": "juris doctor"
+            }
+        },
+        "references": {
+            "juris doctor": "https://dictionary.findlaw.com/definition/juris-doctor.html"
+        }
+    }
+}

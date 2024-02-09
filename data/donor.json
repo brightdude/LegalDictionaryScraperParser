@@ -1,0 +1,16 @@
+{
+    "Donor": {
+        "definition": "one that gives",
+        "sub_definitions": {
+            "1": {
+                "1": "one that gives, donates, grants, or confers something"
+            },
+            "2": {
+                "1": "settlor"
+            }
+        },
+        "references": {
+            "settlor": "https://dictionary.findlaw.com/definition/settlor.html"
+        }
+    }
+}

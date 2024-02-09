@@ -1,0 +1,15 @@
+{
+    "Organized Crime": {
+        "definition": "criminal activity on the part of an organized and extensive group of people compare racketeering",
+        "compare": "racketeering",
+        "sub_definitions": {
+            "1": {
+                "1": "criminal activity on the part of an organized and extensive group of people compare",
+                "compares": "racketeering"
+            }
+        },
+        "references": {
+            "racketeering": "https://dictionary.findlaw.com/definition/racketeering.html"
+        }
+    }
+}

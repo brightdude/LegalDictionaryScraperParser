@@ -1,0 +1,21 @@
+{
+    "Liquidate": {
+        "definition": "to determine by agreement or litigation the precise amount of ;also",
+        "origin": "[ a corporation]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to determine by agreement or litigation the precise amount ofto settle (a debt) by payment or other adjustment"
+            },
+            "2 a": {
+                "definition": "to determine the liabilities and apportion the assets of esp. in bankruptcy or dissolution [ a corporation] compare",
+                "sub_terms": {
+                    "b": "to convert (as assets) into cash [ an estate]to liquidate something (as a corporation)"
+                },
+                "compares": "bankruptcy"
+            }
+        },
+        "references": {
+            "bankruptcy": "https://dictionary.findlaw.com/definition/bankruptcy.html"
+        }
+    }
+}

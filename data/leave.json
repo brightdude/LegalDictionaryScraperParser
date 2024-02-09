@@ -1,0 +1,10 @@
+{
+    "Leave": {
+        "definition": "bequeath devise",
+        "sub_definitions": {},
+        "references": {
+            "bequeath": "https://dictionary.findlaw.com/definition/bequeath.html",
+            "devise": "https://dictionary.findlaw.com/definition/devise.html"
+        }
+    }
+}

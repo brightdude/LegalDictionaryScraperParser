@@ -1,0 +1,20 @@
+{
+    "Exclusive": {
+        "definition": "excluding or having power to exclude others [ right to their respective writings and discoveries \" U.S. Constitution art. I\"] b",
+        "origin": "[ right to their respective writings and discoveries \" U.S. Constitution art. I\"]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "excluding or having power to exclude others [ right to their respective writings and discoveries \"art. I\"]",
+                "sub_terms": {
+                    "b": "being independent from or not shared by others[ control] [ use]"
+                }
+            },
+            "2": {
+                "definition": "limiting or limited to possession, ownership, or use by a single individual or group [an contract] [an lease]"
+            }
+        },
+        "references": {
+            "sole": "https://dictionary.findlaw.com/definition/sole.html"
+        }
+    }
+}

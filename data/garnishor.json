@@ -1,0 +1,11 @@
+{
+    "Garnishor": {
+        "definition": "a creditor who brings a garnishment proceeding against a garnishee",
+        "sub_definitions": {
+            "1": {
+                "1": "a creditor who brings a garnishment proceeding against a garnishee"
+            }
+        },
+        "references": {}
+    }
+}

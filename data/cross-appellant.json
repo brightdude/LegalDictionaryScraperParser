@@ -1,0 +1,11 @@
+{
+    "Cross-Appellant": {
+        "definition": "a party that cross-appeals",
+        "sub_definitions": {
+            "1": {
+                "1": "a party that cross-appeals"
+            }
+        },
+        "references": {}
+    }
+}

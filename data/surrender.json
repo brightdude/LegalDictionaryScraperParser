@@ -1,0 +1,19 @@
+{
+    "Surrender": {
+        "definition": "to yield to the control or possession of another [ the leased premises] [ collateral to a creditor] b",
+        "origin": "[ the leased premises]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "to yield to the control or possession of another [ the leased premises] [ collateral to a creditor]",
+                "sub_terms": {
+                    "b": "to give up completely or agree to forgo",
+                    "c": "to cancel (one's insurance policy) voluntarily"
+                }
+            },
+            "2": {
+                "definition": "to give over to the custody of the law [ a defendant]to give oneself upnan act or instance of surrendering [discharge an obligor by of a promissory note]the yielding of an estate by a tenant to the landlord so that the leasehold interest is extinguished by mutual agreement"
+            }
+        },
+        "references": {}
+    }
+}

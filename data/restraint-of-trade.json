@@ -1,0 +1,24 @@
+{
+    "Restraint Of Trade": {
+        "definition": "an act",
+        "origin": "[covenant not to compete with an employer after leaving is in restraint of trade and must be reasonable to be enforced]",
+        "sub_definitions": {
+            "1": {
+                "definition": "an act, fact, or means of curbing the free flow of commerce or trade [covenant not to compete with an employer after leaving is inand must be reasonable to be enforced]",
+                "restraint of trade": "and must be reasonable to be enforced]"
+            },
+            "2": {
+                "definition": "an attempt or intent to eliminate or stifle competition, to effect a monopoly, to maintain prices artificially, or otherwise to hamper or obstruct the course of trade and commerce as it would be if left to the control of natural and economic forces [the Sherman Antitrust Act declared every contract, combination, and conspiracy into be illegal]the means (as a contract or combination) employed in such an endeavor see also,,,in the Important Laws section",
+                "see also": "horizontal restraint",
+                "restraint of trade": "to be illegal]",
+                "Sherman Antitrust Act": "in the Important Laws section"
+            }
+        },
+        "references": {
+            "horizontal restraint": "https://dictionary.findlaw.com/definition/horizontal-restraint.html",
+            "per se rule": "https://dictionary.findlaw.com/definition/per-se-rule.html",
+            "rule of reason": "https://dictionary.findlaw.com/definition/rule-of-reason.html",
+            "vertical restraint": "https://dictionary.findlaw.com/definition/vertical-restraint.html"
+        }
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "Fungible": {
+        "definition": "being something",
+        "origin": "[New Latin fungibilis , from Latin fungi to perform]",
+        "sub_definitions": {
+            "1": {
+                "1": "being something (as money or a commodity) one part or quantity of which can be substituted for another of equal value in paying a debt or settling an account [oil, wheat, and lumber are commodities]"
+            },
+            "2": {
+                "1": "something that is fungible"
+            }
+        },
+        "references": {}
+    }
+}

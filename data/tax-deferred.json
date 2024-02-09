@@ -1,0 +1,11 @@
+{
+    "Tax-Deferred": {
+        "definition": "not taxable until a future date or event",
+        "sub_definitions": {
+            "1": {
+                "1": "not taxable until a future date or event (as withdrawal or retirement)"
+            }
+        },
+        "references": {}
+    }
+}

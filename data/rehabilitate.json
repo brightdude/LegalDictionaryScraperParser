@@ -1,0 +1,23 @@
+{
+    "Rehabilitate": {
+        "definition": "to restore to a former capacity ;specif",
+        "origin": "[the State simply brought out all of the prior statements to qualify or explain the inconsistency and to the witness \" People v. Page , 550 N.E.2d 248 (1990)\"]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to restore to a former capacityto restore credibility to (a witness or testimony) [the State simply brought out all of the prior statements to qualify or explain the inconsistency and to the witness \", 550 N.E.2d 248 (1990)\"] compare",
+                "note": " A witness whose trial testimony is inconsistent with his or her pretrial usually sworn statements is considered impeached. Such a witness may be rehabilitated usually on redirect examination. There are various state and federal evidentiary rules governing what evidence (as character evidence) is admissible to rehabilitate a witness.",
+                "compares": "impeach",
+                "People v. Page": "550 N.E.2d 248 (1990)\"] compa"
+            },
+            "2 a": {
+                "definition": "to restore to a former state (as of good repair or solvency) [if the debtor wishes to liquidate rather than reorganize or the farming operation \"J. H. Williamson\"]",
+                "sub_terms": {
+                    "b": "to restore (as a convicted criminal defendant) to a useful and constructive place in society through therapy, job training, and other counseling"
+                }
+            }
+        },
+        "references": {
+            "impeach": "https://dictionary.findlaw.com/definition/impeach.html"
+        }
+    }
+}

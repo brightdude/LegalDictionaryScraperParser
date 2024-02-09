@@ -1,0 +1,11 @@
+{
+    "Adoptee": {
+        "definition": "a person who is adopted",
+        "sub_definitions": {
+            "1": {
+                "1": "a person who is adopted"
+            }
+        },
+        "references": {}
+    }
+}

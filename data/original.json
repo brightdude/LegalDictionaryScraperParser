@@ -1,0 +1,19 @@
+{
+    "Original": {
+        "definition": "that from which a copy or reproduction is made [both parties signed the ] compare duplicate 2",
+        "origin": "[both parties signed the ]",
+        "sub_definitions": {
+            "1": {
+                "definition": "that from which a copy or reproduction is made [both parties signed the ] compare",
+                "compares": "duplicate"
+            },
+            "2": {
+                "definition": "a work composed firsthand as the product of an author's creativity",
+                "note": " A work must be an original in order to obtain a copyright."
+            }
+        },
+        "references": {
+            "duplicate": "https://dictionary.findlaw.com/definition/duplicate.html"
+        }
+    }
+}

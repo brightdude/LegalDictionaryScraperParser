@@ -1,0 +1,19 @@
+{
+    "Payoff": {
+        "definition": "the act or an instance of paying someone off",
+        "origin": "[would release the lien upon the of the balance]",
+        "sub_definitions": {
+            "1": {
+                "definition": "the act or an instance of paying someone offcompare",
+                "compares": "kickback"
+            },
+            "2": {
+                "definition": "the act of paying a debt or creditor in full [would release the lien upon the of the balance]"
+            }
+        },
+        "references": {
+            "bribe": "https://dictionary.findlaw.com/definition/bribe.html",
+            "kickback": "https://dictionary.findlaw.com/definition/kickback.html"
+        }
+    }
+}

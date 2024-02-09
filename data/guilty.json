@@ -1,0 +1,15 @@
+{
+    "Guilty": {
+        "definition": "having committed a crime",
+        "origin": "[ of larceny]",
+        "sub_definitions": {
+            "1": {
+                "definition": "having committed a crimejustly charged with a specified crime [ of larceny]"
+            },
+            "2": {
+                "definition": "involving guilt or culpability[ knowledge]"
+            }
+        },
+        "references": {}
+    }
+}

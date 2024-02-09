@@ -1,0 +1,58 @@
+{
+    "Sentence": {
+        "definition": "a judgment formally pronouncing the punishment to be inflicted on one convicted of a crime 2",
+        "origin": "[Old French, opinion, judicial sentence, from Latin sententia , ultimately from sentire to feel, think, express an opinion]",
+        "sub_definitions": {
+            "1": {
+                "definition": "a judgment formally pronouncing the punishment to be inflicted on one convicted of a crime"
+            },
+            "2": {
+                "definition": "the punishment that one convicted of a crime is ordered to receive"
+            },
+            "concurrent sentence": {
+                "definition": "a sentence that runs at the same time as another"
+            },
+            "consecutive sentence": {
+                "definition": "a sentence that runs before or after another"
+            },
+            "cumulative sentence": {
+                "definition": "in this entrythe combination of two or more consecutive sentences"
+            },
+            "death sentence": {
+                "definition": "a sentence condemning the convicted defendant to death"
+            },
+            "de·ter·mi·nate sentence": {
+                "definition": "[di-tər-mə-nət-]a sentence for a fixed rather than indeterminate length of time"
+            },
+            "general sentence": {
+                "definition": "a sentence that does not allocate the punishment imposed for the individual counts on which the defendant was convicted",
+                "note": " General sentences are impermissible."
+            },
+            "in·de·ter·mi·nate sentence": {
+                "definition": "[in-di-tər-mə-nət-]a sentence of minimum and maximum duration with the exact length to be later determined (as by a parole board)"
+            },
+            "life sentence": {
+                "definition": "a sentence of imprisonment for the rest of the convicted defendant's life"
+            },
+            "mandatory sentence": {
+                "definition": "a sentence that is specifically required or falls within a range required by statute as punishment for an offense [imposed the minimumfor distributing drugs near a school]",
+                "mandatory sentence": "for distributing drugs near a school]"
+            },
+            "presumptive sentence": {
+                "definition": "a sentence that is the presumed punishment for an offense and is subject to the upward or downward adjustment of its severity depending on aggravating and mitigating factors"
+            },
+            "split sentence": {
+                "definition": "a sentence of which part is served in prison and the other suspended and usually replaced by probation"
+            },
+            "suspended sentence": {
+                "definition": "a sentence the imposition or execution of which is suspended by the courtvt"
+            },
+            "sen·tenc·ing": {
+                "definition": "to impose a sentence on"
+            }
+        },
+        "references": {
+            "consecutive sentence": "https://dictionary.findlaw.com/definition/consecutive-sentence.html"
+        }
+    }
+}

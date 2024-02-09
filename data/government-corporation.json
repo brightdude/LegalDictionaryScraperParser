@@ -1,0 +1,8 @@
+{
+    "Government Corporation": {
+        "definition": "Government Corporation",
+        "references": {
+            "corporation": "https://dictionary.findlaw.com/definition/corporation.html"
+        }
+    }
+}

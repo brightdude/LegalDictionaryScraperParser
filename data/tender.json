@@ -1,0 +1,26 @@
+{
+    "Tender": {
+        "definition": "an act or instance of tendering b",
+        "origin": "[sufficient ]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "to make a tender of [ goods] [ delivery] [ payment] [ performance]",
+                "sub_terms": {
+                    "b": "to offer as an amount in settlement of a claim by an injured party against an insured"
+                },
+                "note": " An insurance company might be obligated to tender the limits of a policy to an injured party when a higher amount is likely to be awarded at trial."
+            },
+            "2": {
+                "definition": "to extend for acceptance or consideration (as in proof of something) esp. in a proceeding [ a plea to the court] [ an issue]"
+            },
+            "3": {
+                "definition": "to offer for sale [ shares]to offer securities for sale [make an informed decision to ]"
+            }
+        },
+        "references": {
+            "tender of delivery": "https://dictionary.findlaw.com/definition/tender-of-delivery.html",
+            "money": "https://dictionary.findlaw.com/definition/money.html",
+            "legal tender": "https://dictionary.findlaw.com/definition/legal-tender.html"
+        }
+    }
+}

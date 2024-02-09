@@ -1,0 +1,15 @@
+{
+    "Statutory Law": {
+        "definition": "the law that exists in legislatively enacted statutes esp. as distinguished from common law compare common law",
+        "compare": "common law",
+        "sub_definitions": {
+            "1": {
+                "1": "the law that exists in legislatively enacted statutes esp. as distinguished from common law compare",
+                "compares": "common law"
+            }
+        },
+        "references": {
+            "common law": "https://dictionary.findlaw.com/definition/common-law.html"
+        }
+    }
+}

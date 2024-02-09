@@ -1,0 +1,35 @@
+{
+    "Right": {
+        "definition": "qualities",
+        "origin": "[Old English riht , from riht righteous]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "qualities (as adherence to duty or obedience to lawful authority) that together constitute the ideal of moral propriety or merit moral approval",
+                "sub_terms": {
+                    "b": "something that is morally just [able to distinguish from wrong]"
+                }
+            },
+            "2": {
+                "definition": "something to which one has a just claim",
+                "sub_terms": {
+                    "a": "a power, privilege, or condition of existence to which one has a natural claim of enjoyment or possession [the of liberty] [that all men…are endowed by their Creator with certain unalienable\"\"] see also",
+                    "b": "a power, privilege, immunity, or capacity the enjoyment of which is secured to a person by law [one's constitutional]",
+                    "c": "a legally enforceable claim against another that the other will do or will not do a given act [the defendant may be under a legal duty…to exercise reasonable care for the plaintiff's safety, so that the plaintiff has a corresponding legal to insist on that care \"W. L. Prosser and W. P. Keeton\"]",
+                    "d": "the interest that one has in propertya claim or title to property often used in pl. [a security interest is not enforceable…and does not attach unless…the debtor hasin the collateral \"\"] [leasing mineral] see also",
+                    "e": "the interest in property possessed (as under copyright law) in an intangible thing and esp. an item of intellectual property [obtained publishing]"
+                },
+                "see also": "real right",
+                "Declaration of Independence": "\"] see also",
+                "s": "in the collateral \"",
+                "Uniform Commercial Code": "\"] [leasing mineral"
+            },
+            "3": {
+                "definition": "a privilege given stockholders to subscribe pro rata to a new issue of securities generally below market price"
+            }
+        },
+        "references": {
+            "natural right": "https://dictionary.findlaw.com/definition/natural-right.html",
+            "real right": "https://dictionary.findlaw.com/definition/real-right.html"
+        }
+    }
+}

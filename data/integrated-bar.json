@@ -1,0 +1,15 @@
+{
+    "Integrated Bar": {
+        "definition": "a bar having compulsory membership of all lawyers practicing in a specific area",
+        "compare": "voluntary bar",
+        "sub_definitions": {
+            "1": {
+                "1": "a bar having compulsory membership of all lawyers practicing in a specific area (as a state) called also",
+                "compares": "voluntary bar"
+            }
+        },
+        "references": {
+            "voluntary bar": "https://dictionary.findlaw.com/definition/voluntary-bar.html"
+        }
+    }
+}

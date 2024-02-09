@@ -1,0 +1,11 @@
+{
+    "Coparty": {
+        "definition": "a party",
+        "sub_definitions": {
+            "1": {
+                "1": "a party (as a coplaintiff or codefendant) on the same side of an action"
+            }
+        },
+        "references": {}
+    }
+}

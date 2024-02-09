@@ -1,0 +1,28 @@
+{
+    "Plead": {
+        "definition": "pled also",
+        "origin": "[pled]",
+        "sub_definitions": {
+            "plead·ed": {
+                "definition": "[pled]"
+            },
+            "plead·ing": {
+                "definition": "[Anglo-Frenchto argue in a court of law, from Old Frenchlegal action, trial more at]",
+                "plaider": "to argue in a court of law, from Old French",
+                "plaid": "legal action, trial more at"
+            },
+            "1": {
+                "definition": "to allege in or by way of a pleadingstate in a pleading [unless plaintiffand proves facts showing actual malice, he cannot recover punitive damages \", 617 N.E.2d 191 (1993)\"] [ a case of fraudulent conveyance]",
+                "s": "and proves facts showing actual malice, he cannot recover punitive damages \"",
+                "Kumaran v. Brotman": "617 N.E.2d 191 (1993)\"] [ a case of fraudulent conveyanc"
+            },
+            "2": {
+                "definition": "to offer as an excuse [cannot ignorance of the law]"
+            }
+        },
+        "references": {
+            "plea": "https://dictionary.findlaw.com/definition/plea.html",
+            "alternative": "https://dictionary.findlaw.com/definition/alternative.html"
+        }
+    }
+}

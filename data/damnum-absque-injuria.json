@@ -1,0 +1,15 @@
+{
+    "Damnum Absque Injuria": {
+        "definition": "a loss for which the law provides no means of recovery compare injuria absque damno",
+        "compare": "injuria absque damno",
+        "sub_definitions": {
+            "1": {
+                "1": "a loss for which the law provides no means of recovery compare",
+                "compares": "injuria absque damno"
+            }
+        },
+        "references": {
+            "injuria absque damno": "https://dictionary.findlaw.com/definition/injuria-absque-damno.html"
+        }
+    }
+}

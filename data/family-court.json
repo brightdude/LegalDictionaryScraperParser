@@ -1,0 +1,15 @@
+{
+    "Family Court": {
+        "definition": "a court that has jurisdiction and often advisory powers over domestic disputes involving the rights and duties of husband",
+        "compare": "juvenile court",
+        "sub_definitions": {
+            "1": {
+                "1": "a court that has jurisdiction and often advisory powers over domestic disputes involving the rights and duties of husband, wife, parent, or child esp. in matters affecting the support, custody, and welfare of children compare",
+                "compares": "juvenile court"
+            }
+        },
+        "references": {
+            "juvenile court": "https://dictionary.findlaw.com/definition/juvenile-court.html"
+        }
+    }
+}

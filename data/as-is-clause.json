@@ -1,0 +1,12 @@
+{
+    "As Is Clause": {
+        "definition": "a clause in an agreement providing that the buyer accepts the item for sale in its presently existing condition without modification or repair NOTE",
+        "sub_definitions": {
+            "1": {
+                "1": "a clause in an agreement providing that the buyer accepts the item for sale in its presently existing condition without modification or repair",
+                "note": " Under Uniform Commercial Code section 2-316, an as is clause releases the seller from responsibility for the quality of the item for sale."
+            }
+        },
+        "references": {}
+    }
+}

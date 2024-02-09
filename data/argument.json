@@ -1,0 +1,19 @@
+{
+    "Argument": {
+        "definition": "a reason or the reasoning given for or against a matter under discussion compare evidence",
+        "sub_definitions": {
+            "1": {
+                "definition": "a reason or the reasoning given for or against a matter under discussion compare,",
+                "compares": "evidence"
+            },
+            "2": {
+                "definition": "the act or process of arguing, reasoning, or discussing"
+            }
+        },
+        "references": {
+            "evidence": "https://dictionary.findlaw.com/definition/evidence.html",
+            "proof": "https://dictionary.findlaw.com/definition/proof.html",
+            "oral argument": "https://dictionary.findlaw.com/definition/oral-argument.html"
+        }
+    }
+}

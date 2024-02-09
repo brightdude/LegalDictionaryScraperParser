@@ -1,0 +1,11 @@
+{
+    "Criminal Court": {
+        "definition": "a court that has jurisdiction to try criminal defendants",
+        "sub_definitions": {
+            "1": {
+                "1": "a court that has jurisdiction to try criminal defendants"
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "Pending": {
+        "definition": "during the time of 2",
+        "origin": "[held in escrow the outcome of the suit]",
+        "sub_definitions": {
+            "1": {
+                "definition": "during the time of"
+            },
+            "2": {
+                "definition": "while awaitingin the time preceding [held in escrow the outcome of the suit] [free trial]"
+            }
+        },
+        "references": {}
+    }
+}

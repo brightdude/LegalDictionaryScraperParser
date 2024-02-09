@@ -1,0 +1,16 @@
+{
+    "Executive Agreement": {
+        "definition": "an agreement",
+        "compare": "treaty",
+        "sub_definitions": {
+            "1": {
+                "1": "an agreement (as an armistice) between the U.S. and a foreign government that is made by the president and usually deals with a subject within the president's powers compare",
+                "compares": "treaty",
+                "note": " An executive agreement does not carry the same weight as a treaty unless it is supported by a joint resolution. Unlike a treaty, an executive agreement can supersede a conflicting state law but not a federal law."
+            }
+        },
+        "references": {
+            "treaty": "https://dictionary.findlaw.com/definition/treaty.html"
+        }
+    }
+}

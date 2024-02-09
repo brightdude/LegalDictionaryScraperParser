@@ -1,0 +1,13 @@
+{
+    "Administrative Agency": {
+        "definition": "agency",
+        "sub_definitions": {
+            "1": {
+                "1": "agency"
+            }
+        },
+        "references": {
+            "agency": "https://dictionary.findlaw.com/definition/agency.html"
+        }
+    }
+}

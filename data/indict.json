@@ -1,0 +1,18 @@
+{
+    "Indict": {
+        "definition": "to charge with a crime by the finding or presentment of a grand jury in due form of law compare accuse",
+        "origin": "[alteration of earlier indite , from Anglo-French enditer , from Old French, to write down, ultimately from Latin indicere to proclaim, from in- toward + dicere to say]",
+        "compare": "accuse",
+        "sub_definitions": {
+            "1": {
+                "1": "to charge with a crime by the finding or presentment of a grand jury in due form of law compare",
+                "compares": "accuse"
+            }
+        },
+        "references": {
+            "accuse": "https://dictionary.findlaw.com/definition/accuse.html",
+            "arraign": "https://dictionary.findlaw.com/definition/arraign.html",
+            "charge": "https://dictionary.findlaw.com/definition/charge.html"
+        }
+    }
+}

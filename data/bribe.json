@@ -1,0 +1,14 @@
+{
+    "Bribe": {
+        "definition": "a benefit",
+        "compare": "kickback",
+        "sub_definitions": {
+            "brib·ing": {
+                "definition": "to influence (a person) by giving a bribe"
+            }
+        },
+        "references": {
+            "kickback": "https://dictionary.findlaw.com/definition/kickback.html"
+        }
+    }
+}

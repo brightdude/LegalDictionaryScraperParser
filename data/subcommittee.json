@@ -1,0 +1,11 @@
+{
+    "Subcommittee": {
+        "definition": "a subdivision of a committee that is assigned a portion of the committee's jurisdiction",
+        "sub_definitions": {
+            "1": {
+                "1": "a subdivision of a committee that is assigned a portion of the committee's jurisdiction, holds hearings, amends legislation, and reports to the committee"
+            }
+        },
+        "references": {}
+    }
+}

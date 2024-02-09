@@ -1,0 +1,17 @@
+{
+    "Breaking And Entering": {
+        "definition": "the act of gaining passage into and entering another's property",
+        "sub_definitions": {
+            "1": {
+                "1": "the act of gaining passage into and entering another's property (as a building or vehicle) without privilege or by force"
+            },
+            "2": {
+                "1": "the crime of breaking and entering see also",
+                "see also": "burglary"
+            }
+        },
+        "references": {
+            "burglary": "https://dictionary.findlaw.com/definition/burglary.html"
+        }
+    }
+}

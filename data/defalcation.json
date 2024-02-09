@@ -1,0 +1,21 @@
+{
+    "Defalcation": {
+        "definition": "failure to account for or pay over money that has been entrusted to one's care ;also",
+        "origin": "[earlier, deduction, lessening, shortcoming, from Medieval Latin defalcatio discounting of debt, from defalcare to cut down, deduct, from Latin de - away from + falc -, falx sickle]",
+        "sub_definitions": {
+            "1": {
+                "definition": "failure to account for or pay over money that has been entrusted to one's carean instance of such failure compare,",
+                "note": " Defalcation does not necessarily involve culpability or misconduct.",
+                "compares": "embezzle"
+            },
+            "2": {
+                "definition": "a failure to meet a promise or expectation [the school committee'sdid not end with its refusal to submit a desegregation plan \"S. L. Lynch\"]",
+                "s": "did not end with its refusal to submit a desegregation plan \"S. L. Lynch\"]"
+            }
+        },
+        "references": {
+            "embezzle": "https://dictionary.findlaw.com/definition/embezzle.html",
+            "misappropriate": "https://dictionary.findlaw.com/definition/misappropriate.html"
+        }
+    }
+}

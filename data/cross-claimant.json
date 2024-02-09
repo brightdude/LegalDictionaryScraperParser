@@ -1,0 +1,11 @@
+{
+    "Cross-Claimant": {
+        "definition": "a party that cross-claims",
+        "sub_definitions": {
+            "1": {
+                "1": "a party that cross-claims"
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "Navigable Waters": {
+        "definition": "waters that are capable of being navigated",
+        "origin": "[it is the national goal that the discharge of pollutants into the navigable waters be eliminated by 1985 \" U.S. Code \"]",
+        "sub_definitions": {
+            "1": {
+                "1": "waters that are capable of being navigated (as for commerce) and to which federal admiralty jurisdiction and specific environmental regulations apply [it is the national goal that the discharge of pollutants into the"
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "Homestead Exemption": {
+        "definition": "an exemption from liability that prevents creditors from obtaining satisfaction from a debtor's homestead see also declaration of homestead at declaration NOTE",
+        "sub_definitions": {
+            "1": {
+                "1": "an exemption from liability that prevents creditors from obtaining satisfaction from a debtor's homestead see also",
+                "note": " The laws governing the homestead exemption vary greatly from state to state. Most states have limits on the amount for which a debtor is exempted, but a few have no limits at all. Others have limits that are dependent on the size or type of property, or the age of the property owner."
+            }
+        },
+        "references": {
+            "declaration": "https://dictionary.findlaw.com/definition/declaration.html"
+        }
+    }
+}

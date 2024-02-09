@@ -1,0 +1,19 @@
+{
+    "Juris Doctor": {
+        "definition": "the lowest degree conferred by a law school usually after three years of full-time study or its equivalent compare master of laws",
+        "origin": "[New Latin, doctor of law]",
+        "compare": "master of laws",
+        "sub_definitions": {
+            "1": {
+                "1": "the lowest degree conferred by a law school usually after three years of full-time study or its equivalent compare",
+                "compares": "master of laws",
+                "note": " The juris doctor replaced the bachelor of laws as the first degree conferred by a law school in 1969. Not all states mention the J.D. or LL.B. specifically as a requirement for admission to the bar, but all states do require graduation from a law school."
+            }
+        },
+        "references": {
+            "master of laws": "https://dictionary.findlaw.com/definition/master-of-laws.html",
+            "doctor of laws": "https://dictionary.findlaw.com/definition/doctor-of-laws.html",
+            "doctor of the science of law": "https://dictionary.findlaw.com/definition/doctor-of-the-science-of-law.html"
+        }
+    }
+}

@@ -1,0 +1,149 @@
+{
+    "Interest": {
+        "definition": "a right",
+        "origin": "[probably alteration of earlier interesse , from Anglo-French, from Medieval Latin, from Latin, to be between, make a difference, concern, from inter- between, among + esse to be]",
+        "sub_definitions": {
+            "1": {
+                "definition": "an interest in property that exists by contract as security for payment or performance of an obligation [theof a mortgagee in the mortgaged property]",
+                "note": " While a lien may be created by statutory or judicial means without any agreement providing for security (as in the case of a tax lien or judgment lien), a security interest and lien may inhere in the same claim, as when a mortgage comprises both a lien on and security interest in the mortgaged property.",
+                "security interest": "of a mortgagee in the mortgaged property]"
+            },
+            "Article Nine security interest": {
+                "definition": "in this entry"
+            },
+            "beneficial interest": {
+                "definition": "the right to the use and benefit of property [ain the trust]",
+                "beneficial interest": "in the trust]"
+            },
+            "contingent interest": {
+                "definition": "a future interest whose vesting is dependent upon the occurrence or nonoccurrence of a future event comparein this entry",
+                "compares": "vested interest"
+            },
+            "controlling interest": {
+                "definition": "sufficient stock ownership in a corporation to exert control over policy"
+            },
+            "equitable interest": {
+                "definition": "an interest (as a beneficial interest) that is held by virtue of equitable title or that may be claimed on the ground of equitable relief [claimed anin the debtor's assets]",
+                "equitable interest": "in the debtor's assets]"
+            },
+            "executory interest": {
+                "definition": "a future interest other than a remainder or reversion that may take effect upon the divesting of a prior interest or one created simultaneously",
+                "note": " Unlike a remainder, an executory interest does not require the expiration of a prior interest. It was designed to guard against the destructibility of contingent remainders set forth in the rule in Shelley's case."
+            },
+            "expectation interest": {
+                "definition": "the interest of a party to a breached contract in receiving the benefit of the bargain by being put in a position as good as that which would have resulted had the contract been performed called alsocomparein this entry",
+                "compares": "reliance interest"
+            },
+            "future interest": {
+                "definition": "an interest in property limited or created so that its owner will come into the use, possession, or enjoyment of it at some future time see alsoandin this entry compare,",
+                "compares": "remainder",
+                "see also": "contingent interest"
+            },
+            "insurable interest": {
+                "definition": "an interest or stake in property or in a person that arises from the potential for esp. financial loss upon the destruction of the property or the death of the person and that is a requirement for enforcing an insurance contract",
+                "note": " The purpose of requiring an insurable interest is to prevent the use of insurance as a form of gambling or as a method of profiting from destruction."
+            },
+            "legal interest": {
+                "definition": "a lawful interest rate and esp. the highest rate allowed [proposals to increase theon department store credit cards to 15% \"\"]interest computed at such a rate [awarded the defendant] compare",
+                "compares": "usury",
+                "legal interest": "on department store credit cards to 15% \""
+            },
+            "life interest": {
+                "definition": "an interest lasting for the duration of a person's life that forecloses the ability to affect the property beyond that term compareat"
+            },
+            "possessory interest": {
+                "definition": "an interest (as a right) involving or arising out of the possession of property",
+                "note": " A possessory interest is based on control rather than use. Thus a lessee who occupies and controls the use of property has a possessory interest, while a party who has an easement does not."
+            },
+            "2": {
+                "definition": "the concern or attention of the public [a matter of widespread]",
+                "sub_terms": {
+                    "b": "a right esp. that arises from a constitution (as the U.S. Constitution)such a right considered as an issue or claim created in or involving a particular situation or thing [no person will be deprived of hisin the absence of a proceeding in which he may present his case \", 446 U.S. 238 (1980)\"]"
+                },
+                "s": "in the absence of a proceeding in which he may present his case \"",
+                "Marshall v. Jerrico, Inc.": "446 U.S. 238 (1980)"
+            },
+            "reliance interest": {
+                "definition": "the interest of a party to a breached contract in being compensated for detriments suffered (as expenses incurred) in reliance on the agreement comparein this entry",
+                "compares": "expectation interest"
+            },
+            "reversionary interest": {
+                "definition": "an interest in property (as a possibility of reverter or a power of termination) remaining in the transferor of the property or in his or her successor in interest"
+            },
+            "terminable interest": {
+                "definition": "an interest (as in a life estate) that will terminate upon the occurrence of an event or the passing of time"
+            },
+            "vested interest": {
+                "definition": "a present and certain right to the present or future enjoyment of property comparein this entry",
+                "compares": "contingent interest"
+            },
+            "working interest": {
+                "definition": "the interest of a party that holds the right to oil, gas, or minerals on a property and that bears production costs see also",
+                "see also": "overriding royalty"
+            },
+            "3": {
+                "definition": "something that causes or warrants particular attention",
+                "sub_terms": {
+                    "a": "a principle, purpose, or object of concern"
+                }
+            },
+            "compelling state interest": {
+                "definition": "a governmental interest (as in educating children or protecting the public) which is so important that it outweighs individual rights"
+            },
+            "1 a": {
+                "definition": "the general welfare and rights of the public that are to be recognized, protected, and advanced [the attorney general has standing as a representative of the]",
+                "sub_terms": {
+                    "b": "a specific public benefit or stake in something [thein controlling crime]"
+                },
+                "public interest": "in controlling crime]"
+            },
+            "liberty interest": {
+                "definition": "an interest in freedom from governmental deprivation of liberty esp. without due process [theimplicated by the needless discouragement of the exercise of the right to counsel \", 899 P.2d 103 (1995) (dissent)\"]",
+                "liberty interest": "implicated by the needless discouragement of the exercise of the right to counsel \"",
+                "State v. Albert": "899 P.2d 103 (1995) (dissent)"
+            },
+            "privacy interest": {
+                "definition": "an interest in freedom from governmental intrusion into matters in which one has a reasonable expectation of privacy [we have noprotected by the federal Constitution in limiting public or government access to knowledge of our financial transactions \"L. H. Tribe\"]",
+                "privacy interest": "protected by the federal Constitution in limiting public or government access to knowledge of our financial transactions \"L. H. Tribe\"]"
+            },
+            "property interest": {
+                "definition": "an interest in freedom from governmental deprivation of property and sources of financial gain (as employment or a government benefit) without due processsomething (as a job or benefit) to which one has a legitimate claim of entitlement and that cannot be taken away without due process as distinguished from the unprotected object of a need, desire, or expectation"
+            },
+            "4": {
+                "definition": "the well-being of a person often used in pl. [does not serve the child's best]"
+            },
+            "5": {
+                "definition": "a charge for the use of another's money that is usually a percentage of the money being used [an account yielding 7% ] [paid back the loan with ]"
+            },
+            "com·pound interest": {
+                "definition": "interest computed on the sum of the original principal and accrued interest"
+            },
+            "qualified residence interest": {
+                "definition": "interest that is deductible from adjusted gross income under federal tax law when it is paid on debt that is secured by one's residence and that was incurred for the acquisition, construction, improvement, or refinancing of the residence or through a home equity loan"
+            },
+            "sim·ple interest": {
+                "definition": "interest computed on the principal of a loan or account"
+            }
+        },
+        "references": {
+            "security interest": "https://dictionary.findlaw.com/definition/security-interest.html",
+            "vested interest": "https://dictionary.findlaw.com/definition/vested-interest.html",
+            "reliance interest": "https://dictionary.findlaw.com/definition/reliance-interest.html",
+            "contingent interest": "https://dictionary.findlaw.com/definition/contingent-interest.html",
+            "executory interest": "https://dictionary.findlaw.com/definition/executory-interest.html",
+            "remainder": "https://dictionary.findlaw.com/definition/remainder.html",
+            "reversion": "https://dictionary.findlaw.com/definition/reversion.html",
+            "equitable interest": "https://dictionary.findlaw.com/definition/equitable-interest.html",
+            "title": "https://dictionary.findlaw.com/definition/title.html",
+            "estate": "https://dictionary.findlaw.com/definition/estate.html",
+            "expectation interest": "https://dictionary.findlaw.com/definition/expectation-interest.html",
+            "lien": "https://dictionary.findlaw.com/definition/lien.html",
+            "attach": "https://dictionary.findlaw.com/definition/attach.html",
+            "perfect": "https://dictionary.findlaw.com/definition/perfect.html",
+            "purchase money security interest": "https://dictionary.findlaw.com/definition/purchase-money-security-interest.html",
+            "overriding royalty": "https://dictionary.findlaw.com/definition/overriding-royalty.html",
+            "conflict of interest": "https://dictionary.findlaw.com/definition/conflict-of-interest.html",
+            "usury": "https://dictionary.findlaw.com/definition/usury.html"
+        }
+    }
+}

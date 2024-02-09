@@ -1,0 +1,15 @@
+{
+    "Freedom Of Religion": {
+        "definition": "the right esp. as guaranteed under the free exercise clause of the First Amendment to the U.S. Constitution to practice one's religion or exercise one's beliefs without intervention by the government and to be free of the exercise of authority by a church through the government see also free exercise clause NOTE",
+        "sub_definitions": {
+            "1": {
+                "1": "the right esp. as guaranteed under the free exercise clause of the First Amendment to the U.S. Constitution to practice one's religion or exercise one's beliefs without intervention by the government and to be free of the exercise of authority by a church through the government see also",
+                "see also": "free exercise clause",
+                "note": " The freedom of religion as guaranteed by the First Amendment can be overcome by a showing by the government of a compelling state interest. On this basis, practices used in some religions, such as drug use and bigamy, are prohibited despite the First Amendment guarantee."
+            }
+        },
+        "references": {
+            "free exercise clause": "https://dictionary.findlaw.com/definition/free-exercise-clause.html"
+        }
+    }
+}

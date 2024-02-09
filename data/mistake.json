@@ -1,0 +1,25 @@
+{
+    "Mistake": {
+        "definition": "an unintentional error esp. in legal procedure or form that does not indicate bad faith and that commonly warrants excuse or relief by the court [the court's power to revise a judgment because of fraud",
+        "origin": "[the court's power to revise a judgment because of fraud, , or irregularity]",
+        "sub_definitions": {
+            "1": {
+                "definition": "a mistake regarding a fact or facts esp. that significantly affects the performance of a contract"
+            },
+            "2": {
+                "definition": "a criminal defense that attempts to eliminate culpability on the ground that the defendant operated from an unintentional misunderstanding of fact rather than from a criminal purpose"
+            },
+            "mistake of law": {
+                "definition": "a mistake involving the misunderstanding or incorrect application of law in regard to an act, contract, transaction, determination, or state of affairsa criminal defense alleging such a mistake",
+                "note": " In both contract and criminal law a mistake of law is a weaker ground for relief or acquittal than a mistake of fact."
+            },
+            "mutual mistake": {
+                "definition": "a mistake common to both parties to a contract who were in agreement about the purpose or terms of the contract [reformed the contract because of a]"
+            },
+            "unilateral mistake": {
+                "definition": "a mistake on the part of one party to a contract that is usually not a ground for rescission or reformation unless one party stands to profit or benefit improperly from the mistake"
+            }
+        },
+        "references": {}
+    }
+}

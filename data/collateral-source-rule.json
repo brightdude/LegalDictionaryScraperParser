@@ -1,0 +1,11 @@
+{
+    "Collateral Source Rule": {
+        "definition": "a rule in torts",
+        "sub_definitions": {
+            "1": {
+                "1": "a rule in torts: the amount of damages to be paid to a plaintiff by a defendant will not be reduced by payments received by the plaintiff from other sources (as medical insurance)"
+            }
+        },
+        "references": {}
+    }
+}

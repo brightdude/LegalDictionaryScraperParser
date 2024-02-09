@@ -1,0 +1,19 @@
+{
+    "Double Jeopardy": {
+        "definition": "the prosecution of a person for an offense for which he or she has already been prosecuted — see also jeopardy",
+        "compare": "jeopardy",
+        "sub_definitions": {
+            "1": {
+                "1": "the prosecution of a person for an offense for which he or she has already been prosecuted — see also",
+                "see also": "jeopardy",
+                "compares": "merger",
+                "note": " The Fifth Amendment to the Constitution states that no person shall “be subject for the same offense to be twice put in jeopardy of life or limb.” The double jeopardy clause bars second prosecutions after either acquittal or conviction, and prohibits multiple punishments for the same offense."
+            }
+        },
+        "references": {
+            "jeopardy": "https://dictionary.findlaw.com/definition/jeopardy.html",
+            "Constitution": "https://dictionary.findlaw.com/definition/constitution.html",
+            "merger": "https://dictionary.findlaw.com/definition/merger.html"
+        }
+    }
+}

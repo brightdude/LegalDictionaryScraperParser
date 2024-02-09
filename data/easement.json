@@ -1,0 +1,85 @@
+{
+    "Easement": {
+        "definition": "an interest in land owned by another that entitles its holder to a specific limited use or enjoyment",
+        "origin": "[Anglo-French esement , literally, benefit, convenience, from Old French aisement , from aisier to ease, assist]",
+        "compare": "estate",
+        "sub_definitions": {
+            "affirmative easement": {
+                "definition": "an easement entitling a person to do something affecting the land of another that would constitute trespass or a nuisance if not for the easement comparein this entry",
+                "compares": "negative easement"
+            },
+            "apparent easement": {
+                "definition": "an easement whose existence is detectable by its outward appearance (as by the presence of a water pipe)"
+            },
+            "ap·pur·te·nant easement": {
+                "definition": "[ə-pərt-n-ənt-]in this entry"
+            },
+            "common easement": {
+                "definition": "an easement in which the owner of the land burdened by the easement retains the privilege of sharing the benefits of the easement called alsocomparein this entry",
+                "compares": "exclusive easement"
+            },
+            "determinable easement": {
+                "definition": "an easement that will terminate upon the happening of a specific event or contingency"
+            },
+            "easements appurtenant": {
+                "definition": "an easement attached to and benefiting a dominant estate and burdening a servient estate comparein this entry",
+                "note": " Easements appurtenant run with the land and are therefore passed when the property is transferred.",
+                "compares": "easement in gross"
+            },
+            "easement by estoppel": {
+                "definition": "an easement that is created when the conduct of the owner of land leads another to reasonably believe that he or she has an interest in the land so that he or she acts or does not act in reliance on that belief"
+            },
+            "easement by implication": {
+                "definition": "an easement that is created by operation of law when an owner severs property into two parcels in such a way that an already existing, obvious, and continuous use of one parcel (as for access) is necessary for the reasonable enjoyment of the other parcel called also"
+            },
+            "easement by prescription": {
+                "definition": "an easement created by the open, notorious, uninterrupted, hostile, and adverse use of another's land for 20 years or for a period set by statute called also"
+            },
+            "easement in gross": {
+                "definition": "an easement that is a personal right of its holder to a use of another's land and that is not dependent on ownership of a dominant estate called alsocomparein this entry",
+                "note": " Utility companies often own easements in gross.",
+                "compares": "easement appurtenant"
+            },
+            "exclusive easement": {
+                "definition": "an easement that the holder has the right to enjoy to the exclusion of all others comparein this entry",
+                "compares": "common easement"
+            },
+            "implied easement": {
+                "definition": "in this entry"
+            },
+            "neg·a·tive easement": {
+                "definition": "an easement that entitles the holder to prevent the owner of land from using the land for a purpose or in a way that would otherwise be permitted"
+            },
+            "nonexclusive easement": {
+                "definition": "in this entry"
+            },
+            "per·son·al easement": {
+                "definition": "in this entry"
+            },
+            "prescriptive easement": {
+                "definition": "in this entry"
+            },
+            "qua·si easement": {
+                "definition": "the use by the owner of two adjoining parcels of land of one of the parcels to benefit the other",
+                "note": " A quasi easement may become an easement upon the transfer of one or both of the parcels."
+            },
+            "reciprocal neg·a·tive easement": {
+                "definition": "an easement created by operation of law and held by the owner of a lot in a residential development that entitles the holder to enforce restrictions that were part of the general development scheme against the developer and subsequent buyers who purchase free of the restrictions"
+            }
+        },
+        "references": {
+            "estate": "https://dictionary.findlaw.com/definition/estate.html",
+            "license": "https://dictionary.findlaw.com/definition/license.html",
+            "profit": "https://dictionary.findlaw.com/definition/profit.html",
+            "right of way": "https://dictionary.findlaw.com/definition/right-of-way.html",
+            "servitude": "https://dictionary.findlaw.com/definition/servitude.html",
+            "negative easement": "https://dictionary.findlaw.com/definition/negative-easement.html",
+            "easement appurtenant": "https://dictionary.findlaw.com/definition/easement-appurtenant.html",
+            "exclusive easement": "https://dictionary.findlaw.com/definition/exclusive-easement.html",
+            "easement in gross": "https://dictionary.findlaw.com/definition/easement-in-gross.html",
+            "common easement": "https://dictionary.findlaw.com/definition/common-easement.html",
+            "easement by implication": "https://dictionary.findlaw.com/definition/easement-by-implication.html",
+            "easement by prescription": "https://dictionary.findlaw.com/definition/easement-by-prescription.html"
+        }
+    }
+}

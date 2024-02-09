@@ -1,0 +1,12 @@
+{
+    "Presentence Report": {
+        "definition": "a report prepared by a probation officer upon conviction of a defendant that assists the sentencing court in imposing an appropriate sentence NOTE",
+        "sub_definitions": {
+            "1": {
+                "1": "a report prepared by a probation officer upon conviction of a defendant that assists the sentencing court in imposing an appropriate sentence",
+                "note": " The information contained in a presentence report includes the defendant's prior criminal history (if any) and relevant (as financial) circumstances, the appropriate classification of the defendant and of the offense under the established classification system, the kinds and range of sentences and programs available, and the impact of the offense on the victim."
+            }
+        },
+        "references": {}
+    }
+}

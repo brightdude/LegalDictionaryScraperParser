@@ -1,0 +1,22 @@
+{
+    "Restrain": {
+        "definition": "to prevent from doing something see also restraining order at order b",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "to prevent from doing something see alsoat",
+                "sub_terms": {
+                    "b": "to limit, restrict, or keep under control"
+                }
+            },
+            "2": {
+                "definition": "to moderate or limit the force, effect, development, or full exercise of"
+            },
+            "3": {
+                "definition": "to deprive of liberty and esp. of physical movement"
+            }
+        },
+        "references": {
+            "order": "https://dictionary.findlaw.com/definition/order.html"
+        }
+    }
+}

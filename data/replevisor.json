@@ -1,0 +1,11 @@
+{
+    "Replevisor": {
+        "definition": "the plaintiff in a replevin action",
+        "sub_definitions": {
+            "1": {
+                "1": "the plaintiff in a replevin action"
+            }
+        },
+        "references": {}
+    }
+}

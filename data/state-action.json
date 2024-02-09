@@ -1,0 +1,16 @@
+{
+    "State Action": {
+        "definition": "an action that is either taken directly by the state or bears a sufficient connection to the state to be attributed to it NOTE",
+        "sub_definitions": {
+            "1": {
+                "definition": "an action that is either taken directly by the state or bears a sufficient connection to the state to be attributed to it",
+                "note": " State actions are subject to judicial scrutiny for violations of the rights to due process and equal protection guaranteed under the Fourteenth Amendment to the U.S. Constitution. Such an action may be the subject of a claim brought under federal law (as section 1983) by one alleging a violation of constitutional rights, privileges, or immunities."
+            },
+            "2": {
+                "definition": "state efforts to displace competition with regulation or a state-supervised monopoly",
+                "note": " Such efforts are immune from antitrust liability."
+            }
+        },
+        "references": {}
+    }
+}

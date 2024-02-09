@@ -1,0 +1,17 @@
+{
+    "But-For": {
+        "definition": "of or relating to the necessary cause",
+        "origin": "[a but-for test of causation]",
+        "compare": "substantial factor",
+        "sub_definitions": {
+            "1": {
+                "1": "of or relating to the necessary cause (as a negligent act) without which a particular result (as damage) would not have occurred [a",
+                "but-for": "test of causation] compare",
+                "compares": "substantial factor"
+            }
+        },
+        "references": {
+            "substantial factor": "https://dictionary.findlaw.com/definition/substantial-factor.html"
+        }
+    }
+}

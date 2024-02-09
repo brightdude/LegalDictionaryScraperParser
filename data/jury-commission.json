@@ -1,0 +1,12 @@
+{
+    "Jury Commission": {
+        "definition": "a body of appointed public officers who maintain a jury list and select the names of prospective jurors usually at random by use of a jury wheel NOTE",
+        "sub_definitions": {
+            "1": {
+                "1": "a body of appointed public officers who maintain a jury list and select the names of prospective jurors usually at random by use of a jury wheel",
+                "note": " Jury commissions may be used in some federal district courts and state courts instead of or in addition to computerized jury selection. Jury commissions are usually organized on the county level and are used in almost 20 states."
+            }
+        },
+        "references": {}
+    }
+}

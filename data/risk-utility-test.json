@@ -1,0 +1,11 @@
+{
+    "Risk-Utility Test": {
+        "definition": "a test used in product liability cases to determine whether a manufacturer is liable for injury to a consumer because the risk of danger created by the product's design outweighs the benefits of the design",
+        "sub_definitions": {
+            "1": {
+                "1": "a test used in product liability cases to determine whether a manufacturer is liable for injury to a consumer because the risk of danger created by the product's design outweighs the benefits of the design"
+            }
+        },
+        "references": {}
+    }
+}

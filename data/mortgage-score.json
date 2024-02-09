@@ -1,0 +1,6 @@
+{
+    "Mortgage Score": {
+        "definition": "a score based on a combination of information about the borrower that is obtained from the loan application, the credit report, and property value information. The score is a comprehensive analysis of the borrower's ability to repay a mortgage loan and manage credit.",
+        "references": {}
+    }
+}

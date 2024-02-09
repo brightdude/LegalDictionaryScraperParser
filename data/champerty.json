@@ -1,0 +1,15 @@
+{
+    "Champerty": {
+        "definition": "-ties [Anglo-French champartie bargaining for a share of disputed property",
+        "origin": "[Anglo-French champartie bargaining for a share of disputed property, from champart share of crops paid as rent, share of property in dispute, from champ field + part portion]",
+        "sub_definitions": {
+            "-ties": {
+                "definition": "[Anglo-Frenchbargaining for a share of disputed property, fromshare of crops paid as rent, share of property in dispute, fromfield +portion]an unenforceable agreement by which a person with otherwise no interest in a lawsuit agrees to aid in or carry on its litigation in consideration of a share of the subject matter of the suit (as property or damages) compare",
+                "compares": "maintenance"
+            }
+        },
+        "references": {
+            "maintenance": "https://dictionary.findlaw.com/definition/maintenance.html"
+        }
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "Parole": {
+        "definition": "a conditional release of a prisoner who has served part of a sentence and who remains under the control of and in the legal custody of a parole authority compare probation",
+        "origin": "[Old French, speech, word, prisoner's word of honor to fulfill stated conditions, from Late Latin parabola speech, parable, from Greek parabolē comparison]",
+        "compare": "probation",
+        "sub_definitions": {
+            "1": {
+                "1": "a conditional release of a prisoner who has served part of a sentence and who remains under the control of and in the legal custody of a parole authority compare",
+                "compares": "probation"
+            }
+        },
+        "references": {
+            "probation": "https://dictionary.findlaw.com/definition/probation.html"
+        }
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "Proof Of Loss": {
+        "definition": "a statement submitted to an insurer setting forth a loss that the insured expects to be covered ;also",
+        "sub_definitions": {
+            "1": {
+                "1": "a statement submitted to an insurer setting forth a loss that the insured expects to be covered"
+            },
+            "2": {
+                "1": "proof that such a loss has occurred"
+            }
+        },
+        "references": {}
+    }
+}

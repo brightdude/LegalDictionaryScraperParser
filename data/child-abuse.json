@@ -1,0 +1,13 @@
+{
+    "Child Abuse": {
+        "definition": "abuse",
+        "sub_definitions": {
+            "1": {
+                "1": "abuse"
+            }
+        },
+        "references": {
+            "abuse": "https://dictionary.findlaw.com/definition/abuse.html"
+        }
+    }
+}

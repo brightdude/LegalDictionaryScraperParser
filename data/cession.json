@@ -1,0 +1,23 @@
+{
+    "Cession": {
+        "definition": "an act of ceding",
+        "origin": "[such district…as may, by of particular States…become the seat of the government of the United States \" U.S. Constitution art. I\"]",
+        "sub_definitions": {
+            "1": {
+                "definition": "an act of cedinga yielding (as of property) to another",
+                "sub_terms": {
+                    "a": "assignment or transfer of property rights by a debtor to a creditor",
+                    "b": "transfer of liability by an insurer to a reinsurer",
+                    "c": "transfer of control of or sovereignty over specific property or territory esp. by treaty [such district…as may, by of particular States…become the seat of the government of the United States \"art. I\"]"
+                }
+            },
+            "2": {
+                "definition": "the monetary amount of liability ceded by an insurer to a reinsurer compare",
+                "compares": "concession"
+            }
+        },
+        "references": {
+            "concession": "https://dictionary.findlaw.com/definition/concession.html"
+        }
+    }
+}

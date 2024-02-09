@@ -1,0 +1,22 @@
+{
+    "Contingency": {
+        "definition": "-cies 1",
+        "origin": "[a that made performance under the contract impossible]",
+        "sub_definitions": {
+            "1": {
+                "definition": "the quality or state of being contingent"
+            },
+            "2": {
+                "definition": "a contingent event or condition",
+                "sub_terms": {
+                    "a": "an event that may but is not certain to occur [a that made performance under the contract impossible]",
+                    "b": "something likely to come about as an adjunct to or result of something elseat[whether a case is on a or billed at an hourly rate \"D. R. Frederico\"]"
+                }
+            }
+        },
+        "references": {
+            "contingency fee": "https://dictionary.findlaw.com/definition/contingency-fee.html",
+            "FEE": "https://dictionary.findlaw.com/definition/fee.html"
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "Realize": {
+        "definition": "to convert into money 2",
+        "origin": "[ realized a loss when the house was sold]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to convert into money"
+            },
+            "2": {
+                "definition": "to obtain or incur (as a gain or loss) esp. as the result of a sale, exchange, or other disposition of an asset [a loss when the house was sold] compare",
+                "compares": "recognize",
+                "realized": "a loss when the house was sold] compare"
+            }
+        },
+        "references": {
+            "recognize": "https://dictionary.findlaw.com/definition/recognize.html"
+        }
+    }
+}

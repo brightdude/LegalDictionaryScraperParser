@@ -1,0 +1,11 @@
+{
+    "Accusatorial": {
+        "definition": "of",
+        "compare": "adversary",
+        "sub_definitions": {},
+        "references": {
+            "adversary": "https://dictionary.findlaw.com/definition/adversary.html",
+            "inquisitorial": "https://dictionary.findlaw.com/definition/inquisitorial.html"
+        }
+    }
+}

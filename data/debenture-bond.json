@@ -1,0 +1,8 @@
+{
+    "Debenture Bond": {
+        "definition": "Debenture Bond",
+        "references": {
+            "bond": "https://dictionary.findlaw.com/definition/bond.html"
+        }
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "Renegotiable": {
+        "definition": "capable of being renegotiated",
+        "sub_definitions": {
+            "1": {
+                "1": "capable of being renegotiated"
+            },
+            "2": {
+                "1": "subject to renegotiation"
+            }
+        },
+        "references": {}
+    }
+}

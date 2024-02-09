@@ -1,0 +1,20 @@
+{
+    "Jus Accrescendi": {
+        "definition": "a right of accrual ;specif",
+        "origin": "[Latin, literally, right of increasing]",
+        "compare": "right of survivorship",
+        "sub_definitions": {
+            "1": {
+                "1": "a right of accrual"
+            },
+            "2": {
+                "1": "right of survivorship",
+                "compares": "accretion"
+            }
+        },
+        "references": {
+            "right of survivorship": "https://dictionary.findlaw.com/definition/right-of-survivorship.html",
+            "accretion": "https://dictionary.findlaw.com/definition/accretion.html"
+        }
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "Revocable": {
+        "definition": "capable of being revoked",
+        "sub_definitions": {
+            "1": {
+                "1": "capable of being revoked"
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "Steward": {
+        "definition": "shop steward",
+        "sub_definitions": {
+            "1": {
+                "1": "shop steward"
+            }
+        },
+        "references": {
+            "shop steward": "https://dictionary.findlaw.com/definition/shop-steward.html"
+        }
+    }
+}

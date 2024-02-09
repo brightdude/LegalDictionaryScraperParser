@@ -1,0 +1,17 @@
+{
+    "Information": {
+        "definition": "an instrument containing a formal accusation of a crime that is issued by a prosecuting officer and that serves the same function as an indictment presented by a grand jury compare complaint",
+        "compare": "complaint",
+        "sub_definitions": {
+            "1": {
+                "1": "an instrument containing a formal accusation of a crime that is issued by a prosecuting officer and that serves the same function as an indictment presented by a grand jury compare",
+                "compares": "complaint",
+                "note": " About half the states in the United States allow prosecutors to issue informations. The rest require indictment."
+            }
+        },
+        "references": {
+            "complaint": "https://dictionary.findlaw.com/definition/complaint.html",
+            "indictment": "https://dictionary.findlaw.com/definition/indictment.html"
+        }
+    }
+}

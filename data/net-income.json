@@ -1,0 +1,11 @@
+{
+    "Net Income": {
+        "definition": "the balance of gross income remaining after all allowable deductions and exemptions are taken",
+        "sub_definitions": {
+            "1": {
+                "1": "the balance of gross income remaining after all allowable deductions and exemptions are taken"
+            }
+        },
+        "references": {}
+    }
+}

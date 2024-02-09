@@ -1,0 +1,38 @@
+{
+    "Exemption": {
+        "definition": "the act of exempting or state of being exempt 2",
+        "origin": "[də-pen-dən-sē-]",
+        "sub_definitions": {
+            "1": {
+                "definition": "the act of exempting or state of being exempt"
+            },
+            "2": {
+                "definition": "one that exempts or is exempted",
+                "sub_terms": {
+                    "a": "an amount of income exempted from taxation that may be deducted from adjusted gross income under the tax laws see alsoin the Important Laws section compare,,"
+                },
+                "compares": "deduction",
+                "Internal Revenue Code": "in the Important Laws section compare"
+            },
+            "de·pen·den·cy exemption": {
+                "definition": "[də-pen-dən-sē-]an exemption that is allowed for each dependent who qualifies under the tax laws (as sections 151 and 152 of the Internal Revenue Code)",
+                "note": " Under the federal income tax laws, the dependency exemption is allowed for each dependent whose gross income is less than the exemption or who is a child of the taxpayer and is under 19 or a student under 24."
+            },
+            "per·son·al exemption": {
+                "definition": "an exemption that is allowed for the taxpayer or for the taxpayer and spouse if filing a joint return",
+                "sub_terms": {
+                    "b": "the right created by federal and state laws to exempt specified types of property from a bankruptcy estate [precludes the debtor from using thein the Bankruptcy Code]a type of property that may be claimed as exempt see alsoin the Important Laws section",
+                    "c": ""
+                },
+                "s": "in the Bankruptcy Code]",
+                "Bankruptcy Code": "in the Important Laws section"
+            }
+        },
+        "references": {
+            "deduction": "https://dictionary.findlaw.com/definition/deduction.html",
+            "exclusion": "https://dictionary.findlaw.com/definition/exclusion.html",
+            "tax credit": "https://dictionary.findlaw.com/definition/tax-credit.html",
+            "homestead exemption": "https://dictionary.findlaw.com/definition/homestead-exemption.html"
+        }
+    }
+}

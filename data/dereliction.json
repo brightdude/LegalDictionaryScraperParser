@@ -1,0 +1,21 @@
+{
+    "Dereliction": {
+        "definition": "an intentional abandonment b",
+        "origin": "[ of duty]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "an intentional abandonment",
+                "sub_terms": {
+                    "b": "a state of being abandoned"
+                }
+            },
+            "2": {
+                "definition": "a recession of water leaving permanently dry land"
+            },
+            "3": {
+                "definition": "an intentional or conscious neglect [ of duty]"
+            }
+        },
+        "references": {}
+    }
+}

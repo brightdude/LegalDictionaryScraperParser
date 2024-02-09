@@ -1,0 +1,8 @@
+{
+    "Cooperative Bank": {
+        "definition": "Cooperative Bank",
+        "references": {
+            "bank": "https://dictionary.findlaw.com/definition/bank.html"
+        }
+    }
+}

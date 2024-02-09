@@ -1,0 +1,6 @@
+{
+    "Case Number": {
+        "definition": "The National Visa Center (NVC) gives each immigrant petition a case number. This number has three letters followed by ten digits (numbers). The three letters are an abbreviation for the overseas embassy or consulate that will process the immigrant visa case (for example, GUZ for Guangzhou, CDJ for Ciudad Juarez).  The digits tell us exactly when NVC created the case. For example a case with the number MNL2001747003 would be a case assigned to the U.S. Embassy in Manila. 2001 is the year in which NVC received the case from the USCIS (formerly INS). The Julian date is 747 plus 500, so this case was created on September 4, 2001, the 247th day of the year. The 003 shows that it was the third case created for Manila on that day.  This case number is not the same as the USCIS receipt number, which is written on the Notice of Action, Form I-797, from the USCIS. A consular section abroad cannot find a case if all you have is the USCIS receipt number.",
+        "references": {}
+    }
+}

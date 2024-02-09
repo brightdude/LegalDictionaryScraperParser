@@ -1,0 +1,18 @@
+{
+    "Inquest": {
+        "definition": "a judicial or official inquiry or examination often before a jury [a coroner's ] compare trial 2",
+        "origin": "[Anglo-French enqueste , from Old French, ultimately from Latin inquirere to ask about, from in- within, into + quaerere to seek]",
+        "sub_definitions": {
+            "1": {
+                "definition": "a judicial or official inquiry or examination often before a jury [a coroner's ] compare",
+                "compares": "trial"
+            },
+            "2": {
+                "definition": "a body of people (as a jury) assembled to hold a judicial or official inquirythe finding of such an inquiry or the document recording it"
+            }
+        },
+        "references": {
+            "trial": "https://dictionary.findlaw.com/definition/trial.html"
+        }
+    }
+}

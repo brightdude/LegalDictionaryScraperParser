@@ -1,0 +1,29 @@
+{
+    "Finance": {
+        "definition": "money or other liquid resources of a government",
+        "origin": "[ a takeover]",
+        "sub_definitions": {
+            "1": {
+                "definition": "money or other liquid resources of a government, business, group, or individual"
+            },
+            "2": {
+                "definition": "to sell something to on credit"
+            },
+            "3": {
+                "definition": "the science or study of the management of funds"
+            },
+            "4": {
+                "definition": "the obtaining of funds or capitalvt"
+            },
+            "1 a": {
+                "definition": "to raise or provide funds or capital for [ a takeover]",
+                "sub_terms": {
+                    "b": "to furnish with necessary funds"
+                }
+            }
+        },
+        "references": {
+            "financing": "https://dictionary.findlaw.com/definition/financing.html"
+        }
+    }
+}

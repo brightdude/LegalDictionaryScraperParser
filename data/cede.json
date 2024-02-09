@@ -1,0 +1,17 @@
+{
+    "Cede": {
+        "definition": "to yield or grant usually by treaty 2",
+        "sub_definitions": {
+            "1": {
+                "definition": "to yield or grant usually by treaty"
+            },
+            "3": {
+                "definition": "to transfer (all or part of one's liability as an insurer under an insurance policy) by reinsurance to another insurer"
+            }
+        },
+        "references": {
+            "assign": "https://dictionary.findlaw.com/definition/assign.html",
+            "transfer": "https://dictionary.findlaw.com/definition/transfer.html"
+        }
+    }
+}

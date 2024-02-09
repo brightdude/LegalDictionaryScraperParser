@@ -1,0 +1,16 @@
+{
+    "Physical Taking": {
+        "definition": "a physical invasion or occupation of private property rights by a governmental action",
+        "origin": "[argued that requiring the easement constituted a physical taking ]",
+        "compare": "regulatory taking",
+        "sub_definitions": {
+            "1": {
+                "1": "a physical invasion or occupation of private property rights by a governmental action (as building a road) that exercises the right of eminent domain and for which just compensation must be given [argued that requiring the easement constituted a",
+                "compares": "regulatory taking"
+            }
+        },
+        "references": {
+            "regulatory taking": "https://dictionary.findlaw.com/definition/regulatory-taking.html"
+        }
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "Use Tax": {
+        "definition": "a tax imposed on the use of personal property and esp. property purchased in another state ;specif",
+        "origin": "[a law allowing the payment of a sales tax to be credited against the amount of use tax due]",
+        "sub_definitions": {
+            "1": {
+                "1": "a tax imposed on the use of personal property and esp. property purchased in another state"
+            },
+            "2": {
+                "1": "a one-time tax imposed on the exercise or enjoyment of any right or power over tangible personal property that is incident to the ownership, possession, custody, or leasing of it [a law allowing the payment of a sales tax to be credited against the amount of",
+                "use tax": "when items were withdrawn from inventory for internal use]"
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "Civil Law": {
+        "definition": "Roman law esp. as set forth in the Code of Justinian 2",
+        "sub_definitions": {
+            "1": {
+                "definition": "Roman law esp. as set forth in the Code of Justinian"
+            },
+            "2": {
+                "definition": "the body of law developed from Roman law and used in Louisiana, in continental Europe, and in many other countries outside of the English-speaking world including esp. those that were colonized by countries of continental Europe see also the Judicial System in the back matter compare",
+                "note": " Although Louisiana is the only state in the U.S. whose law is based entirely on civil law, remnants of civil law remain in other states (as Texas and California) in which countries of continental Europe had a strong influence.",
+                "compares": "common law"
+            },
+            "3": {
+                "definition": "the law established by a nation or state for its own jurisdiction"
+            },
+            "4": {
+                "definition": "the law that applies to private rights esp. as opposed to the law that applies to criminal matters compare",
+                "compares": "criminal law"
+            }
+        },
+        "references": {
+            "common law": "https://dictionary.findlaw.com/definition/common-law.html",
+            "criminal law": "https://dictionary.findlaw.com/definition/criminal-law.html"
+        }
+    }
+}

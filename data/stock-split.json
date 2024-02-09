@@ -1,0 +1,16 @@
+{
+    "Stock Split": {
+        "definition": "the division of the outstanding shares of a corporation into a larger number of shares thereby reducing the value of each share but not the total value of each holding compare reverse stock split NOTE",
+        "compare": "reverse stock split",
+        "sub_definitions": {
+            "1": {
+                "1": "the division of the outstanding shares of a corporation into a larger number of shares thereby reducing the value of each share but not the total value of each holding compare",
+                "compares": "reverse stock split",
+                "note": " The purpose of a stock split is to make the stock more attractive to potential investors by reducing the price per share."
+            }
+        },
+        "references": {
+            "reverse stock split": "https://dictionary.findlaw.com/definition/reverse-stock-split.html"
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "In Personam": {
+        "definition": "against a person for the purpose of imposing a liability or obligation to do or not do something [an action in personam ] [an in personam suit] see also in personam jurisdiction at jurisdiction compare in rem",
+        "origin": "[Latin, against a person]",
+        "compare": "jurisdiction",
+        "sub_definitions": {
+            "1": {
+                "1": "against a person for the purpose of imposing a liability or obligation to do or not do something [an action",
+                "in personam": "suit] see also",
+                "compares": "in rem"
+            }
+        },
+        "references": {
+            "jurisdiction": "https://dictionary.findlaw.com/definition/jurisdiction.html",
+            "in rem": "https://dictionary.findlaw.com/definition/in-rem.html",
+            "quasi in rem": "https://dictionary.findlaw.com/definition/quasi-in-rem.html"
+        }
+    }
+}

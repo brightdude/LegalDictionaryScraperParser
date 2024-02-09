@@ -1,0 +1,8 @@
+{
+    "Consumer Goods": {
+        "definition": "Consumer Goods",
+        "references": {
+            "good": "https://dictionary.findlaw.com/definition/good.html"
+        }
+    }
+}

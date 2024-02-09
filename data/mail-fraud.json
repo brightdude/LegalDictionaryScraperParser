@@ -1,0 +1,8 @@
+{
+    "Mail Fraud": {
+        "definition": "Mail Fraud",
+        "references": {
+            "fraud": "https://dictionary.findlaw.com/definition/fraud.html"
+        }
+    }
+}

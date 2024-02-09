@@ -1,0 +1,14 @@
+{
+    "Delegation": {
+        "definition": "the act of delegating 2",
+        "sub_definitions": {
+            "1": {
+                "definition": "the act of delegating"
+            },
+            "2": {
+                "definition": "a group of persons chosen to represent others"
+            }
+        },
+        "references": {}
+    }
+}

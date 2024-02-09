@@ -1,0 +1,15 @@
+{
+    "International Law": {
+        "definition": "a body of laws",
+        "compare": "internal law",
+        "sub_definitions": {
+            "1": {
+                "1": "a body of laws, rules, or legal principles that are based on custom, treaties, or legislation and that control or affect the rights and duties of nations in relation to each other compare",
+                "compares": "internal law"
+            }
+        },
+        "references": {
+            "internal law": "https://dictionary.findlaw.com/definition/internal-law.html"
+        }
+    }
+}

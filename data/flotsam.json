@@ -1,0 +1,15 @@
+{
+    "Flotsam": {
+        "definition": "floating wreckage of a ship or its cargo compare jetsam",
+        "compare": "jetsam",
+        "sub_definitions": {
+            "1": {
+                "1": "floating wreckage of a ship or its cargo compare",
+                "compares": "jetsam"
+            }
+        },
+        "references": {
+            "jetsam": "https://dictionary.findlaw.com/definition/jetsam.html"
+        }
+    }
+}

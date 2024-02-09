@@ -1,0 +1,15 @@
+{
+    "Collection By Affidavit": {
+        "definition": "a procedure available for small estates in some states as an alternative to court administration in which a person named in a will may file an affidavit asserting his or her entitlement to payment after a waiting period compare summary distribution",
+        "compare": "summary distribution",
+        "sub_definitions": {
+            "1": {
+                "1": "a procedure available for small estates in some states as an alternative to court administration in which a person named in a will may file an affidavit asserting his or her entitlement to payment after a waiting period compare",
+                "compares": "summary distribution"
+            }
+        },
+        "references": {
+            "summary distribution": "https://dictionary.findlaw.com/definition/summary-distribution.html"
+        }
+    }
+}

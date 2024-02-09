@@ -1,0 +1,14 @@
+{
+    "Put": {
+        "definition": "put option at option",
+        "sub_definitions": {
+            "1": {
+                "1": "put option"
+            }
+        },
+        "references": {
+            "put option": "https://dictionary.findlaw.com/definition/put-option.html",
+            "option": "https://dictionary.findlaw.com/definition/option.html"
+        }
+    }
+}

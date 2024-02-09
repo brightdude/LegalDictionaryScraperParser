@@ -1,0 +1,19 @@
+{
+    "Paraph": {
+        "definition": "the signature of a notary public on a document accompanied by a date",
+        "origin": "[ ed the mortgage]",
+        "sub_definitions": {
+            "1": {
+                "1": "the signature of a notary public on a document accompanied by a date, identification of parties, seal, or other required elements"
+            },
+            "2": {
+                "1": "to affix a paraph to [",
+                "ed": "the mortgage]"
+            },
+            "3": {
+                "1": "to include (as particular words) in a paraph"
+            }
+        },
+        "references": {}
+    }
+}

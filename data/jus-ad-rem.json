@@ -1,0 +1,16 @@
+{
+    "Jus Ad Rem": {
+        "definition": "a personal right to possession of property that usually arises from a contractual obligation",
+        "origin": "[Medieval Latin, right to a thing]",
+        "compare": "jus in re",
+        "sub_definitions": {
+            "1": {
+                "1": "a personal right to possession of property that usually arises from a contractual obligation (as a lease) compare",
+                "compares": "jus in re"
+            }
+        },
+        "references": {
+            "jus in re": "https://dictionary.findlaw.com/definition/jus-in-re.html"
+        }
+    }
+}

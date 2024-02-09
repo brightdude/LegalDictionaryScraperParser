@@ -1,0 +1,60 @@
+{
+    "Merger": {
+        "definition": "the absorption of a lesser estate or interest into a greater one held by the same person compare confusion 2",
+        "origin": "[a of offenses in a statute]",
+        "sub_definitions": {
+            "1": {
+                "definition": "the absorption of a lesser estate or interest into a greater one held by the same person compare",
+                "compares": "confusion"
+            },
+            "2": {
+                "definition": "the incorporation and superseding of one contract by another"
+            },
+            "3 a": {
+                "definition": "the treatment (as by statute) of two offenses deriving from the same conduct such that a defendant cannot be or is not punished for both esp. when one offense is incidental to or necessarily included in the other [a of offenses in a statute] [a of convictions]",
+                "sub_terms": {
+                    "b": "the doctrine according to which such offenses must be merged compare"
+                },
+                "note": " Merger commonly involves the interpretation of statutes and legislative intent in deciding whether two or more offenses deriving from the same conduct remain distinct.",
+                "compares": "double jeopardy"
+            },
+            "4": {
+                "definition": "a doctrine in civil litigation: a judgment in favor of a plaintiff incorporates and supersedes the cause of action and any claims based on it and requires that further litigation in the case by the defendant be concerned with the judgment itself compareat,",
+                "compares": "bar"
+            },
+            "5": {
+                "definition": "the superseding of a prior agreement in a divorce case by the divorce decree"
+            },
+            "6 a": {
+                "definition": "the act or process of merging",
+                "sub_terms": {
+                    "b": "absorption by one corporation of anotherany of various methods of combining two or more organizations (as business concerns) compare"
+                },
+                "compares": "consolidate"
+            },
+            "cash merger": {
+                "definition": "a merger in which shareholders in the company to be absorbed receive cash for their shares rather than shares in the absorbing company [a tender offer to be followed by a] see also",
+                "see also": "cash out"
+            },
+            "de facto merger": {
+                "definition": "a merger that is characterized by the issuance of stock to the corporation to be absorbed rather than an outright purchase of assets for cash, by continued participation of the shareholders, directors, and employees of the absorbed corporation, and by an assumption of liabilities by the absorbing corporation",
+                "note": " Shareholders in a de facto merger are considered to have the same right to an appraisal of the fair value of their shares as shareholders in a statutory merger."
+            },
+            "short-form merger": {
+                "definition": "an accelerated statutory merger between a subsidiary and a parent corporation that controls a large specified majority of shares in the subsidiary"
+            },
+            "statutory merger": {
+                "definition": "a merger performed in accordance with relevant statutes that require specific procedures for the notification and approval of shareholders"
+            }
+        },
+        "references": {
+            "confusion": "https://dictionary.findlaw.com/definition/confusion.html",
+            "double jeopardy": "https://dictionary.findlaw.com/definition/double-jeopardy.html",
+            "bar": "https://dictionary.findlaw.com/definition/bar.html",
+            "estoppel": "https://dictionary.findlaw.com/definition/estoppel.html",
+            "res judicata": "https://dictionary.findlaw.com/definition/res-judicata.html",
+            "consolidate": "https://dictionary.findlaw.com/definition/consolidate.html",
+            "cash out": "https://dictionary.findlaw.com/definition/cash-out.html"
+        }
+    }
+}

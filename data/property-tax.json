@@ -1,0 +1,16 @@
+{
+    "Property Tax": {
+        "definition": "a tax levied on real or personal property",
+        "compare": "excise",
+        "sub_definitions": {
+            "1": {
+                "1": "a tax levied on real or personal property (as by a municipality) compare",
+                "compares": "excise"
+            }
+        },
+        "references": {
+            "excise": "https://dictionary.findlaw.com/definition/excise.html",
+            "income tax": "https://dictionary.findlaw.com/definition/income-tax.html"
+        }
+    }
+}

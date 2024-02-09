@@ -1,0 +1,33 @@
+{
+    "Underwrite": {
+        "definition": "to assume liability for",
+        "origin": "[-rōt, -rōt]",
+        "sub_definitions": {
+            "-wrote": {
+                "definition": "[-rōt, -rōt]"
+            },
+            "-writ·ten": {
+                "definition": "[-rit-n, -rit-n]"
+            },
+            "1 a": {
+                "definition": "to assume liability for (a risk) as an insurer [the insurerindividuals, not the group, in franchise health insurance]",
+                "sub_terms": {
+                    "b": "to issue or set the terms of (an insurance policy)"
+                },
+                "s": "individuals, not the group, in franchise health insurance]"
+            },
+            "2": {
+                "definition": "to agree to purchase (all or part of a security issue) usually on a fixed date at a fixed price with the purpose or plan to resell by means of a public offering [was a security brokerage firm which as part of its businessspeculative new issues \", 135 Cal. Rptr. 607 (1977)\"]",
+                "underwrote": "speculative new issues \"",
+                "UFITEC, S.A. v. Carter": "135 Cal. Rptr. 607 (1977)"
+            },
+            "3 a": {
+                "definition": "to put up funds for or guarantee financial support of",
+                "sub_terms": {
+                    "b": "to assess the risk of (as a loan)"
+                }
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "Industrial Union": {
+        "definition": "a labor union that admits to membership workers in an industry regardless of their occupation or craft compare craft union",
+        "compare": "craft union",
+        "sub_definitions": {
+            "1": {
+                "1": "a labor union that admits to membership workers in an industry regardless of their occupation or craft compare",
+                "compares": "craft union"
+            }
+        },
+        "references": {
+            "craft union": "https://dictionary.findlaw.com/definition/craft-union.html"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "Form": {
+        "definition": "the structure of something",
+        "origin": "[a defect in , not substance]",
+        "sub_definitions": {
+            "1": {
+                "definition": "the structure of something (as a document) as distinguished from its matter [a defect in , not substance]"
+            },
+            "2": {
+                "definition": "established procedure according to rule or practice see also",
+                "see also": "form of action"
+            },
+            "3": {
+                "definition": "a printed or typed document with blank spaces for insertion of required or requested information [tax]"
+            }
+        },
+        "references": {
+            "form of action": "https://dictionary.findlaw.com/definition/form-of-action.html"
+        }
+    }
+}

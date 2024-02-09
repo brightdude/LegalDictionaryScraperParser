@@ -1,0 +1,11 @@
+{
+    "White-Collar Crime": {
+        "definition": "crime that is committed by salaried professional workers or persons in business and that usually involves a form of financial theft or fraud",
+        "sub_definitions": {
+            "1": {
+                "1": "crime that is committed by salaried professional workers or persons in business and that usually involves a form of financial theft or fraud (as in securities dealing)"
+            }
+        },
+        "references": {}
+    }
+}

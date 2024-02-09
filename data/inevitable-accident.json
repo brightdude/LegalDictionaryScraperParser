@@ -1,0 +1,17 @@
+{
+    "Inevitable Accident": {
+        "definition": "an accident not caused by human negligence compare act of god",
+        "compare": "act of god",
+        "sub_definitions": {
+            "1": {
+                "1": "an accident not caused by human negligence compare",
+                "compares": "act of god"
+            }
+        },
+        "references": {
+            "act of god": "https://dictionary.findlaw.com/definition/act-of-god.html",
+            "force majeure": "https://dictionary.findlaw.com/definition/force-majeure.html",
+            "fortuitous event": "https://dictionary.findlaw.com/definition/fortuitous-event.html"
+        }
+    }
+}

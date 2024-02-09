@@ -1,0 +1,21 @@
+{
+    "Foundation": {
+        "definition": "a basis upon which something stands or is supported ;specif",
+        "origin": "[the lack of any for the orthopedic surgeon's familiarity with the…standard of care rendered the surgeon's opinion testimony inadmissible \" National Law Journal \"]",
+        "sub_definitions": {
+            "1": {
+                "definition": "a basis upon which something stands or is supporteda witness's preliminary testimony given to identify or explain evidence being offered at trial and establish its connection to the issue for which it is offered [the lack of any for the orthopedic surgeon's familiarity with the…standard of care rendered the surgeon's opinion testimony inadmissible \"\"]",
+                "note": " Before evidence can be admitted at trial, the foundation for it must be laid by the party offering it. A foundation must also be laid for the qualification of a witness as an expert, or for the assertion of a privilege."
+            },
+            "2 a": {
+                "definition": "funds given for the permanent support of an institution",
+                "sub_terms": {
+                    "b": "an organization or institution established by endowment with provision for future maintenance"
+                }
+            }
+        },
+        "references": {
+            "endowment": "https://dictionary.findlaw.com/definition/endowment.html"
+        }
+    }
+}

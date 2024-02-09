@@ -1,0 +1,19 @@
+{
+    "Appoint": {
+        "definition": "to name officially to a position [ ed to the agency's top post] [ ed conservator of the estate] 2",
+        "origin": "[ ed to the agency's top post]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to name officially to a position [to the agency's top post] [conservator of the estate]",
+                "ed": "conservator of the estate]"
+            },
+            "2": {
+                "definition": "to determine the distribution of (property) by exercising the authority granted by a power of appointment [a general power to the corpus of a trust \"W. M. McGovern, Jr.\"]to exercise a power of appointment see also",
+                "see also": "power of appointment"
+            }
+        },
+        "references": {
+            "power of appointment": "https://dictionary.findlaw.com/definition/power-of-appointment.html"
+        }
+    }
+}

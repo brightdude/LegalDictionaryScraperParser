@@ -1,0 +1,19 @@
+{
+    "Offer": {
+        "definition": "a proposal",
+        "origin": "[denied accepting the ]",
+        "sub_definitions": {
+            "1": {
+                "definition": "a proposal, promise, or other manifestation of willingness to make and fulfill a contract or to bargain under proposed terms with another party that has the power to accept it upon receiving it [denied accepting the ] see also,",
+                "see also": "revoke"
+            },
+            "2": {
+                "definition": "a price named by one proposing to buy (as in a bid, bargain, or settlement)the amount of an offer to pay money [decided the was too low]"
+            }
+        },
+        "references": {
+            "revoke": "https://dictionary.findlaw.com/definition/revoke.html",
+            "tender offer": "https://dictionary.findlaw.com/definition/tender-offer.html"
+        }
+    }
+}

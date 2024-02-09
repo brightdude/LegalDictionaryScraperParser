@@ -1,0 +1,30 @@
+{
+    "Representative": {
+        "definition": "serving to represent 2 a",
+        "origin": "[an agent acting in a capacity]",
+        "sub_definitions": {
+            "1": {
+                "definition": "serving to represent"
+            },
+            "2 a": {
+                "definition": "standing or acting for another esp. through delegated authority [an agent acting in a capacity]",
+                "sub_terms": {
+                    "b": "of, based on, or constituting a government in which the people are represented by individuals chosen from among them usually by election"
+                }
+            },
+            "3": {
+                "definition": "of or relating to representationnone that represents another or others in a special capacity",
+                "sub_terms": {
+                    "a": "one that represents a constituency as a member of a legislative or other governing bodya member of the House of Representatives of the U.S. Congress or a state legislature",
+                    "b": "one that represents another as agent, deputy, substitute, or delegate and that usually is invested with the authority of the principal",
+                    "c": "one that represents or stands in the place of a deceased person",
+                    "d": "one that represents another as successor or heir",
+                    "e": "one named as the plaintiff or defendant in a class action to litigate on behalf of the class"
+                }
+            }
+        },
+        "references": {
+            "personal representative": "https://dictionary.findlaw.com/definition/personal-representative.html"
+        }
+    }
+}

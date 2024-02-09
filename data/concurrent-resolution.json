@@ -1,0 +1,15 @@
+{
+    "Concurrent Resolution": {
+        "definition": "a resolution passed by both houses of a legislative body that lacks the force of law compare joint resolution",
+        "compare": "joint resolution",
+        "sub_definitions": {
+            "1": {
+                "1": "a resolution passed by both houses of a legislative body that lacks the force of law compare",
+                "compares": "joint resolution"
+            }
+        },
+        "references": {
+            "joint resolution": "https://dictionary.findlaw.com/definition/joint-resolution.html"
+        }
+    }
+}

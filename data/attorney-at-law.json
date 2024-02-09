@@ -1,0 +1,15 @@
+{
+    "Attorney-At-Law": {
+        "definition": "attorneys-at-law",
+        "sub_definitions": {
+            "attorneys-at-law": {
+                "definition": "compare",
+                "compares": "attorney-in-fact"
+            }
+        },
+        "references": {
+            "lawyer": "https://dictionary.findlaw.com/definition/lawyer.html",
+            "attorney-in-fact": "https://dictionary.findlaw.com/definition/attorney-in-fact.html"
+        }
+    }
+}

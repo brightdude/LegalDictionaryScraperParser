@@ -1,0 +1,14 @@
+{
+    "Cash Method": {
+        "definition": "cash basis at basis",
+        "sub_definitions": {
+            "1": {
+                "1": "cash basis"
+            }
+        },
+        "references": {
+            "cash basis": "https://dictionary.findlaw.com/definition/cash-basis.html",
+            "basis": "https://dictionary.findlaw.com/definition/basis.html"
+        }
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "Acquisitor": {
+        "definition": "one that acquires",
+        "sub_definitions": {
+            "1": {
+                "1": "one that acquires"
+            },
+            "2": {
+                "1": "acquirer"
+            }
+        },
+        "references": {}
+    }
+}

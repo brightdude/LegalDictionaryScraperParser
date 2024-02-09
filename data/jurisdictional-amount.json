@@ -1,0 +1,12 @@
+{
+    "Jurisdictional Amount": {
+        "definition": "the amount or value that a matter in controversy must exceed in order for the federal courts to have diversity jurisdiction NOTE",
+        "sub_definitions": {
+            "1": {
+                "1": "the amount or value that a matter in controversy must exceed in order for the federal courts to have diversity jurisdiction",
+                "note": " The jurisdictional amount is set by statute and is currently $50,000."
+            }
+        },
+        "references": {}
+    }
+}

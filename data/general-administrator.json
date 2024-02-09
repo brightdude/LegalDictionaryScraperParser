@@ -1,0 +1,8 @@
+{
+    "General Administrator": {
+        "definition": "General Administrator",
+        "references": {
+            "administrator": "https://dictionary.findlaw.com/definition/administrator.html"
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "Cash Collateral": {
+        "definition": "cash or cash equivalents",
+        "sub_definitions": {
+            "1": {
+                "1": "cash or cash equivalents (as negotiable instruments, securities, and documents of title) as specified in section 363 of chapter 11 of the Bankruptcy Code in which both the estate and another entity have an interest see also",
+                "Bankruptcy Code": "in the Important Laws section"
+            }
+        },
+        "references": {}
+    }
+}

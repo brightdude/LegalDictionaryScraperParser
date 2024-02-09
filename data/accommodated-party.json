@@ -1,0 +1,8 @@
+{
+    "Accommodated Party": {
+        "definition": "Accommodated Party",
+        "references": {
+            "party": "https://dictionary.findlaw.com/definition/party.html"
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "Consanguine": {
+        "definition": "consanguineous",
+        "sub_definitions": {
+            "1": {
+                "1": "consanguineous"
+            }
+        },
+        "references": {
+            "consanguineous": "https://dictionary.findlaw.com/definition/consanguineous.html"
+        }
+    }
+}

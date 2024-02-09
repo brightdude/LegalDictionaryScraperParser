@@ -1,0 +1,16 @@
+{
+    "Income Tax": {
+        "definition": "a tax on the net income of an individual or a business compare excise",
+        "compare": "excise",
+        "sub_definitions": {
+            "1": {
+                "1": "a tax on the net income of an individual or a business compare",
+                "compares": "excise"
+            }
+        },
+        "references": {
+            "excise": "https://dictionary.findlaw.com/definition/excise.html",
+            "property tax": "https://dictionary.findlaw.com/definition/property-tax.html"
+        }
+    }
+}

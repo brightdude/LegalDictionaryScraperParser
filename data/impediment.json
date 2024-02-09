@@ -1,0 +1,20 @@
+{
+    "Impediment": {
+        "definition": "something that prevents or interferes with a process",
+        "origin": "[should have known of the legal s to the execution of any judgment against the police jury \" Penalber v. Blount , 550 So. 2d 577 (1989)\"]",
+        "compare": "nullity",
+        "sub_definitions": {
+            "1": {
+                "1": "something that prevents or interferes with a process, power, or right [should have known of the legal",
+                "Penalber v. Blount": "550 So. 2d 577 (1989)"
+            },
+            "2": {
+                "1": "a bar to the formation of a valid contract or marriage compare",
+                "compares": "nullity"
+            }
+        },
+        "references": {
+            "nullity": "https://dictionary.findlaw.com/definition/nullity.html"
+        }
+    }
+}

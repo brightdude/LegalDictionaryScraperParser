@@ -1,0 +1,12 @@
+{
+    "Cross-Appeal": {
+        "definition": "an appeal taken by an appellee against the appellant compare counterclaim",
+        "compare": "counterclaim",
+        "sub_definitions": {},
+        "references": {
+            "counterclaim": "https://dictionary.findlaw.com/definition/counterclaim.html",
+            "cross-action": "https://dictionary.findlaw.com/definition/cross-action.html",
+            "cross-claim": "https://dictionary.findlaw.com/definition/cross-claim.html"
+        }
+    }
+}

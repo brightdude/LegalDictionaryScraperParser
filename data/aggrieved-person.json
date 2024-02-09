@@ -1,0 +1,14 @@
+{
+    "Aggrieved Person": {
+        "definition": "aggrieved party at party",
+        "sub_definitions": {
+            "1": {
+                "1": "aggrieved party"
+            }
+        },
+        "references": {
+            "aggrieved party": "https://dictionary.findlaw.com/definition/aggrieved-party.html",
+            "party": "https://dictionary.findlaw.com/definition/party.html"
+        }
+    }
+}

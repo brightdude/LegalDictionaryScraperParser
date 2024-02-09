@@ -1,0 +1,24 @@
+{
+    "Sequester": {
+        "definition": "to place",
+        "origin": "[Anglo-French sequestrer , from Middle French, from Latin sequestrare to hand over to a trustee, from sequester third party to whom disputed property is entrusted, agent, from secus beside, otherwise]",
+        "sub_definitions": {
+            "-ter·ing": {
+                "definition": "[Anglo-French, from Middle French, from Latinto hand over to a trustee, fromthird party to whom disputed property is entrusted, agent, frombeside, otherwise]"
+            },
+            "1": {
+                "definition": "to place (as a jury or witness) in seclusion or isolation",
+                "note": " Juries are sequestered in order to preserve their impartiality. Witnesses are sequestered so that their testimony is not influenced by the testimony of prior witnesses."
+            },
+            "2 a": {
+                "definition": "to seize esp. by a writ of sequestration",
+                "sub_terms": {
+                    "b": "to deposit (property) in sequestrationn"
+                }
+            }
+        },
+        "references": {
+            "sequestration": "https://dictionary.findlaw.com/definition/sequestration.html"
+        }
+    }
+}

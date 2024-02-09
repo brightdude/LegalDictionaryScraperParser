@@ -1,0 +1,24 @@
+{
+    "Joint": {
+        "definition": "common to two or more",
+        "origin": "[a tort]",
+        "sub_definitions": {
+            "1": {
+                "definition": "common to two or more",
+                "sub_terms": {
+                    "a": "involving the combined activity or negligence of two or more [a tort] see alsocompare",
+                    "b": "shared by or affecting two or more as a unit [a account]"
+                },
+                "compares": "several",
+                "see also": "joint tortfeasor"
+            },
+            "2": {
+                "definition": "united, joined, or sharing with another (as in a right or status) [ heirs]"
+            }
+        },
+        "references": {
+            "joint tortfeasor": "https://dictionary.findlaw.com/definition/joint-tortfeasor.html",
+            "several": "https://dictionary.findlaw.com/definition/several.html"
+        }
+    }
+}

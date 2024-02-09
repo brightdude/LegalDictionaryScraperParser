@@ -1,0 +1,13 @@
+{
+    "Curtilage": {
+        "definition": "the area surrounding and associated with a home NOTE",
+        "origin": "[Anglo-French curtillage enclosed land belonging to a house, kitchen garden, from Old French cortillage kitchen garden, from cortil garden, ultimately from Latin cohort - cohors farmyard]",
+        "sub_definitions": {
+            "1": {
+                "1": "the area surrounding and associated with a home",
+                "note": " The curtilage of a house is included in the Fourth Amendment prohibition on unreasonable searches and seizures."
+            }
+        },
+        "references": {}
+    }
+}

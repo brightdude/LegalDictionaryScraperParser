@@ -1,0 +1,11 @@
+{
+    "Solvent": {
+        "definition": "able to pay all legal debts as they become due",
+        "sub_definitions": {
+            "1": {
+                "1": "able to pay all legal debts as they become due"
+            }
+        },
+        "references": {}
+    }
+}

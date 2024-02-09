@@ -1,0 +1,12 @@
+{
+    "Maker": {
+        "definition": "one",
+        "origin": "[sign a note as rather than indorser]",
+        "sub_definitions": {
+            "1": {
+                "1": "one (as an issuer) that undertakes to pay a negotiable instrument and esp. a note [sign a note as rather than indorser]"
+            }
+        },
+        "references": {}
+    }
+}

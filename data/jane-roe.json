@@ -1,0 +1,16 @@
+{
+    "Jane Roe": {
+        "definition": "a female party to a legal proceeding whose true identity is unknown or whose true name is being withheld compare john doe",
+        "compare": "john doe",
+        "sub_definitions": {
+            "1": {
+                "1": "a female party to a legal proceeding whose true identity is unknown or whose true name is being withheld compare",
+                "compares": "john doe"
+            }
+        },
+        "references": {
+            "john doe": "https://dictionary.findlaw.com/definition/john-doe.html",
+            "richard roe": "https://dictionary.findlaw.com/definition/richard-roe.html"
+        }
+    }
+}

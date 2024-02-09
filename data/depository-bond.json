@@ -1,0 +1,8 @@
+{
+    "Depository Bond": {
+        "definition": "Depository Bond",
+        "references": {
+            "bond": "https://dictionary.findlaw.com/definition/bond.html"
+        }
+    }
+}

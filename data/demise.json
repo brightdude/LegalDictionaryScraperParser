@@ -1,0 +1,26 @@
+{
+    "Demise": {
+        "definition": "to convey",
+        "origin": "[the demised premises]",
+        "sub_definitions": {
+            "de·mis·ing": {
+                "definition": "to convey (possession of property) by will or lease [thepremises]n  [Anglo-French, from feminine past participle ofto convey by lease, from Old French, to put down, give up, renounce, from Latinto let fall andto release]",
+                "demettre": "to convey by lease, from Old French, to put down, give up, renounce, from Latin",
+                "demittere": "to let fall and",
+                "dimittere": "to release]"
+            },
+            "1": {
+                "definition": "the conveyance of property by will or lease"
+            },
+            "2": {
+                "definition": "the transmission of property by testate or intestate succession"
+            },
+            "3": {
+                "definition": "charter of a boat in which the owner surrenders completely the possession, command, and navigation of the boat called also"
+            }
+        },
+        "references": {
+            "lease": "https://dictionary.findlaw.com/definition/lease.html"
+        }
+    }
+}

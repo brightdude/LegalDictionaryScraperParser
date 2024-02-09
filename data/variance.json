@@ -1,0 +1,20 @@
+{
+    "Variance": {
+        "definition": "a disagreement between two documents or positions ;esp",
+        "origin": "[a granted by a state agency]",
+        "sub_definitions": {
+            "1": {
+                "definition": "a disagreement between two documents or positionsa disagreement between allegations (as in an indictment or complaint) and proof offered at trial that warrants an appropriate remedy (as a directed verdict or an acquittal) when prejudicial to the substantial rights of the defendant"
+            },
+            "2": {
+                "definition": "an authorization to do something contrary to the usual restriction [a granted by a state agency]permission for a use of real property that is prohibited by a zoning ordinance see alsocompare",
+                "compares": "spot zoning",
+                "see also": "unnecessary hardship"
+            }
+        },
+        "references": {
+            "unnecessary hardship": "https://dictionary.findlaw.com/definition/unnecessary-hardship.html",
+            "spot zoning": "https://dictionary.findlaw.com/definition/spot-zoning.html"
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "Barrister": {
+        "definition": "a lawyer who argues cases before a British court ;esp",
+        "origin": "[Middle English barrester , from barre bar + -ster (as in legister lawyer)]",
+        "sub_definitions": {
+            "1": {
+                "definition": "a lawyer who argues cases before a British courtone who is allowed to argue before a British high court compare",
+                "note": " Many countries in the Commonwealth (as England and Australia) and the Republic of Ireland divide the legal profession into barristers and solicitors. In Canada, every lawyer is both a barrister and a solicitor, although individual lawyers may describe themselves as one or the other. Scotland uses the termadvocateto refer to lawyers allowed to argue cases in its courts.",
+                "compares": "solicitor"
+            }
+        },
+        "references": {
+            "solicitor": "https://dictionary.findlaw.com/definition/solicitor.html",
+            "lawyer": "https://dictionary.findlaw.com/definition/lawyer.html"
+        }
+    }
+}

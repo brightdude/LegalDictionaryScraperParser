@@ -1,0 +1,11 @@
+{
+    "Outside Director": {
+        "definition": "a corporate director who is neither an employee nor an officer",
+        "sub_definitions": {
+            "1": {
+                "1": "a corporate director who is neither an employee nor an officer"
+            }
+        },
+        "references": {}
+    }
+}

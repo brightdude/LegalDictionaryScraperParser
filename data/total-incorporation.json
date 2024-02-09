@@ -1,0 +1,16 @@
+{
+    "Total Incorporation": {
+        "definition": "a doctrine in constitutional law",
+        "compare": "selective incorporation",
+        "sub_definitions": {
+            "1": {
+                "1": "a doctrine in constitutional law: the Fourteenth Amendment's due process clause embraces all the guarantees in the Bill of Rights and applies them to cases under state law compare",
+                "compares": "selective incorporation",
+                "note": " The total incorporation doctrine has never been adopted by a majority of the U.S. Supreme Court. The majority opinions of the Supreme Court have instead adhered to a fundamental fairness standard or applied selective incorporation in determining whether a state has violated the Fourteenth Amendment's due process clause."
+            }
+        },
+        "references": {
+            "selective incorporation": "https://dictionary.findlaw.com/definition/selective-incorporation.html"
+        }
+    }
+}

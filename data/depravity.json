@@ -1,0 +1,14 @@
+{
+    "Depravity": {
+        "definition": "-ties 1",
+        "sub_definitions": {
+            "1": {
+                "definition": "the quality or state of being depraved"
+            },
+            "2": {
+                "definition": "a corrupt act or practice"
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "Cooperative": {
+        "definition": "of",
+        "compare": "condominium",
+        "sub_definitions": {
+            "1": {
+                "1": "of, relating to, or organized as a cooperative"
+            },
+            "2": {
+                "1": "an enterprise or organization (as for banking and credit services or the ownership of residential property) that is owned by and operated for the benefit of those using its services called also",
+                "compares": "condominium"
+            }
+        },
+        "references": {
+            "condominium": "https://dictionary.findlaw.com/definition/condominium.html"
+        }
+    }
+}

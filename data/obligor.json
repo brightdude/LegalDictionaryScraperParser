@@ -1,0 +1,20 @@
+{
+    "Obligor": {
+        "definition": "one who is bound by an obligation to another [an obligation extinguished by performance of the ] compare creditor",
+        "origin": "[an obligation extinguished by performance of the ]",
+        "compare": "creditor",
+        "sub_definitions": {
+            "1": {
+                "1": "one who is bound by an obligation to another [an obligation extinguished by performance of the ] compare",
+                "compares": "creditor"
+            }
+        },
+        "references": {
+            "creditor": "https://dictionary.findlaw.com/definition/creditor.html",
+            "debtor": "https://dictionary.findlaw.com/definition/debtor.html",
+            "obligee": "https://dictionary.findlaw.com/definition/obligee.html",
+            "promisor": "https://dictionary.findlaw.com/definition/promisor.html",
+            "surety": "https://dictionary.findlaw.com/definition/surety.html"
+        }
+    }
+}

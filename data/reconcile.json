@@ -1,0 +1,22 @@
+{
+    "Reconcile": {
+        "definition": "to restore to harmony [ reconciled the parties] [ reconciled the marriage] b",
+        "origin": "[ reconciled the parties]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "to restore to harmony [the parties] [the marriage]",
+                "sub_terms": {
+                    "b": "to bring to resolution [ differences]"
+                },
+                "reconciled": "the marriage]"
+            },
+            "2 a": {
+                "definition": "to check (a financial account) against another for accuracy",
+                "sub_terms": {
+                    "b": "to account forto become reconciledto voluntarily resume cohabitation as spouses prior to a divorce becoming final with the mutual intention of remaining together and reestablishing a harmonious relationship [denied the complaint for divorce because the parties had]"
+                }
+            }
+        },
+        "references": {}
+    }
+}

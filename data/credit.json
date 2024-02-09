@@ -1,0 +1,42 @@
+{
+    "Credit": {
+        "definition": "recognition see also full faith and credit 2 a",
+        "origin": "[to borrow money on the of the United States \" U.S. Constitution art. I\"]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to supply goods on credit to"
+            },
+            "2 a": {
+                "definition": "the balance in an account which may be drawn upon and repaid later compare",
+                "sub_terms": {
+                    "b": "the use of resources (as money) in the present obtained by the debtor's promise to repay the creditor in the future usually with interest as compensation to the creditor and often secured by a pledge of property or the right to attach the debtor's income in case of a failure to repay see alsocompare",
+                    "c": "financial reputation [to borrow money on the of the United States \"art. I\"]",
+                    "d": ""
+                },
+                "compares": "debt",
+                "see also": "consumer credit"
+            },
+            "3 a": {
+                "definition": "to enter upon the credit side of an account",
+                "sub_terms": {
+                    "b": "to place an amount to the credit of [ his account with ten dollars]"
+                }
+            },
+            "2": {
+                "definition": "to trust in the truth of"
+            }
+        },
+        "references": {
+            "recognition": "https://dictionary.findlaw.com/definition/recognition.html",
+            "full faith and credit": "https://dictionary.findlaw.com/definition/full-faith-and-credit.html",
+            "loan": "https://dictionary.findlaw.com/definition/loan.html",
+            "consumer credit": "https://dictionary.findlaw.com/definition/consumer-credit.html",
+            "debt": "https://dictionary.findlaw.com/definition/debt.html",
+            "letter of credit": "https://dictionary.findlaw.com/definition/letter-of-credit.html",
+            "tax credit": "https://dictionary.findlaw.com/definition/tax-credit.html",
+            "deduction": "https://dictionary.findlaw.com/definition/deduction.html",
+            "exclusion": "https://dictionary.findlaw.com/definition/exclusion.html",
+            "exemption": "https://dictionary.findlaw.com/definition/exemption.html"
+        }
+    }
+}

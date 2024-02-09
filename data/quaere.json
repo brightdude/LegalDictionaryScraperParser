@@ -1,0 +1,14 @@
+{
+    "Quaere": {
+        "definition": "question usually used to introduce a question [",
+        "origin": "[Latin, imperative of quaerere to seek, ask]",
+        "sub_definitions": {
+            "1": {
+                "1": "question"
+            }
+        },
+        "references": {
+            "question": "https://dictionary.findlaw.com/definition/question.html"
+        }
+    }
+}

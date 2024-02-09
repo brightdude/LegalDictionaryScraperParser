@@ -1,0 +1,19 @@
+{
+    "De Jure": {
+        "definition": "by right",
+        "origin": "[Medieval Latin, literally, from the law]",
+        "sub_definitions": {
+            "1": {
+                "definition": "by rightof right [aofficer]"
+            },
+            "2": {
+                "definition": "in accordance with law see alsoatcompare",
+                "compares": "de facto"
+            }
+        },
+        "references": {
+            "segregation": "https://dictionary.findlaw.com/definition/segregation.html",
+            "de facto": "https://dictionary.findlaw.com/definition/de-facto.html"
+        }
+    }
+}

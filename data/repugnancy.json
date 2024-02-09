@@ -1,0 +1,16 @@
+{
+    "Repugnancy": {
+        "definition": "-cies 1",
+        "origin": "[if two acts which cover the same subject matter are repugnant…, the latter operates to the extent of the as a repeal of the former \" In re Miller , 107 F. Supp. 1006 (1952)\"]",
+        "sub_definitions": {
+            "1": {
+                "definition": "the quality or fact of being inconsistent, irreconcilable, or in disagreementa contradiction or inconsistency between sections of a legal instrument (as a contract or statute) [if two acts which cover the same subject matter are repugnant…, the latter operates to the extent of the as a repeal of the former \", 107 F. Supp. 1006 (1952)\"]",
+                "In re Miller": "107 F. Supp. 1006 (1952)"
+            },
+            "2": {
+                "definition": "an instance of contradiction or inconsistency"
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "Primary Jurisdiction": {
+        "definition": "Primary Jurisdiction",
+        "references": {
+            "jurisdiction": "https://dictionary.findlaw.com/definition/jurisdiction.html"
+        }
+    }
+}

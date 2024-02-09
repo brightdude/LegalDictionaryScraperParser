@@ -1,0 +1,15 @@
+{
+    "Scire Facias": {
+        "definition": "a judicial writ founded upon some matter of record and requiring the party proceeded against to show cause why the record should not be enforced",
+        "origin": "[Medieval Latin, you should cause to know]",
+        "sub_definitions": {
+            "1": {
+                "definition": "a judicial writ founded upon some matter of record and requiring the party proceeded against to show cause why the record should not be enforced (as by revival of the judgment), annulled, or vacated"
+            },
+            "2": {
+                "definition": "a legal proceeding instituted by a scire facias"
+            }
+        },
+        "references": {}
+    }
+}

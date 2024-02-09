@@ -1,0 +1,15 @@
+{
+    "Bargainable": {
+        "definition": "subject to bargaining ;esp",
+        "origin": "[a issue]",
+        "sub_definitions": {
+            "1": {
+                "1": "subject to bargaining"
+            },
+            "2": {
+                "1": "legitimately subject to collective bargaining [a issue]"
+            }
+        },
+        "references": {}
+    }
+}

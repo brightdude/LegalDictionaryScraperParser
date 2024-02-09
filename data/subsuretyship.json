@@ -1,0 +1,11 @@
+{
+    "Subsuretyship": {
+        "definition": "the relation between two or more sureties who are bound to answer for the same duty where one has the whole duty of performance with respect to the other",
+        "sub_definitions": {
+            "1": {
+                "1": "the relation between two or more sureties who are bound to answer for the same duty where one has the whole duty of performance with respect to the other"
+            }
+        },
+        "references": {}
+    }
+}

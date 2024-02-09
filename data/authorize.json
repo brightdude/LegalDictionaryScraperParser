@@ -1,0 +1,15 @@
+{
+    "Authorize": {
+        "definition": "to give permission to 2",
+        "origin": "[ȯ-thə-rə-zā-shən]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to give permission to"
+            },
+            "2": {
+                "definition": "to give authority to act to"
+            }
+        },
+        "references": {}
+    }
+}

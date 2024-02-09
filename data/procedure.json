@@ -1,0 +1,19 @@
+{
+    "Procedure": {
+        "definition": "one or more methods or steps for the enforcement or administration of rights",
+        "origin": "[civil ]",
+        "sub_definitions": {
+            "1": {
+                "definition": "one or more methods or steps for the enforcement or administration of rights, duties, justice, or laws [civil ] [police ] compare,",
+                "compares": "procedural law"
+            },
+            "2": {
+                "definition": "a particular and esp. established way of doing something [a medical ] [security]"
+            }
+        },
+        "references": {
+            "procedural law": "https://dictionary.findlaw.com/definition/procedural-law.html",
+            "substantive law": "https://dictionary.findlaw.com/definition/substantive-law.html"
+        }
+    }
+}

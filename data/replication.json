@@ -1,0 +1,14 @@
+{
+    "Replication": {
+        "definition": "reply",
+        "origin": "[Anglo-French, from Middle French, from Late Latin replicatio , from Latin, action of folding back, from replicare to fold back]",
+        "sub_definitions": {
+            "1": {
+                "1": "reply"
+            }
+        },
+        "references": {
+            "reply": "https://dictionary.findlaw.com/definition/reply.html"
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "Decree": {
+        "definition": "an order having the force of law [by judicial ] 2",
+        "origin": "[Old French decré , from Latin decretum , from neuter of decretus , past participle of decernere to decide]",
+        "sub_definitions": {
+            "1": {
+                "definition": "an order having the force of law [by judicial ]"
+            },
+            "2": {
+                "definition": "a judicial decision esp. in an equity or probate court[divorce ] [interlocutory ]"
+            },
+            "consent decree": {
+                "definition": "a decree entered by a court that is determined by the parties' agreementa settlement between the parties that is subject to judicial approval and supervisionsuch a decree by which the accused agrees to cease alleged illegal activities without admitting guilt"
+            },
+            "decrees nisi": {
+                "definition": "a provisional decree that will become final unless cause is shown why it should not",
+                "note": " Some states grant divorces using decrees nisi. The decree nisi creates a time period (as of 3 months) allowing for possible reconciliation or for completion of various arrangements (as custody)."
+            },
+            "decree pro con·fes·so": {
+                "definition": "a decree entered by a court based on a defendant's default and the presumption that the allegations are confessed compareat"
+            },
+            "final decree": {
+                "definition": "a decree that disposes of an action by determining all matters in dispute including esp. the parties' rights compareat"
+            },
+            "interlocutory decree": {
+                "definition": "a decree that is made during the course of an action and that does not settle all matters in dispute"
+            }
+        },
+        "references": {
+            "judgment": "https://dictionary.findlaw.com/definition/judgment.html"
+        }
+    }
+}

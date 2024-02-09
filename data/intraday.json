@@ -1,0 +1,12 @@
+{
+    "Intraday": {
+        "definition": "occurring in the course of a single day [the financing practices of Government securities dealers \" Federal Register \"]",
+        "origin": "[the financing practices of Government securities dealers \" Federal Register \"]",
+        "sub_definitions": {
+            "1": {
+                "1": "occurring in the course of a single day [the financing practices of Government securities dealers \""
+            }
+        },
+        "references": {}
+    }
+}

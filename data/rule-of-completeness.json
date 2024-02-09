@@ -1,0 +1,12 @@
+{
+    "Rule Of Completeness": {
+        "definition": "a rule permitting a party to require introduction of the rest of or more of a document or recorded statement that is being used as evidence by the opposing party NOTE",
+        "sub_definitions": {
+            "1": {
+                "1": "a rule permitting a party to require introduction of the rest of or more of a document or recorded statement that is being used as evidence by the opposing party",
+                "note": " The rule of completeness applies when fairness demands consideration of the part of a document left out at the same time as the part that has been introduced."
+            }
+        },
+        "references": {}
+    }
+}

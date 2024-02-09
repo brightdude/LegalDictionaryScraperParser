@@ -1,0 +1,16 @@
+{
+    "Purchase Money": {
+        "definition": "the consideration paid or to be paid by the purchaser of property adj",
+        "sub_definitions": {
+            "1": {
+                "1": "the consideration paid or to be paid by the purchaser of property"
+            },
+            "2": {
+                "1": "involving or being a debt secured by the property purchased with the money borrowed see also"
+            }
+        },
+        "references": {
+            "mortgage": "https://dictionary.findlaw.com/definition/mortgage.html"
+        }
+    }
+}

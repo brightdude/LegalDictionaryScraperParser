@@ -1,0 +1,16 @@
+{
+    "Criminal Syndicalism": {
+        "definition": "advocacy of unlawful means",
+        "compare": "sabotage",
+        "sub_definitions": {
+            "1": {
+                "1": "advocacy of unlawful means (as acts of violence) to bring about a change in industry or government compare",
+                "compares": "sabotage"
+            }
+        },
+        "references": {
+            "sabotage": "https://dictionary.findlaw.com/definition/sabotage.html",
+            "sedition": "https://dictionary.findlaw.com/definition/sedition.html"
+        }
+    }
+}

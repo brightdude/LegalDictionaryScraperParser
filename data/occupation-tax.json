@@ -1,0 +1,11 @@
+{
+    "Occupation Tax": {
+        "definition": "an excise imposed on persons for the privilege of carrying on a trade",
+        "sub_definitions": {
+            "1": {
+                "1": "an excise imposed on persons for the privilege of carrying on a trade, business, or occupation"
+            }
+        },
+        "references": {}
+    }
+}

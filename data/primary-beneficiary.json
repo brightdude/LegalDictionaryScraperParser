@@ -1,0 +1,8 @@
+{
+    "Primary Beneficiary": {
+        "definition": "Primary Beneficiary",
+        "references": {
+            "beneficiary": "https://dictionary.findlaw.com/definition/beneficiary.html"
+        }
+    }
+}

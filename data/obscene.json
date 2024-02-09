@@ -1,0 +1,14 @@
+{
+    "Obscene": {
+        "definition": "extremely or deeply offensive according to contemporary community standards of morality or decency see also Roth v. United States in the Important Cases section NOTE",
+        "origin": "[Middle French, from Latin obscenus obscaenus indecent, lewd]",
+        "sub_definitions": {
+            "1": {
+                "1": "extremely or deeply offensive according to contemporary community standards of morality or decency see also",
+                "Roth v. United States": "in the Important Cases section",
+                "note": " The U.S. Supreme Court has ruled thatobsceneapplies to materials that appeal predominantly to a prurient interest in sexual conduct, depict or describe sexual conduct in a patently offensive way, and lack serious literary, artistic, political, or scientific value. Material or expression deemed obscene by the court is not protected by the free speech guarantee of the First Amendment to the U.S. Constitution."
+            }
+        },
+        "references": {}
+    }
+}

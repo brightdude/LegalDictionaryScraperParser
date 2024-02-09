@@ -1,0 +1,19 @@
+{
+    "Due Process": {
+        "definition": "a course of formal proceedings",
+        "origin": "[acts that violated due process ]",
+        "sub_definitions": {
+            "1": {
+                "definition": "a course of formal proceedings (as judicial proceedings) carried out regularly, fairly, and in accordance with established rules and principles called also"
+            },
+            "2": {
+                "definition": "a requirement that laws and regulations must be related to a legitimate government interest (as crime prevention) and may not contain provisions that result in the unfair or arbitrary treatment of an individual called also",
+                "note": " The guarantee of due process is found in the Fifth Amendment to the Constitution, which states “no person shall…be deprived of life, liberty, or property, without due process of law,” and in the Fourteenth Amendment, which states “nor shall any state deprive any person of life, liberty, or property without due process of law.” The boundaries of due process are not fixed and are the subject of endless judicial interpretation and decision-making. Fundamental to procedural due process is adequate notice prior to the government's deprivation of one's life, liberty, or property, and an opportunity to be heard and defend one's rights to life, liberty, or property. Substantive due process is a limit on the government's power to enact laws or regulations that affect one's life, liberty, or property rights. It is a safeguard from governmental action that is not related to any legitimate government interest or that is unfair, irrational, or arbitrary in its furtherance of a government interest. The requirement of due process applies to agency actions."
+            },
+            "3": {
+                "definition": "the right to due process [acts that violated]"
+            }
+        },
+        "references": {}
+    }
+}

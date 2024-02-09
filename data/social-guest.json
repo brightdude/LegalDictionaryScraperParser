@@ -1,0 +1,12 @@
+{
+    "Social Guest": {
+        "definition": "a person who comes onto the property of another on a social basis NOTE",
+        "sub_definitions": {
+            "1": {
+                "1": "a person who comes onto the property of another on a social basis",
+                "note": " A social guest can be either a licensee or an invitee. Some jurisdictions make no distinction, in effect categorizing all social guests as invitees, which means that the property owner is required to exercise due care in guarding or warning any social guest against injury. In other jurisdictions a social guest may be categorized as a licensee, in which case the property owner has a duty only to refrain from willfully or recklessly injuring or endangering the guest."
+            }
+        },
+        "references": {}
+    }
+}

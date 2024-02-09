@@ -1,0 +1,14 @@
+{
+    "Prisoner": {
+        "definition": "a person deprived of liberty and kept under involuntary restraint",
+        "sub_definitions": {
+            "1": {
+                "1": "a person deprived of liberty and kept under involuntary restraint, confinement, or custody"
+            },
+            "2": {
+                "1": "one under arrest, awaiting trial, on trial, or serving a prison sentence"
+            }
+        },
+        "references": {}
+    }
+}

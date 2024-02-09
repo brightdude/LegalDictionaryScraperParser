@@ -1,0 +1,19 @@
+{
+    "Fraudulent Conveyance": {
+        "definition": "a conveyance of property made for the purpose of rendering the property unavailable for satisfaction of a debt or otherwise hindering or defeating the rights of creditors ;specif",
+        "compare": "preference",
+        "sub_definitions": {
+            "1": {
+                "1": "a conveyance of property made for the purpose of rendering the property unavailable for satisfaction of a debt or otherwise hindering or defeating the rights of creditors"
+            },
+            "2": {
+                "1": "a conveyance of property that is made in return for inadequate consideration by one who is insolvent or who is rendered insolvent, undercapitalized, or unable to pay his or her debts as a result of the conveyance or that is made with the intent of hindering, delaying, or defrauding his or her creditors called also",
+                "compares": "preference",
+                "note": " A fraudulent conveyance is generally voidable by a court or, in a bankruptcy case, by the trustee in bankruptcy."
+            }
+        },
+        "references": {
+            "preference": "https://dictionary.findlaw.com/definition/preference.html"
+        }
+    }
+}

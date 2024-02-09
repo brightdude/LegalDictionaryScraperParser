@@ -1,0 +1,20 @@
+{
+    "Force Majeure": {
+        "definition": "superior or insuperable force 2",
+        "origin": "[French, superior force]",
+        "sub_definitions": {
+            "1": {
+                "definition": "superior or insuperable force"
+            },
+            "2": {
+                "definition": "an event (as war, labor strike, or extreme weather) or effect that cannot be reasonably anticipated or controlledcompare,",
+                "compares": "act of god"
+            }
+        },
+        "references": {
+            "fortuitous event": "https://dictionary.findlaw.com/definition/fortuitous-event.html",
+            "act of god": "https://dictionary.findlaw.com/definition/act-of-god.html",
+            "inevitable accident": "https://dictionary.findlaw.com/definition/inevitable-accident.html"
+        }
+    }
+}

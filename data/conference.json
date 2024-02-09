@@ -1,0 +1,21 @@
+{
+    "Conference": {
+        "definition": "a meeting for consultation",
+        "origin": "[a on environmental law]",
+        "sub_definitions": {
+            "1": {
+                "definition": "a meeting for consultation, deliberation, discussion, or interchange of opinions [a on environmental law] see also,",
+                "see also": "judicial conference"
+            },
+            "2": {
+                "definition": "a meeting of members of the two branches of a legislature esp. to adjust differences in the provisions of a bill passed in different forms by the two branches"
+            }
+        },
+        "references": {
+            "judicial conference": "https://dictionary.findlaw.com/definition/judicial-conference.html",
+            "pretrial conference": "https://dictionary.findlaw.com/definition/pretrial-conference.html",
+            "conference committee": "https://dictionary.findlaw.com/definition/conference-committee.html",
+            "caucus": "https://dictionary.findlaw.com/definition/caucus.html"
+        }
+    }
+}

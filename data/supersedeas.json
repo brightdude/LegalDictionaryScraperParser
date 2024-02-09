@@ -1,0 +1,15 @@
+{
+    "Supersedeas": {
+        "definition": "a common-law writ commanding a stay of legal proceedings that is issued under various conditions and esp. to stay an officer from proceeding under another writ 2",
+        "origin": "[Medieval Latin, you should desist (word used in the writ)]",
+        "sub_definitions": {
+            "1": {
+                "definition": "a common-law writ commanding a stay of legal proceedings that is issued under various conditions and esp. to stay an officer from proceeding under another writ"
+            },
+            "2": {
+                "definition": "an order suspending the proceedings of an inferior court and esp. the enforcement of a judgment until reviewed on appeal"
+            }
+        },
+        "references": {}
+    }
+}

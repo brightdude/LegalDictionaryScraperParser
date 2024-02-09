@@ -1,0 +1,19 @@
+{
+    "Generation-Skipping Transfer": {
+        "definition": "a transfer of property or of an interest in property that is to a person of a generation more than one generation below that of the transferor and that can be characterized as a taxable termination",
+        "sub_definitions": {
+            "1": {
+                "1": "a transfer of property or of an interest in property that is to a person of a generation more than one generation below that of the transferor and that can be characterized as a taxable termination, a taxable distribution, or a direct skip see also",
+                "see also": "direct skip",
+                "note": " A transfer from a grandparent to a grandchild qualifies as a generation-skipping transfer, as does a transfer of a life estate to a child with a remainder in the grandchild. Such transfers are subject to a generation-skipping transfer tax."
+            }
+        },
+        "references": {
+            "direct skip": "https://dictionary.findlaw.com/definition/direct-skip.html",
+            "trust": "https://dictionary.findlaw.com/definition/trust.html",
+            "skip person": "https://dictionary.findlaw.com/definition/skip-person.html",
+            "taxable distribution": "https://dictionary.findlaw.com/definition/taxable-distribution.html",
+            "taxable termination": "https://dictionary.findlaw.com/definition/taxable-termination.html"
+        }
+    }
+}

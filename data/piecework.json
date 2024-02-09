@@ -1,0 +1,11 @@
+{
+    "Piecework": {
+        "definition": "work done by the piece and paid for at a set rate per unit",
+        "sub_definitions": {
+            "1": {
+                "1": "work done by the piece and paid for at a set rate per unit"
+            }
+        },
+        "references": {}
+    }
+}

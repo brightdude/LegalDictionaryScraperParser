@@ -1,0 +1,8 @@
+{
+    "Bid Bond": {
+        "definition": "Bid Bond",
+        "references": {
+            "bond": "https://dictionary.findlaw.com/definition/bond.html"
+        }
+    }
+}

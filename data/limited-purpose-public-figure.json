@@ -1,0 +1,15 @@
+{
+    "Limited Purpose Public Figure": {
+        "definition": "a person who voluntarily and prominently participates in a public controversy for the purpose of influencing its outcome and who is thus required as a public figure to prove actual malice in a defamation suit called also limited public figure compare public figure",
+        "compare": "public figure",
+        "sub_definitions": {
+            "1": {
+                "1": "a person who voluntarily and prominently participates in a public controversy for the purpose of influencing its outcome and who is thus required as a public figure to prove actual malice in a defamation suit called also",
+                "compares": "public figure"
+            }
+        },
+        "references": {
+            "public figure": "https://dictionary.findlaw.com/definition/public-figure.html"
+        }
+    }
+}

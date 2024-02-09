@@ -1,0 +1,16 @@
+{
+    "Promisor": {
+        "definition": "one that makes a promise compare obligor",
+        "origin": "[prÄ -mə-sər]",
+        "sub_definitions": {
+            "prom·is·er": {
+                "definition": "[prÄ -mə-sər]one that makes a promise compare,",
+                "compares": "obligor"
+            }
+        },
+        "references": {
+            "obligor": "https://dictionary.findlaw.com/definition/obligor.html",
+            "offeror": "https://dictionary.findlaw.com/definition/offeror.html"
+        }
+    }
+}

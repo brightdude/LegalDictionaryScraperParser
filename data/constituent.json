@@ -1,0 +1,17 @@
+{
+    "Constituent": {
+        "definition": "one who authorizes another to act as agent",
+        "origin": "[a assembly]",
+        "sub_definitions": {
+            "1": {
+                "definition": "one who authorizes another to act as agent"
+            },
+            "2": {
+                "definition": "a member of a constituencyadjhaving the power to create a government or to frame or amend a constitution [a assembly]"
+            }
+        },
+        "references": {
+            "principal": "https://dictionary.findlaw.com/definition/principal.html"
+        }
+    }
+}

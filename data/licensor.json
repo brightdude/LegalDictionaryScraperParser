@@ -1,0 +1,11 @@
+{
+    "Licensor": {
+        "definition": "one that issues a license",
+        "sub_definitions": {
+            "1": {
+                "1": "one that issues a license"
+            }
+        },
+        "references": {}
+    }
+}

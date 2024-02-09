@@ -1,0 +1,17 @@
+{
+    "Jury Trial": {
+        "definition": "a trial in which a jury serves as the trier of fact called also trial by jury see also Article III Article VI and VII Amendments VI and VII to the Constitution in the back matter compare bench trial NOTE",
+        "compare": "Constitution",
+        "sub_definitions": {
+            "1": {
+                "1": "a trial in which a jury serves as the trier of fact called also",
+                "compares": "bench trial",
+                "note": " The right to a jury trial is established in the U.S. Constitution, but it is not an absolute right. The Supreme Court has stated that petty crimes (as those carrying a sentence of up to 6 months) do not require trial by jury. The right to a jury trial in a criminal case may be waived by the “express and intelligent consent” of the defendant, usually in writing, as well as, in federal cases, the approval of the court and consent of the prosecutor. There is no right to a jury trial in equity cases. When a civil case involves both legal and equitable issues or procedure, either party may demand a jury trial (and failure to do so is taken as a waiver), but the judge may find that there is no right to jury trial because of equitable issues or claims."
+            }
+        },
+        "references": {
+            "Constitution": "https://dictionary.findlaw.com/definition/constitution.html",
+            "bench trial": "https://dictionary.findlaw.com/definition/bench-trial.html"
+        }
+    }
+}

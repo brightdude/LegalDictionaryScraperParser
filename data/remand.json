@@ -1,0 +1,17 @@
+{
+    "Remand": {
+        "definition": "to return",
+        "origin": "[Anglo-French remander , from Middle French, to order back, from Late Latin remandare to send back word, from Latin re- back + mandare to order]",
+        "sub_definitions": {
+            "1": {
+                "definition": "the act of remanding or state of being remanded"
+            },
+            "2": {
+                "definition": "an order remanding a case or person"
+            }
+        },
+        "references": {
+            "affirm": "https://dictionary.findlaw.com/definition/affirm.html"
+        }
+    }
+}

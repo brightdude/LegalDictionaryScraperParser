@@ -1,0 +1,15 @@
+{
+    "Director": {
+        "definition": "the head of an organized group or administrative unit or agency 2",
+        "sub_definitions": {
+            "1": {
+                "definition": "the head of an organized group or administrative unit or agency"
+            },
+            "2": {
+                "definition": "any of a group of persons usually elected by shareholders and entrusted with the overall control of a corporation",
+                "note": " Directors owe a fiduciary duty to the shareholders in the exercise of their powers. Directors have the power to appoint and dismiss officers, declare and pay dividends on stock, initiate major corporate actions such as mergers or dissolution, and determine other matters affecting the corporation."
+            }
+        },
+        "references": {}
+    }
+}

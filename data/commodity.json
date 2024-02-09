@@ -1,0 +1,11 @@
+{
+    "Commodity": {
+        "definition": "-ties",
+        "sub_definitions": {
+            "-ties": {
+                "definition": "a class of economic goodsan item of merchandise (as soybeans) whose price is the basis of futures trading"
+            }
+        },
+        "references": {}
+    }
+}

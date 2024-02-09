@@ -1,0 +1,22 @@
+{
+    "Voluntary": {
+        "definition": "proceeding from one's own free choice or consent rather than as the result of duress",
+        "origin": "[a statement]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "proceeding from one's own free choice or consent rather than as the result of duress, coercion, or deception [a statement]",
+                "sub_terms": {
+                    "b": "not compelled by lawdone as a matter of choice or agreement [ arbitration]",
+                    "c": "made freely and with an understanding of the consequences [a plea of guilty]"
+                }
+            },
+            "2": {
+                "definition": "done by design or intention"
+            },
+            "3": {
+                "definition": "made without valuable consideration or for nominal consideration [a conveyance]"
+            }
+        },
+        "references": {}
+    }
+}

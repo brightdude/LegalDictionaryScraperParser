@@ -1,0 +1,23 @@
+{
+    "Kind": {
+        "definition": "a particular type",
+        "origin": "[properties of like ]",
+        "sub_definitions": {
+            "1": {
+                "definition": "a particular type, category, or class [properties of like ] see also",
+                "see also": "like-kind exchange"
+            },
+            "2 a": {
+                "definition": "an unconverted form [a partition of property in ]a form other than money [forbid a bribe in cash or in ] see also",
+                "sub_terms": {
+                    "b": "the equivalent in value [repay a loan in ]"
+                },
+                "see also": "in-kind"
+            }
+        },
+        "references": {
+            "like-kind exchange": "https://dictionary.findlaw.com/definition/like-kind-exchange.html",
+            "in-kind": "https://dictionary.findlaw.com/definition/in-kind.html"
+        }
+    }
+}

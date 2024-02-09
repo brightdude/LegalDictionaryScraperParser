@@ -1,0 +1,11 @@
+{
+    "Ordinary Income": {
+        "definition": "income that does not derive from the exchange or sale of capital assets or property used in one's trade or business and that for individuals includes compensation",
+        "sub_definitions": {
+            "1": {
+                "1": "income that does not derive from the exchange or sale of capital assets or property used in one's trade or business and that for individuals includes compensation, interest, dividends, and short-term capital gains"
+            }
+        },
+        "references": {}
+    }
+}

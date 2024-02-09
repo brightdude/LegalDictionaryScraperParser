@@ -1,0 +1,12 @@
+{
+    "Co-Conspirator": {
+        "definition": "a fellow conspirator NOTE",
+        "sub_definitions": {
+            "1": {
+                "1": "a fellow conspirator",
+                "note": " Under Federal law, a statement made by a co-conspirator during and to further the conspiracy is admissible as evidence, but there must be other evidence establishing both the conspiracy and the defendant's participation."
+            }
+        },
+        "references": {}
+    }
+}

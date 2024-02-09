@@ -1,0 +1,18 @@
+{
+    "Egress": {
+        "definition": "the action or right of going or coming out 2",
+        "origin": "[Medieval Latin egressus , literally, act of going out, departure, from Latin, from egredi to go out, from e - out + gradi to make one's way]",
+        "sub_definitions": {
+            "1": {
+                "definition": "the action or right of going or coming out"
+            },
+            "2": {
+                "definition": "a place or means of going out or exiting compare[i-gres] vito go or come out",
+                "compares": "ingress"
+            }
+        },
+        "references": {
+            "ingress": "https://dictionary.findlaw.com/definition/ingress.html"
+        }
+    }
+}

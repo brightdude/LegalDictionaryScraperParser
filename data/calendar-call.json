@@ -1,0 +1,11 @@
+{
+    "Calendar Call": {
+        "definition": "a session of the court which is held to inquire into the status of cases and in which the cases are called by name and are scheduled for trial if the parties indicate readiness called also call of the list",
+        "sub_definitions": {
+            "1": {
+                "1": "a session of the court which is held to inquire into the status of cases and in which the cases are called by name and are scheduled for trial if the parties indicate readiness called also"
+            }
+        },
+        "references": {}
+    }
+}

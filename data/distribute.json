@@ -1,0 +1,18 @@
+{
+    "Distribute": {
+        "definition": "to divide among several or many",
+        "sub_definitions": {
+            "1": {
+                "definition": "to divide among several or many"
+            },
+            "2": {
+                "definition": "to give out or deliver esp. to members of a group see also",
+                "see also": "dividend"
+            }
+        },
+        "references": {
+            "apportion": "https://dictionary.findlaw.com/definition/apportion.html",
+            "dividend": "https://dictionary.findlaw.com/definition/dividend.html"
+        }
+    }
+}

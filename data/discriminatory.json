@@ -1,0 +1,14 @@
+{
+    "Discriminatory": {
+        "definition": "applying discrimination in treatment 2",
+        "sub_definitions": {
+            "1": {
+                "definition": "applying discrimination in treatment"
+            },
+            "2": {
+                "definition": "having unlawful discrimination as an effect"
+            }
+        },
+        "references": {}
+    }
+}

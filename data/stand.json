@@ -1,0 +1,24 @@
+{
+    "Stand": {
+        "definition": "to be in a particular state or situation [ accused] 2",
+        "origin": "[ accused]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to be in a particular state or situation [ accused]"
+            },
+            "2": {
+                "definition": "to remain valid or effective [let the ruling ]to submit to [ trial]"
+            },
+            "stand on:to depend on esp. as the basis of an argument or claim [a party whostands onthe writing as a complete and exclusive embodiment of the contract \"J. J. White and R. S. Summers\"]": {
+                "definition": "nthe place taken by a witness for testifying in court [take the ] compare,,,",
+                "compares": "bar"
+            }
+        },
+        "references": {
+            "bar": "https://dictionary.findlaw.com/definition/bar.html",
+            "bench": "https://dictionary.findlaw.com/definition/bench.html",
+            "dock": "https://dictionary.findlaw.com/definition/dock.html",
+            "sidebar": "https://dictionary.findlaw.com/definition/sidebar.html"
+        }
+    }
+}

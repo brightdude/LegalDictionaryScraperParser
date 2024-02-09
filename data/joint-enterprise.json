@@ -1,0 +1,14 @@
+{
+    "Joint Enterprise": {
+        "definition": "joint venture 2",
+        "sub_definitions": {
+            "2": {
+                "definition": "an undertaking of two or more parties for a common purpose in which each shares a common interest and an equal right of control (as of a vehicle)",
+                "note": " In regard to a tort involving such an enterprise, a third party may impute negligence of one party (as a driver) to another in the enterprise."
+            }
+        },
+        "references": {
+            "joint venture": "https://dictionary.findlaw.com/definition/joint-venture.html"
+        }
+    }
+}

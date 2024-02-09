@@ -1,0 +1,8 @@
+{
+    "Special Deposit": {
+        "definition": "Special Deposit",
+        "references": {
+            "deposit": "https://dictionary.findlaw.com/definition/deposit.html"
+        }
+    }
+}

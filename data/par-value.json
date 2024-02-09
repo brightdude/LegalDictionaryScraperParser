@@ -1,0 +1,13 @@
+{
+    "Par Value": {
+        "definition": "par",
+        "sub_definitions": {
+            "1": {
+                "1": "par"
+            }
+        },
+        "references": {
+            "par": "https://dictionary.findlaw.com/definition/par.html"
+        }
+    }
+}

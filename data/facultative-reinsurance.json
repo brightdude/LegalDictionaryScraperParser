@@ -1,0 +1,16 @@
+{
+    "Facultative Reinsurance": {
+        "definition": "a separate reinsurance agreement drawn up for a single risk compare treaty reinsurance",
+        "origin": "[alluding to the faculty (i.e., power or prerogative) of the reinsurer to accept or reject the agreement]",
+        "compare": "treaty reinsurance",
+        "sub_definitions": {
+            "1": {
+                "1": "a separate reinsurance agreement drawn up for a single risk compare",
+                "compares": "treaty reinsurance"
+            }
+        },
+        "references": {
+            "treaty reinsurance": "https://dictionary.findlaw.com/definition/treaty-reinsurance.html"
+        }
+    }
+}

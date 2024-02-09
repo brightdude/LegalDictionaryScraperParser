@@ -1,0 +1,12 @@
+{
+    "Booking": {
+        "definition": "a procedure at a jail or police station following an arrest in which information about the arrest",
+        "sub_definitions": {
+            "1": {
+                "1": "a procedure at a jail or police station following an arrest in which information about the arrest (as the time, the name of the arrested person, and the crime for which the arrest was made) is entered in the police register",
+                "note": " The arrested person is usually photographed and fingerprinted at the time of the booking."
+            }
+        },
+        "references": {}
+    }
+}

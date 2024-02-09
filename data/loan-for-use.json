@@ -1,0 +1,8 @@
+{
+    "Loan For Use": {
+        "definition": "Loan For Use",
+        "references": {
+            "loan": "https://dictionary.findlaw.com/definition/loan.html"
+        }
+    }
+}

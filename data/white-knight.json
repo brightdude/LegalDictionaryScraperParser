@@ -1,0 +1,15 @@
+{
+    "White Knight": {
+        "definition": "a party",
+        "compare": "raider",
+        "sub_definitions": {
+            "1": {
+                "1": "a party (as a corporation) invited to take over a corporation and thereby prevent its acquisition by another compare",
+                "compares": "raider"
+            }
+        },
+        "references": {
+            "raider": "https://dictionary.findlaw.com/definition/raider.html"
+        }
+    }
+}

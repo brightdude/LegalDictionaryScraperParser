@@ -1,0 +1,18 @@
+{
+    "Jurisprudence": {
+        "definition": "a system or body of law [in the federal ] ;esp",
+        "origin": "[Late Latin jurisprudentia knowledge of or skill in law, from Latin juris , genitive of jus right, law + prudentia wisdom, proficiency]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "a system or body of law [in the federal ]a body of law dealing with a specific issue or area [labor ]",
+                "sub_terms": {
+                    "b": "the course of court decisions as distinguished from legislation and doctrine [the decided under the source provisions \"\"]"
+                }
+            },
+            "2": {
+                "definition": "the science or philosophy of law [they have no theories of but…decide each case on its facts \"R. H. Bork\"]"
+            }
+        },
+        "references": {}
+    }
+}

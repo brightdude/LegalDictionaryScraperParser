@@ -1,0 +1,17 @@
+{
+    "Unclean Hands": {
+        "definition": "an equitable doctrine",
+        "origin": "[may not be invoked by a plaintiff with unclean hands \" Royal Sch. Labs., Inc. v. Town of Watertown , 358 F.2d 813 (1966)\"]",
+        "sub_definitions": {
+            "1": {
+                "1": "an equitable doctrine: a complainant will be denied relief if he or she has engaged in misconduct (as acting in bad faith) directly relating to the complaint"
+            },
+            "2": {
+                "1": "the condition of having engaged in such misconduct and being barred from equitable relief [may not be invoked by a plaintiff with",
+                "Royal Sch. Labs., Inc. v. Town of Watertown": "358 F.2d 813 (1966)",
+                "note": " Unclean hands on the part of the plaintiff is often pleaded as an affirmative defense by the defendant."
+            }
+        },
+        "references": {}
+    }
+}

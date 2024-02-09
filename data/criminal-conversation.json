@@ -1,0 +1,16 @@
+{
+    "Criminal Conversation": {
+        "definition": "the tort of committing adultery with another's spouse compare alienation of affections NOTE",
+        "compare": "alienation of affections",
+        "sub_definitions": {
+            "1": {
+                "1": "the tort of committing adultery with another's spouse compare",
+                "compares": "alienation of affections",
+                "note": " This tort is no longer recognized in most jurisdictions."
+            }
+        },
+        "references": {
+            "alienation of affections": "https://dictionary.findlaw.com/definition/alienation-of-affections.html"
+        }
+    }
+}

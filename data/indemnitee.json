@@ -1,0 +1,11 @@
+{
+    "Indemnitee": {
+        "definition": "one that is indemnified",
+        "sub_definitions": {
+            "1": {
+                "1": "one that is indemnified"
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "Lease": {
+        "definition": "a contract by which an owner of property conveys exclusive possession",
+        "origin": "[Anglo-French les , from lesser to grant by lease, from Old French laisser to let go, from Latin laxare to loosen, from laxus slack]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "a contract by which an owner of property conveys exclusive possession, control, use, or enjoyment of it for a specified rent and a specified term after which the property reverts to the ownerthe act of such conveyance or the term for which it is made see alsocompare,at,",
+                "note": " Article 2A of the Uniform Commercial Code, which governs leases where adopted, definesleaseas “a transfer of the right to possession and use of goods for a term in return for consideration.”",
+                "compares": "easement",
+                "see also": "sublease"
+            },
+            "build·ing lease": {
+                "definition": "in this entry"
+            },
+            "consumer lease": {
+                "definition": "a lease made by a lessor regularly engaged in the selling or leasing of a product to a lessee who is leasing the product primarily for his or her personal or household use"
+            },
+            "finance lease": {
+                "definition": "a lease in which the lessor acquires goods from a supplier in accordance with the specifications of the lessee",
+                "note": " Under section 2A-103 of the Uniform Commercial Code, before the lessor signs the lease or the lease becomes effective, the lessee must receive or approve of a copy of the contract by which the goods were acquired or must receive a statement of terms (as warranties, disclaimers, and liquidated damages) relating to the contract or notification of where such information can be obtained."
+            },
+            "ground lease": {
+                "definition": "a lease of land usually for a long term in consideration of the payment of rent and with the agreement that the lessee build or improve a structure on the land called also"
+            },
+            "mineral lease": {
+                "definition": "a lease granting the right to work a mine and extract the minerals or other valuable deposits from it under prescribed conditions (as of time, price, or royalties) called also"
+            },
+            "net lease": {
+                "definition": "a lease requiring the lessee to assume all operation expenses (as for maintenance, insurance, and taxes) in addition to the payment of rent"
+            },
+            "operating lease": {
+                "definition": "a lease of property and esp. equipment for a term which is shorter than the property's useful life and in which the lessor is responsible for certain expenses (as taxes)"
+            },
+            "per·pet·u·al lease": {
+                "definition": "[pər-pe-ch-wəl-]a lease renewable forever at the lessee's option"
+            },
+            "proprietary lease": {
+                "definition": "a lease used to convey to a member of a cooperative the exclusive possession of a residential unit"
+            },
+            "true lease": {
+                "definition": "a lease that resembles a security agreement but retains the attributes of a lease",
+                "sub_terms": {
+                    "b": "property and esp. real property that is leased"
+                }
+            },
+            "2": {
+                "definition": "a contract by which a person provides labor or services for a price"
+            }
+        },
+        "references": {
+            "sublease": "https://dictionary.findlaw.com/definition/sublease.html",
+            "easement": "https://dictionary.findlaw.com/definition/easement.html",
+            "license": "https://dictionary.findlaw.com/definition/license.html",
+            "interest": "https://dictionary.findlaw.com/definition/interest.html",
+            "tenancy": "https://dictionary.findlaw.com/definition/tenancy.html",
+            "ground lease": "https://dictionary.findlaw.com/definition/ground-lease.html"
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "Legitimate Portion": {
+        "definition": "legitime",
+        "sub_definitions": {
+            "1": {
+                "1": "legitime"
+            }
+        },
+        "references": {
+            "legitime": "https://dictionary.findlaw.com/definition/legitime.html"
+        }
+    }
+}

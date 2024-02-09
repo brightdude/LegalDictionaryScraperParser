@@ -1,0 +1,16 @@
+{
+    "Intra Vires": {
+        "definition": "within the powers [a corporate director acting intra vires ] compare ultra vires",
+        "origin": "[New Latin]",
+        "compare": "ultra vires",
+        "sub_definitions": {
+            "1": {
+                "1": "within the powers [a corporate director acting",
+                "compares": "ultra vires"
+            }
+        },
+        "references": {
+            "ultra vires": "https://dictionary.findlaw.com/definition/ultra-vires.html"
+        }
+    }
+}

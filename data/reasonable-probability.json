@@ -1,0 +1,11 @@
+{
+    "Reasonable Probability": {
+        "definition": "a probability that the result of a proceeding would have been different if not for the unprofessional errors of counsel or nondisclosure of exculpatory material by the prosecution which is sufficient to undermine confidence in the outcome",
+        "sub_definitions": {
+            "1": {
+                "1": "a probability that the result of a proceeding would have been different if not for the unprofessional errors of counsel or nondisclosure of exculpatory material by the prosecution which is sufficient to undermine confidence in the outcome"
+            }
+        },
+        "references": {}
+    }
+}

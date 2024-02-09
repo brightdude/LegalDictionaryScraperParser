@@ -1,0 +1,18 @@
+{
+    "Misdemeanor": {
+        "definition": "a crime that carries a less severe punishment than a felony ;specif",
+        "compare": "felony",
+        "sub_definitions": {
+            "1": {
+                "1": "a crime that carries a less severe punishment than a felony"
+            },
+            "2": {
+                "1": "a crime punishable by a fine and by a term of imprisonment not to be served in a penitentiary and not to exceed one year compare",
+                "compares": "felony"
+            }
+        },
+        "references": {
+            "felony": "https://dictionary.findlaw.com/definition/felony.html"
+        }
+    }
+}

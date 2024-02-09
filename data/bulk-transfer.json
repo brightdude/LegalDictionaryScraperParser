@@ -1,0 +1,14 @@
+{
+    "Bulk Transfer": {
+        "definition": "bulk sale at sale",
+        "sub_definitions": {
+            "1": {
+                "1": "bulk sale"
+            }
+        },
+        "references": {
+            "bulk sale": "https://dictionary.findlaw.com/definition/bulk-sale.html",
+            "sale": "https://dictionary.findlaw.com/definition/sale.html"
+        }
+    }
+}

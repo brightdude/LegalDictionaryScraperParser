@@ -1,0 +1,12 @@
+{
+    "Fair-Trade Agreement": {
+        "definition": "an agreement between a producer and a seller that commodities bearing a trademark",
+        "sub_definitions": {
+            "1": {
+                "1": "an agreement between a producer and a seller that commodities bearing a trademark, label, or trade name belonging to the producer be sold at or above a specified price",
+                "note": " Most fair-trade agreements are illegal."
+            }
+        },
+        "references": {}
+    }
+}

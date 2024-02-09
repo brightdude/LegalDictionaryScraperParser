@@ -1,0 +1,14 @@
+{
+    "Cross-Complaint": {
+        "definition": "a claim brought by a defendant against another party to the lawsuit 2",
+        "sub_definitions": {
+            "1": {
+                "definition": "a claim brought by a defendant against another party to the lawsuit"
+            },
+            "2": {
+                "definition": "a claim brought by a defendant against a person not a party to the original lawsuit for a related cause of action"
+            }
+        },
+        "references": {}
+    }
+}

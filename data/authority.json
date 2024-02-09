@@ -1,0 +1,57 @@
+{
+    "Authority": {
+        "definition": "-ties 1",
+        "origin": "[the of the president]",
+        "sub_definitions": {
+            "1": {
+                "definition": "an official decision of a court used esp. as a precedent"
+            },
+            "2 a": {
+                "definition": "a power to act esp. over others that derives from status, position, or office [the of the president]",
+                "sub_terms": {
+                    "b": "the power to act that is officially or formally granted (as by statute, corporate bylaw, or court order) [within the scope of the treasurer's ] [police officers executing a warrant…are not required to “knock and announce” their and purposes before entering \"\"]",
+                    "c": "power and capacity to act granted by someone in a position of controlthe power to act granted by a principal to his or her agent"
+                }
+            },
+            "actual authority": {
+                "definition": "the authority that a principal in reality has granted to an agent"
+            },
+            "actual express authority": {
+                "definition": "the actual authority of an agent specifically stated or written by the principal"
+            },
+            "actual implied authority": {
+                "definition": "the actual authority of an agent that the principal has not specified but has purposely or through negligence allowed the agent to believe has been granted"
+            },
+            "apparent authority": {
+                "definition": "the authority that a principal purposely or through negligence allows a third party to believe that the principal's agent has although such authority has not in reality been granted called also",
+                "note": " A principal is bound by the acts of an agent acting with apparent authority."
+            },
+            "express authority": {
+                "definition": "authority that is explicitly granted to an agent by a principal called also"
+            },
+            "implied authority": {
+                "definition": "the authority to perform acts that are customary, necessary, and understood by an agent as authorized in performing acts for which the principal has given express authority"
+            },
+            "ostensible authority": {
+                "definition": "in this entry"
+            },
+            "stipulated authority": {
+                "definition": "in this entry"
+            },
+            "3": {
+                "definition": "a person in a position of power and esp. a public office usually used in pl. [the local]"
+            },
+            "4 a": {
+                "definition": "a government agency or corporation that administers a revenue-producing public enterprise [the transit ]",
+                "sub_terms": {
+                    "b": "a government agency or public office responsible for an area of regulation [should apply for a permit to the permitting ]"
+                }
+            }
+        },
+        "references": {
+            "jurisdiction": "https://dictionary.findlaw.com/definition/jurisdiction.html",
+            "apparent authority": "https://dictionary.findlaw.com/definition/apparent-authority.html",
+            "express authority": "https://dictionary.findlaw.com/definition/express-authority.html"
+        }
+    }
+}

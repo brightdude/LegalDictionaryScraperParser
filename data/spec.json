@@ -1,0 +1,15 @@
+{
+    "Spec": {
+        "definition": "spec'd [spekt] spec·cing [spe-ki]",
+        "origin": "[spekt]",
+        "sub_definitions": {
+            "spec'd": {
+                "definition": "[spekt]"
+            },
+            "spec·cing": {
+                "definition": "[spe-ki]to write specifications for"
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "Interdict": {
+        "definition": "something that prohibits 2",
+        "origin": "[in-tər-dikt]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to deprive (a person) of the right to care for one's own person or affairs because of mental incapacity compare,,",
+                "compares": "commit"
+            },
+            "2": {
+                "definition": "to authoritatively prohibit or bar (an act or conduct)"
+            },
+            "3": {
+                "definition": "to intercept or cut off (as a drug shipment) by force"
+            }
+        },
+        "references": {
+            "ward": "https://dictionary.findlaw.com/definition/ward.html",
+            "commit": "https://dictionary.findlaw.com/definition/commit.html",
+            "curator": "https://dictionary.findlaw.com/definition/curator.html",
+            "tutor": "https://dictionary.findlaw.com/definition/tutor.html"
+        }
+    }
+}

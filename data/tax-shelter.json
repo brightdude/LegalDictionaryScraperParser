@@ -1,0 +1,15 @@
+{
+    "Tax Shelter": {
+        "definition": "an entity",
+        "origin": "[purchased limited partnership tax shelters ]",
+        "sub_definitions": {
+            "1": {
+                "1": "an entity (as a partnership) or investment plan or arrangement whose principal purpose is the avoidance or evasion of income tax"
+            },
+            "2": {
+                "1": "an interest offered or purchased on the premise that it will provide favorable tax consequences [purchased limited partnership"
+            }
+        },
+        "references": {}
+    }
+}

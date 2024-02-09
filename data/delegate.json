@@ -1,0 +1,22 @@
+{
+    "Delegate": {
+        "definition": "a person empowered to act on behalf of another",
+        "origin": "[Medieval Latin delegatus , from Latin, past participle of delegare to appoint, put in charge]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to entrust or transfer (as power, authority, or responsibility) to another",
+                "sub_terms": {
+                    "a": "to transfer (one's contractual duties) to another",
+                    "b": "to empower a body (as an administrative agency) to perform (a governmental function) see also"
+                },
+                "see also": "nondelegation doctrine"
+            },
+            "2": {
+                "definition": "to appoint as one's representativeto transfer responsibility or authority"
+            }
+        },
+        "references": {
+            "nondelegation doctrine": "https://dictionary.findlaw.com/definition/nondelegation-doctrine.html"
+        }
+    }
+}

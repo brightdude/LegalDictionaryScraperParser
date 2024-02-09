@@ -1,0 +1,11 @@
+{
+    "Lienee": {
+        "definition": "one whose property is subject to a lien",
+        "sub_definitions": {
+            "1": {
+                "1": "one whose property is subject to a lien"
+            }
+        },
+        "references": {}
+    }
+}

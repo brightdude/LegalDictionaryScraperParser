@@ -1,0 +1,8 @@
+{
+    "Watered Stock": {
+        "definition": "Watered Stock",
+        "references": {
+            "stock": "https://dictionary.findlaw.com/definition/stock.html"
+        }
+    }
+}

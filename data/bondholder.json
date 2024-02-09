@@ -1,0 +1,15 @@
+{
+    "Bondholder": {
+        "definition": "a person or business entity that holds a government or corporation bond compare stockholder",
+        "compare": "stockholder",
+        "sub_definitions": {
+            "1": {
+                "1": "a person or business entity that holds a government or corporation bond compare",
+                "compares": "stockholder"
+            }
+        },
+        "references": {
+            "stockholder": "https://dictionary.findlaw.com/definition/stockholder.html"
+        }
+    }
+}

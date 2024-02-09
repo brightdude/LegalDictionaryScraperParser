@@ -1,0 +1,13 @@
+{
+    "Listing Agreement": {
+        "definition": "listing",
+        "sub_definitions": {
+            "1": {
+                "1": "listing"
+            }
+        },
+        "references": {
+            "listing": "https://dictionary.findlaw.com/definition/listing.html"
+        }
+    }
+}

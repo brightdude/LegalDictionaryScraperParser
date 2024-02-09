@@ -1,0 +1,16 @@
+{
+    "Jus Tertii": {
+        "definition": "a right of a third party",
+        "origin": "[Latin]",
+        "sub_definitions": {
+            "1": {
+                "1": "a right of a third party (as to property in another's possession)"
+            },
+            "2": {
+                "1": "the right to assert the rights of another in a lawsuit",
+                "note": " In property actions the claims of a third party on the property cannot usually be asserted as a defense by a litigant. A litigant may, however, have third-party standing to assert another's constitutional rights (as when an organization asserts the rights of its members) if there is a substantial relationship between the litigant and the third party, if it is impossible for the third party to assert its own rights, and if there is the risk that the third party's rights will be diluted without the litigant's assertion."
+            }
+        },
+        "references": {}
+    }
+}

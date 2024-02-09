@@ -1,0 +1,24 @@
+{
+    "Treasury": {
+        "definition": "-sur·ies 1 a",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "a place in which stores of wealth are kept",
+                "sub_terms": {
+                    "b": "the place of deposit and disbursement of collected fundsone where public revenues are deposited, kept, and disbursed",
+                    "c": "funds kept in such a depository"
+                }
+            },
+            "2": {
+                "sub_terms": {
+                    "a": "a governmental department in charge of finances and esp. the collection, management, and expenditure of public revenues",
+                    "b": "the building in which the business of such a governmental department is transacted"
+                }
+            },
+            "3": {
+                "definition": "a government security (as a note or bill) issued by the Treasury"
+            }
+        },
+        "references": {}
+    }
+}

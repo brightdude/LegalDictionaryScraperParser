@@ -1,0 +1,16 @@
+{
+    "Brief": {
+        "definition": "a concise statement of a client's case written for the instruction of an attorney usually by a law clerk called also memorandum 2",
+        "origin": "[Old French bref brief letter, writ indicating legal proceedings, from Late Latin brevis breve short document, summary, from Latin brevis , adjective, short]",
+        "sub_definitions": {
+            "1": {
+                "definition": "a concise statement of a client's case written for the instruction of an attorney usually by a law clerk called also"
+            },
+            "2": {
+                "definition": "a formal written presentation of an argument that sets forth the main points with supporting precedents and evidencevtto write a brief concerning (a motion or question of law)",
+                "note": " Briefs are filed either by a party or an amicus curiae with a court usually regarding a specific motion (as for summary judgment) or point of law. The form of the brief is determined by the procedural rules of that court or jurisdiction."
+            }
+        },
+        "references": {}
+    }
+}

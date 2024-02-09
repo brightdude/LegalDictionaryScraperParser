@@ -1,0 +1,17 @@
+{
+    "Detinue": {
+        "definition": "a common-law action for the recovery of personal property belonging to the plaintiff that is wrongfully detained by the defendant compare trover",
+        "origin": "[Anglo-French detenue , from feminine past participle of detenir to detain see detainer ]",
+        "compare": "detainer",
+        "sub_definitions": {
+            "1": {
+                "1": "a common-law action for the recovery of personal property belonging to the plaintiff that is wrongfully detained by the defendant compare",
+                "compares": "trover"
+            }
+        },
+        "references": {
+            "detainer": "https://dictionary.findlaw.com/definition/detainer.html",
+            "trover": "https://dictionary.findlaw.com/definition/trover.html"
+        }
+    }
+}

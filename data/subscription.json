@@ -1,0 +1,21 @@
+{
+    "Subscription": {
+        "definition": "the act of signing one's name",
+        "origin": "[a charitable ]",
+        "sub_definitions": {
+            "1": {
+                "definition": "the act of signing one's name (as in attesting or witnessing a document)"
+            },
+            "2": {
+                "definition": "something that is subscribeda sum subscribed or pledged [a charitable ]"
+            },
+            "3": {
+                "definition": "an agreement to purchase securities (as stocks) of a new issue and esp. of a prospective corporation compare",
+                "compares": "warrant"
+            }
+        },
+        "references": {
+            "warrant": "https://dictionary.findlaw.com/definition/warrant.html"
+        }
+    }
+}

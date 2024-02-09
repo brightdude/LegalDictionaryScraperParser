@@ -1,0 +1,14 @@
+{
+    "Corroborative Evidence": {
+        "definition": "corroborating evidence at evidence",
+        "sub_definitions": {
+            "1": {
+                "1": "corroborating evidence"
+            }
+        },
+        "references": {
+            "corroborating evidence": "https://dictionary.findlaw.com/definition/corroborating-evidence.html",
+            "evidence": "https://dictionary.findlaw.com/definition/evidence.html"
+        }
+    }
+}

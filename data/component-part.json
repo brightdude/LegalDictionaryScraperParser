@@ -1,0 +1,11 @@
+{
+    "Component Part": {
+        "definition": "something",
+        "sub_definitions": {
+            "1": {
+                "1": "something (as a building or part of a building) that cannot be removed without substantial damage to itself or to the immovable property to which it is attached"
+            }
+        },
+        "references": {}
+    }
+}

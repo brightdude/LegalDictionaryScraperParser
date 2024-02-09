@@ -1,0 +1,38 @@
+{
+    "Consideration": {
+        "definition": "something",
+        "compare": "contract",
+        "sub_definitions": {
+            "ad·e·quate consideration": {
+                "definition": "a consideration that is reasonably equivalent in value to the thing for which it is given"
+            },
+            "fair consideration": {
+                "definition": "a consideration that is reasonable and given in good faithsomething with a reasonably equivalent value that under the laws of fraudulent conveyances is given in good faith in exchange for the transfer of property"
+            },
+            "1": {
+                "definition": "a consideration based on a family relationship or natural love and affection"
+            },
+            "2": {
+                "definition": "in this entry",
+                "note": " When used as defined in sense 1good considerationis the opposite ofvaluable consideration. Howevergood considerationis also sometimes used to meanvaluable consideration. Good consideration of the kind denoted by sense 1 cannot create an enforceable contract."
+            },
+            "new consideration": {
+                "definition": "something according to section 6-106 of the Uniform Commercial Code that becomes payable in exchange for the transfer of bulk goods"
+            },
+            "nominal consideration": {
+                "definition": "consideration consisting of a nominal amount"
+            },
+            "past consideration": {
+                "definition": "something that has already been given or some act that has already been performed that cannot therefore be induced by the other party's thing, act, or promise in exchange and is not truly a consideration"
+            },
+            "valuable consideration": {
+                "definition": "a consideration that confers some benefit having pecuniary value on one party to a contract or imposes a detriment having pecuniary value on the other"
+            }
+        },
+        "references": {
+            "contract": "https://dictionary.findlaw.com/definition/contract.html",
+            "motive": "https://dictionary.findlaw.com/definition/motive.html",
+            "valuable consideration": "https://dictionary.findlaw.com/definition/valuable-consideration.html"
+        }
+    }
+}

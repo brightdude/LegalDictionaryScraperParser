@@ -1,0 +1,14 @@
+{
+    "Congresspeople": {
+        "definition": "members of Congress",
+        "sub_definitions": {
+            "1": {
+                "1": "members of Congress"
+            },
+            "2": {
+                "1": "congressmen and congresswomen"
+            }
+        },
+        "references": {}
+    }
+}

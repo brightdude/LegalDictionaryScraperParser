@@ -1,0 +1,14 @@
+{
+    "Cognizance": {
+        "definition": "jurisdiction",
+        "origin": "[Old French connoissance right to acknowledge and adjudicate issues, literally, knowledge, acquaintance, from connoistre to be acquainted with]",
+        "sub_definitions": {
+            "1": {
+                "1": "jurisdiction"
+            }
+        },
+        "references": {
+            "jurisdiction": "https://dictionary.findlaw.com/definition/jurisdiction.html"
+        }
+    }
+}

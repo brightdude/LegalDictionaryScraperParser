@@ -1,0 +1,15 @@
+{
+    "Removal Action": {
+        "definition": "an action under environmental legislation and esp. under the Comprehensive Environmental Response",
+        "compare": "remedial action",
+        "sub_definitions": {
+            "1": {
+                "1": "an action under environmental legislation and esp. under the Comprehensive Environmental Response, Compensation, and Liability Act that involves short-term abatement of pollution (as removal of toxic substances) compare",
+                "compares": "remedial action"
+            }
+        },
+        "references": {
+            "remedial action": "https://dictionary.findlaw.com/definition/remedial-action.html"
+        }
+    }
+}

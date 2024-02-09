@@ -1,0 +1,14 @@
+{
+    "Fair Warning": {
+        "definition": "sufficient notification in a statute that particular conduct constitutes a crime see also void-for-vagueness doctrine",
+        "sub_definitions": {
+            "1": {
+                "1": "sufficient notification in a statute that particular conduct constitutes a crime see also",
+                "see also": "void-for-vagueness doctrine"
+            }
+        },
+        "references": {
+            "void-for-vagueness doctrine": "https://dictionary.findlaw.com/definition/void-for-vagueness-doctrine.html"
+        }
+    }
+}

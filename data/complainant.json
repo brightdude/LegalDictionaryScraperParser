@@ -1,0 +1,11 @@
+{
+    "Complainant": {
+        "definition": "the party",
+        "sub_definitions": {
+            "1": {
+                "1": "the party (as a plaintiff or petitioner) who makes the complaint in a legal action or proceeding"
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "Deadly Weapon": {
+        "definition": "an object whose purpose is to cause death or that when used as an instrument of offense is capable of causing death or sometimes serious bodily harm compare dangerous weapon NOTE",
+        "compare": "dangerous weapon",
+        "sub_definitions": {
+            "1": {
+                "1": "an object whose purpose is to cause death or that when used as an instrument of offense is capable of causing death or sometimes serious bodily harm compare",
+                "compares": "dangerous weapon",
+                "note": " An unloaded firearm has been generally held to be a deadly weapon. Although usually distinct, the termsdeadly weaponanddangerous weaponare sometimes used interchangeably."
+            }
+        },
+        "references": {
+            "dangerous weapon": "https://dictionary.findlaw.com/definition/dangerous-weapon.html"
+        }
+    }
+}

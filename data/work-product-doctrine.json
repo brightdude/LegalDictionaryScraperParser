@@ -1,0 +1,12 @@
+{
+    "Work Product Doctrine": {
+        "definition": "a doctrine or rule that protects an attorney's work product from discovery called also work product rule NOTE",
+        "sub_definitions": {
+            "1": {
+                "1": "a doctrine or rule that protects an attorney's work product from discovery called also",
+                "note": " This doctrine applies to work product of all kinds, but it may be waived for certain materials (as documents) if the party seeking discovery shows that it has a substantial need of the materials in preparing its own case and that it is unable without undue hardship to obtain the substantial equivalent of the materials by other means."
+            }
+        },
+        "references": {}
+    }
+}

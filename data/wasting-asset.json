@@ -1,0 +1,8 @@
+{
+    "Wasting Asset": {
+        "definition": "Wasting Asset",
+        "references": {
+            "asset": "https://dictionary.findlaw.com/definition/asset.html"
+        }
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "Innuendo": {
+        "definition": "a parenthetical explanation of the text of a legal document ;esp",
+        "compare": "inducement",
+        "sub_definitions": {
+            "1": {
+                "1": "a parenthetical explanation of the text of a legal document"
+            },
+            "2": {
+                "1": "an explanation in a complaint for defamation of the defamatory meaning of a statement by the defendant which is not defamatory on its face compare",
+                "compares": "inducement"
+            }
+        },
+        "references": {
+            "inducement": "https://dictionary.findlaw.com/definition/inducement.html"
+        }
+    }
+}

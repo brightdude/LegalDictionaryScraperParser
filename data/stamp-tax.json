@@ -1,0 +1,11 @@
+{
+    "Stamp Tax": {
+        "definition": "a tax collected by means of a stamp purchased and affixed",
+        "sub_definitions": {
+            "1": {
+                "1": "a tax collected by means of a stamp purchased and affixed (as to a deed)"
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Congress": {
+        "definition": "a formal meeting of delegates 2 a",
+        "origin": "[Latin congressus meeting, encounter, from congredi to approach, meet]",
+        "sub_definitions": {
+            "1": {
+                "definition": "a formal meeting of delegates"
+            },
+            "2 a": {
+                "definition": "the supreme legislative body of a nation and esp. a republic",
+                "sub_terms": {
+                    "b": "the legislative branch of the United States governmentthe U.S. House of Representatives"
+                }
+            },
+            "3": {
+                "sub_terms": {
+                    "a": "the U.S. legislature as it is composed for an enumerated two-year period [the 101st]",
+                    "b": "a single session of the U.S. legislature see also,of thein the back matter"
+                },
+                "see also": "house of representatives"
+            }
+        },
+        "references": {
+            "house of representatives": "https://dictionary.findlaw.com/definition/house-of-representatives.html",
+            "senate": "https://dictionary.findlaw.com/definition/senate.html",
+            "Constitution": "https://dictionary.findlaw.com/definition/constitution.html"
+        }
+    }
+}

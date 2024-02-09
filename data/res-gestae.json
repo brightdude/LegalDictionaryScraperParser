@@ -1,0 +1,23 @@
+{
+    "Res Gestae": {
+        "definition": "the acts",
+        "origin": "[Latin, things done, deeds]",
+        "sub_definitions": {
+            "1": {
+                "definition": "the acts, facts, circumstances, statements, or occurrences that form the environment of a main act or event and esp. of a crime and are so closely connected to it that they constitute part of a continuous transaction and can serve to illustrate its character [the decedent's statement…was too far removed in time and place to be admissible as part of the\", 552 N.E.2d 56 (1990)\"]",
+                "Lynch v. State": "552 N.E.2d 56 (1990)"
+            },
+            "2 a": {
+                "definition": "an exception or set of exceptions to the hearsay rule that permits the admission of hearsay evidence regarding excited utterances or declarations relating to mental, emotional, or bodily states or sense impressions of a witness or participant compareandat,",
+                "sub_terms": {
+                    "b": "an exception to the exclusionary rule against the use of other crimes as evidence that permits such use when another crime is closely enough connected to the one in dispute as to form part of a continuous episode or transaction"
+                },
+                "note": " Res gestae in common law encompassed a variety of different exceptions to the hearsay rule, but most modern rules of evidence (as the Federal Rules of Evidence) have abandoned use of res gestae and specify the different exceptions on their own terms."
+            }
+        },
+        "references": {
+            "declaration": "https://dictionary.findlaw.com/definition/declaration.html",
+            "excited utterance": "https://dictionary.findlaw.com/definition/excited-utterance.html"
+        }
+    }
+}

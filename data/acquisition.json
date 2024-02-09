@@ -1,0 +1,18 @@
+{
+    "Acquisition": {
+        "definition": "the act or action of acquiring ;specif",
+        "sub_definitions": {
+            "1": {
+                "definition": "the act or action of acquiringthe obtaining of controlling interest in a company compare,",
+                "compares": "merger"
+            },
+            "2": {
+                "definition": "a thing gained or acquired"
+            }
+        },
+        "references": {
+            "merger": "https://dictionary.findlaw.com/definition/merger.html",
+            "takeover": "https://dictionary.findlaw.com/definition/takeover.html"
+        }
+    }
+}

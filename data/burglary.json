@@ -1,0 +1,13 @@
+{
+    "Burglary": {
+        "definition": "-glar·ies [Anglo-French burglarie",
+        "origin": "[Anglo-French burglarie , modification of Medieval Latin burgaria , from burgare to break into (a house)]",
+        "sub_definitions": {
+            "-glar·ies": {
+                "definition": "[Anglo-French, modification of Medieval Latin, fromto break into (a house)]the act of breaking and entering an inhabited structure (as a house) esp. at night with intent to commit a felony (as murder or larceny)the act of entering or remaining unlawfully (as after closing to the public) in a building with intent to commit a crime (as a felony)",
+                "note": " The crime of burglary was originally defined under the common law to protect people, since there were other laws (as those defining larceny and trespass) that protected property. State laws have broadened the common-law crime. Entering at night is often no longer required and may be considered an aggravating factor. The building may be something other than a dwelling, such as a store or pharmacy. Some states (as Louisiana) have included vehicles under their burglary statute. There are degrees of burglary, and some of the usual aggravating factors are the presence of people and use of a deadly weapon."
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "Discretionary": {
+        "definition": "left to discretion",
+        "compare": "ministerial",
+        "sub_definitions": {
+            "1": {
+                "1": "left to discretion"
+            },
+            "2": {
+                "1": "exercised at one's own discretion"
+            },
+            "3": {
+                "1": "relating to the policy-making function of a public official see also",
+                "Federal Tort Claims Act": "in the Important Laws section compare",
+                "compares": "ministerial",
+                "note": " A public official generally has qualified immunity from lawsuits that arise from his or her discretionary acts."
+            }
+        },
+        "references": {
+            "ministerial": "https://dictionary.findlaw.com/definition/ministerial.html"
+        }
+    }
+}

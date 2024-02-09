@@ -1,0 +1,12 @@
+{
+    "Wiretapping": {
+        "definition": "interception of the contents of communication through a secret connection to the telephone line of one whose conversations are to be monitored usually for purposes of criminal investigation by law enforcement officers NOTE",
+        "sub_definitions": {
+            "1": {
+                "1": "interception of the contents of communication through a secret connection to the telephone line of one whose conversations are to be monitored usually for purposes of criminal investigation by law enforcement officers",
+                "note": " Wiretapping and wiretap evidence are strictly regulated under federal and state laws. An order authorizing wiretapping may be issued only when there is probable cause to believe that a person is committing, has committed, or is about to commit a particular offense, and there must be probable cause to believe that communications relating to such an offense will be obtained. Wiretapping must not be employed when a conversation is privileged, and officers must minimize interception of conversations that are not material to the investigation."
+            }
+        },
+        "references": {}
+    }
+}

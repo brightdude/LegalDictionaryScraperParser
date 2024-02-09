@@ -1,0 +1,15 @@
+{
+    "Common Carrier": {
+        "definition": "a business or agency that is available to the public for transportation of persons",
+        "compare": "contract carrier",
+        "sub_definitions": {
+            "1": {
+                "1": "a business or agency that is available to the public for transportation of persons, goods, or messages compare",
+                "compares": "contract carrier"
+            }
+        },
+        "references": {
+            "contract carrier": "https://dictionary.findlaw.com/definition/contract-carrier.html"
+        }
+    }
+}

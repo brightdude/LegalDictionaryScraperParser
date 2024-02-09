@@ -1,0 +1,17 @@
+{
+    "Choice Of Law": {
+        "definition": "an issue in conflicts of law as to what law",
+        "compare": "comity",
+        "sub_definitions": {
+            "1": {
+                "1": "an issue in conflicts of law as to what law (as among laws of different states or multiple federal laws) should be applied in a case compare",
+                "compares": "comity"
+            }
+        },
+        "references": {
+            "comity": "https://dictionary.findlaw.com/definition/comity.html",
+            "federalism": "https://dictionary.findlaw.com/definition/federalism.html",
+            "full faith and credit": "https://dictionary.findlaw.com/definition/full-faith-and-credit.html"
+        }
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "First Offender": {
+        "definition": "one convicted of an offense for the first time",
+        "sub_definitions": {
+            "1": {
+                "1": "one convicted of an offense for the first time"
+            }
+        },
+        "references": {}
+    }
+}

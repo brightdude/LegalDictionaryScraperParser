@@ -1,0 +1,25 @@
+{
+    "Absolute": {
+        "definition": "free from qualification",
+        "origin": "[rights that even seem have these qualifications \" Long v. Rockwood , 277 U.S. 142 (1927)\"]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "free from qualification, condition, exception, or restriction [rights that even seem have these qualifications \", 277 U.S. 142 (1927)\"] see alsoatcompare",
+                "sub_terms": {
+                    "b": "having or allowing no legal effect [an impediment]"
+                },
+                "compares": "qualified",
+                "Long v. Rockwood": "277 U.S. 142 (1927)\"] see al"
+            },
+            "2": {
+                "definition": "final and not liable to modification sometimes used after the word it modifies [divorce ] compare",
+                "compares": "nisi"
+            }
+        },
+        "references": {
+            "ownership": "https://dictionary.findlaw.com/definition/ownership.html",
+            "qualified": "https://dictionary.findlaw.com/definition/qualified.html",
+            "nisi": "https://dictionary.findlaw.com/definition/nisi.html"
+        }
+    }
+}

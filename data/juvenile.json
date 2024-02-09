@@ -1,0 +1,15 @@
+{
+    "Juvenile": {
+        "definition": "an individual who is under an age fixed by law",
+        "compare": "minor",
+        "sub_definitions": {
+            "1": {
+                "1": "an individual who is under an age fixed by law (as 18 years) at which he or she would be charged as an adult for a criminal act compare",
+                "compares": "minor"
+            }
+        },
+        "references": {
+            "minor": "https://dictionary.findlaw.com/definition/minor.html"
+        }
+    }
+}

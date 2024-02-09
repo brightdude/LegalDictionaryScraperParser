@@ -1,0 +1,18 @@
+{
+    "Pool": {
+        "definition": "an aggregation of the interests",
+        "origin": "[an insurance ]",
+        "sub_definitions": {
+            "1": {
+                "definition": "an aggregation of the interests, obligations, or undertakings of several parties working together [an insurance ]"
+            },
+            "2": {
+                "definition": "a group of people available for some purpose see alsovtto combine (as assets or votes) in a common form or effortto combine (interests) so as not to have a merger of companies considered a purchase for accounting purposes",
+                "see also": "jury pool"
+            }
+        },
+        "references": {
+            "jury pool": "https://dictionary.findlaw.com/definition/jury-pool.html"
+        }
+    }
+}

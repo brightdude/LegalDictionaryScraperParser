@@ -1,0 +1,16 @@
+{
+    "Sole Proprietorship": {
+        "definition": "a business owned and controlled by one person who is solely liable for its obligations compare corporation",
+        "compare": "corporation",
+        "sub_definitions": {
+            "1": {
+                "1": "a business owned and controlled by one person who is solely liable for its obligations compare",
+                "compares": "corporation"
+            }
+        },
+        "references": {
+            "corporation": "https://dictionary.findlaw.com/definition/corporation.html",
+            "partnership": "https://dictionary.findlaw.com/definition/partnership.html"
+        }
+    }
+}

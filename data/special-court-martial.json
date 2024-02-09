@@ -1,0 +1,16 @@
+{
+    "Special Court-Martial": {
+        "definition": "a court-martial that consists of at least three officers",
+        "compare": "general court-martial",
+        "sub_definitions": {
+            "1": {
+                "1": "a court-martial that consists of at least three officers, a trial judge advocate, and a defense counsel and that has authority to impose a limited sentence and hear only noncapital cases compare",
+                "compares": "general court-martial"
+            }
+        },
+        "references": {
+            "general court-martial": "https://dictionary.findlaw.com/definition/general-court-martial.html",
+            "summary court-martial": "https://dictionary.findlaw.com/definition/summary-court-martial.html"
+        }
+    }
+}

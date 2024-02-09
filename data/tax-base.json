@@ -1,0 +1,16 @@
+{
+    "Tax Base": {
+        "definition": "a sum",
+        "origin": "[change the tax base of a school district to reduce the property tax burden]",
+        "sub_definitions": {
+            "1": {
+                "definition": "a sum (as the total assessed valuation of property in a county) used as the basis of taxation"
+            },
+            "2": {
+                "definition": "the source of tax revenue for a governmental body [change theof a school district to reduce the property tax burden]",
+                "tax base": "of a school district to reduce the property tax burden]"
+            }
+        },
+        "references": {}
+    }
+}

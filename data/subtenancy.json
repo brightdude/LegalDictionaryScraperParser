@@ -1,0 +1,14 @@
+{
+    "Subtenancy": {
+        "definition": "the quality or state of being a subtenant 2",
+        "sub_definitions": {
+            "1": {
+                "definition": "the quality or state of being a subtenant"
+            },
+            "2": {
+                "definition": "the interest in property that one holds as a subtenant"
+            }
+        },
+        "references": {}
+    }
+}

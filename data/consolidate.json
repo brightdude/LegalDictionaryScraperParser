@@ -1,0 +1,21 @@
+{
+    "Consolidate": {
+        "definition": "to join together into one whole",
+        "origin": "[kən-sÄ -lə-dā-shən]",
+        "sub_definitions": {
+            "-dat·ing": {
+                "definition": "to join together into one whole",
+                "sub_terms": {
+                    "a": "to combine (two or more lawsuits or matters that involve a common question of law or fact) into one compare",
+                    "b": "to combine (two or more corporations) to form one new corporation compare"
+                },
+                "note": " Consolidation of matters in the federal courts is governed by Rule 42 of the Federal Rules of Civil Procedure. Consolidated cases may become one single action with a single judgment, or may retain their individual identities although tried together. The court may also try one representative case and render a judgment binding on the other cases.",
+                "compares": "merger"
+            }
+        },
+        "references": {
+            "class action": "https://dictionary.findlaw.com/definition/class-action.html",
+            "merger": "https://dictionary.findlaw.com/definition/merger.html"
+        }
+    }
+}

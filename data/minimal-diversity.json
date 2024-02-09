@@ -1,0 +1,16 @@
+{
+    "Minimal Diversity": {
+        "definition": "diversity of citizenship of the parties to a lawsuit in which at least one plaintiff is a resident from a state different from at least one defendant compare complete diversity NOTE",
+        "compare": "complete diversity",
+        "sub_definitions": {
+            "1": {
+                "1": "diversity of citizenship of the parties to a lawsuit in which at least one plaintiff is a resident from a state different from at least one defendant compare",
+                "compares": "complete diversity",
+                "note": " Diversity jurisdiction requires complete diversity. Statutory interpleader requires only minimal diversity between the claimants, however."
+            }
+        },
+        "references": {
+            "complete diversity": "https://dictionary.findlaw.com/definition/complete-diversity.html"
+        }
+    }
+}

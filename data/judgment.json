@@ -1,0 +1,131 @@
+{
+    "Judgment": {
+        "definition": "a formal decision or determination on a matter or case by a court ;esp",
+        "origin": "[jəj-mənt]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "a formal decision or determination on a matter or case by a courtin this entry compare,,,,,,",
+                "note": " Under Rule 54 of the Federal Rules of Civil Procedurejudgmentencompasses a decree and any order from which an appeal lies.",
+                "compares": "dictum"
+            },
+            "cog·no·vit judgment": {
+                "definition": "[kÄ g-nō-vit-]an acknowledgment by a debtor of the existence of a debt with agreement that an adverse judgment may be entered without notice or a hearing"
+            },
+            "consent judgment": {
+                "definition": "a judgment approved and entered by a court by consent of the parties upon agreement or stipulationat"
+            },
+            "declaratory judgment": {
+                "definition": "a judgment declaring a right or establishing the legal status or interpretation of a law or instrument [seeking athat the regulation is unconstitutional] compare,at",
+                "compares": "damage",
+                "declaratory judgment": "that the regulation is unconstitutional] compare"
+            },
+            "default judgment": {
+                "definition": "a judgment entered by a court after an entry of default against a party for failure to appear, to file a pleading, or to take other required procedural steps called alsocompareat"
+            },
+            "deficiency judgment": {
+                "definition": "a judgment in favor of a creditor for the balance of a debt that is not satisfied in full by the securitysuch a judgment following the foreclosure of a mortgage"
+            },
+            "final judgment": {
+                "definition": "a judgment that leaves nothing further to be done on a matter except execution"
+            },
+            "in personam judgment": {
+                "definition": "in this entry"
+            },
+            "in rem judgment": {
+                "definition": "in this entry"
+            },
+            "judgment by default": {
+                "definition": "in this entry"
+            },
+            "judgment in per·so·nam": {
+                "definition": "[-in-pər-sō-nəm, -per-sō-nÄ m]"
+            },
+            "judgments in personam": {
+                "definition": "in this entry"
+            },
+            "judgment in rem": {
+                "definition": "[-in-rem]"
+            },
+            "judgments in rem": {
+                "definition": "a judgment affecting the status of a particular thing (as an item of property) or subject mattera judgment rendered by a court exercising in rem jurisdiction comparein this entry",
+                "compares": "personal judgment"
+            },
+            "judgment ni·si": {
+                "definition": "[-nī-sī, -nē-sē]"
+            },
+            "judgments nisi": {
+                "definition": "a judgment that is not final or absolute [after default andrequiring them to show cause why it should not be made final \"\"]",
+                "judgment nisi": "requiring them to show cause why it should not be made final \""
+            },
+            "judgment non ob·stan·te ve·re·dic·to": {
+                "definition": "[-nÄ n-əb-stan-tē-ver-ə-dik-tō, -nȯn-ȯb-stÄ n-tā-vā-rā-dēk-tō]"
+            },
+            "judgments non obstante veredicto": {
+                "definition": "[, from Medieval Latin, notwithstanding the verdict]in this entry",
+                "non obstante veredicto": "from Medieval Latin, notwithstanding the verdic"
+            },
+            "judgment not·with·stand·ing the verdict": {
+                "definition": "a judgment that may be granted upon a motion by a defendant whose motion for a directed verdict was denied and that sets aside the jury's verdict in favor of a judgment in accordance with the motion for directed verdict called also"
+            },
+            "judgment of acquittal": {
+                "definition": "a judgment that is rendered upon motion of the defendant or the court's own motion at the close of the evidence and that acquits the defendant of one or more of the offenses charged when the evidence is insufficient to sustain a conviction called also"
+            },
+            "judgment on the merits": {
+                "definition": "a judgment made after consideration of the substantive as distinguished from procedural issues in a case"
+            },
+            "judgment on the pleadings": {
+                "definition": "in this entry"
+            },
+            "money judgment": {
+                "definition": "a judgment directing the payment of a sum of money"
+            },
+            "ni·hil-di·cit judgment": {
+                "definition": "[nī-həl-di-sit-, -dī-; nē-hil-dē-kit-]a judgment entered against a defendant who has failed to make an effective answer (as because the answer is withdrawn or does not respond to the merits of the plaintiff's case) called also"
+            },
+            "personal judgment": {
+                "definition": "a judgment determining the rights and liabilities of a particular persona judgment rendered by a court exercising personal jurisdiction over a person comparein this entry",
+                "compares": "judgment in rem"
+            },
+            "summary judgment": {
+                "definition": "judgment that may be granted upon a party's motion when the pleadings, discovery, and any affidavits show that there is no genuine issue of material fact and that the party is entitled to judgment in its favor as a matter of law",
+                "sub_terms": {
+                    "b": "an obligation (as a debt) created by a decree of a court [collection of…automobilefrom uninsured motorists \"\"]an official document embodying such a decision or decree",
+                    "c": "a declaration by a court of the conviction of a criminal defendant and the punishment to be imposed"
+                },
+                "note": " According to Rule 56 of the Federal Rules of Civil Procedure, a motion for summary judgment may be made at any time after 20 days following the commencement of the action. Summary judgment may be granted on all or on just part of a case.",
+                "s": "from uninsured motorists \""
+            },
+            "2": {
+                "definition": "the action of judgingthe mental or intellectual process of forming an opinion or making a decisionan opinion or decision so formed"
+            },
+            "business judgment": {
+                "definition": "a decision by a person or body (as a board of directors) having authority to act on behalf of a business and usually marked by reasonableness and the exercise of due carethe faculty of making such decisions"
+            },
+            "sub·sti·tut·ed judgment": {
+                "definition": "a decision regarding medical treatment made by a person (as a family member) on behalf of a person who is incompetent and unable to decide for himself or herself"
+            }
+        },
+        "references": {
+            "final judgment": "https://dictionary.findlaw.com/definition/final-judgment.html",
+            "dictum": "https://dictionary.findlaw.com/definition/dictum.html",
+            "disposition": "https://dictionary.findlaw.com/definition/disposition.html",
+            "finding": "https://dictionary.findlaw.com/definition/finding.html",
+            "holding": "https://dictionary.findlaw.com/definition/holding.html",
+            "opinion": "https://dictionary.findlaw.com/definition/opinion.html",
+            "ruling": "https://dictionary.findlaw.com/definition/ruling.html",
+            "verdict": "https://dictionary.findlaw.com/definition/verdict.html",
+            "confession of judgment": "https://dictionary.findlaw.com/definition/confession-of-judgment.html",
+            "consent decree": "https://dictionary.findlaw.com/definition/consent-decree.html",
+            "decree": "https://dictionary.findlaw.com/definition/decree.html",
+            "damage": "https://dictionary.findlaw.com/definition/damage.html",
+            "injunction": "https://dictionary.findlaw.com/definition/injunction.html",
+            "performance": "https://dictionary.findlaw.com/definition/performance.html",
+            "personal judgment": "https://dictionary.findlaw.com/definition/personal-judgment.html",
+            "judgment in rem": "https://dictionary.findlaw.com/definition/judgment-in-rem.html",
+            "default judgment": "https://dictionary.findlaw.com/definition/default-judgment.html",
+            "judgment notwithstanding the verdict": "https://dictionary.findlaw.com/definition/judgment-notwithstanding-the-verdict.html",
+            "summary judgment": "https://dictionary.findlaw.com/definition/summary-judgment.html",
+            "sentence": "https://dictionary.findlaw.com/definition/sentence.html"
+        }
+    }
+}

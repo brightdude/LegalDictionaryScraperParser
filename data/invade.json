@@ -1,0 +1,18 @@
+{
+    "Invade": {
+        "definition": "to encroach upon",
+        "origin": "[ invading a constitutional right]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to encroach upon[a constitutional right]",
+                "invading": "a constitutional right]"
+            },
+            "2": {
+                "definition": "to make payments out of (a fund from which payments are not ordinarily made) [authorized the trustee to the principal for educational expenses]"
+            }
+        },
+        "references": {
+            "infringe": "https://dictionary.findlaw.com/definition/infringe.html"
+        }
+    }
+}

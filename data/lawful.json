@@ -1,0 +1,20 @@
+{
+    "Lawful": {
+        "definition": "being in harmony with the law [a judgment] [a purpose] b",
+        "origin": "[a judgment]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "being in harmony with the law [a judgment] [a purpose]",
+                "sub_terms": {
+                    "b": "constituted, authorized, or established by law [a duty]"
+                }
+            },
+            "2": {
+                "definition": "[ citizens]"
+            }
+        },
+        "references": {
+            "law-abiding": "https://dictionary.findlaw.com/definition/law-abiding.html"
+        }
+    }
+}

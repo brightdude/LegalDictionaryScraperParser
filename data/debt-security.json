@@ -1,0 +1,8 @@
+{
+    "Debt Security": {
+        "definition": "Debt Security",
+        "references": {
+            "security": "https://dictionary.findlaw.com/definition/security.html"
+        }
+    }
+}

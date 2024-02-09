@@ -1,0 +1,11 @@
+{
+    "Solicitee": {
+        "definition": "one that is solicited",
+        "sub_definitions": {
+            "1": {
+                "1": "one that is solicited"
+            }
+        },
+        "references": {}
+    }
+}

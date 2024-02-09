@@ -1,0 +1,24 @@
+{
+    "Tenant": {
+        "definition": "one who holds or possesses property by any kind of right",
+        "origin": "[Anglo-French, from Old French, from present participle of tenir to hold, from Latin tenēre ]",
+        "compare": "lessee",
+        "sub_definitions": {
+            "1": {
+                "1": "one who holds or possesses property by any kind of right"
+            },
+            "2": {
+                "1": "one who holds a tenancy in property"
+            },
+            "3": {
+                "1": "one who possesses property in exchange for payment of rent see also",
+                "see also": "lessee",
+                "compares": "tenancy"
+            }
+        },
+        "references": {
+            "lessee": "https://dictionary.findlaw.com/definition/lessee.html",
+            "tenancy": "https://dictionary.findlaw.com/definition/tenancy.html"
+        }
+    }
+}

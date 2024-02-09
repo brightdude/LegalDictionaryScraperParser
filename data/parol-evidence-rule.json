@@ -1,0 +1,11 @@
+{
+    "Parol Evidence Rule": {
+        "definition": "a rule of document interpretation",
+        "sub_definitions": {
+            "1": {
+                "1": "a rule of document interpretation: parol evidence offered to contradict or modify a writing (as a contract or will) is not admissible when the writing is unambiguous or was intended to be a final expression of the author's wishes"
+            }
+        },
+        "references": {}
+    }
+}

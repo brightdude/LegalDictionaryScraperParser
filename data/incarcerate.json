@@ -1,0 +1,14 @@
+{
+    "Incarcerate": {
+        "definition": "imprison in·car·ce·ra·tion   [in-kÄ r-sə-rā-shən] n",
+        "origin": "[Latin incarceratus , past participle of incarcerare , from in- in + carcer prison]",
+        "sub_definitions": {
+            "-at·ing": {
+                "definition": "[Latin, past participle of, fromin +prison]"
+            }
+        },
+        "references": {
+            "imprison": "https://dictionary.findlaw.com/definition/imprison.html"
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "Split-Up": {
+        "definition": "a transfer by a corporation of all its assets in complete liquidation to two or more subsidiaries that involves the surrender of all stock by the shareholders in exchange for new stock in the transferee corporations",
+        "compare": "spin-off",
+        "sub_definitions": {
+            "1": {
+                "1": "a transfer by a corporation of all its assets in complete liquidation to two or more subsidiaries that involves the surrender of all stock by the shareholders in exchange for new stock in the transferee corporations"
+            },
+            "2": {
+                "1": "a D reorganization involving a distribution of the stock of two or more subsidiaries to the shareholders who in return surrender all their stock in the distributing corporation compare",
+                "compares": "spin-off"
+            }
+        },
+        "references": {
+            "spin-off": "https://dictionary.findlaw.com/definition/spin-off.html",
+            "split-off": "https://dictionary.findlaw.com/definition/split-off.html"
+        }
+    }
+}

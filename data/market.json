@@ -1,0 +1,31 @@
+{
+    "Market": {
+        "definition": "the rate or price at which a security or commodity is currently selling",
+        "origin": "[seeking new foreign s ]",
+        "sub_definitions": {
+            "1": {
+                "definition": "the rate or price at which a security or commodity is currently selling"
+            },
+            "2 a": {
+                "definition": "a geographical area of demand for commodities or services [seeking new foreign]",
+                "sub_terms": {
+                    "b": "a formal organized system enabling the transaction of business between buyers and sellers of commodities [a futures ] see also",
+                    "c": "a specified category of potential buyers [the youth ]"
+                },
+                "see also": "stock market"
+            },
+            "3 a": {
+                "definition": "the course of commercial activity by which the exchange of commodities is accomplished [the is quiet]",
+                "sub_terms": {
+                    "b": "an opportunity for selling [developing new]",
+                    "c": "the available supply of or potential demand for specified goods or services [the labor ] [the for durable goods]",
+                    "d": "the area of economic activity in which buyers and sellers come together and the forces of supply and demand affect prices [studying forces and behavior]"
+                }
+            }
+        },
+        "references": {
+            "market price": "https://dictionary.findlaw.com/definition/market-price.html",
+            "stock market": "https://dictionary.findlaw.com/definition/stock-market.html"
+        }
+    }
+}

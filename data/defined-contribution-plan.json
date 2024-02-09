@@ -1,0 +1,11 @@
+{
+    "Defined Contribution Plan": {
+        "definition": "a pension plan in which the amount of the contributions made by the employer is fixed in advance and earnings are distributed proportionately",
+        "sub_definitions": {
+            "1": {
+                "1": "a pension plan in which the amount of the contributions made by the employer is fixed in advance and earnings are distributed proportionately"
+            }
+        },
+        "references": {}
+    }
+}

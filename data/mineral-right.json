@@ -1,0 +1,14 @@
+{
+    "Mineral Right": {
+        "definition": "the right or title to all or specified minerals in a given tract",
+        "sub_definitions": {
+            "1": {
+                "1": "the right or title to all or specified minerals in a given tract"
+            },
+            "2": {
+                "1": "the right to explore for and extract such minerals or to receive a royalty for them"
+            }
+        },
+        "references": {}
+    }
+}

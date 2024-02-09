@@ -1,0 +1,13 @@
+{
+    "House Of Delegates": {
+        "definition": "house ;esp",
+        "sub_definitions": {
+            "2": {
+                "1": "the lower house of the state legislature in Maryland, Virginia, and West Virginia"
+            }
+        },
+        "references": {
+            "house": "https://dictionary.findlaw.com/definition/house.html"
+        }
+    }
+}

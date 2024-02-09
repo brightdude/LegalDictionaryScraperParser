@@ -1,0 +1,15 @@
+{
+    "Personalty": {
+        "definition": "personal property at property",
+        "origin": "[Anglo-French personalté , from Late Latin personalit- personalitas personality]",
+        "sub_definitions": {
+            "1": {
+                "1": "personal property"
+            }
+        },
+        "references": {
+            "personal property": "https://dictionary.findlaw.com/definition/personal-property.html",
+            "property": "https://dictionary.findlaw.com/definition/property.html"
+        }
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "Intermediate Court": {
+        "definition": "a court",
+        "sub_definitions": {
+            "1": {
+                "1": "a court (as an appeals court) beneath the court of last resort in a jurisdiction"
+            }
+        },
+        "references": {}
+    }
+}

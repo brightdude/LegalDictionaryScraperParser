@@ -1,0 +1,18 @@
+{
+    "Session": {
+        "definition": "a meeting or series of meetings of a body",
+        "sub_definitions": {
+            "1": {
+                "1": "a meeting or series of meetings of a body (as a court or legislature) for the transaction of business"
+            },
+            "2": {
+                "1": "the period between the first meeting of a legislative or judicial body and the final adjournment see also",
+                "see also": "regular session"
+            }
+        },
+        "references": {
+            "regular session": "https://dictionary.findlaw.com/definition/regular-session.html",
+            "special session": "https://dictionary.findlaw.com/definition/special-session.html"
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "Ira": {
+        "definition": "an account in which a person may deposit up to a stipulated amount each year and that is not taxable until retirement or early withdrawal NOTE",
+        "origin": "[ i ndividual r etirement a ccount]",
+        "sub_definitions": {
+            "1": {
+                "1": "an account in which a person may deposit up to a stipulated amount each year and that is not taxable until retirement or early withdrawal",
+                "note": " Deposits to an IRA may not be completely or partially deductible from adjusted gross income if one's income exceeds a set level."
+            }
+        },
+        "references": {}
+    }
+}

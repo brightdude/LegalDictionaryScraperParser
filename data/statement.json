@@ -1,0 +1,23 @@
+{
+    "Statement": {
+        "definition": "an official or formal report or declaration [a of policy] b",
+        "origin": "[a of policy]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "an official or formal report or declaration [a of policy]",
+                "sub_terms": {
+                    "b": "an oral or written assertion (as by a witness) or conduct intended as an assertion see also,,"
+                },
+                "see also": "hearsay"
+            },
+            "2": {
+                "definition": "a financial record or accounting"
+            }
+        },
+        "references": {
+            "hearsay": "https://dictionary.findlaw.com/definition/hearsay.html",
+            "prior consistent statement": "https://dictionary.findlaw.com/definition/prior-consistent-statement.html",
+            "prior inconsistent statement": "https://dictionary.findlaw.com/definition/prior-inconsistent-statement.html"
+        }
+    }
+}

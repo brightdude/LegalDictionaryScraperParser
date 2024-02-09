@@ -1,0 +1,17 @@
+{
+    "Federalism": {
+        "definition": "distribution of power in a federation between the central authority and the constituent units",
+        "compare": "comity",
+        "sub_definitions": {
+            "1": {
+                "1": "distribution of power in a federation between the central authority and the constituent units (as states) involving esp. the allocation of significant lawmaking powers to those constituent units compare",
+                "compares": "comity"
+            }
+        },
+        "references": {
+            "comity": "https://dictionary.findlaw.com/definition/comity.html",
+            "full faith and credit": "https://dictionary.findlaw.com/definition/full-faith-and-credit.html",
+            "states' rights": "https://dictionary.findlaw.com/definition/states-rights.html"
+        }
+    }
+}

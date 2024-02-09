@@ -1,0 +1,22 @@
+{
+    "Money": {
+        "definition": "moneys or",
+        "origin": "[mə-nēz]",
+        "sub_definitions": {
+            "mon·ies": {
+                "definition": "[mə-nēz]"
+            },
+            "1": {
+                "definition": "an accepted or authorized medium of exchangecoinage or negotiable paper issued as legal tender by a government"
+            },
+            "2 a": {
+                "definition": "assets or compensation in the form of or readily convertible into cash",
+                "sub_terms": {
+                    "b": "capital dealt in as a commodity to be lent, traded, or invested [mortgage available from a lender] [the supply]",
+                    "c": "sums of money [collect tax]"
+                }
+            }
+        },
+        "references": {}
+    }
+}

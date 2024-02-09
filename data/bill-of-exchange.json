@@ -1,0 +1,8 @@
+{
+    "Bill Of Exchange": {
+        "definition": "Bill Of Exchange",
+        "references": {
+            "bill": "https://dictionary.findlaw.com/definition/bill.html"
+        }
+    }
+}

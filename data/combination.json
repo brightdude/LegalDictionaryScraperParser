@@ -1,0 +1,27 @@
+{
+    "Combination": {
+        "definition": "an alliance of individuals",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "an alliance of individuals, states, or esp. corporations united to achieve a common (as economic) end see alsocompare,",
+                "sub_terms": {
+                    "b": ""
+                },
+                "compares": "joint venture",
+                "see also": "combination in restraint of trade"
+            },
+            "2": {
+                "definition": "a union of old or new elements or parts that is patentable because it produces a new and useful result compare,",
+                "compares": "aggregation"
+            }
+        },
+        "references": {
+            "combination in restraint of trade": "https://dictionary.findlaw.com/definition/combination-in-restraint-of-trade.html",
+            "joint venture": "https://dictionary.findlaw.com/definition/joint-venture.html",
+            "merger": "https://dictionary.findlaw.com/definition/merger.html",
+            "conspiracy": "https://dictionary.findlaw.com/definition/conspiracy.html",
+            "aggregation": "https://dictionary.findlaw.com/definition/aggregation.html",
+            "equivalent": "https://dictionary.findlaw.com/definition/equivalent.html"
+        }
+    }
+}

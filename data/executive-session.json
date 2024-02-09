@@ -1,0 +1,15 @@
+{
+    "Executive Session": {
+        "definition": "a closed session",
+        "compare": "legislative session",
+        "sub_definitions": {
+            "1": {
+                "1": "a closed session (as of the U.S. Senate) in which executive business (as consideration of appointments or ratification of treaties) is taken care of compare",
+                "compares": "legislative session"
+            }
+        },
+        "references": {
+            "legislative session": "https://dictionary.findlaw.com/definition/legislative-session.html"
+        }
+    }
+}

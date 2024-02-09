@@ -1,0 +1,17 @@
+{
+    "Hold Harmless": {
+        "definition": "of",
+        "origin": "[a hold harmless agreement]",
+        "compare": "release",
+        "sub_definitions": {
+            "1": {
+                "1": "of, relating to, or being an agreement between parties in which one assumes the potential liability for injury that may arise from a situation and thus relieves the other of liability [a",
+                "hold harmless": "clause] compare",
+                "compares": "release"
+            }
+        },
+        "references": {
+            "release": "https://dictionary.findlaw.com/definition/release.html"
+        }
+    }
+}

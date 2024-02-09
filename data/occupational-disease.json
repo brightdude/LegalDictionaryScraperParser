@@ -1,0 +1,15 @@
+{
+    "Occupational Disease": {
+        "definition": "an ailment that results from the characteristic conditions or functions of one's employment rather than from the ordinary risks to which the general public is exposed and that renders one eligible for workers' compensation compare disability",
+        "compare": "disability",
+        "sub_definitions": {
+            "1": {
+                "1": "an ailment that results from the characteristic conditions or functions of one's employment rather than from the ordinary risks to which the general public is exposed and that renders one eligible for workers' compensation compare",
+                "compares": "disability"
+            }
+        },
+        "references": {
+            "disability": "https://dictionary.findlaw.com/definition/disability.html"
+        }
+    }
+}

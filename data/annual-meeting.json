@@ -1,0 +1,16 @@
+{
+    "Annual Meeting": {
+        "definition": "a meeting of shareholders that the law requires a corporation to hold each year for the election of directors and the transaction of other business compare special meeting NOTE",
+        "compare": "special meeting",
+        "sub_definitions": {
+            "1": {
+                "1": "a meeting of shareholders that the law requires a corporation to hold each year for the election of directors and the transaction of other business compare",
+                "compares": "special meeting",
+                "note": " In order for a vote taken at an annual meeting to be valid, shareholders must have received notice of the time, place, and date of the meeting within a certain period, and there must be enough shareholders present to make a quorum."
+            }
+        },
+        "references": {
+            "special meeting": "https://dictionary.findlaw.com/definition/special-meeting.html"
+        }
+    }
+}

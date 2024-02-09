@@ -1,0 +1,25 @@
+{
+    "Preemption": {
+        "definition": "the right of purchasing before others",
+        "origin": "[Medieval Latin praeemption- praeemptio previous purchase, from praeemere to buy before]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "the right of purchasing before others",
+                "sub_terms": {
+                    "b": "a right to purchase a tract of public land before others that was given by the government to the actual occupant of the land"
+                },
+                "note": " This sense ofpreemptionis primarily of historical importance."
+            },
+            "2": {
+                "definition": "a doctrine in conflicts of law: when a superior government (as of a state) has undertaken to regulate a subject its laws supersede those of an inferior government (as of a municipality)",
+                "note": " According to the doctrine of preemption, federal law supersedes state law when federal law is in conflict with a state law on a subject or when there is congressional intent to regulate a subject to the exclusion of the states. Federal preemption is based on the supremacy clause of the U.S. Constitution and is closely related to the powers granted Congress in the commerce clause."
+            },
+            "3": {
+                "definition": "an act or instance of preempting"
+            }
+        },
+        "references": {
+            "preemptive right": "https://dictionary.findlaw.com/definition/preemptive-right.html"
+        }
+    }
+}

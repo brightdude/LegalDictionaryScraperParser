@@ -1,0 +1,19 @@
+{
+    "Ordinary": {
+        "definition": "of a kind to be expected from the average person or in the normal course of events ;broadly",
+        "origin": "[an proceeding]",
+        "compare": "extraordinary",
+        "sub_definitions": {
+            "1": {
+                "1": "of a kind to be expected from the average person or in the normal course of events"
+            },
+            "2": {
+                "1": "of a common kind or degree [an proceeding] compare",
+                "compares": "extraordinary"
+            }
+        },
+        "references": {
+            "extraordinary": "https://dictionary.findlaw.com/definition/extraordinary.html"
+        }
+    }
+}

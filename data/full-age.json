@@ -1,0 +1,13 @@
+{
+    "Full Age": {
+        "definition": "age of majority",
+        "sub_definitions": {
+            "1": {
+                "1": "age of majority"
+            }
+        },
+        "references": {
+            "age of majority": "https://dictionary.findlaw.com/definition/age-of-majority.html"
+        }
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "Waste": {
+        "definition": "destruction of or damage to property that is caused by the act or omission of one",
+        "origin": "[an action for ]",
+        "sub_definitions": {
+            "1": {
+                "definition": "destruction of or damage to property that is caused by the act or omission of one (as a lessee, mortgagor, or life tenant) having a lesser estate and is usually to the injury of another (as an heir, mortgagee, or remainderman) with an interest in the same property [an action for ]"
+            },
+            "ame·lio·rat·ing waste": {
+                "definition": "[ə-mēl-yə-rā-ti-]waste that leads to improvement of property (as by clearing the way for rebuilding something) called also"
+            },
+            "permissive waste": {
+                "definition": "waste caused by the failure of a tenant to take ordinary or proper care of the property"
+            },
+            "voluntary waste": {
+                "definition": "waste caused by the intentional commission of a destructive act by a tenant"
+            },
+            "2": {
+                "definition": "a reduction of the value of assets (as in a trust) caused by a failure to exercise proper care or sound judgment in managing thema transfer of corporate assets (as through excessive executive compensation or a merger) for no legitimate business purpose or for less than what a person of ordinary sound business judgment would consider to be adequate consideration [the essence of a claim of of corporate assets is the diversion of corporate assets for improper or unnecessary purposes \", 407 A.2d 211 (1979)\"]",
+                "note": " Waste injures the interests of shareholders.",
+                "Michelson v. Duncan": "407 A.2d 211 (1979)"
+            }
+        },
+        "references": {}
+    }
+}

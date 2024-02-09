@@ -1,0 +1,32 @@
+{
+    "Join": {
+        "definition": "to unite so as to form one unit [ the claims in one action] 2 a",
+        "origin": "[ the claims in one action]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to come together so as to form a unit [the other victims of the schemein the suit]",
+                "ed": "in the suit]"
+            },
+            "2 a": {
+                "definition": "to align oneself with esp. in a legal matter [sheher husband as plaintiff]",
+                "sub_terms": {
+                    "b": "to cause or order (a person) to become a party to a lawsuit [if the person has not been so, the court shall order that the person be made a party \"Rule 19(a)\"] compare,,,",
+                    "c": "to enter into or participate in [ the suit]"
+                },
+                "compares": "consolidate",
+                "ed": "the court shall order that the person be made a party",
+                "Federal Rules of Civil Procedure": "Rule 19(a)\"] compare"
+            },
+            "2": {
+                "definition": "to commence involvement or participation [if the person should as a plaintiff but refuses to do so, the person may be made a defendant, or…an involuntary plaintiff \"Rule 19(a)\"]",
+                "Federal Rules of Civil Procedure": "Rule 19(a)\"]"
+            }
+        },
+        "references": {
+            "consolidate": "https://dictionary.findlaw.com/definition/consolidate.html",
+            "implead": "https://dictionary.findlaw.com/definition/implead.html",
+            "interplead": "https://dictionary.findlaw.com/definition/interplead.html",
+            "intervene": "https://dictionary.findlaw.com/definition/intervene.html"
+        }
+    }
+}

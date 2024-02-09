@@ -1,0 +1,13 @@
+{
+    "Tax Sale Certificate": {
+        "definition": "tax certificate",
+        "sub_definitions": {
+            "1": {
+                "1": "tax certificate"
+            }
+        },
+        "references": {
+            "tax certificate": "https://dictionary.findlaw.com/definition/tax-certificate.html"
+        }
+    }
+}

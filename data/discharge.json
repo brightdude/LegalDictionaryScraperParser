@@ -1,0 +1,67 @@
+{
+    "Discharge": {
+        "definition": "to release from an obligation",
+        "origin": "[a formal instrument…may be discharged by either cancellation or surrender \"J. D. Calamari and J. M. Perillo\"]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to release from an obligation",
+                "sub_terms": {
+                    "a": "to relieve of a duty under an instrument (as a contract or a negotiable instrument)to render (an instrument) no longer enforceable [a formal instrument…may beby either cancellation or surrender \"J. D. Calamari and J. M. Perillo\"]",
+                    "b": "to release (a debtor in bankruptcy) from liability for his or her debts"
+                },
+                "discharged": "by either cancellation or surrender \"J. D. Calamari and J. M. Perillo\"]"
+            },
+            "2": {
+                "definition": "the state of being discharged or released [a party seeking a total ]"
+            },
+            "3 a": {
+                "definition": "to dismiss from employmentterminate the employment of",
+                "sub_terms": {
+                    "b": "to release from service or duty [ a jury] [ a witness]"
+                }
+            },
+            "4 a": {
+                "definition": "to get rid of (as a debt or obligation) by performing an appropriate action",
+                "sub_terms": {
+                    "b": "to fulfill a requirement for [evidence which is required to the burden of going forward \"W. R. LaFave and A. W. Scott, Jr.\"]"
+                }
+            },
+            "5": {
+                "definition": "to order (a legislative committee) to end consideration of a bill in order to bring it before the house for action"
+            },
+            "dis·charge·able   [dis-chÄ r-jə-bəl]adj": {
+                "definition": "[dis-chÄ rj] n"
+            },
+            "1 a": {
+                "definition": "the act of relieving of something that burdens or oppresses",
+                "sub_terms": {
+                    "b": "something that discharges or releasesa certification of or a document proving release or payment"
+                }
+            },
+            "3": {
+                "definition": "release from confinement [ordering a conditional of the alien on habeas corpus \"\"]"
+            },
+            "4": {
+                "definition": "the act of removing an obligation or liability (as by payment of a debt or performance of a duty)"
+            },
+            "5 a": {
+                "definition": "a dismissal from employment or office"
+            },
+            "constructive discharge": {
+                "definition": "discharge of an employee effected by making the employee's working conditions so intolerable that he or she reasonably feels compelled to resign"
+            },
+            "retaliatory discharge": {
+                "definition": "a wrongful discharge that is done in retaliation for an employee's conduct (as reporting an employer's criminal activity) and that clearly violates public policy"
+            },
+            "wrongful discharge": {
+                "definition": "discharge of an employee for illegal reasons or for reasons that are contrary to public policy (as in retaliation for the employee's refusal to engage in unlawful activity)",
+                "sub_terms": {
+                    "b": "a release from service or duty"
+                }
+            }
+        },
+        "references": {
+            "release": "https://dictionary.findlaw.com/definition/release.html"
+        }
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "Probation": {
+        "definition": "subjection to a period of evaluation and possible termination at the commencement of employment in a position for which one's fitness is to be determined b",
+        "origin": "[Middle French, critical examination and evaluation, from Latin probation- probatio , from probare to test, approve, prove]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "subjection to a period of evaluation and possible termination at the commencement of employment in a position for which one's fitness is to be determined",
+                "sub_terms": {
+                    "b": "subjection to a period of review in the course of employment or education as a result of a violation of standards and with the possibility of dismissal if standards are not met"
+                }
+            },
+            "2 a": {
+                "definition": "the suspension of all or part of a sentence and its replacement by freedom subject to specific conditions and the supervision of a probation officer [it is the intent of the legislature that the granting of shall be a matter of grace conferring no vested right to its continuance \"\"] compare,",
+                "sub_terms": {
+                    "b": "probation as a sentence in itself",
+                    "c": "the period or state of being subject to probation [arrested while on ]"
+                },
+                "compares": "diversion"
+            }
+        },
+        "references": {
+            "diversion": "https://dictionary.findlaw.com/definition/diversion.html",
+            "parole": "https://dictionary.findlaw.com/definition/parole.html"
+        }
+    }
+}

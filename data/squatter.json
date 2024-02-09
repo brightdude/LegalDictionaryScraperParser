@@ -1,0 +1,12 @@
+{
+    "Squatter": {
+        "definition": "a person who occupies real property without a claim of right or title NOTE",
+        "sub_definitions": {
+            "1": {
+                "1": "a person who occupies real property without a claim of right or title",
+                "note": " In most jurisdictions, a squatter cannot gain title to land through adverse possession because adverse possession requires possession of the property under a claim of right or color of title."
+            }
+        },
+        "references": {}
+    }
+}

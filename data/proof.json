@@ -1,0 +1,32 @@
+{
+    "Proof": {
+        "definition": "the effect of evidence sufficient to persuade a reasonable person that a particular fact exists see also evidence 2",
+        "origin": "[alteration of Middle English preove , from Old French preuve , from Late Latin proba , from Latin probare to prove]",
+        "sub_definitions": {
+            "1": {
+                "definition": "the effect of evidence sufficient to persuade a reasonable person that a particular fact exists see also",
+                "see also": "evidence"
+            },
+            "2": {
+                "definition": "the establishment or persuasion by evidence that a particular fact exists see also",
+                "see also": "burden of proof"
+            },
+            "3": {
+                "definition": "something (as evidence) that proves or tends to prove the existence of a particular fact see also,,,compare,",
+                "compares": "allegation",
+                "see also": "clear and convincing"
+            }
+        },
+        "references": {
+            "evidence": "https://dictionary.findlaw.com/definition/evidence.html",
+            "burden of proof": "https://dictionary.findlaw.com/definition/burden-of-proof.html",
+            "clear and convincing": "https://dictionary.findlaw.com/definition/clear-and-convincing.html",
+            "preponderance of the evidence": "https://dictionary.findlaw.com/definition/preponderance-of-the-evidence.html",
+            "reasonable doubt": "https://dictionary.findlaw.com/definition/reasonable-doubt.html",
+            "standard of proof": "https://dictionary.findlaw.com/definition/standard-of-proof.html",
+            "allegation": "https://dictionary.findlaw.com/definition/allegation.html",
+            "argument": "https://dictionary.findlaw.com/definition/argument.html",
+            "probate": "https://dictionary.findlaw.com/definition/probate.html"
+        }
+    }
+}

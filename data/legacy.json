@@ -1,0 +1,42 @@
+{
+    "Legacy": {
+        "definition": "-cies [Medieval Latin legatio",
+        "origin": "[Medieval Latin legatio , from Latin legare to bequeath]",
+        "sub_definitions": {
+            "-cies": {
+                "definition": "[Medieval Latin, from Latinto bequeath]a gift of property by willa gift of personal property by willsee alsocompare",
+                "compares": "devise",
+                "see also": "ademption"
+            },
+            "conjoint legacy": {
+                "definition": "a legacy by a single disposition to more than one legatee or of indivisible property to more than one legatee"
+            },
+            "de·mon·stra·tive legacy": {
+                "definition": "[di-mÄ n-strə-tiv-]a legacy payable from a designated fund or asset or from the general assets of the estate to the extent the specified fund or asset fails to satisfy the legacy"
+            },
+            "general legacy": {
+                "definition": "a legacy payable out of the general assets of the estate"
+            },
+            "legacy under a universal title": {
+                "definition": "a legacy that consists of a specified proportion (as one-half), a specified type (as movables), or a specified proportion of a specified type of the testator's property"
+            },
+            "par·tic·u·lar legacy": {
+                "definition": "any legacy that is not a universal legacy or a legacy under a universal title called also"
+            },
+            "residuary legacy": {
+                "definition": "a legacy that consists of all of the testator's estate which has not been distributed through other legacies or charges upon the estate"
+            },
+            "specific legacy": {
+                "definition": "a legacy payable only from a specific fund or asset in the estate"
+            },
+            "uni·ver·sal legacy": {
+                "definition": "a legacy by which a testator gives to one or more legatees all of his or her property at the time of death"
+            }
+        },
+        "references": {
+            "bequest": "https://dictionary.findlaw.com/definition/bequest.html",
+            "ademption": "https://dictionary.findlaw.com/definition/ademption.html",
+            "devise": "https://dictionary.findlaw.com/definition/devise.html"
+        }
+    }
+}

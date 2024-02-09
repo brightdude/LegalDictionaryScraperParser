@@ -1,0 +1,19 @@
+{
+    "Forcible Entry": {
+        "definition": "the unlawful taking of possession of real property by force or threats of force against the lawful possessor see also forcible entry and detainer 2",
+        "origin": "[ forcible entry of an automobile]",
+        "sub_definitions": {
+            "1": {
+                "definition": "the unlawful taking of possession of real property by force or threats of force against the lawful possessor see also",
+                "see also": "forcible entry and detainer"
+            },
+            "2": {
+                "definition": "unlawful entry into or onto another's property esp. when accompanied by force [of an automobile]",
+                "forcible entry": "of an automobile]"
+            }
+        },
+        "references": {
+            "forcible entry and detainer": "https://dictionary.findlaw.com/definition/forcible-entry-and-detainer.html"
+        }
+    }
+}

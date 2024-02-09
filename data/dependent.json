@@ -1,0 +1,24 @@
+{
+    "Dependent": {
+        "definition": "determined or conditioned by another",
+        "origin": "[have the child declared and taken away from his or her parents \"L. H. Tribe\"]",
+        "sub_definitions": {
+            "1": {
+                "definition": "determined or conditioned by another"
+            },
+            "2 a": {
+                "definition": "relying on another for esp. financial support",
+                "sub_terms": {
+                    "b": "lacking the necessary means of support or protection and in need of aid from others (as a public agency) [have the child declared and taken away from his or her parents \"L. H. Tribe\"]"
+                }
+            },
+            "3": {
+                "definition": "subject to another's jurisdiction [the United States and its territories]na person who is dependenta close relative or member of a taxpayer's household who receives over half of his or her support from the taxpayer and is a U.S. citizen, national, or resident, or a resident of a bordering country (as Mexico) see alsoat"
+            }
+        },
+        "references": {
+            "contingent": "https://dictionary.findlaw.com/definition/contingent.html",
+            "exemption": "https://dictionary.findlaw.com/definition/exemption.html"
+        }
+    }
+}

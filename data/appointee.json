@@ -1,0 +1,14 @@
+{
+    "Appointee": {
+        "definition": "a person who is appointed to a position 2",
+        "sub_definitions": {
+            "1": {
+                "definition": "a person who is appointed to a position"
+            },
+            "2": {
+                "definition": "a person to whom property is appointed under a power of appointment"
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "Unlawful Detainer": {
+        "definition": "the act of wrongfully remaining in possession of property",
+        "sub_definitions": {
+            "1": {
+                "definition": "the act of wrongfully remaining in possession of property (as after expiration of a lease)"
+            },
+            "2": {
+                "definition": "an action intended to remedy unlawful detainer by restoring possession of property to its owner called also"
+            }
+        },
+        "references": {}
+    }
+}

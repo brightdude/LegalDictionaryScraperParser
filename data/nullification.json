@@ -1,0 +1,17 @@
+{
+    "Nullification": {
+        "definition": "the act of nullifying",
+        "sub_definitions": {
+            "1": {
+                "1": "the act of nullifying"
+            },
+            "2": {
+                "1": "the state of being nullified see also",
+                "see also": "jury nullification"
+            }
+        },
+        "references": {
+            "jury nullification": "https://dictionary.findlaw.com/definition/jury-nullification.html"
+        }
+    }
+}

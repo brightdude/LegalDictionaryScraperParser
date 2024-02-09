@@ -1,0 +1,8 @@
+{
+    "Leasehold Mortgage": {
+        "definition": "Leasehold Mortgage",
+        "references": {
+            "mortgage": "https://dictionary.findlaw.com/definition/mortgage.html"
+        }
+    }
+}

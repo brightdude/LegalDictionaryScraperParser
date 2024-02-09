@@ -1,0 +1,18 @@
+{
+    "Burden Of Proof": {
+        "definition": "the responsibility of producing sufficient evidence in support of a fact or issue and favorably persuading the trier of fact",
+        "origin": "[the burden of proof is sometimes upon the defendant to show his incompetency \"W. R. LaFave and A. W. Scott, Jr.\"]",
+        "compare": "standard of proof",
+        "sub_definitions": {
+            "1": {
+                "1": "the responsibility of producing sufficient evidence in support of a fact or issue and favorably persuading the trier of fact (as a judge or jury) regarding that fact or issue [the",
+                "burden of proof": "is sometimes upon the defendant to show his incompetency \"W. R. LaFave and A. W. Scott, Jr.\"] compare",
+                "compares": "standard of proof",
+                "note": " The legal concept of the burden of proof encompasses both the burdens of production and persuasion.Burden of proofis often used to refer to one or the other.Burden of proofandburden of persuasionare also sometimes used to refer to the standard of proof."
+            }
+        },
+        "references": {
+            "standard of proof": "https://dictionary.findlaw.com/definition/standard-of-proof.html"
+        }
+    }
+}

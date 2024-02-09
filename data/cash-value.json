@@ -1,0 +1,13 @@
+{
+    "Cash Value": {
+        "definition": "market value",
+        "sub_definitions": {
+            "1": {
+                "1": "market value"
+            }
+        },
+        "references": {
+            "market value": "https://dictionary.findlaw.com/definition/market-value.html"
+        }
+    }
+}

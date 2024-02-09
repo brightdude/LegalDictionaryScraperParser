@@ -1,0 +1,11 @@
+{
+    "County Attorney": {
+        "definition": "a district attorney for a county",
+        "sub_definitions": {
+            "1": {
+                "1": "a district attorney for a county"
+            }
+        },
+        "references": {}
+    }
+}

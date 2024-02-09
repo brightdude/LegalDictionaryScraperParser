@@ -1,0 +1,20 @@
+{
+    "Cruel And Unusual Punishment": {
+        "definition": "punishment that is offensive to the contemporary morality or jurisprudence",
+        "origin": "[nor cruel and unusual punishments inflicted \" U.S. Constitution amend. VIII\"]",
+        "compare": "corporal punishment",
+        "sub_definitions": {
+            "1": {
+                "1": "punishment that is offensive to the contemporary morality or jurisprudence (as by being degrading, inflicting unnecessary and intentional pain, or being disproportionate to the offense) [nor",
+                "U.S. Constitution": "amend. VIII\"] see also",
+                "Gregg v. Georgia": "in the Important Cases section compare",
+                "compares": "corporal punishment",
+                "note": " A cruel and unusual punishment is essentially one that the courts consider to violate the Eighth Amendment based on a variety of criteria. The interpretation of what constitutes cruel and unusual punishment has changed over time and has varied from jurisdiction to jurisdiction. Most forms of corporal punishment formerly used at common law have been found to be cruel and unusual punishments. The U.S. Supreme Court has held that the death penalty in itself does not constitute cruel and unusual punishment, although mandatory death sentences do."
+            }
+        },
+        "references": {
+            "corporal punishment": "https://dictionary.findlaw.com/definition/corporal-punishment.html",
+            "death penalty": "https://dictionary.findlaw.com/definition/death-penalty.html"
+        }
+    }
+}

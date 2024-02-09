@@ -1,0 +1,11 @@
+{
+    "Bookmaker": {
+        "definition": "a person who determines odds and receives and pays off bets called also bookie",
+        "sub_definitions": {
+            "1": {
+                "1": "a person who determines odds and receives and pays off bets called also"
+            }
+        },
+        "references": {}
+    }
+}

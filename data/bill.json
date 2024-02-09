@@ -1,0 +1,165 @@
+{
+    "Bill": {
+        "definition": "a draft of a law presented to a legislature for enactment ;also",
+        "origin": "[the GI ]",
+        "sub_definitions": {
+            "1": {
+                "definition": "a legislative act formerly permitted that attainted a person and imposed a sentence of death without benefit of a judicial trial see alsocomparein this entry",
+                "compares": "bill of pains and penalties",
+                "see also": "attainder"
+            },
+            "ap·pro·pri·a·tions bill": {
+                "definition": "[ə-prō-prē-ā-shənz-]a bill providing money for government expenses and programs",
+                "note": " Appropriations bills originate in the House of Representatives."
+            },
+            "2": {
+                "definition": "the pleading used to begin a suit in equity that sets forth the basis for one's claim against another called also"
+            },
+            "bill of pains and penalties": {
+                "definition": "a legislative act formerly permitted that imposed a punishment less severe than death without benefit of a judicial trial comparein this entry",
+                "note": " The termbill of attainderis often used to include bills of pains and penalties. Bills of pains and penalties are included in the constitutional ban on bills of attainder.",
+                "compares": "bill of attainder"
+            },
+            "clean bill": {
+                "definition": "a bill in its form as amended and newly introduced to the legislature by a legislative committee"
+            },
+            "engrossed bill": {
+                "definition": "a bill printed in the form in which it was passed by one chamber of Congress and certified by the appropriate legislative official"
+            },
+            "enrolled bill": {
+                "definition": "a copy of a bill in the form in which it is passed in the legislature including all changes introduced before enactment that is kept as evidence of the law"
+            },
+            "House bill": {
+                "definition": "a bill originating in the House of Representatives"
+            },
+            "money bill": {
+                "definition": "in this entry"
+            },
+            "om·ni·bus bill": {
+                "definition": "[Ä m-ni-bəs-]a bill that includes a number of miscellaneous provisions or appropriations"
+            },
+            "private bill": {
+                "definition": "a bill affecting a particular person, organization, or locality as distinguished from all the people or the whole area of a political unit"
+            },
+            "public bill": {
+                "definition": "a bill affecting the community (as a nation or state) at large"
+            },
+            "revenue bill": {
+                "definition": "a bill (as for imposing a tax) for raising money for any public purpose called also",
+                "note": " The U.S. Constitution requires all bills for raising revenue to originate in the House of Representatives."
+            },
+            "3 a": {
+                "definition": "a form or device of procedure used in civil actions"
+            },
+            "bill in the na·ture of a bill of review": {
+                "definition": "an equitable bill seeking to have a court decree set aside that is brought by someone who was not a party to the original suit usually before the decree is entered in the record comparein this entry",
+                "note": " Bills in the nature of a bill of review were abolished in federal practice by Federal Rule of Civil Procedure 60(b).",
+                "compares": "bill of review"
+            },
+            "bill in the na·ture of interpleader": {
+                "definition": "a bill of interpleader in which the plaintiff is allowed to claim an interest in the subject matter of the suit comparein this entry",
+                "note": " In federal practice, bills in the nature of interpleader have been abandoned in favor of interpleader as described in Federal Rule of Civil Procedure 22.",
+                "compares": "bill of interpleader"
+            },
+            "bill of complaint": {
+                "definition": "used esp. in equity actions"
+            },
+            "bill of costs": {
+                "definition": "a bill setting forth the expenses in connection with a suit that a party seeks to have paid by an opposing party"
+            },
+            "bill of exceptions": {
+                "definition": "a bill setting forth the exceptions and objections to rulings made at trial and the evidence relevant to them for the purpose of appeal or other review",
+                "note": " Bills of exceptions are no longer required in federal practice under the Federal Rules of Civil Procedure, but they are still used in some state courts."
+            },
+            "bill of interpleader": {
+                "definition": "a bill brought by a plaintiff who seeks a court determination of the conflicting claims of two or more defendants to the subject matter of the suit (as money owed by the plaintiff) and who has no interest in the subject matter and no preference as to which defendant prevails called alsocomparein this entry",
+                "note": " Under most modern rules of procedure, the requirements for interpleader have been relaxed and the distinction between a bill of interpleader and a bill in the nature of interpleader no longer exists.",
+                "compares": "bill in the nature of interpleader"
+            },
+            "bill of par·tic·u·lars": {
+                "definition": "[-pər-ti-kyə-lərz]a bill that a defendant may request in which the prosecution sets out in detail the facts forming the basis for the criminal charges against the defendant"
+            },
+            "bill of peace": {
+                "definition": "an equitable bill used to settle the rights of parties in one suit and avoid repeated litigation"
+            },
+            "bill of review": {
+                "definition": "an equitable bill used to start a suit to have the final judgment of a previous suit set aside comparein this entry",
+                "note": " Bills of review are used when another device for review, such as appeal, is not available, as when the period to bring it has expired. Bills of review are abolished in federal practice by Federal Rule of Civil Procedure 60(b).",
+                "compares": "bill in the nature of a bill of review"
+            },
+            "creditor's bill": {
+                "definition": "an equitable bill by which a creditor who has won a court judgment against a debtor can compel payment from the debtor out of the property that is not otherwise reachable by legal process"
+            },
+            "cross bill": {
+                "definition": "an equitable bill by which a party to a suit can bring a claim against any other party",
+                "note": " Under Federal Rule of Civil Procedure 13, cross bills are replaced by counterclaims and cross-claims."
+            },
+            "strict bill of interpleader": {
+                "definition": "in this entry",
+                "sub_terms": {
+                    "b": "a device or instrument used in criminal procedure"
+                }
+            },
+            "bill of indictment": {
+                "definition": "an instrument that contains the charges against a defendant and that is presented to a grand jury for determination after a preliminary hearing whether there is enough evidence to issue an indictment called alsocompareandin this entry",
+                "compares": "no bill"
+            },
+            "no bill": {
+                "definition": "a bill returned by a grand jury that has determined the evidence in a bill of indictment to be insufficient to warrant prosecutionthe finding of the grand jury that the evidence is insufficient called also"
+            },
+            "true bill": {
+                "definition": "a bill returned by a grand jury that has found the evidence in a bill of indictment sufficient to warrant prosecution"
+            },
+            "4": {
+                "definition": "an itemized account of goods sold, services performed, or work done"
+            },
+            "5": {
+                "definition": "a written instrument setting out the terms of a transaction involving goods",
+                "sub_terms": {
+                    "a": "",
+                    "b": ""
+                }
+            },
+            "6": {
+                "definition": "a piece of paper money"
+            },
+            "7": {
+                "definition": "a written instrument providing proof of an obligation to pay money"
+            },
+            "bill of credit": {
+                "definition": "an instrument written by a banker certifying to another that a person named in the instrument is entitled to draw on the banker's funds or credit up to a certain amount"
+            },
+            "bill of exchange": {
+                "definition": "an instrument by one party directing another party to pay a named third party or anyone bearing it a specific amount of money on a named future date or on demand"
+            },
+            "due bill": {
+                "definition": "a bill given by a bank to the purchaser of a security in place of the security itself that entitles the purchaser to receive payment upon presentation"
+            },
+            "Treasury bill": {
+                "definition": "a short-term obligation sold by the government at a discount that bears no interest but is payable at its face value at maturity compareatat"
+            }
+        },
+        "references": {
+            "attainder": "https://dictionary.findlaw.com/definition/attainder.html",
+            "bill of pains and penalties": "https://dictionary.findlaw.com/definition/bill-of-pains-and-penalties.html",
+            "bill of attainder": "https://dictionary.findlaw.com/definition/bill-of-attainder.html",
+            "revenue bill": "https://dictionary.findlaw.com/definition/revenue-bill.html",
+            "bill of review": "https://dictionary.findlaw.com/definition/bill-of-review.html",
+            "bill of interpleader": "https://dictionary.findlaw.com/definition/bill-of-interpleader.html",
+            "interpleader": "https://dictionary.findlaw.com/definition/interpleader.html",
+            "complaint": "https://dictionary.findlaw.com/definition/complaint.html",
+            "bill in the nature of interpleader": "https://dictionary.findlaw.com/definition/bill-in-the-nature-of-interpleader.html",
+            "bill in the nature of a bill of review": "https://dictionary.findlaw.com/definition/bill-in-the-nature-of-a-bill-of-review.html",
+            "no bill": "https://dictionary.findlaw.com/definition/no-bill.html",
+            "true bill": "https://dictionary.findlaw.com/definition/true-bill.html",
+            "information": "https://dictionary.findlaw.com/definition/information.html",
+            "indictment": "https://dictionary.findlaw.com/definition/indictment.html",
+            "bill of lading": "https://dictionary.findlaw.com/definition/bill-of-lading.html",
+            "bill of sale": "https://dictionary.findlaw.com/definition/bill-of-sale.html",
+            "letter of credit": "https://dictionary.findlaw.com/definition/letter-of-credit.html",
+            "draft": "https://dictionary.findlaw.com/definition/draft.html",
+            "bond": "https://dictionary.findlaw.com/definition/bond.html",
+            "note": "https://dictionary.findlaw.com/definition/note.html"
+        }
+    }
+}

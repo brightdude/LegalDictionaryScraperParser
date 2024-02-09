@@ -1,0 +1,19 @@
+{
+    "Not Guilty": {
+        "definition": "a plea by a criminal defendant who intends to contest the charges compare guilty",
+        "sub_definitions": {
+            "1": {
+                "definition": "a plea by a criminal defendant who intends to contest the charges compare,",
+                "note": " Under the Federal Rules of Criminal Procedure, if a defendant refuses to plead or if the defendant is a corporation that fails to appear the court must enter a plea of not guilty on the defendant's behalf.",
+                "compares": "guilty"
+            },
+            "2": {
+                "definition": "a verdict rendered by a jury acquitting a criminal defendant upon finding that the prosecution has not proven the defendant's guilt beyond a reasonable doubt"
+            }
+        },
+        "references": {
+            "guilty": "https://dictionary.findlaw.com/definition/guilty.html",
+            "nolo contendere": "https://dictionary.findlaw.com/definition/nolo-contendere.html"
+        }
+    }
+}

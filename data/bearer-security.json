@@ -1,0 +1,8 @@
+{
+    "Bearer Security": {
+        "definition": "Bearer Security",
+        "references": {
+            "security": "https://dictionary.findlaw.com/definition/security.html"
+        }
+    }
+}

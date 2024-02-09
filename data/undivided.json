@@ -1,0 +1,21 @@
+{
+    "Undivided": {
+        "definition": "shared with others having an interest in the whole",
+        "origin": "[each such tenant in common holds an equal share in the title \"O. L. Browder et al. \"]",
+        "compare": "divided",
+        "sub_definitions": {
+            "1": {
+                "1": "shared with others having an interest in the whole"
+            },
+            "2": {
+                "1": "held jointly, in common, or in indivision with other co-owners [each such tenant in common holds an equal share in the title \"O. L. Browder",
+                "et al.": "\"] [each spouse owns a present one-half interest in the community property \"",
+                "compares": "divided"
+            }
+        },
+        "references": {
+            "divided": "https://dictionary.findlaw.com/definition/divided.html",
+            "entire": "https://dictionary.findlaw.com/definition/entire.html"
+        }
+    }
+}

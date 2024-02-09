@@ -1,0 +1,52 @@
+{
+    "Loan": {
+        "definition": "money lent at interest b",
+        "origin": "[the leasing of the vehicle was termed a subject to usury statutes]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "money lent at interest",
+                "sub_terms": {
+                    "b": "something lent usually for the borrower's temporary use"
+                }
+            },
+            "2": {
+                "definition": "a transfer or delivery of money from one party to another with the express or implied agreement that the sum will be repaid regardless of contingency and usually with interestthe furnishing of something to another party for temporary use with the agreement that it or its equivalent will be returned [the leasing of the vehicle was termed a subject to usury statutes]"
+            },
+            "bridge loan": {
+                "definition": "a short-term loan used as a means of financing a purchase or enterprise prior to obtaining other funds [used ato purchase a new home prior to the sale of their previous one]",
+                "bridge loan": "to purchase a new home prior to the sale of their previous one]"
+            },
+            "con·ven·tion·al loan": {
+                "definition": "[kən-ven-chə-nəl-]a loan for the purchase of real property that is secured by a first mortgage on the property rather than by any federal agency"
+            },
+            "demand loan": {
+                "definition": "a loan that is subject to repayment upon demand of the lender"
+            },
+            "home equity loan": {
+                "definition": "a loan or line of credit secured by the equity in one's home called alsosee alsoat"
+            },
+            "loan for con·sump·tion": {
+                "definition": "[-kən-sümp-shən]a loan in which the borrower is obligated to return property of the same kind as that borrowed and consumed used chiefly in the civil law of Louisiana ; compare,,in this entry",
+                "compares": "bailment"
+            },
+            "loan for use": {
+                "definition": "a loan in which one party lends personal property to another with the understanding that the borrower will return the same property at a future time without compensation for its useused chiefly in the civil law of Louisiana ; compare,,in this entry",
+                "compares": "bailment"
+            },
+            "par·tic·i·pa·tion loan": {
+                "definition": "a single loan in which two or more lenders participate"
+            },
+            "term loan": {
+                "definition": "a loan extended to a business with provisions for repayment according to a schedule of amortization and usually for a period of one to five years and sometimes fifteen years"
+            }
+        },
+        "references": {
+            "interest": "https://dictionary.findlaw.com/definition/interest.html",
+            "bailment": "https://dictionary.findlaw.com/definition/bailment.html",
+            "deposit": "https://dictionary.findlaw.com/definition/deposit.html",
+            "loan for use": "https://dictionary.findlaw.com/definition/loan-for-use.html",
+            "commodatum": "https://dictionary.findlaw.com/definition/commodatum.html",
+            "loan for consumption": "https://dictionary.findlaw.com/definition/loan-for-consumption.html"
+        }
+    }
+}

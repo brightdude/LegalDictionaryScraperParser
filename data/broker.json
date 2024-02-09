@@ -1,0 +1,17 @@
+{
+    "Broker": {
+        "definition": "an agent who negotiates contracts of sale",
+        "compare": "dealer",
+        "sub_definitions": {
+            "1": {
+                "1": "an agent who negotiates contracts of sale (as of real estate or securities) or other agreements (as insurance contracts or mortgages) between the parties for a fee or commission compare",
+                "compares": "dealer",
+                "note": " An insurance broker differs from an insurance agent in that a broker is usually considered an agent of the insured, even though he or she may receive a commission from an insurance company. A broker may sell the products of a number of insurers, and an insurer has no liability for a broker's wrongful actions (as misrepresentation or fraud). A securities broker often acts also as a dealer and so is often referred to as a broker-dealer."
+            }
+        },
+        "references": {
+            "dealer": "https://dictionary.findlaw.com/definition/dealer.html",
+            "finder": "https://dictionary.findlaw.com/definition/finder.html"
+        }
+    }
+}

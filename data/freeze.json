@@ -1,0 +1,19 @@
+{
+    "Freeze": {
+        "definition": "to cause to become fixed",
+        "origin": "[ interest rates]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to cause to become fixed, immovable, unavailable, or unalterable [ interest rates]"
+            },
+            "2": {
+                "definition": "to immobilize (as by government regulation or the action of a financial institution) the expenditure, withdrawal, or exchange of [ foreign assets]"
+            },
+            "3": {
+                "definition": "to restructure (the capital of a close corporation) so that the value is reflected mostly in preferred stock rather than common stock",
+                "note": " Once capital is frozen, the common shares can be transferred to the heirs of the owner without taxation while the owner continues to enjoy the income from preferred stock dividends during his or her lifetime."
+            }
+        },
+        "references": {}
+    }
+}

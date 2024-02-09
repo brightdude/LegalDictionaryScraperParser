@@ -1,0 +1,15 @@
+{
+    "Mediation": {
+        "definition": "nonbinding intervention between parties esp. in a labor dispute to promote resolution of a grievance",
+        "compare": "arbitration",
+        "sub_definitions": {
+            "1": {
+                "1": "nonbinding intervention between parties esp. in a labor dispute to promote resolution of a grievance, reconciliation, settlement, or compromise compare",
+                "compares": "arbitration"
+            }
+        },
+        "references": {
+            "arbitration": "https://dictionary.findlaw.com/definition/arbitration.html"
+        }
+    }
+}

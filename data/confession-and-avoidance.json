@@ -1,0 +1,15 @@
+{
+    "Confession And Avoidance": {
+        "definition": "a common-law plea in which a party confesses an allegation but alleges additional facts to avoid the intended legal effect of the original allegation compare demurrer",
+        "compare": "demurrer",
+        "sub_definitions": {
+            "1": {
+                "1": "a common-law plea in which a party confesses an allegation but alleges additional facts to avoid the intended legal effect of the original allegation compare",
+                "compares": "demurrer"
+            }
+        },
+        "references": {
+            "demurrer": "https://dictionary.findlaw.com/definition/demurrer.html"
+        }
+    }
+}

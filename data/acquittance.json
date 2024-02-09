@@ -1,0 +1,13 @@
+{
+    "Acquittance": {
+        "definition": "acquittal",
+        "sub_definitions": {
+            "1": {
+                "1": "acquittal"
+            }
+        },
+        "references": {
+            "acquittal": "https://dictionary.findlaw.com/definition/acquittal.html"
+        }
+    }
+}

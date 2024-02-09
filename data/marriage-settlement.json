@@ -1,0 +1,13 @@
+{
+    "Marriage Settlement": {
+        "definition": "antenuptial agreement 2",
+        "sub_definitions": {
+            "2": {
+                "definition": "a written agreement regarding matters of support, custody, property division, and visitation upon a couple's divorce called also"
+            }
+        },
+        "references": {
+            "antenuptial agreement": "https://dictionary.findlaw.com/definition/antenuptial-agreement.html"
+        }
+    }
+}

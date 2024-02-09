@@ -1,0 +1,28 @@
+{
+    "Arbitration": {
+        "definition": "the process of resolving a dispute",
+        "origin": "[Latin arbitratio , from arbitrari to judge, arbitrate, from arbiter onlooker, arbitrator]",
+        "compare": "mediation",
+        "sub_definitions": {
+            "final offer arbitration": {
+                "definition": "interest arbitration in which the arbitrator must accept or reject the final offer of any party and may not decide to compromise"
+            },
+            "grievance arbitration": {
+                "definition": "arbitration of a dispute over something in an existing collective bargaining agreement called alsocomparein this entry",
+                "compares": "interest arbitration"
+            },
+            "interest arbitration": {
+                "definition": "arbitration of a dispute over the provisions to be entered in a new contract comparein this entry",
+                "compares": "grievance arbitration"
+            },
+            "rights arbitration": {
+                "definition": "in this entry"
+            }
+        },
+        "references": {
+            "mediation": "https://dictionary.findlaw.com/definition/mediation.html",
+            "interest arbitration": "https://dictionary.findlaw.com/definition/interest-arbitration.html",
+            "grievance arbitration": "https://dictionary.findlaw.com/definition/grievance-arbitration.html"
+        }
+    }
+}

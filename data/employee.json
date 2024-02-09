@@ -1,0 +1,17 @@
+{
+    "Employee": {
+        "definition": "a person usually below the executive level who is hired by another to perform a service esp. for wages or salary and is under the other's control see also respondeat superior compare independent contractor NOTE",
+        "sub_definitions": {
+            "orem·ploye": {
+                "definition": "a person usually below the executive level who is hired by another to perform a service esp. for wages or salary and is under the other's control see alsocompare",
+                "note": " In determining whether an individual is an employee, courts look at several factors, including the nature of the compensation paid, provision for employee benefits, whether the hired party is in business, tax treatment of the hired party, source of the equipment used, and location of the work. Statutes, such as workers' compensation acts and labor laws, usually include a definition ofemployeeas it is used in the statute.",
+                "compares": "independent contractor",
+                "see also": "respondeat superior"
+            }
+        },
+        "references": {
+            "respondeat superior": "https://dictionary.findlaw.com/definition/respondeat-superior.html",
+            "independent contractor": "https://dictionary.findlaw.com/definition/independent-contractor.html"
+        }
+    }
+}

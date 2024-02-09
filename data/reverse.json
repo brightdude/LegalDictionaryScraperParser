@@ -1,0 +1,15 @@
+{
+    "Reverse": {
+        "definition": "to set aside or make void",
+        "origin": "[for these reasons, we ]",
+        "sub_definitions": {
+            "re·vers·ing": {
+                "definition": "to set aside or make void (a judgment or decision) by a contrary decision compareto reverse a decision or judgment [for these reasons, we ]",
+                "compares": "affirm"
+            }
+        },
+        "references": {
+            "affirm": "https://dictionary.findlaw.com/definition/affirm.html"
+        }
+    }
+}

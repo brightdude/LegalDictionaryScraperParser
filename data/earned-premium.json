@@ -1,0 +1,11 @@
+{
+    "Earned Premium": {
+        "definition": "the difference between the amount of premium paid by the insured and the amount returned to the insured by the insurer upon cancellation of a policy before its term expires",
+        "sub_definitions": {
+            "1": {
+                "1": "the difference between the amount of premium paid by the insured and the amount returned to the insured by the insurer upon cancellation of a policy before its term expires"
+            }
+        },
+        "references": {}
+    }
+}

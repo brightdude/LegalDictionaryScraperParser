@@ -1,0 +1,14 @@
+{
+    "Proponent": {
+        "definition": "one who argues in favor of something 2",
+        "sub_definitions": {
+            "1": {
+                "definition": "one who argues in favor of something"
+            },
+            "2": {
+                "definition": "one who offers a will for probate"
+            }
+        },
+        "references": {}
+    }
+}

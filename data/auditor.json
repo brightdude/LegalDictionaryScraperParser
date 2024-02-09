@@ -1,0 +1,17 @@
+{
+    "Auditor": {
+        "definition": "a person qualified and authorized to examine and verify financial records 2",
+        "sub_definitions": {
+            "1": {
+                "definition": "a person qualified and authorized to examine and verify financial records"
+            },
+            "2": {
+                "definition": "a referee appointed by a court in a civil actionone designated to prepare an account for the court see also",
+                "see also": "master"
+            }
+        },
+        "references": {
+            "master": "https://dictionary.findlaw.com/definition/master.html"
+        }
+    }
+}

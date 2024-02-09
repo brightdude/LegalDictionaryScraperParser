@@ -1,0 +1,19 @@
+{
+    "Subpoena": {
+        "definition": "a writ commanding a designated person upon whom it has been served to appear",
+        "origin": "[sə-pē-nə]",
+        "sub_definitions": {
+            "alsosub·pe·na[sə-pē-nə]": {
+                "definition": "[Latinunder penalty]a writ commanding a designated person upon whom it has been served to appear (as in court or before a congressional committee) under a penalty (as a charge of contempt) for failure to comply compare",
+                "compares": "summons",
+                "sub poena": "under penalty]"
+            },
+            "-na·ing": {
+                "definition": "to call before a court or hearing by a subpoena [the inspector is given the power to any relevant…witnesses \"\"]to command the production of (evidence) by a subpoena duces tecum [documents]"
+            }
+        },
+        "references": {
+            "summons": "https://dictionary.findlaw.com/definition/summons.html"
+        }
+    }
+}

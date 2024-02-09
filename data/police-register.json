@@ -1,0 +1,11 @@
+{
+    "Police Register": {
+        "definition": "a register kept by police of daily business",
+        "sub_definitions": {
+            "1": {
+                "1": "a register kept by police of daily business (as arrests)"
+            }
+        },
+        "references": {}
+    }
+}

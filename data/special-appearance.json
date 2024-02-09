@@ -1,0 +1,16 @@
+{
+    "Special Appearance": {
+        "definition": "an appearance by a party in court for the sole purpose of challenging the court's assertion of personal jurisdiction over the party compare general appearance NOTE",
+        "compare": "general appearance",
+        "sub_definitions": {
+            "1": {
+                "1": "an appearance by a party in court for the sole purpose of challenging the court's assertion of personal jurisdiction over the party compare",
+                "compares": "general appearance",
+                "note": " Under the Federal Rules of Civil Procedure and the rules of states that have adopted it, the use of a special appearance to challenge jurisdiction has been abolished, and jurisdiction may be challenged in the pleadings or in a pretrial motion."
+            }
+        },
+        "references": {
+            "general appearance": "https://dictionary.findlaw.com/definition/general-appearance.html"
+        }
+    }
+}

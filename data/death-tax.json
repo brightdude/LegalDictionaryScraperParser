@@ -1,0 +1,17 @@
+{
+    "Death Tax": {
+        "definition": "a tax assessed on the transfer of property",
+        "compare": "estate tax",
+        "sub_definitions": {
+            "1": {
+                "1": "a tax assessed on the transfer of property (as an estate, inheritance, legacy, or succession) after the transferor's death compare",
+                "compares": "estate tax"
+            }
+        },
+        "references": {
+            "estate tax": "https://dictionary.findlaw.com/definition/estate-tax.html",
+            "generation-skipping transfer tax": "https://dictionary.findlaw.com/definition/generation-skipping-transfer-tax.html",
+            "gift tax": "https://dictionary.findlaw.com/definition/gift-tax.html"
+        }
+    }
+}

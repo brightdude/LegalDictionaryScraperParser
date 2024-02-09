@@ -1,0 +1,12 @@
+{
+    "Trade Name": {
+        "definition": "a name or mark that is used by a person",
+        "sub_definitions": {
+            "1": {
+                "1": "a name or mark that is used by a person (as an individual proprietor or a corporation) to identify that person's business or vocation and that may also be used as a trademark or service mark",
+                "note": " Like a trademark or service mark, a trade name is protected by law against infringement. A trade name that has been used for at least 6 months can be recorded with the Customs Bureau, and any infringing imports will be barred."
+            }
+        },
+        "references": {}
+    }
+}

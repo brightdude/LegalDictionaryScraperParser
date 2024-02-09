@@ -1,0 +1,15 @@
+{
+    "Treaty Reinsurance": {
+        "definition": "reinsurance under a general agreement that automatically reinsures in accordance with its terms all risks of a given class to a predetermined extent as soon as they are insured by the direct underwriter compare facultative reinsurance",
+        "compare": "facultative reinsurance",
+        "sub_definitions": {
+            "1": {
+                "1": "reinsurance under a general agreement that automatically reinsures in accordance with its terms all risks of a given class to a predetermined extent as soon as they are insured by the direct underwriter compare",
+                "compares": "facultative reinsurance"
+            }
+        },
+        "references": {
+            "facultative reinsurance": "https://dictionary.findlaw.com/definition/facultative-reinsurance.html"
+        }
+    }
+}

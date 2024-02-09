@@ -1,0 +1,21 @@
+{
+    "Occupancy": {
+        "definition": "-cies 1",
+        "origin": "[ of the premises]",
+        "sub_definitions": {
+            "1": {
+                "definition": "the fact or condition of holding, possessing, or residing in or on something [ of the premises]"
+            },
+            "2": {
+                "definition": "the act or fact of taking or having possession (as of abandoned property) to acquire ownership"
+            },
+            "3": {
+                "definition": "the fact or condition of being occupied [ by more than 400 persons is unlawful]"
+            },
+            "4": {
+                "definition": "the use to which a property is put [designed for industrial ]"
+            }
+        },
+        "references": {}
+    }
+}

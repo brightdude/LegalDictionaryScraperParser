@@ -1,0 +1,51 @@
+{
+    "Pleading": {
+        "definition": "one of the formal declarations",
+        "origin": "[ri-spÄ n-siv-]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "one of the formal declarations (as a complaint or answer) exchanged by the parties in a legal proceeding (as a suit) setting forth claims, averments, allegations, denials, or defensesa written document embodying such a declaration see also",
+                "sub_terms": {
+                    "b": "any of the allegations, averments, claims, denials, or defenses set forth in a pleading"
+                },
+                "see also": "relation back"
+            },
+            "alternative pleading": {
+                "definition": "a pleading that sets out an alternative theory in support of a plaintiff's claim for relief or a defendant's defense"
+            },
+            "amended pleading": {
+                "definition": "a pleading that is filed to replace an original pleading and that contains matters omitted from or not known at the time of the original pleading"
+            },
+            "re·spon·sive pleading": {
+                "definition": "[ri-spÄ n-siv-]a pleading that directly responds to another pleading (as by denying in an answer allegations in a complaint)"
+            },
+            "sham pleading": {
+                "definition": "a pleading that is factually false, is not made in good faith, and that may be struck"
+            },
+            "supplemental pleading": {
+                "definition": "a pleading that supplements an earlier pleading with matters that have occurred or come into existence since the date of the original pleading"
+            },
+            "2": {
+                "definition": "a process or system through which the parties in a legal proceeding present their allegations"
+            },
+            "code pleading": {
+                "definition": "pleading (as fact pleading) done in accordance with the rules set down in a code",
+                "note": " Code pleading began in 1848 in New York State and was a departure from the complex system of common-law pleading, which included a lengthy set of stages by which a single issue was produced, and which was determined by the type of writ under which the plaintiff proceeded."
+            },
+            "fact pleading": {
+                "definition": "pleading that requires a plaintiff to set out in the complaint facts sufficient to establish a cause of action comparein this entry",
+                "compares": "notice pleading"
+            },
+            "notice pleading": {
+                "definition": "pleading that is characterized esp. by a simplified description sufficient to give notice of a claim or defense rather than by a technical account of any facts pertinent to the claim or defense comparein this entry",
+                "note": " Notice pleading is allowed under the Federal Rules of Civil Procedure and in a majority of states, although complex cases often require substantial detail in the pleading.",
+                "compares": "fact pleading"
+            }
+        },
+        "references": {
+            "relation back": "https://dictionary.findlaw.com/definition/relation-back.html",
+            "notice pleading": "https://dictionary.findlaw.com/definition/notice-pleading.html",
+            "fact pleading": "https://dictionary.findlaw.com/definition/fact-pleading.html"
+        }
+    }
+}

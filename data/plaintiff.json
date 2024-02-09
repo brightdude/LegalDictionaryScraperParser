@@ -1,0 +1,21 @@
+{
+    "Plaintiff": {
+        "definition": "the party who institutes a legal action or claim",
+        "origin": "[Middle French plaintif , from plaintif , adj., grieving, from plaint lamentation, from Latin planctus , from plangere to strike, beat one's breast, lament]",
+        "compare": "complainant",
+        "sub_definitions": {
+            "1": {
+                "1": "the party who institutes a legal action or claim (as a counterclaim) see also",
+                "see also": "complainant",
+                "compares": "defendant"
+            }
+        },
+        "references": {
+            "complainant": "https://dictionary.findlaw.com/definition/complainant.html",
+            "complaint": "https://dictionary.findlaw.com/definition/complaint.html",
+            "libellant": "https://dictionary.findlaw.com/definition/libellant.html",
+            "defendant": "https://dictionary.findlaw.com/definition/defendant.html",
+            "prosecution": "https://dictionary.findlaw.com/definition/prosecution.html"
+        }
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "Probate Court": {
+        "definition": "a court that has jurisdiction over the probate of wills and administration of estates and sometimes over the affairs of minors and persons adjudged incompetent compare orphans' court",
+        "compare": "orphans' court",
+        "sub_definitions": {
+            "1": {
+                "1": "a court that has jurisdiction over the probate of wills and administration of estates and sometimes over the affairs of minors and persons adjudged incompetent compare",
+                "compares": "orphans' court"
+            }
+        },
+        "references": {
+            "orphans' court": "https://dictionary.findlaw.com/definition/orphans-court.html"
+        }
+    }
+}

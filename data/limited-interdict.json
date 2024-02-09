@@ -1,0 +1,11 @@
+{
+    "Limited Interdict": {
+        "definition": "a person subject to limited interdiction",
+        "sub_definitions": {
+            "1": {
+                "1": "a person subject to limited interdiction"
+            }
+        },
+        "references": {}
+    }
+}

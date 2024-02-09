@@ -1,0 +1,11 @@
+{
+    "Rent Strike": {
+        "definition": "a refusal by a group of tenants to pay rent",
+        "sub_definitions": {
+            "1": {
+                "1": "a refusal by a group of tenants to pay rent (as in protest against high rates)"
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "Precedent": {
+        "definition": "prior in time",
+        "origin": "[Middle French, from Latin praecedent- praecedens , present participle of praecedere to go ahead of, come before]",
+        "compare": "condition",
+        "sub_definitions": {
+            "1": {
+                "1": "prior in time, order, arrangement, or significance see also",
+                "compares": "subsequent"
+            },
+            "2": {
+                "1": "a judicial decision that should be followed by a judge when deciding a later similar case see also",
+                "see also": "stare decisis",
+                "compares": "dictum",
+                "note": " To serve as precedent for a pending case, a prior decision must have a similar question of law and factual situation. If the precedent is from the same or a superior jurisdiction (as the state's supreme court), it is binding upon the court and must be followed; if the precedent is from another jurisdiction (as another state's supreme court), it is considered only persuasive. Precedents may be overruled esp. by the same court that originally rendered the decision."
+            }
+        },
+        "references": {
+            "condition": "https://dictionary.findlaw.com/definition/condition.html",
+            "subsequent": "https://dictionary.findlaw.com/definition/subsequent.html",
+            "stare decisis": "https://dictionary.findlaw.com/definition/stare-decisis.html",
+            "dictum": "https://dictionary.findlaw.com/definition/dictum.html"
+        }
+    }
+}

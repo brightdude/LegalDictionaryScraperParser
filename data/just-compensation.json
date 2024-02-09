@@ -1,0 +1,15 @@
+{
+    "Just Compensation": {
+        "definition": "compensation for property taken under eminent domain that places a property owner in the same position as before the property is taken see also eminent domain NOTE",
+        "sub_definitions": {
+            "1": {
+                "1": "compensation for property taken under eminent domain that places a property owner in the same position as before the property is taken see also",
+                "see also": "eminent domain",
+                "note": " Just compensation is usually the fair market value of the property taken. Attorney's fees or expenses are usually excluded."
+            }
+        },
+        "references": {
+            "eminent domain": "https://dictionary.findlaw.com/definition/eminent-domain.html"
+        }
+    }
+}

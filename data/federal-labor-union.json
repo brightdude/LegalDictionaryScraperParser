@@ -1,0 +1,11 @@
+{
+    "Federal Labor Union": {
+        "definition": "a union that is chartered by the AFL-CIO",
+        "sub_definitions": {
+            "1": {
+                "1": "a union that is chartered by the AFL-CIO"
+            }
+        },
+        "references": {}
+    }
+}

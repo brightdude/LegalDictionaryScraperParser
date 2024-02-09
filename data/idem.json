@@ -1,0 +1,21 @@
+{
+    "Idem": {
+        "definition": "something previously mentioned",
+        "origin": "[Latin, same]",
+        "compare": "infra",
+        "sub_definitions": {
+            "1": {
+                "1": "something previously mentioned"
+            },
+            "2": {
+                "1": "the same authority used in citations to cases and other works to refer to an immediately preceding reference compare",
+                "compares": "infra",
+                "note": "Idemis usually used in the form of its abbreviationid.[InBally, the plaintiff also claimed…403 Mass. at 720-21. The [court] denied the claim…Id.at 721 \"R. T. Gerwatowski\"]"
+            }
+        },
+        "references": {
+            "infra": "https://dictionary.findlaw.com/definition/infra.html",
+            "supra": "https://dictionary.findlaw.com/definition/supra.html"
+        }
+    }
+}

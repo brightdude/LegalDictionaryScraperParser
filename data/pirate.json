@@ -1,0 +1,18 @@
+{
+    "Pirate": {
+        "definition": "a person who commits piracy vb pi·rat·ed pi·rat·ing vt",
+        "origin": "[the pirated software]",
+        "compare": "bootleg",
+        "sub_definitions": {
+            "pi·rat·ing": {
+                "definition": "to take or appropriate by piracyto copy, distribute, or use without authorization esp. in infringement of copyright [thesoftware] [cable signals]to commit piracy compare",
+                "compares": "bootleg",
+                "pirated": "software] [",
+                "pirating": "cable signals]"
+            }
+        },
+        "references": {
+            "bootleg": "https://dictionary.findlaw.com/definition/bootleg.html"
+        }
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "Joint Resolution": {
+        "definition": "a resolution passed by both houses of a legislative body that has the force of law when signed by or passed over the veto of the executive compare concurrent resolution",
+        "compare": "concurrent resolution",
+        "sub_definitions": {
+            "1": {
+                "1": "a resolution passed by both houses of a legislative body that has the force of law when signed by or passed over the veto of the executive compare",
+                "compares": "concurrent resolution"
+            }
+        },
+        "references": {
+            "concurrent resolution": "https://dictionary.findlaw.com/definition/concurrent-resolution.html"
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "Capital Contribution": {
+        "definition": "a contribution of funds or property to the capital of a business by a partner",
+        "sub_definitions": {
+            "1": {
+                "1": "a contribution of funds or property to the capital of a business by a partner, owner, or shareholder",
+                "note": " Under the Internal Revenue Code, a capital contribution is generally excluded from a company's gross income, unless it is a loan from a shareholder that the company is released from repaying."
+            }
+        },
+        "references": {}
+    }
+}

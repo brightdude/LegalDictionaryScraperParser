@@ -1,0 +1,15 @@
+{
+    "Direct Tax": {
+        "definition": "a tax imposed on a taxpayer himself or herself or on his or her property compare excise",
+        "compare": "excise",
+        "sub_definitions": {
+            "1": {
+                "1": "a tax imposed on a taxpayer himself or herself or on his or her property compare",
+                "compares": "excise"
+            }
+        },
+        "references": {
+            "excise": "https://dictionary.findlaw.com/definition/excise.html"
+        }
+    }
+}

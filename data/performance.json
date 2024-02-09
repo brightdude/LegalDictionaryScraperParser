@@ -1,0 +1,28 @@
+{
+    "Performance": {
+        "definition": "work done in employment [unsatisfactory ] 2 a",
+        "origin": "[unsatisfactory ]",
+        "sub_definitions": {
+            "1": {
+                "definition": "performance of the essential terms of a contract, promise, or obligation [a contractor is not entitled to a lien in the absence of\", 642 So. 2d 766 (1994)\"]",
+                "Casa Linda Tile & Marble Installers, Inc. v. Highlands Place 1981 Ltd.": "642 So. 2d 766 (1994)"
+            },
+            "2 a": {
+                "definition": "what is required to be performed in fulfillment of a contract, promise, or obligation [substituted a new in novation of the contract]",
+                "sub_terms": {
+                    "b": "the fulfillment of a contract, promise, or obligation"
+                }
+            },
+            "2": {
+                "definition": "a doctrine which permits a party (as a builder) that acted in good faith to recover from the other party to a contract for a performance that departs in minor respects from what was promised compareat"
+            },
+            "3": {
+                "definition": "a public rendition or presentation of an artistic work"
+            }
+        },
+        "references": {
+            "breach": "https://dictionary.findlaw.com/definition/breach.html",
+            "injunction": "https://dictionary.findlaw.com/definition/injunction.html"
+        }
+    }
+}

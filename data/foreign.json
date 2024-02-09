@@ -1,0 +1,19 @@
+{
+    "Foreign": {
+        "definition": "not being within the jurisdiction of a political unit",
+        "origin": "[a company doing business in South Carolina]",
+        "compare": "domestic",
+        "sub_definitions": {
+            "1": {
+                "1": "not being within the jurisdiction of a political unit (as a state)"
+            },
+            "2": {
+                "1": "being from or in a state other than the one in which a matter is being considered [a company doing business in South Carolina] [a executor submitting to the jurisdiction of this court] [a judgment] compare",
+                "compares": "domestic"
+            }
+        },
+        "references": {
+            "domestic": "https://dictionary.findlaw.com/definition/domestic.html"
+        }
+    }
+}

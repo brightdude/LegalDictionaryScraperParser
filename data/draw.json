@@ -1,0 +1,21 @@
+{
+    "Draw": {
+        "definition": "to compose by random selection [ a jury] 2",
+        "origin": "[ a jury]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to compose by random selection [ a jury]"
+            },
+            "2": {
+                "definition": "to take (money) from a place of deposit"
+            },
+            "3": {
+                "definition": "to write and sign (a draft) in due form for use in making a demand [ a check]"
+            },
+            "4": {
+                "definition": "to write out in due form [hired an attorney to our wills]to make a written demand for payment of money on deposit"
+            }
+        },
+        "references": {}
+    }
+}

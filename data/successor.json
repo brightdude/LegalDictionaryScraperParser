@@ -1,0 +1,14 @@
+{
+    "Successor": {
+        "definition": "one that follows",
+        "sub_definitions": {
+            "1": {
+                "1": "one that follows"
+            },
+            "2": {
+                "1": "one that succeeds another (as in a position, title, office, or estate)"
+            }
+        },
+        "references": {}
+    }
+}

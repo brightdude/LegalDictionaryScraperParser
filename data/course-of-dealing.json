@@ -1,0 +1,16 @@
+{
+    "Course Of Dealing": {
+        "definition": "the conduct of parties to a business deal during past business deals that may be used as a basis for understanding each other's expressions and conduct during the current deal compare course of performance",
+        "compare": "course of performance",
+        "sub_definitions": {
+            "1": {
+                "1": "the conduct of parties to a business deal during past business deals that may be used as a basis for understanding each other's expressions and conduct during the current deal compare",
+                "compares": "course of performance"
+            }
+        },
+        "references": {
+            "course of performance": "https://dictionary.findlaw.com/definition/course-of-performance.html",
+            "usage of trade": "https://dictionary.findlaw.com/definition/usage-of-trade.html"
+        }
+    }
+}

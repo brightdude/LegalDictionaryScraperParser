@@ -1,0 +1,8 @@
+{
+    "Cost Bond": {
+        "definition": "Cost Bond",
+        "references": {
+            "bond": "https://dictionary.findlaw.com/definition/bond.html"
+        }
+    }
+}

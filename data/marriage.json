@@ -1,0 +1,17 @@
+{
+    "Marriage": {
+        "definition": "the state of being united to a person of the opposite sex as husband or wife in a legal",
+        "sub_definitions": {
+            "1": {
+                "definition": "the state of being united to a person of the opposite sex as husband or wife in a legal, consensual, and contractual relationship recognized and sanctioned by and dissolvable only by law see also",
+                "see also": "divorce"
+            },
+            "2": {
+                "definition": "the ceremony containing certain legal formalities by which a marriage relationship is created"
+            }
+        },
+        "references": {
+            "divorce": "https://dictionary.findlaw.com/definition/divorce.html"
+        }
+    }
+}

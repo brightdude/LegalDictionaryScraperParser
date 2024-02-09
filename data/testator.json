@@ -1,0 +1,11 @@
+{
+    "Testator": {
+        "definition": "a person who dies leaving a will",
+        "sub_definitions": {
+            "1": {
+                "1": "a person who dies leaving a will"
+            }
+        },
+        "references": {}
+    }
+}

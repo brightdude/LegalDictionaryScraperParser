@@ -1,0 +1,22 @@
+{
+    "Constitution": {
+        "definition": "the basic principles and laws of a nation",
+        "origin": "[Latin constitutio system, fundamental principles (of an institution), from constituere to set up, establish]",
+        "sub_definitions": {
+            "1": {
+                "definition": "the basic principles and laws of a nation, state, or social group that determine the powers and duties of the government and guarantee certain rights to the people in it"
+            },
+            "2": {
+                "definition": "a written instrument containing the fundamental rules of a political or social organizationthe U.S. Constitution see also the Judicial System and thein the back matter compare,",
+                "note": " A constitution was originally simply a law, ordinance, or decree usually made by a king, emperor, or other superior authority. A constitution now usually contains the fundamental law and principles with which all other laws must conform. Unlike the U.S. Constitution, the British Constitution is not set down in a comprehensive document, but is found in a variety of statutes (as the Magna Carta) and in common law. Canada inherited many of the rules and practices that are considered part of the British Constitution, but the Constitution of Canada is also set down in comprehensive documents, such as the Constitution Act, 1982 and the Constitution Act, 1867 (formerly called the British North America Act, 1867).",
+                "compares": "charter",
+                "see also": "Constitution"
+            }
+        },
+        "references": {
+            "Constitution": "https://dictionary.findlaw.com/definition/constitution.html",
+            "charter": "https://dictionary.findlaw.com/definition/charter.html",
+            "declaration": "https://dictionary.findlaw.com/definition/declaration.html"
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "Criminality": {
+        "definition": "the quality or state of being criminal [can't understand the of his act] 2",
+        "origin": "[can't understand the of his act]",
+        "sub_definitions": {
+            "1": {
+                "definition": "the quality or state of being criminal [can't understand the of his act]"
+            },
+            "2": {
+                "definition": "[violent ]"
+            }
+        },
+        "references": {
+            "crime": "https://dictionary.findlaw.com/definition/crime.html"
+        }
+    }
+}

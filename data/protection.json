@@ -1,0 +1,30 @@
+{
+    "Protection": {
+        "definition": "the act of protecting",
+        "origin": "[entitled to constitutional ]",
+        "sub_definitions": {
+            "1": {
+                "definition": "the act of protectingthe state of being protected [entitled to constitutional ]"
+            },
+            "2 a": {
+                "definition": "one that protects",
+                "sub_terms": {
+                    "b": "supervision or support of one having less power [ of endangered species]"
+                }
+            },
+            "3": {
+                "definition": "the freeing of the producers of goods of a country from foreign competition in their home market by restrictions (as high duties) on foreign competitive goods"
+            },
+            "4 a": {
+                "definition": "immunity from prosecution purchased by criminals through bribery",
+                "sub_terms": {
+                    "b": "money extorted by racketeers posing as a protective association"
+                }
+            },
+            "5": {
+                "definition": "coverage for loss provided by insurance"
+            }
+        },
+        "references": {}
+    }
+}

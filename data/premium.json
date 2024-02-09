@@ -1,0 +1,17 @@
+{
+    "Premium": {
+        "definition": "the difference between the face value or par value of a security and its market price when the latter is greater compare discount 2",
+        "sub_definitions": {
+            "1": {
+                "definition": "the difference between the face value or par value of a security and its market price when the latter is greater compare",
+                "compares": "discount"
+            },
+            "2": {
+                "definition": "the price paid for an insurance contract equal to the cost per unit times the number of units"
+            }
+        },
+        "references": {
+            "discount": "https://dictionary.findlaw.com/definition/discount.html"
+        }
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "Execute": {
+        "definition": "perform",
+        "origin": "[includes not only executed violence, but also threatened violence \" Louisiana Civil Code \"]",
+        "sub_definitions": {
+            "1": {
+                "sub_terms": {
+                    "a": "to carry out fully [includes not onlyviolence, but also threatened violence \"\"]",
+                    "b": "to do what is provided or required by [ a contract] [ a search warrant]",
+                    "c": "to deem (a use in property) to confer full seisin in a cestui que use by operation of the Statute of Uses"
+                }
+            },
+            "2": {
+                "definition": "to perform what is required to give validity toto complete (as by signing and delivering) in proper form [ a note] [ a deed]"
+            },
+            "3": {
+                "definition": "to put to death in compliance with a judicial death sentence"
+            }
+        },
+        "references": {
+            "perform": "https://dictionary.findlaw.com/definition/perform.html"
+        }
+    }
+}

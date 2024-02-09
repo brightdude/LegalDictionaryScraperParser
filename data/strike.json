@@ -1,0 +1,60 @@
+{
+    "Strike": {
+        "definition": "strick·en strik·ing vi 1",
+        "origin": "[it struck that part of [the]",
+        "sub_definitions": {
+            "1": {
+                "definition": "the removal of a potential juror from a venire compare",
+                "compares": "challenge"
+            },
+            "2": {
+                "definition": "a concerted work stoppage, interruption, or slowdown by a body of workers to enforce compliance with demands made on an employer see alsoin the Important Laws section compare",
+                "compares": "job action",
+                "see also": "rent strike",
+                "Labor Management Relations Act": "in the Important Laws section compare"
+            },
+            "3": {
+                "definition": "to engage in a strike against (an employer)n"
+            },
+            "economic strike": {
+                "definition": "a strike that is brought against an employer because of a dispute regarding economic benefits or conditions (as wages)",
+                "note": " Workers engaged in an economic strike can legally be replaced permanently. No-strike clauses in collective bargaining agreements have been held to bar only economic strikes and not strikes protesting an unfair labor practice."
+            },
+            "general strike": {
+                "definition": "a simultaneous strike by all unionized workers of all trades and industries"
+            },
+            "jurisdictional strike": {
+                "definition": "a strike that is called against an employer as a result of a dispute with another union as to the right to perform particular work"
+            },
+            "organizational strike": {
+                "definition": "in this entry"
+            },
+            "primary strike": {
+                "definition": "a strike by workers against their employer with whom they have a dispute"
+            },
+            "recognition strike": {
+                "definition": "a strike by workers against their employer seeking to force the employer to recognize the union as their collective bargaining agent called also"
+            },
+            "secondary strike": {
+                "definition": "in this entry"
+            },
+            "sit-down strike": {
+                "definition": "a strike during which employees remain in and occupy the employer's premises as a protest and means of forcing compliance with demands",
+                "note": " This form of strike has been illegal according to both statute and case law since the early 1940s."
+            },
+            "sym·pa·thy strike": {
+                "definition": "a strike by workers not involved in a labor dispute in support of other striking employees or unions called also"
+            },
+            "wild·cat strike": {
+                "definition": "a strike by workers that is not authorized by the union"
+            }
+        },
+        "references": {
+            "challenge": "https://dictionary.findlaw.com/definition/challenge.html",
+            "rent strike": "https://dictionary.findlaw.com/definition/rent-strike.html",
+            "job action": "https://dictionary.findlaw.com/definition/job-action.html",
+            "recognition strike": "https://dictionary.findlaw.com/definition/recognition-strike.html",
+            "sympathy strike": "https://dictionary.findlaw.com/definition/sympathy-strike.html"
+        }
+    }
+}

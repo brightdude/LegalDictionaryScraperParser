@@ -1,0 +1,13 @@
+{
+    "Ascendant": {
+        "definition": "ancestor",
+        "sub_definitions": {
+            "1": {
+                "1": "ancestor"
+            }
+        },
+        "references": {
+            "ancestor": "https://dictionary.findlaw.com/definition/ancestor.html"
+        }
+    }
+}

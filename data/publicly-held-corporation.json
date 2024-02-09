@@ -1,0 +1,14 @@
+{
+    "Publicly Held Corporation": {
+        "definition": "public corporation at corporation",
+        "sub_definitions": {
+            "1": {
+                "1": "public corporation"
+            }
+        },
+        "references": {
+            "public corporation": "https://dictionary.findlaw.com/definition/public-corporation.html",
+            "corporation": "https://dictionary.findlaw.com/definition/corporation.html"
+        }
+    }
+}

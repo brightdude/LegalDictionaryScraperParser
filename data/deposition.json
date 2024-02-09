@@ -1,0 +1,24 @@
+{
+    "Deposition": {
+        "definition": "a statement that is made under oath by a party or witness",
+        "origin": "[Late Latin depositio testimony, from Latin, act of depositing, from deponere to put down, deposit]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "a statement that is made under oath by a party or witness (as an expert) in response to oral examination or written questions and that is recorded by an authorized officer (as a court reporter)",
+                "sub_terms": {
+                    "b": "the certified document recording such a statement compare"
+                },
+                "compares": "interrogatory"
+            },
+            "2": {
+                "definition": "the hearing at which a deposition is made [order that the testimony at a be recorded by other than stenographic means \"Rule 38(b)\"]",
+                "note": " A deposition can be used as a method of discovery, to preserve the testimony of a witness who is likely to become unavailable for trial, or for impeachment of testimony at trial. Depositions are distinguished from affidavits by the requirement that notice and an opportunity to cross-examine the deponent must be given to the other party.",
+                "Federal Rules of Civil Procedure": "Rule 38(b)\"]"
+            }
+        },
+        "references": {
+            "affidavit": "https://dictionary.findlaw.com/definition/affidavit.html",
+            "interrogatory": "https://dictionary.findlaw.com/definition/interrogatory.html"
+        }
+    }
+}

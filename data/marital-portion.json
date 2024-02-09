@@ -1,0 +1,17 @@
+{
+    "Marital Portion": {
+        "definition": "a one-fourth portion that a surviving spouse is entitled to claim from the estate of a spouse who has died rich in comparison to the surviving spouse compare disposable portion",
+        "compare": "disposable portion",
+        "sub_definitions": {
+            "1": {
+                "1": "a one-fourth portion that a surviving spouse is entitled to claim from the estate of a spouse who has died rich in comparison to the surviving spouse compare",
+                "compares": "disposable portion"
+            }
+        },
+        "references": {
+            "disposable portion": "https://dictionary.findlaw.com/definition/disposable-portion.html",
+            "falcidian portion": "https://dictionary.findlaw.com/definition/falcidian-portion.html",
+            "legitime": "https://dictionary.findlaw.com/definition/legitime.html"
+        }
+    }
+}

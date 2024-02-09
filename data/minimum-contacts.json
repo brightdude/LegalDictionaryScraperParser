@@ -1,0 +1,17 @@
+{
+    "Minimum Contacts": {
+        "definition": "the level of a nonresident defendant's connection with or activity in a state that is sufficient under due process to support the assertion of personal jurisdiction under a long-arm statute see also doing business statute",
+        "sub_definitions": {
+            "1": {
+                "1": "the level of a nonresident defendant's connection with or activity in a state that is sufficient under due process to support the assertion of personal jurisdiction under a long-arm statute see also",
+                "see also": "doing business statute",
+                "International Shoe Co. v. Washington": "in the Important Cases section",
+                "note": " In most cases, minimum contacts are shown by continuous and purposeful contact with the state usually for business purposes. Once the minimum contacts requirement is met, the court must determine that the contacts are sufficient so that the assertion of jurisdiction will not offend the traditional notions of fair play and substantial justice."
+            }
+        },
+        "references": {
+            "doing business statute": "https://dictionary.findlaw.com/definition/doing-business-statute.html",
+            "fair play and substantial justice": "https://dictionary.findlaw.com/definition/fair-play-and-substantial-justice.html"
+        }
+    }
+}

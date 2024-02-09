@@ -1,0 +1,14 @@
+{
+    "Administrative Inspection": {
+        "definition": "administrative search at search",
+        "sub_definitions": {
+            "1": {
+                "1": "administrative search"
+            }
+        },
+        "references": {
+            "administrative search": "https://dictionary.findlaw.com/definition/administrative-search.html",
+            "search": "https://dictionary.findlaw.com/definition/search.html"
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "Retrocession": {
+        "definition": "the return of title to property to its former or true owner ;specif in the civil law of Louisiana",
+        "origin": "[French rétrocession , from Medieval Latin retrocessio retreat, from Late Latin, act of going back, from Latin retrocedere to go back]",
+        "sub_definitions": {
+            "1": {
+                "definition": "the return of title to property to its former or true ownerthe return to a decedent's heirs of property of the decedent that had been sold or assigned by coheirs",
+                "note": " An heir's right to retrocession has been repealed."
+            },
+            "2": {
+                "definition": "the act of ceding back something (as jurisdiction)"
+            },
+            "3 a": {
+                "definition": "the process by which all or part of the risks assumed in an insurance contract are reassigned or ceded by a reinsurer to another insurance company",
+                "sub_terms": {
+                    "b": "the amount reassigned or ceded"
+                }
+            }
+        },
+        "references": {}
+    }
+}

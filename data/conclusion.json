@@ -1,0 +1,22 @@
+{
+    "Conclusion": {
+        "definition": "a judgment or opinion inferred from relevant facts [our upon the present evidence \" Missouri v. Illinois",
+        "origin": "[our upon the present evidence \" Missouri v. Illinois , 200 U.S. 496 (1905)\"]",
+        "sub_definitions": {
+            "1": {
+                "definition": "a judgment or opinion inferred from relevant facts [our upon the present evidence \", 200 U.S. 496 (1905)\"]",
+                "Missouri v. Illinois": "200 U.S. 496 (1905)"
+            },
+            "2 a": {
+                "definition": "a final summarizing (as of a closing argument)",
+                "sub_terms": {
+                    "b": "the last or closing part of something"
+                }
+            },
+            "3": {
+                "definition": "an opinion or judgment offered without supporting evidencean allegation made in a pleading that is not based on facts set forth in the pleading"
+            }
+        },
+        "references": {}
+    }
+}

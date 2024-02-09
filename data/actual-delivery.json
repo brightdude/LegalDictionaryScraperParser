@@ -1,0 +1,8 @@
+{
+    "Actual Delivery": {
+        "definition": "Actual Delivery",
+        "references": {
+            "delivery": "https://dictionary.findlaw.com/definition/delivery.html"
+        }
+    }
+}

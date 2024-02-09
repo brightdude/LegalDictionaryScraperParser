@@ -1,0 +1,16 @@
+{
+    "Vertical Privity": {
+        "definition": "privity between one who acquires property burdened with a restrictive covenant and those who executed the covenant [require vertical privity for a restrictive covenant to run with the land] 2",
+        "origin": "[require vertical privity for a restrictive covenant to run with the land]",
+        "sub_definitions": {
+            "1": {
+                "definition": "privity between one who acquires property burdened with a restrictive covenant and those who executed the covenant [requirefor a restrictive covenant to run with the land]",
+                "vertical privity": "for a restrictive covenant to run with the land]"
+            },
+            "2": {
+                "definition": "privity between parties (as a manufacturer and retailer) who occupy adjoining levels in a system of product distribution"
+            }
+        },
+        "references": {}
+    }
+}

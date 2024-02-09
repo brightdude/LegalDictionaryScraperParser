@@ -1,0 +1,20 @@
+{
+    "Extradition": {
+        "definition": "the surrender of an accused usually under the provisions of a treaty or statute by one sovereign",
+        "origin": "[French, from Latin ex- out + traditio act of handing over, from tradere to hand over]",
+        "compare": "asylum state",
+        "sub_definitions": {
+            "1": {
+                "1": "the surrender of an accused usually under the provisions of a treaty or statute by one sovereign (as a state or nation) to another that has jurisdiction to try the accused and that has demanded his or her return see also",
+                "see also": "asylum state",
+                "compares": "detainer",
+                "note": " Article IV of the U.S. Constitution states: “A person charged in any State with treason, felony, or other crime, who shall flee from justice, and be found in another State, shall on demand of the executive authority of the State from which he fled, be delivered up, to be removed to the State having jurisdiction of the crime.”"
+            }
+        },
+        "references": {
+            "asylum state": "https://dictionary.findlaw.com/definition/asylum-state.html",
+            "detainer": "https://dictionary.findlaw.com/definition/detainer.html",
+            "rendition": "https://dictionary.findlaw.com/definition/rendition.html"
+        }
+    }
+}

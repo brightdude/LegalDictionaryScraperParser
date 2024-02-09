@@ -1,0 +1,17 @@
+{
+    "Bachelor Of Laws": {
+        "definition": "the lowest degree conferred by a law school in Canada and formerly in the U.S. see also juris doctor 2",
+        "sub_definitions": {
+            "1": {
+                "definition": "the lowest degree conferred by a law school in Canada and formerly in the U.S. see also",
+                "see also": "juris doctor"
+            },
+            "2": {
+                "definition": "an undergraduate degree in law conferred by a school of law in England and Wales"
+            }
+        },
+        "references": {
+            "juris doctor": "https://dictionary.findlaw.com/definition/juris-doctor.html"
+        }
+    }
+}

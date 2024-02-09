@@ -1,0 +1,19 @@
+{
+    "Convention": {
+        "definition": "an agreement between nations for regulation of matters affecting all of them 2",
+        "sub_definitions": {
+            "1": {
+                "definition": "an agreement between nations for regulation of matters affecting all of them"
+            },
+            "2": {
+                "definition": "an agreement enforceable in law"
+            },
+            "3": {
+                "definition": "an assembly of persons met for a common purposea meeting of the delegates of a political party for the purpose of formulating a platform and selecting candidates for office"
+            }
+        },
+        "references": {
+            "contract": "https://dictionary.findlaw.com/definition/contract.html"
+        }
+    }
+}

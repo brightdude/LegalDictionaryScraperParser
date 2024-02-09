@@ -1,0 +1,18 @@
+{
+    "Affidavit": {
+        "definition": "a sworn statement in writing made esp. under oath or on affirmation before an authorized magistrate or officer compare deposition",
+        "origin": "[Medieval Latin, he/she has pledged faith, third singular perfect of affidare see affiant ]",
+        "compare": "affiant",
+        "sub_definitions": {
+            "1": {
+                "1": "a sworn statement in writing made esp. under oath or on affirmation before an authorized magistrate or officer compare",
+                "compares": "deposition"
+            }
+        },
+        "references": {
+            "affiant": "https://dictionary.findlaw.com/definition/affiant.html",
+            "deposition": "https://dictionary.findlaw.com/definition/deposition.html",
+            "examination": "https://dictionary.findlaw.com/definition/examination.html"
+        }
+    }
+}

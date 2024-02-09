@@ -1,0 +1,9 @@
+{
+    "Administrate": {
+        "definition": "administer",
+        "sub_definitions": {},
+        "references": {
+            "administer": "https://dictionary.findlaw.com/definition/administer.html"
+        }
+    }
+}

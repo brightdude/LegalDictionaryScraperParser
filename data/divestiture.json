@@ -1,0 +1,14 @@
+{
+    "Divestiture": {
+        "definition": "the sale or transfer of title to a property",
+        "sub_definitions": {
+            "1": {
+                "definition": "the sale or transfer of title to a property (as an operating division) under court order (as in bankruptcy)"
+            },
+            "2": {
+                "definition": "the sale of an asset (as a business division) that is unprofitable, does not enhance a corporate restructuring, or is felt to be morally reprehensible"
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "Merchantable Title": {
+        "definition": "marketable title at title",
+        "sub_definitions": {
+            "1": {
+                "1": "marketable title"
+            }
+        },
+        "references": {
+            "marketable title": "https://dictionary.findlaw.com/definition/marketable-title.html",
+            "title": "https://dictionary.findlaw.com/definition/title.html"
+        }
+    }
+}

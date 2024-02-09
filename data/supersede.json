@@ -1,0 +1,20 @@
+{
+    "Supersede": {
+        "definition": "to subject to postponement or suspension ;esp",
+        "sub_definitions": {
+            "1": {
+                "definition": "to subject to postponement or suspensionto suspend the operation of (a judgment or order) by means of a supersedeas"
+            },
+            "2": {
+                "definition": "to take the place of in authority"
+            },
+            "3": {
+                "definition": "to take the place of and render null or ineffective"
+            }
+        },
+        "references": {
+            "preempt": "https://dictionary.findlaw.com/definition/preempt.html",
+            "override": "https://dictionary.findlaw.com/definition/override.html"
+        }
+    }
+}

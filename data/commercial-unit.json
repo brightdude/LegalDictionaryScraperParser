@@ -1,0 +1,12 @@
+{
+    "Commercial Unit": {
+        "definition": "an item or group of items defined under section 2-105 of the Uniform Commercial Code as being viewed in commerce as a single whole that would be diminished in value if divided NOTE",
+        "sub_definitions": {
+            "1": {
+                "1": "an item or group of items defined under section 2-105 of the Uniform Commercial Code as being viewed in commerce as a single whole that would be diminished in value if divided",
+                "note": " Under U.C.C. section 2-606, when a part of a commercial unit is accepted by a buyer, the entire commercial unit is deemed to be accepted."
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "Withdraw": {
+        "definition": "to remove",
+        "origin": "[ his candidacy]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to remove oneself from participation [ from a case]to cease participation in a conspiracy by an affirmative act of renunciation esp. involving confession to the authorities or communication of abandonment to co-conspirators"
+            },
+            "2": {
+                "definition": "to remove a motion from consideration under parliamentary procedure"
+            },
+            "3 a": {
+                "definition": "to eliminate from consideration or set outside a category or group [ his candidacy]",
+                "sub_terms": {
+                    "b": "to cease to proceed with [the question after an objection was sustained]",
+                    "c": "to take back [ a plea]",
+                    "d": "to remove (a motion) from consideration under parliamentary procedure"
+                },
+                "withdrew": "the question after an objection was sustained]"
+            }
+        },
+        "references": {}
+    }
+}

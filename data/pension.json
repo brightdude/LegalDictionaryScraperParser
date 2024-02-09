@@ -1,0 +1,15 @@
+{
+    "Pension": {
+        "definition": "money paid under given conditions to a person following retirement or to surviving dependents see also defined benefit plan",
+        "sub_definitions": {
+            "1": {
+                "1": "money paid under given conditions to a person following retirement or to surviving dependents see also",
+                "see also": "defined benefit plan"
+            }
+        },
+        "references": {
+            "defined benefit plan": "https://dictionary.findlaw.com/definition/defined-benefit-plan.html",
+            "defined contribution plan": "https://dictionary.findlaw.com/definition/defined-contribution-plan.html"
+        }
+    }
+}

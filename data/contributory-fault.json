@@ -1,0 +1,15 @@
+{
+    "Contributory Fault": {
+        "definition": "responsibility for aiding in the accomplishment of a bad result",
+        "sub_definitions": {
+            "1": {
+                "1": "responsibility for aiding in the accomplishment of a bad result (as an injury)"
+            },
+            "2": {
+                "1": "responsibility of a promisor for causing his or her promise to be impossible to perform",
+                "note": " A promisor who is guilty of contributory fault cannot invoke the defense of impossibility."
+            }
+        },
+        "references": {}
+    }
+}

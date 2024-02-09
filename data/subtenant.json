@@ -1,0 +1,11 @@
+{
+    "Subtenant": {
+        "definition": "one who rents property from a tenant of the property",
+        "sub_definitions": {
+            "1": {
+                "1": "one who rents property from a tenant of the property"
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "Primary Boycott": {
+        "definition": "an organized effort of a labor union and its members to discourage consumers from buying the products of a particular employer compare secondary boycott",
+        "compare": "secondary boycott",
+        "sub_definitions": {
+            "1": {
+                "1": "an organized effort of a labor union and its members to discourage consumers from buying the products of a particular employer compare",
+                "compares": "secondary boycott"
+            }
+        },
+        "references": {
+            "secondary boycott": "https://dictionary.findlaw.com/definition/secondary-boycott.html"
+        }
+    }
+}

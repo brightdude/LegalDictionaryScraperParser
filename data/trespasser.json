@@ -1,0 +1,20 @@
+{
+    "Trespasser": {
+        "definition": "one who trespasses ;esp",
+        "compare": "invitee",
+        "sub_definitions": {
+            "1": {
+                "1": "one who trespasses"
+            },
+            "2": {
+                "1": "one who enters or remains on the real property of another wrongfully or without the owner's or possessor's authority or consent compare",
+                "compares": "invitee",
+                "note": " The general rule is that the owner or possessor of real property has the duty merely to refrain from willfully, wantonly, or recklessly injuring a trespasser whose presence is known. This rule is usually applied to licensees as well, although a licensee is usually owed a higher degree of care when an entrance fee is charged or when active operations (as of machinery) are taking place on the property."
+            }
+        },
+        "references": {
+            "invitee": "https://dictionary.findlaw.com/definition/invitee.html",
+            "licensee": "https://dictionary.findlaw.com/definition/licensee.html"
+        }
+    }
+}

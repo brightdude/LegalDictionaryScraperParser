@@ -1,0 +1,18 @@
+{
+    "Offensive": {
+        "definition": "of",
+        "origin": "[ weapons]",
+        "sub_definitions": {
+            "1": {
+                "definition": "of, relating to, or designed for attack [ weapons]"
+            },
+            "2": {
+                "definition": "causing displeasure or resentmentcontrary to a particular or prevailing sense of what is decent, proper, or moral [depicted sexual acts in a patently way] see also",
+                "see also": "obscene"
+            }
+        },
+        "references": {
+            "obscene": "https://dictionary.findlaw.com/definition/obscene.html"
+        }
+    }
+}

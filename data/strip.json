@@ -1,0 +1,9 @@
+{
+    "Strip": {
+        "definition": "STRIPs [ s eparate t rading of r egistered i nterest and p rincipal of securities]",
+        "origin": "[ s eparate t rading of r egistered i nterest and p rincipal of securities]",
+        "references": {
+            "bond": "https://dictionary.findlaw.com/definition/bond.html"
+        }
+    }
+}

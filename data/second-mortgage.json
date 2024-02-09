@@ -1,0 +1,8 @@
+{
+    "Second Mortgage": {
+        "definition": "Second Mortgage",
+        "references": {
+            "mortgage": "https://dictionary.findlaw.com/definition/mortgage.html"
+        }
+    }
+}

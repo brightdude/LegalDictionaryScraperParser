@@ -1,0 +1,15 @@
+{
+    "Abuse Of Discretion": {
+        "definition": "an error of judgment by a trial court in making a ruling that is clearly unreasonable",
+        "compare": "clearly erroneous",
+        "sub_definitions": {
+            "1": {
+                "1": "an error of judgment by a trial court in making a ruling that is clearly unreasonable, erroneous, or arbitrary and not justified by the facts or the law applicable in the case compare",
+                "compares": "clearly erroneous"
+            }
+        },
+        "references": {
+            "clearly erroneous": "https://dictionary.findlaw.com/definition/clearly-erroneous.html"
+        }
+    }
+}

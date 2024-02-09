@@ -1,0 +1,19 @@
+{
+    "Public Official": {
+        "definition": "public officer ;specif",
+        "compare": "public officer",
+        "sub_definitions": {
+            "1": {
+                "1": "public officer"
+            },
+            "2": {
+                "1": "a person holding a public office the nature of which requires that in order for the person to prevail in a defamation action he or she must show actual malice on the part of the defendant compare",
+                "compares": "public figure"
+            }
+        },
+        "references": {
+            "public officer": "https://dictionary.findlaw.com/definition/public-officer.html",
+            "public figure": "https://dictionary.findlaw.com/definition/public-figure.html"
+        }
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "Surcharge": {
+        "definition": "to impose a surcharge on [ a trustee for failing to exercise due care] 2",
+        "origin": "[ a trustee for failing to exercise due care]",
+        "sub_definitions": {
+            "1": {
+                "definition": "an additional or excessive charge"
+            },
+            "2": {
+                "definition": "a penalty imposed on a fiduciary for failing to exercise due care in the management of assets"
+            }
+        },
+        "references": {}
+    }
+}

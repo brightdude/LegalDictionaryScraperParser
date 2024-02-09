@@ -1,0 +1,13 @@
+{
+    "Unreviewable": {
+        "definition": "not reviewable [the failure to raise distinctly at trial the matter being objected to ordinarily renders a claim on appeal \" State v. Person",
+        "origin": "[the failure to raise distinctly at trial the matter being objected to ordinarily renders a claim on appeal \" State v. Person , 577 A.2d 1036 (1990)\"]",
+        "sub_definitions": {
+            "1": {
+                "1": "not reviewable [the failure to raise distinctly at trial the matter being objected to ordinarily renders a claim on appeal \"",
+                "State v. Person": "577 A.2d 1036 (1990)"
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "Lawful Age": {
+        "definition": "legal age",
+        "sub_definitions": {
+            "1": {
+                "1": "legal age"
+            }
+        },
+        "references": {
+            "legal age": "https://dictionary.findlaw.com/definition/legal-age.html"
+        }
+    }
+}

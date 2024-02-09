@@ -1,0 +1,17 @@
+{
+    "Nolo Contendere": {
+        "definition": "a plea by a defendant in a criminal prosecution that without admitting guilt subjects the defendant to conviction as in the case of a guilty plea but that does not bar denial of the truth of the charges in another proceeding",
+        "origin": "[Latin, I do not wish to contend]",
+        "compare": "guilty",
+        "sub_definitions": {
+            "1": {
+                "1": "a plea by a defendant in a criminal prosecution that without admitting guilt subjects the defendant to conviction as in the case of a guilty plea but that does not bar denial of the truth of the charges in another proceeding (as a civil action based on the same acts) called also",
+                "compares": "guilty"
+            }
+        },
+        "references": {
+            "guilty": "https://dictionary.findlaw.com/definition/guilty.html",
+            "not guilty": "https://dictionary.findlaw.com/definition/not-guilty.html"
+        }
+    }
+}

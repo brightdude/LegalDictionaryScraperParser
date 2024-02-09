@@ -1,0 +1,13 @@
+{
+    "Cost-Of-Living Index": {
+        "definition": "consumer price index",
+        "sub_definitions": {
+            "1": {
+                "1": "consumer price index"
+            }
+        },
+        "references": {
+            "consumer price index": "https://dictionary.findlaw.com/definition/consumer-price-index.html"
+        }
+    }
+}

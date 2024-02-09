@@ -1,0 +1,11 @@
+{
+    "Deportee": {
+        "definition": "a person who has been deported or is under an order of deportation",
+        "sub_definitions": {
+            "1": {
+                "1": "a person who has been deported or is under an order of deportation"
+            }
+        },
+        "references": {}
+    }
+}

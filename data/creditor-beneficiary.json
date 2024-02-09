@@ -1,0 +1,8 @@
+{
+    "Creditor Beneficiary": {
+        "definition": "Creditor Beneficiary",
+        "references": {
+            "beneficiary": "https://dictionary.findlaw.com/definition/beneficiary.html"
+        }
+    }
+}

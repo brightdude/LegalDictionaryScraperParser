@@ -1,0 +1,15 @@
+{
+    "Posting": {
+        "definition": "the transfer of an entry or item from a book or file of original entry to the proper account in a ledger ;also",
+        "origin": "[charged interest from the date of the credit card transaction]",
+        "sub_definitions": {
+            "1": {
+                "definition": "the transfer of an entry or item from a book or file of original entry to the proper account in a ledgerthe record produced by such a transfer"
+            },
+            "2": {
+                "definition": "the actual crediting or debiting of an account (as in payment of a draft) [charged interest from the date of the credit card transaction]"
+            }
+        },
+        "references": {}
+    }
+}

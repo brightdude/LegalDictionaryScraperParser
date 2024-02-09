@@ -1,0 +1,18 @@
+{
+    "Preponderance Of The Evidence": {
+        "definition": "the evidence meeting this standard [plaintiffs must show by a preponderance of the evidence that defendant's negligence proximately caused the injuries] compare clear and convincing",
+        "origin": "[plaintiffs must show by a preponderance of the evidence that defendant's negligence proximately caused the injuries]",
+        "compare": "clear and convincing",
+        "sub_definitions": {
+            "1": {
+                "1": "the evidence meeting this standard [plaintiffs must show by a",
+                "preponderance of the evidence": "that defendant's negligence proximately caused the injuries] compare",
+                "compares": "clear and convincing"
+            }
+        },
+        "references": {
+            "clear and convincing": "https://dictionary.findlaw.com/definition/clear-and-convincing.html",
+            "reasonable doubt": "https://dictionary.findlaw.com/definition/reasonable-doubt.html"
+        }
+    }
+}

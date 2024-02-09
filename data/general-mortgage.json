@@ -1,0 +1,8 @@
+{
+    "General Mortgage": {
+        "definition": "General Mortgage",
+        "references": {
+            "mortgage": "https://dictionary.findlaw.com/definition/mortgage.html"
+        }
+    }
+}

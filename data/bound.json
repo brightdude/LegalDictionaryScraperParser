@@ -1,0 +1,20 @@
+{
+    "Bound": {
+        "definition": "boundary usually used in pl. [metes and s ] 2",
+        "origin": "[metes and s ]",
+        "sub_definitions": {
+            "1": {
+                "definition": "usually used in pl. [metes and]"
+            },
+            "2": {
+                "definition": "something that limits or restrains [within theof the law]vtto form the boundary of or enclose [propertyon the north by a stone wall]adjplaced under a legal or moral restraint or obligation",
+                "s": "of the law]",
+                "ed": "on the north by a stone wall]"
+            }
+        },
+        "references": {
+            "boundary": "https://dictionary.findlaw.com/definition/boundary.html",
+            "bind": "https://dictionary.findlaw.com/definition/bind.html"
+        }
+    }
+}

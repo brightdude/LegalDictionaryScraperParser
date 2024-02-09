@@ -1,0 +1,16 @@
+{
+    "Third-Party Standing": {
+        "definition": "standing sometimes granted to a party claiming to protect the rights or interests of a third party compare batson challenge NOTE",
+        "compare": "batson challenge",
+        "sub_definitions": {
+            "1": {
+                "1": "standing sometimes granted to a party claiming to protect the rights or interests of a third party compare",
+                "compares": "batson challenge",
+                "note": " Third-party standing is granted esp. when a statute is challenged as unconstitutionally overbroad or when a party (such as a criminal defendant) challenges the exclusion of a juror who is being denied equal protection by being excluded esp. because of race or gender."
+            }
+        },
+        "references": {
+            "batson challenge": "https://dictionary.findlaw.com/definition/batson-challenge.html"
+        }
+    }
+}

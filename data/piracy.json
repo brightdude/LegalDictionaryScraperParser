@@ -1,0 +1,26 @@
+{
+    "Piracy": {
+        "definition": "-cies 1",
+        "origin": "[software ]",
+        "sub_definitions": {
+            "1": {
+                "definition": "an act of robbery esp. on the high seasan illegal act of violence, detention, or plunder committed for private ends by crew or passengers of a private ship or aircraft against another ship or aircraft on the high seas or in a place outside the jurisdiction of any state see alsoof thein the back matter",
+                "see also": "aircraft piracy"
+            },
+            "2 a": {
+                "definition": "the unauthorized copying, distribution, or use of another's production (as a film) esp. in infringement of a copyright [software ]",
+                "sub_terms": {
+                    "b": "the unauthorized use, interception, or receipt of encoded communications (as satellite cable programming) esp. to avoid paying fees for use [the statute's purpose is to proscribe the of programming signals \", 983 F.2d 36 (1993)\"]"
+                },
+                "United States v. Harrell": "983 F.2d 36 (1993)"
+            },
+            "3": {
+                "definition": "the crime of committing piracy"
+            }
+        },
+        "references": {
+            "aircraft piracy": "https://dictionary.findlaw.com/definition/aircraft-piracy.html",
+            "Constitution": "https://dictionary.findlaw.com/definition/constitution.html"
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "Mental Disease": {
+        "definition": "an abnormal mental condition that interferes with mental or emotional processes and internal behavioral control and that is not manifest only in repeated criminal or antisocial conduct ;broadly",
+        "sub_definitions": {
+            "1": {
+                "1": "an abnormal mental condition that interferes with mental or emotional processes and internal behavioral control and that is not manifest only in repeated criminal or antisocial conduct"
+            },
+            "2": {
+                "1": "mental illness",
+                "note": "Mental diseaseandmental illnessare in general use synonymous, butmental diseasehas developed a settled meaning in criminal law whilemental illnessis often explained or defined by reference to the medical community's understanding of the term."
+            }
+        },
+        "references": {
+            "mental illness": "https://dictionary.findlaw.com/definition/mental-illness.html"
+        }
+    }
+}

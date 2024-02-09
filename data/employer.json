@@ -1,0 +1,14 @@
+{
+    "Employer": {
+        "definition": "one that hires others to perform a service or engage in an activity in exchange for compensation see also respondeat superior",
+        "sub_definitions": {
+            "1": {
+                "1": "one that hires others to perform a service or engage in an activity in exchange for compensation see also",
+                "see also": "respondeat superior"
+            }
+        },
+        "references": {
+            "respondeat superior": "https://dictionary.findlaw.com/definition/respondeat-superior.html"
+        }
+    }
+}

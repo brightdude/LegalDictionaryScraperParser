@@ -1,0 +1,13 @@
+{
+    "Substantive Offense": {
+        "definition": "substantive crime",
+        "sub_definitions": {
+            "1": {
+                "1": "substantive crime"
+            }
+        },
+        "references": {
+            "substantive crime": "https://dictionary.findlaw.com/definition/substantive-crime.html"
+        }
+    }
+}

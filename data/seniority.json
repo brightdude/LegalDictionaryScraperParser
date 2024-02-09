@@ -1,0 +1,14 @@
+{
+    "Seniority": {
+        "definition": "the quality or state of being senior 2",
+        "sub_definitions": {
+            "1": {
+                "definition": "the quality or state of being senior"
+            },
+            "2": {
+                "definition": "the senior status attained by length of continuous service (as in a company)the length of such continuous service"
+            }
+        },
+        "references": {}
+    }
+}

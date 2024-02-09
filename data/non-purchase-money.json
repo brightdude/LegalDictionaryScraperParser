@@ -1,0 +1,11 @@
+{
+    "Non-Purchase Money": {
+        "definition": "not involving or being a debt secured by the property purchased with the money borrowed",
+        "sub_definitions": {
+            "1": {
+                "1": "not involving or being a debt secured by the property purchased with the money borrowed"
+            }
+        },
+        "references": {}
+    }
+}

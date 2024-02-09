@@ -1,0 +1,11 @@
+{
+    "Federal Circuit": {
+        "definition": "a circuit that has nationwide jurisdiction over appeals or reviews of certain customs",
+        "sub_definitions": {
+            "1": {
+                "1": "a circuit that has nationwide jurisdiction over appeals or reviews of certain customs, trademark and patent cases (as actions for patent applications or patent interference), and claims against the U.S. from district courts or federal agencies and that has appellate jurisdiction over cases in the United States Court of Federal Claims, the United States Court of International Trade, and the United States Court of Veterans Appeals"
+            }
+        },
+        "references": {}
+    }
+}

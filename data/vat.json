@@ -1,0 +1,13 @@
+{
+    "Vat": {
+        "definition": "value-added tax",
+        "sub_definitions": {
+            "1": {
+                "1": "value-added tax"
+            }
+        },
+        "references": {
+            "value-added tax": "https://dictionary.findlaw.com/definition/value-added-tax.html"
+        }
+    }
+}

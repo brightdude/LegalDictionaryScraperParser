@@ -1,0 +1,17 @@
+{
+    "Generic": {
+        "definition": "common or descriptive and not entitled to trademark protection",
+        "origin": "[the name of a drug]",
+        "sub_definitions": {
+            "1": {
+                "definition": "common or descriptive and not entitled to trademark protection[the name of a drug]"
+            },
+            "2": {
+                "definition": "having a nonproprietary name [ drugs]"
+            }
+        },
+        "references": {
+            "nonproprietary": "https://dictionary.findlaw.com/definition/nonproprietary.html"
+        }
+    }
+}

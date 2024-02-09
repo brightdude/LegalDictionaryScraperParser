@@ -1,0 +1,15 @@
+{
+    "Mediator": {
+        "definition": "one that works to effect reconciliation",
+        "compare": "arbitrator",
+        "sub_definitions": {
+            "1": {
+                "1": "one that works to effect reconciliation, settlement, or compromise between parties at variance compare",
+                "compares": "arbitrator"
+            }
+        },
+        "references": {
+            "arbitrator": "https://dictionary.findlaw.com/definition/arbitrator.html"
+        }
+    }
+}

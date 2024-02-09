@@ -1,0 +1,28 @@
+{
+    "Special": {
+        "definition": "distinguished by some unusual quality [ circumstances justifying an award of attorney's fees] 2",
+        "origin": "[ circumstances justifying an award of attorney's fees]",
+        "sub_definitions": {
+            "1": {
+                "definition": "distinguished by some unusual quality [ circumstances justifying an award of attorney's fees]"
+            },
+            "2": {
+                "definition": "relating to a single thing or class of thingshaving an individual character or trait [owed them a duty not owed to the public at large]"
+            },
+            "3 a": {
+                "definition": "supplemental to the regular",
+                "sub_terms": {
+                    "b": "assigned or provided to meet a need not covered under established procedures"
+                }
+            },
+            "4": {
+                "definition": "designed or selected for a particular purpose, occasion, or other end [family courts are courts of limited and jurisdiction \", 559 P.2d 744 (1977)\"]",
+                "Cleveland v. Cleveland": "559 P.2d 744 (1977)"
+            },
+            "5": {
+                "definition": "containing particulars and details [a pleading]"
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "Set Off": {
+        "definition": "to reduce or discharge by set-off",
+        "sub_definitions": {
+            "1": {
+                "1": "to reduce or discharge by set-off"
+            },
+            "2": {
+                "1": "offset"
+            }
+        },
+        "references": {
+            "offset": "https://dictionary.findlaw.com/definition/offset.html"
+        }
+    }
+}

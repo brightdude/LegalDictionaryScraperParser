@@ -1,0 +1,18 @@
+{
+    "Assure": {
+        "definition": "insure 2 a",
+        "origin": "[the seller assured the buyer of his honesty]",
+        "sub_definitions": {
+            "2 a": {
+                "definition": "to inform positively [the sellerthe buyer of his honesty]",
+                "sub_terms": {
+                    "b": "to provide a guarantee of"
+                },
+                "assured": "the buyer of his honesty]"
+            }
+        },
+        "references": {
+            "insure": "https://dictionary.findlaw.com/definition/insure.html"
+        }
+    }
+}

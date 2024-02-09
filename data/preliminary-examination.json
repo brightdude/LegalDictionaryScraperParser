@@ -1,0 +1,14 @@
+{
+    "Preliminary Examination": {
+        "definition": "preliminary hearing at hearing",
+        "sub_definitions": {
+            "1": {
+                "1": "preliminary hearing"
+            }
+        },
+        "references": {
+            "preliminary hearing": "https://dictionary.findlaw.com/definition/preliminary-hearing.html",
+            "hearing": "https://dictionary.findlaw.com/definition/hearing.html"
+        }
+    }
+}

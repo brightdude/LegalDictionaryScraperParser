@@ -1,0 +1,8 @@
+{
+    "Commercial Bank": {
+        "definition": "Commercial Bank",
+        "references": {
+            "bank": "https://dictionary.findlaw.com/definition/bank.html"
+        }
+    }
+}

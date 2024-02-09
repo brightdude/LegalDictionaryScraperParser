@@ -1,0 +1,32 @@
+{
+    "Register": {
+        "definition": "a written record containing regular entries of items or details ;specif",
+        "origin": "[Anglo-French registre , from Medieval Latin registrum , alteration of Late Latin regesta , pl., register, from Latin, neuter plural of regestus , past participle of regerere to bring back, pile up, collect]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to enroll one's name in a register"
+            },
+            "2 a": {
+                "definition": "a book or system of public records (as titles or patents)",
+                "sub_terms": {
+                    "b": "a roster of qualified or available individuals",
+                    "c": "the formal record maintained by a corporation of the names and addresses of holders of its registered securities"
+                }
+            },
+            "3": {
+                "definition": "to secure special protection for (a piece of mail) by prepayment of a fee"
+            },
+            "4": {
+                "definition": "probably alteration of Middle Englishregistrarvb"
+            },
+            "2": {
+                "definition": "to enroll one's name officially as a prerequisite for voting"
+            }
+        },
+        "references": {
+            "police register": "https://dictionary.findlaw.com/definition/police-register.html",
+            "registry": "https://dictionary.findlaw.com/definition/registry.html",
+            "registrar": "https://dictionary.findlaw.com/definition/registrar.html"
+        }
+    }
+}

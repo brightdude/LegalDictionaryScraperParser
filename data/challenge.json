@@ -1,0 +1,33 @@
+{
+    "Challenge": {
+        "definition": "to dispute esp. as being invalid or unjust [counsel challenged this interpretation] 2",
+        "origin": "[counsel challenged this interpretation]",
+        "sub_definitions": {
+            "1": {
+                "definition": "a calling into questiona questioning of validity or legality[when the to the statute is in effect a of this basic assumption \", 395 U.S. 621 (1969)\"] see also",
+                "see also": "batson challenge",
+                "Kramer v. Union Free School Dist. No. 15": "395 U.S. 621 (1969)\"] see al"
+            },
+            "2": {
+                "definition": "a request to disqualify a trier of fact (as a jury member or judge) compare,",
+                "compares": "recusal"
+            },
+            "challenge for cause": {
+                "definition": "a challenge esp. of a prospective juror based on a specific and stated cause or reason"
+            },
+            "challenge to the array": {
+                "definition": "a challenge of an entire jury that raises objections to the selection process"
+            },
+            "peremptory challenge": {
+                "definition": "a challenge esp. of a prospective juror that does not require a stated cause or reason"
+            }
+        },
+        "references": {
+            "recuse": "https://dictionary.findlaw.com/definition/recuse.html",
+            "objection": "https://dictionary.findlaw.com/definition/objection.html",
+            "batson challenge": "https://dictionary.findlaw.com/definition/batson-challenge.html",
+            "recusal": "https://dictionary.findlaw.com/definition/recusal.html",
+            "strike": "https://dictionary.findlaw.com/definition/strike.html"
+        }
+    }
+}

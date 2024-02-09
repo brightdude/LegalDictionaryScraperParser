@@ -1,0 +1,16 @@
+{
+    "Survival Action": {
+        "definition": "an action for the recovery of damages for injury to a fatally injured person that is brought by his or her personal representative compare wrongful death action NOTE",
+        "compare": "wrongful death action",
+        "sub_definitions": {
+            "1": {
+                "1": "an action for the recovery of damages for injury to a fatally injured person that is brought by his or her personal representative compare",
+                "compares": "wrongful death action",
+                "note": " A survival action depends on the existence of a cause of action that the decedent would have had if he or she had survived. A wrongful death suit is concerned with injury to beneficiaries, not the decedent."
+            }
+        },
+        "references": {
+            "wrongful death action": "https://dictionary.findlaw.com/definition/wrongful-death-action.html"
+        }
+    }
+}

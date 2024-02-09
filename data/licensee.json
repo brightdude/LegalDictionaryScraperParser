@@ -1,0 +1,23 @@
+{
+    "Licensee": {
+        "definition": "one to whom a license is given [a patent ] ;specif",
+        "origin": "[a patent ]",
+        "compare": "bare licensee",
+        "sub_definitions": {
+            "1": {
+                "1": "one to whom a license is given [a patent ]"
+            },
+            "2": {
+                "1": "one (as a firefighter in the course of his or her duty) who is on the property of another by authority of law or by the consent or invitation of the possessor see also",
+                "see also": "bare licensee",
+                "compares": "invitee"
+            }
+        },
+        "references": {
+            "bare licensee": "https://dictionary.findlaw.com/definition/bare-licensee.html",
+            "social guest": "https://dictionary.findlaw.com/definition/social-guest.html",
+            "invitee": "https://dictionary.findlaw.com/definition/invitee.html",
+            "trespasser": "https://dictionary.findlaw.com/definition/trespasser.html"
+        }
+    }
+}

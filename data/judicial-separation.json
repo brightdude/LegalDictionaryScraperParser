@@ -1,0 +1,13 @@
+{
+    "Judicial Separation": {
+        "definition": "legal separation",
+        "sub_definitions": {
+            "1": {
+                "1": "legal separation"
+            }
+        },
+        "references": {
+            "legal separation": "https://dictionary.findlaw.com/definition/legal-separation.html"
+        }
+    }
+}

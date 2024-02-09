@@ -1,0 +1,15 @@
+{
+    "Donatio Inter Vivos": {
+        "definition": "donation inter vivos at donation",
+        "origin": "[Latin, literally, gift between living people]",
+        "sub_definitions": {
+            "1": {
+                "1": "donation inter vivos"
+            }
+        },
+        "references": {
+            "donation inter vivos": "https://dictionary.findlaw.com/definition/donation-inter-vivos.html",
+            "donation": "https://dictionary.findlaw.com/definition/donation.html"
+        }
+    }
+}

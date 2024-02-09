@@ -1,0 +1,8 @@
+{
+    "Legal Mortgage": {
+        "definition": "Legal Mortgage",
+        "references": {
+            "mortgage": "https://dictionary.findlaw.com/definition/mortgage.html"
+        }
+    }
+}

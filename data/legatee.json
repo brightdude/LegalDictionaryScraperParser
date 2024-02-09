@@ -1,0 +1,18 @@
+{
+    "Legatee": {
+        "definition": "one to whom a legacy is bequeathed compare devisee",
+        "compare": "devisee",
+        "sub_definitions": {
+            "1": {
+                "1": "one to whom a legacy is bequeathed compare",
+                "compares": "devisee"
+            }
+        },
+        "references": {
+            "devisee": "https://dictionary.findlaw.com/definition/devisee.html",
+            "heir": "https://dictionary.findlaw.com/definition/heir.html",
+            "next of kin": "https://dictionary.findlaw.com/definition/next-of-kin.html",
+            "successor": "https://dictionary.findlaw.com/definition/successor.html"
+        }
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "Realty": {
+        "definition": "real property at property",
+        "sub_definitions": {
+            "1": {
+                "1": "real property"
+            }
+        },
+        "references": {
+            "real property": "https://dictionary.findlaw.com/definition/real-property.html",
+            "property": "https://dictionary.findlaw.com/definition/property.html"
+        }
+    }
+}

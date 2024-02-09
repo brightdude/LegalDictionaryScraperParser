@@ -1,0 +1,11 @@
+{
+    "Line Of Credit": {
+        "definition": "an agreement specifying the maximum amount of credit allowed a borrower",
+        "sub_definitions": {
+            "1": {
+                "1": "an agreement specifying the maximum amount of credit allowed a borrower"
+            }
+        },
+        "references": {}
+    }
+}

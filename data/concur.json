@@ -1,0 +1,19 @@
+{
+    "Concur": {
+        "definition": "to happen at the same time 2",
+        "origin": "[he shall have power…to make treaties, provided two-thirds of the Senators present \" U.S. Constitution art. II\"]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to happen at the same time"
+            },
+            "2": {
+                "definition": "to express agreement [he shall have power…to make treaties, provided two-thirds of the Senators present \"art. II\"]to join in an appellate decision compare",
+                "note": " A judge or justice may concur with the decision of the court but not agree with the reasons set forth in the opinion. Often a separate opinion is written in such a case.",
+                "compares": "dissent"
+            }
+        },
+        "references": {
+            "dissent": "https://dictionary.findlaw.com/definition/dissent.html"
+        }
+    }
+}

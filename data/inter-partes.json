@@ -1,0 +1,22 @@
+{
+    "Inter Partes": {
+        "definition": "between the parties [a consent decree is not simply a contract inter partes",
+        "origin": "[Latin]",
+        "compare": "ex parte",
+        "sub_definitions": {
+            "1": {
+                "1": "between the parties [a consent decree is not simply a contract",
+                "inter partes": "unlike a settlemen"
+            },
+            "2": {
+                "1": "having or involving adverse parties [an issue of an invalid application may also arise in",
+                "inter partes": "proceedings where an adversary raises the issue \"",
+                "In re Compagnie Generale Maritime": "993 F.2d 841 (1993) (dissent)\"] compa",
+                "compares": "ex parte"
+            }
+        },
+        "references": {
+            "ex parte": "https://dictionary.findlaw.com/definition/ex-parte.html"
+        }
+    }
+}

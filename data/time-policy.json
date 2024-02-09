@@ -1,0 +1,11 @@
+{
+    "Time Policy": {
+        "definition": "a marine insurance policy covering property for a specified period",
+        "sub_definitions": {
+            "1": {
+                "1": "a marine insurance policy covering property for a specified period"
+            }
+        },
+        "references": {}
+    }
+}

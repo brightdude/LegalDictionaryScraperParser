@@ -1,0 +1,23 @@
+{
+    "Prejudice": {
+        "definition": "injury or detriment to one's legal rights or claims",
+        "origin": "[Old French, from Latin praejudicium previous judgment, damage, from prae- before + judicium judgment]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to injure or damage the rights of by some legal action or prejudice [if it appears that a defendant or the government isby a joinder of offenses \"Rule 14\"]",
+                "prejudiced": "by a joinder of offenses \""
+            },
+            "2": {
+                "definition": "to injure or damage (rights) by some legal action or prejudice [that the denialhis right to a fair trial] [this clause does not other rights]",
+                "prejudiced": "his right to a fair trial] [this clause does not other rights]"
+            },
+            "3 a": {
+                "definition": "an irrational attitude of hostility directed against an individual, a group, a race, or their supposed characteristics [the Constitution does not prohibit laws based on per se \"R. H. Bork\"]",
+                "sub_terms": {
+                    "b": "an attitude or disposition (as of a judge) that prevents impartiality [that the judge before whom the matter is pending has a personal bias or …against him \"\"]vt"
+                }
+            }
+        },
+        "references": {}
+    }
+}

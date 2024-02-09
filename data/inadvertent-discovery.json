@@ -1,0 +1,16 @@
+{
+    "Inadvertent Discovery": {
+        "definition": "unexpected finding of incriminating evidence in plain view by the police compare inevitable discovery NOTE",
+        "compare": "inevitable discovery",
+        "sub_definitions": {
+            "1": {
+                "1": "unexpected finding of incriminating evidence in plain view by the police compare",
+                "compares": "inevitable discovery",
+                "note": " InCoolidge v. New Hampshire, 403 U.S. 443 (1971), the U.S. Supreme Court held that evidence found by inadvertent discovery may be seized under the plain view exception to the warrant requirement for searches and seizures. InHorton v. California, 496 U.S. 128 (1990), however, the Court, while not overturningCoolidge, decided that inadvertent discovery is not a necessary condition for application of the plain view exception to seizures."
+            }
+        },
+        "references": {
+            "inevitable discovery": "https://dictionary.findlaw.com/definition/inevitable-discovery.html"
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "Operational": {
+        "definition": "ministerial",
+        "sub_definitions": {
+            "1": {
+                "1": "ministerial"
+            }
+        },
+        "references": {
+            "ministerial": "https://dictionary.findlaw.com/definition/ministerial.html"
+        }
+    }
+}

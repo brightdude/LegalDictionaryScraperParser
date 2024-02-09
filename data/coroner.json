@@ -1,0 +1,12 @@
+{
+    "Coroner": {
+        "definition": "a public officer whose principal duty is to inquire by an inquest into the cause of death when there is reason to think the death may not be due to natural causes",
+        "origin": "[Anglo-French, recorder of crown pleas, from corone crown]",
+        "sub_definitions": {
+            "1": {
+                "1": "a public officer whose principal duty is to inquire by an inquest into the cause of death when there is reason to think the death may not be due to natural causes"
+            }
+        },
+        "references": {}
+    }
+}

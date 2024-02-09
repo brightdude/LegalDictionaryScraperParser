@@ -1,0 +1,9 @@
+{
+    "Home Equity Line Of Credit": {
+        "definition": "home equity loan at loan",
+        "references": {
+            "home equity loan": "https://dictionary.findlaw.com/definition/home-equity-loan.html",
+            "loan": "https://dictionary.findlaw.com/definition/loan.html"
+        }
+    }
+}

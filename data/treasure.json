@@ -1,0 +1,11 @@
+{
+    "Treasure": {
+        "definition": "personal property that is hidden in something else for an extended period and whose owner cannot be determined",
+        "sub_definitions": {
+            "1": {
+                "1": "personal property that is hidden in something else for an extended period and whose owner cannot be determined"
+            }
+        },
+        "references": {}
+    }
+}

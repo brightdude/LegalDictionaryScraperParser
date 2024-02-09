@@ -1,0 +1,12 @@
+{
+    "Instruction": {
+        "definition": "an explanation of an applicable principle of law given by a judge to a jury before the jury retires to consider its verdict called also jury charge jury instruction NOTE",
+        "sub_definitions": {
+            "1": {
+                "1": "an explanation of an applicable principle of law given by a judge to a jury before the jury retires to consider its verdict called also",
+                "note": " Under both the Federal Rules of Civil Procedure and the Federal Rules of Criminal Procedure, at the close of evidence, or before the close if the court reasonably so directs, any party may file written requests for the instructions to be given to the jury by the court. The court must advise the parties of its decision regarding the instructions prior to closing argument so that the parties may address the instructions during argument. Any objections to the instructions must be made before the jury retires for deliberation."
+            }
+        },
+        "references": {}
+    }
+}

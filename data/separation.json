@@ -1,0 +1,19 @@
+{
+    "Separation": {
+        "definition": "cessation of cohabitation between a married couple by mutual agreement with intent that it be permanent ;also",
+        "sub_definitions": {
+            "1": {
+                "definition": "cessation of cohabitation between a married couple by mutual agreement with intent that it be permanentcompare",
+                "note": " In some cases in which the estrangement is extreme, a separation is considered to have occurred even when the couple retain the same residence if they have stopped communicating and engaging in sexual relations and intend to be separated.",
+                "compares": "divorce"
+            },
+            "2": {
+                "definition": "termination of a contractual relationship (as employment or military service)"
+            }
+        },
+        "references": {
+            "legal separation": "https://dictionary.findlaw.com/definition/legal-separation.html",
+            "divorce": "https://dictionary.findlaw.com/definition/divorce.html"
+        }
+    }
+}

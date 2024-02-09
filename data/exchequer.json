@@ -1,0 +1,19 @@
+{
+    "Exchequer": {
+        "definition": "a royal office in medieval England at first responsible for the collection and management of the royal revenue and later for the adjudication of revenue cases 2 cap",
+        "origin": "[Anglo-French eschecker eschequ(i)er , from Old French eschequier royal treasury, reckoning board or cloth marked with squares, literally, chessboard, from eschec chess]",
+        "sub_definitions": {
+            "1": {
+                "definition": "a royal office in medieval England at first responsible for the collection and management of the royal revenue and later for the adjudication of revenue cases"
+            },
+            "2": {
+                "definition": "a former superior court having law and equity jurisdiction in England and Wales over primarily revenue cases and now merged with the Queen's Bench Division of the High Court of Justice called also",
+                "note": " The Exchequer was created in England by the Norman kings. In addition to being divided into a court of common law and a court of equity, at one point the Exchequer also had jurisdiction over all actions, except those involving real property, between two subjects of the Crown. In 1841, the Exchequer's equity jurisdiction, except over revenue cases, was transferred to the Court of Chancery, and in 1881 the Exchequer was merged into the Queen's Bench Division of the High Court of Justice."
+            },
+            "3": {
+                "definition": "the office in Great Britain and Northern Ireland responsible for the collection and care of the national revenue"
+            }
+        },
+        "references": {}
+    }
+}

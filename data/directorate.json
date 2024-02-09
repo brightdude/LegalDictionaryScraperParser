@@ -1,0 +1,14 @@
+{
+    "Directorate": {
+        "definition": "a board of directors",
+        "sub_definitions": {
+            "1": {
+                "definition": "a board of directors (as of a corporation)"
+            },
+            "2": {
+                "definition": "membership on a board of directors"
+            }
+        },
+        "references": {}
+    }
+}

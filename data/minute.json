@@ -1,0 +1,16 @@
+{
+    "Minute": {
+        "definition": "a brief note",
+        "sub_definitions": {
+            "1": {
+                "definition": "a brief note (as of summary or recommendation)"
+            },
+            "3": {
+                "definition": "the official record of the proceedings of a meeting or court"
+            }
+        },
+        "references": {
+            "memorandum": "https://dictionary.findlaw.com/definition/memorandum.html"
+        }
+    }
+}

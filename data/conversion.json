@@ -1,0 +1,28 @@
+{
+    "Conversion": {
+        "definition": "the act of changing from one form or use to another b",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "the act of changing from one form or use to another",
+                "sub_terms": {
+                    "b": "the act of exchanging one kind of property for anotherthe act of exchanging preferred stocks or bonds for shares of common stock of the same company usually at a preset ratio or price and at a preset time"
+                }
+            },
+            "equitable conversion": {
+                "definition": "the constructive conversion of real property into personal property esp. as a result of a contract for sale of land or testamentary instructions to sell real estate and divide the proceeds",
+                "note": " Equitable conversion is a legal fiction under which the seller of a real property becomes, upon the execution of a contract for the sale of the property, the owner of personal property in the form of legal title to the property that secures payment of the purchase price. The purchaser is deemed to be the holder of equitable title in and owner of the real property, having the rights and being subject to the liabilities that attend that status. In the case of a will in which a property owner authorizes the sale of real property and distribution of the proceeds, the property transforms into personalty by equitable conversion upon the owner's death."
+            },
+            "involuntary conversion": {
+                "definition": "the conversion of property into other property as compensation for the theft, destruction, seizure, requisition, or condemnation of the original property",
+                "note": " For income tax purposes, involuntary conversions are generally taxable, and the gain or loss is computed by offsetting the basis of the property against the compensation received (as from insurance)."
+            },
+            "2": {
+                "definition": "the crime or tort of interfering with the ownership of another's movable or personal property without authorization or justification (as a lien) and esp. of depriving the owner of use and possession see also",
+                "see also": "fraudulent conversion"
+            }
+        },
+        "references": {
+            "fraudulent conversion": "https://dictionary.findlaw.com/definition/fraudulent-conversion.html"
+        }
+    }
+}

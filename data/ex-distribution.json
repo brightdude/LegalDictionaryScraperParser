@@ -1,0 +1,12 @@
+{
+    "Ex-Distribution": {
+        "definition": "without the right to a pending distribution",
+        "origin": "[shares traded ]",
+        "sub_definitions": {
+            "1": {
+                "1": "without the right to a pending distribution (as of capital gains from a mutual fund) [shares traded ]"
+            }
+        },
+        "references": {}
+    }
+}

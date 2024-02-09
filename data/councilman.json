@@ -1,0 +1,13 @@
+{
+    "Councilman": {
+        "definition": "-men",
+        "sub_definitions": {
+            "-men": {
+                "definition": "a member of a council"
+            }
+        },
+        "references": {
+            "councillor": "https://dictionary.findlaw.com/definition/councillor.html"
+        }
+    }
+}

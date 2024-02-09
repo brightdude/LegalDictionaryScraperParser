@@ -1,0 +1,13 @@
+{
+    "Assault And Battery": {
+        "definition": "assault",
+        "sub_definitions": {
+            "1": {
+                "1": "assault"
+            }
+        },
+        "references": {
+            "assault": "https://dictionary.findlaw.com/definition/assault.html"
+        }
+    }
+}

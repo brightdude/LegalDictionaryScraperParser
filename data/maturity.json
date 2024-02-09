@@ -1,0 +1,14 @@
+{
+    "Maturity": {
+        "definition": "termination of the period that a note or other obligation has to run",
+        "sub_definitions": {
+            "1": {
+                "1": "termination of the period that a note or other obligation has to run"
+            },
+            "2": {
+                "1": "state or condition of having become due"
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "Forced Share": {
+        "definition": "elective share",
+        "sub_definitions": {
+            "1": {
+                "1": "elective share"
+            }
+        },
+        "references": {
+            "elective share": "https://dictionary.findlaw.com/definition/elective-share.html"
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "Collateralized Mortgage Obligation": {
+        "definition": "a bond collateralized by a pool of mortgage obligations or pass-through securities and paid according to the maturity and amortization schedule of its class and not directly from the underlying obligations called also CMO see also remic compare pass-through security at security",
+        "compare": "remic",
+        "sub_definitions": {
+            "1": {
+                "1": "a bond collateralized by a pool of mortgage obligations or pass-through securities and paid according to the maturity and amortization schedule of its class and not directly from the underlying obligations called also",
+                "see also": "remic"
+            }
+        },
+        "references": {
+            "remic": "https://dictionary.findlaw.com/definition/remic.html",
+            "security": "https://dictionary.findlaw.com/definition/security.html",
+            "tranche": "https://dictionary.findlaw.com/definition/tranche.html"
+        }
+    }
+}

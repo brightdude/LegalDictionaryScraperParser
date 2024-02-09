@@ -1,0 +1,11 @@
+{
+    "Single Publication Rule": {
+        "definition": "a rule in the law of libel that treats an edition of a print source",
+        "sub_definitions": {
+            "1": {
+                "1": "a rule in the law of libel that treats an edition of a print source (as a magazine) as one publication giving rise to one cause of action for libel regardless of how many copies were printed and where they were distributed"
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "Favor": {
+        "definition": "bias 2",
+        "origin": "[a judgment in favor of the defendant]",
+        "sub_definitions": {},
+        "references": {
+            "bias": "https://dictionary.findlaw.com/definition/bias.html",
+            "benefit": "https://dictionary.findlaw.com/definition/benefit.html"
+        }
+    }
+}

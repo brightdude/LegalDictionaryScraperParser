@@ -1,0 +1,8 @@
+{
+    "Third Party": {
+        "definition": "Third Party",
+        "references": {
+            "party": "https://dictionary.findlaw.com/definition/party.html"
+        }
+    }
+}

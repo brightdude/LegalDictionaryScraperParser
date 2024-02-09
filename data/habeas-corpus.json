@@ -1,0 +1,28 @@
+{
+    "Habeas Corpus": {
+        "definition": "any of several writs originating at common law that are issued to bring a party before the court ;esp",
+        "origin": "[Medieval Latin, literally, you should have the body (the opening words of the writ)]",
+        "sub_definitions": {
+            "habeas corpus ad fa·ci·en·dum et re·ci·pi·en·dum": {
+                "definition": "[-ad-fa-sē-en-dəm-et-ri-si-pē-en-dəm, -fa-shē-en-; -Ä d-fÄ -kē-en-dm-et-rā-kē-pē-en-dm][New Latin, literally, you should have the body for doing and receiving]in this entry"
+            },
+            "habeas corpus ad pro·se·quen·dum": {
+                "definition": "[-ad-prÄ -si-kwen-dəm, -Ä d-prō-sā-kwen-dm][New Latin, literally, you should have the body for prosecuting]a writ for removing a prisoner for trial in the jurisdiction of the issuing court where the prisoner committed a crime"
+            },
+            "habeas corpus ad sub·ji·ci·en·dum": {
+                "definition": "[-ad-səb-ji-sē-en-dəm, -ji-shē-; -Ä d-sb-yi-kē-en-dm][New Latin, literally, you should have the body for submitting]an extraordinary writ issued upon a petition challenging the lawfulness of restraining a person who is imprisoned or otherwise in another's custody called also",
+                "note": " Habeas corpus ad subjiciendum is an extraordinary remedy, and is by far the most frequently used writ of habeas corpus. It is an independent civil action and a form of collateral attack to determine not the guilt or innocence of the person held in custody, but whether the custody is unlawful under the U.S. Constitution. Common grounds for relief under the writ include a conviction based on illegally obtained evidence, a denial of effective assistance of counsel, or a conviction by a jury that was improperly selected and impaneled. The degree of restraint on a person's liberty that is necessary to constitute custody entitling a person to habeas corpus relief is not viewed uniformly by the courts. Use of the writ is not limited to criminal matters. It is also available in civil matters, as, for example, to challenge a person's custody of a child or the institutionalization of a person declared incompetent."
+            },
+            "habeas corpus ad tes·ti·fi·can·dum": {
+                "definition": "[-ad-tes-ti-fi-kan-dəm, -Ä d-tes-tē-fē-kÄ n-dm][New Latin, literally, you should have the body for testifying]a writ for bringing a person into a court as a witness"
+            },
+            "habeas corpus cum cau·sa": {
+                "definition": "[-kəm-kȯ-zə, -km-ka-sÄ ][New Latin, literally, you should have the body with the cause]a writ issued from a superior court to an inferior court requiring that a defendant be produced along with the cause for which the defendant has been taken and held called also"
+            }
+        },
+        "references": {
+            "habeas corpus ad subjiciendum": "https://dictionary.findlaw.com/definition/habeas-corpus-ad-subjiciendum.html",
+            "habeas corpus cum causa": "https://dictionary.findlaw.com/definition/habeas-corpus-cum-causa.html"
+        }
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "Leviable": {
+        "definition": "that may be levied [a tax] 2",
+        "origin": "[a tax]",
+        "sub_definitions": {
+            "1": {
+                "definition": "that may be levied [a tax]"
+            },
+            "2": {
+                "definition": "that may be levied upon [ assets]"
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "Absolute Right": {
+        "definition": "an unqualified right",
+        "sub_definitions": {
+            "1": {
+                "1": "an unqualified right"
+            },
+            "2": {
+                "1": "a legally enforceable right to take some action or to refrain from acting at the sole discretion of the person having the right"
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "Commission": {
+        "definition": "a formal written authorization to perform various acts and duties [a notary's ] 2 a",
+        "origin": "[a notary's ]",
+        "sub_definitions": {
+            "1": {
+                "definition": "a formal written authorization to perform various acts and duties [a notary's ]"
+            },
+            "2 a": {
+                "definition": "authority to act for, in behalf of, or in place of another",
+                "sub_terms": {
+                    "b": "a task or matter entrusted to one as the agent for another"
+                }
+            },
+            "3 a": {
+                "definition": "a group of persons directed to perform a duty",
+                "sub_terms": {
+                    "b": "a government agency [Federal Trade] see also",
+                    "c": "a city council having legislative and executive functions"
+                },
+                "see also": "agency"
+            },
+            "4": {
+                "definition": "an act of committing something [ of the crime]"
+            },
+            "5": {
+                "definition": "a fee paid to an agent or employee for transacting a piece of business or performing a servicea percentage of the money received paid to the agent responsible for the business"
+            }
+        },
+        "references": {
+            "agency": "https://dictionary.findlaw.com/definition/agency.html"
+        }
+    }
+}

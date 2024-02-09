@@ -1,0 +1,16 @@
+{
+    "Executory": {
+        "definition": "designed or of such a nature as to be performed in the future or to take effect on a future contingency [cancellation of the portion of the contract \"J. J. White and R. S. Summers\"] compare contingent",
+        "origin": "[cancellation of the portion of the contract \"J. J. White and R. S. Summers\"]",
+        "compare": "contingent",
+        "sub_definitions": {
+            "1": {
+                "1": "designed or of such a nature as to be performed in the future or to take effect on a future contingency [cancellation of the portion of the contract \"J. J. White and R. S. Summers\"] compare",
+                "compares": "contingent"
+            }
+        },
+        "references": {
+            "contingent": "https://dictionary.findlaw.com/definition/contingent.html"
+        }
+    }
+}

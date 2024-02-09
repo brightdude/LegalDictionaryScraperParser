@@ -1,0 +1,15 @@
+{
+    "Concert Of Action": {
+        "definition": "a theory in torts that imposes liability on all defendants who have committed tortious acts that contributed to the plaintiff's injury even though only one actually caused the injury compare alternative liability at liability 2",
+        "compare": "liability",
+        "sub_definitions": {
+            "2": {
+                "definition": "a rule in criminal law that holds an aider and abettor liable for commission of a criminal act by the principal",
+                "note": " Concert of action does not apply where the crime requires more than one person for its commission."
+            }
+        },
+        "references": {
+            "liability": "https://dictionary.findlaw.com/definition/liability.html"
+        }
+    }
+}

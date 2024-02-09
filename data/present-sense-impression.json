@@ -1,0 +1,15 @@
+{
+    "Present Sense Impression": {
+        "definition": "an out-of-court statement that describes or explains an event or condition and that was made during or immediately after the time the event or condition was perceived ;also",
+        "sub_definitions": {
+            "1": {
+                "1": "an out-of-court statement that describes or explains an event or condition and that was made during or immediately after the time the event or condition was perceived"
+            },
+            "2": {
+                "1": "an exception to the hearsay rule allowing such a statement to be entered as evidence that what was asserted in the statement is true",
+                "note": " Present sense impressions are excepted from the hearsay rule because the immediacy of the response is considered to render the statement trustworthy. “Look out, he's got a gun,” might be considered admissible as a present sense impression."
+            }
+        },
+        "references": {}
+    }
+}

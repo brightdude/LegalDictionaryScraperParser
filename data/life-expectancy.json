@@ -1,0 +1,11 @@
+{
+    "Life Expectancy": {
+        "definition": "the average life span of an individual",
+        "sub_definitions": {
+            "1": {
+                "1": "the average life span of an individual"
+            }
+        },
+        "references": {}
+    }
+}

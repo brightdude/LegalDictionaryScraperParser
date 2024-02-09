@@ -1,0 +1,24 @@
+{
+    "Statute Of Limitations": {
+        "definition": "a statute establishing a period of time from the accrual of a cause of action",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "a statute establishing a period of time from the accrual of a cause of action (as upon the occurrence or discovery of an injury) within which a right of action must be exercised compare,",
+                "sub_terms": {
+                    "b": "a criminal statute establishing the period of time within which an offense can be punished after its commission"
+                },
+                "compares": "laches"
+            },
+            "2": {
+                "definition": "a period of time established by a statute of limitations for commencing an action or prosecution"
+            },
+            "3": {
+                "definition": "an affirmative defense that the statute of limitations has expired"
+            }
+        },
+        "references": {
+            "laches": "https://dictionary.findlaw.com/definition/laches.html",
+            "statute of repose": "https://dictionary.findlaw.com/definition/statute-of-repose.html"
+        }
+    }
+}

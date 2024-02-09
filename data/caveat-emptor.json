@@ -1,0 +1,16 @@
+{
+    "Caveat Emptor": {
+        "definition": "a principle in commercial transactions",
+        "origin": "[New Latin, may the buyer beware]",
+        "compare": "liability",
+        "sub_definitions": {
+            "1": {
+                "1": "a principle in commercial transactions: without a warranty the buyer takes the risk as to the condition of the property or goods compare"
+            }
+        },
+        "references": {
+            "liability": "https://dictionary.findlaw.com/definition/liability.html",
+            "warranty": "https://dictionary.findlaw.com/definition/warranty.html"
+        }
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "Stock Exchange": {
+        "definition": "a place where security trading is conducted on an organized system 2",
+        "sub_definitions": {
+            "1": {
+                "definition": "a place where security trading is conducted on an organized system"
+            },
+            "2": {
+                "definition": "an association or group of people organized to provide an auction market among themselves for the purchase and sale of securities"
+            }
+        },
+        "references": {}
+    }
+}

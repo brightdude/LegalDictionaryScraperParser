@@ -1,0 +1,26 @@
+{
+    "Code": {
+        "definition": "a systematic compilation or revision of law or legal principles that is arranged esp. by subject",
+        "origin": "[Old French, from Medieval Latin codex , from Latin caudex codex tree trunk, set of wood writing tablets, book]",
+        "sub_definitions": {
+            "1": {
+                "definition": "a systematic compilation or revision of law or legal principles that is arranged esp. by subject",
+                "sub_terms": {
+                    "a": "one that contains the law of a specific jurisdiction or topic promulgated by legislative authority [U.S.] [of Massachusetts Regulations] [building ] see also Important Laws in the back matter compare,,",
+                    "b": "one that serves as a model for legislation but is not itself a law [Model Penal]"
+                },
+                "compares": "case law",
+                "Code": "of Massachusetts Regulations] [building ] see also Important Laws in the back matter compare"
+            },
+            "2": {
+                "definition": "a set of rules or regulations that is promulgated by a body (as a professional organization) and that regulates its industrial or professional practices [ABAof Professional Responsibility]",
+                "Code": "of Professional Responsibility]"
+            }
+        },
+        "references": {
+            "case law": "https://dictionary.findlaw.com/definition/case-law.html",
+            "digest": "https://dictionary.findlaw.com/definition/digest.html",
+            "statute": "https://dictionary.findlaw.com/definition/statute.html"
+        }
+    }
+}

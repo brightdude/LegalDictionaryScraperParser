@@ -1,0 +1,11 @@
+{
+    "Courthouse": {
+        "definition": "a building in which court is regularly held",
+        "sub_definitions": {
+            "1": {
+                "1": "a building in which court is regularly held"
+            }
+        },
+        "references": {}
+    }
+}

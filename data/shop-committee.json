@@ -1,0 +1,11 @@
+{
+    "Shop Committee": {
+        "definition": "a committee composed of union members appointed or elected to handle employee grievances within a shop",
+        "sub_definitions": {
+            "1": {
+                "1": "a committee composed of union members appointed or elected to handle employee grievances within a shop"
+            }
+        },
+        "references": {}
+    }
+}

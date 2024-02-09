@@ -1,0 +1,17 @@
+{
+    "Wrongful Pregnancy": {
+        "definition": "a malpractice claim brought by the parents of a healthy but unwanted child usually against a physician or health-care provider for alleged negligence in performing a sterilization or abortion procedure and sometimes against a pharmacist or pharmaceutical manufacturer of contraceptives ;also",
+        "origin": "[an action for wrongful pregnancy ]",
+        "sub_definitions": {
+            "1": {
+                "1": "a malpractice claim brought by the parents of a healthy but unwanted child usually against a physician or health-care provider for alleged negligence in performing a sterilization or abortion procedure and sometimes against a pharmacist or pharmaceutical manufacturer of contraceptives"
+            },
+            "2": {
+                "1": "the pregnancy or injury at issue in such a claim [an action for",
+                "wrongful pregnancy": "] called also",
+                "note": " A majority of courts faced with the issue have disallowed damages for child-rearing expenses in wrongful pregnancy cases. It is more common to recover for medical expenses, pain and suffering, lost wages, or loss of consortium from pregnancy and childbirth."
+            }
+        },
+        "references": {}
+    }
+}

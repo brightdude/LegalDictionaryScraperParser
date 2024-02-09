@@ -1,0 +1,28 @@
+{
+    "Hostile": {
+        "definition": "having an intimidating",
+        "origin": "[a work environment]",
+        "sub_definitions": {
+            "1": {
+                "definition": "having an intimidating, antagonistic, or offensive nature [a work environment]"
+            },
+            "2 a": {
+                "definition": "of or relating to an opposing party in a legal action [a claim]",
+                "sub_terms": {
+                    "b": "adverse to the interests of a party to a legal action [if the interests of the party joined involuntarily render him to the original plaintiff, he must remain a defendant \"J. H. Friedenthal\"]"
+                }
+            },
+            "3 a": {
+                "definition": "adverse to or incompatible with the interests of a property owner [a use] see alsoatat,",
+                "sub_terms": {
+                    "b": "unwelcome by or contrary to the interests of corporate stockholders or management [a takeover bid]"
+                }
+            }
+        },
+        "references": {
+            "possession": "https://dictionary.findlaw.com/definition/possession.html",
+            "easement": "https://dictionary.findlaw.com/definition/easement.html",
+            "prescription": "https://dictionary.findlaw.com/definition/prescription.html"
+        }
+    }
+}

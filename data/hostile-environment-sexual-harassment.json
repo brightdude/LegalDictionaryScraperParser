@@ -1,0 +1,15 @@
+{
+    "Hostile Environment Sexual Harassment": {
+        "definition": "sexual harassment that has the effect of unreasonably interfering with a victim's work performance or creating an intimidating",
+        "compare": "quid pro quo sexual harassment",
+        "sub_definitions": {
+            "1": {
+                "1": "sexual harassment that has the effect of unreasonably interfering with a victim's work performance or creating an intimidating, hostile, or offensive working environment that affects the victim's psychological well-being called also",
+                "compares": "quid pro quo sexual harassment"
+            }
+        },
+        "references": {
+            "quid pro quo sexual harassment": "https://dictionary.findlaw.com/definition/quid-pro-quo-sexual-harassment.html"
+        }
+    }
+}

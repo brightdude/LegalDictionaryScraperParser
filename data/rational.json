@@ -1,0 +1,16 @@
+{
+    "Rational": {
+        "definition": "having reason or understanding 2",
+        "origin": "[age distinctions are not subject to strict scrutiny, but they must have a relationship to a legitimate state interest \" In re J. M. , 642 A.2d 1062 (1994)\"]",
+        "sub_definitions": {
+            "1": {
+                "definition": "having reason or understanding"
+            },
+            "2": {
+                "definition": "relating to, based on, or guided by reason, principle, fairness, logic, a legitimate state interest, or a consideration of fact [age distinctions are not subject to strict scrutiny, but they must have a relationship to a legitimate state interest \", 642 A.2d 1062 (1994)\"]",
+                "In re J. M.": "642 A.2d 1062 (1994)"
+            }
+        },
+        "references": {}
+    }
+}

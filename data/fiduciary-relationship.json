@@ -1,0 +1,14 @@
+{
+    "Fiduciary Relationship": {
+        "definition": "a relationship in which one party places special trust",
+        "sub_definitions": {
+            "1": {
+                "1": "a relationship in which one party places special trust, confidence, and reliance in and is influenced by another who has a fiduciary duty to act for the benefit of the party called also",
+                "note": " A fiduciary relationship may be created by express agreement of the parties, or it may be imposed by law where established by the conduct of the parties. Typical fiduciary relationships exist between agents and principals, attorneys and clients, executors or administrators and legatees or heirs, trustees and beneficiaries, corporate directors or officers and stockholders, receivers or trustees in bankruptcy and creditors, guardians and wards, and confidential advisors and those advised."
+            }
+        },
+        "references": {
+            "duty": "https://dictionary.findlaw.com/definition/duty.html"
+        }
+    }
+}

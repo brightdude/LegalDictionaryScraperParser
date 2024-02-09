@@ -1,0 +1,11 @@
+{
+    "Accredited Investor": {
+        "definition": "an investor that qualifies under the Securities Act of 1933 and related Securities and Exchange Commission regulations as one having at least a specified net worth and a certain level of knowledge and experience in financial matters",
+        "sub_definitions": {
+            "1": {
+                "1": "an investor that qualifies under the Securities Act of 1933 and related Securities and Exchange Commission regulations as one having at least a specified net worth and a certain level of knowledge and experience in financial matters"
+            }
+        },
+        "references": {}
+    }
+}

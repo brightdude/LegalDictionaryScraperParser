@@ -1,0 +1,18 @@
+{
+    "Confidential": {
+        "definition": "known or conveyed only to a limited number of people [a disclosure] 2",
+        "origin": "[a disclosure]",
+        "sub_definitions": {
+            "1": {
+                "definition": "known or conveyed only to a limited number of people [a disclosure]"
+            },
+            "2": {
+                "definition": "marked by or indicative of intimacy, mutual trust, or willingness to confide esp. between parties one of whom is in a position of superiority [the relationship of doctor and patient]"
+            },
+            "3": {
+                "definition": "containing information whose unauthorized disclosure could be prejudicial to the national interest"
+            }
+        },
+        "references": {}
+    }
+}

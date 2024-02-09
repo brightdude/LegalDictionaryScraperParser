@@ -1,0 +1,14 @@
+{
+    "Extreme Cruelty": {
+        "definition": "behavior toward a spouse that involves physical violence or threats thereof",
+        "sub_definitions": {
+            "1": {
+                "1": "behavior toward a spouse that involves physical violence or threats thereof, acts calculated to destroy the peace of mind or health of the spouse, or acts destructive of the purpose of the marriage"
+            },
+            "2": {
+                "1": "a ground for divorce based on a spouse's extreme cruelty"
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "Net": {
+        "definition": "remaining after deduction of all charges",
+        "origin": "[Anglo-French, clean, pure, from Latin nitidus bright, neat, from nitēre to shine]",
+        "compare": "gross",
+        "sub_definitions": {
+            "1": {
+                "1": "remaining after deduction of all charges, outlay, or loss [the proceeds] compare",
+                "compares": "gross"
+            }
+        },
+        "references": {
+            "gross": "https://dictionary.findlaw.com/definition/gross.html"
+        }
+    }
+}

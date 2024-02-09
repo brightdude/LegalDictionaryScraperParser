@@ -1,0 +1,11 @@
+{
+    "Net Asset Value": {
+        "definition": "the portion represented by one share of stock of the excess of the market value of a corporation's assets over its liabilities",
+        "sub_definitions": {
+            "1": {
+                "1": "the portion represented by one share of stock of the excess of the market value of a corporation's assets over its liabilities"
+            }
+        },
+        "references": {}
+    }
+}

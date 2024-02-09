@@ -1,0 +1,19 @@
+{
+    "Floor": {
+        "definition": "a main level space",
+        "origin": "[took questions from the ]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "a main level space (as in a stock exchange or legislative chamber) distinguished from a platform or gallery",
+                "sub_terms": {
+                    "b": "members of an assembly [took questions from the ]",
+                    "c": "the right to address an assembly [the senator from Utah has the ]"
+                }
+            },
+            "2": {
+                "definition": "a lower limit [a five percent on deductions for medical expenses]"
+            }
+        },
+        "references": {}
+    }
+}

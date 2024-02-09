@@ -1,0 +1,13 @@
+{
+    "Brand Name": {
+        "definition": "trade name",
+        "sub_definitions": {
+            "1": {
+                "1": "trade name"
+            }
+        },
+        "references": {
+            "trade name": "https://dictionary.findlaw.com/definition/trade-name.html"
+        }
+    }
+}

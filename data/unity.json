@@ -1,0 +1,17 @@
+{
+    "Unity": {
+        "definition": "-ties 1",
+        "origin": "[only if there is of ownership of the immovable and movables]",
+        "sub_definitions": {
+            "1": {
+                "definition": "the quality or state of not being multiplethe quality or state of being one, single, whole, or the same [only if there is of ownership of the immovable and movables]"
+            },
+            "2": {
+                "definition": "an aspect (as time, title, interest, or possession) of a joint tenancy that must be identical as it relates to the cotenants [such a conveyance severs the joint tenancy by removing theof time and title]",
+                "note": " At common law, all four unities were required to be present for a joint tenancy. Conveying the interests of the cotenants at the same time creates the unity of time. Conveying the interests of the cotenants in the same instrument creates the unity of title. Conveying the same interest (as fee simple absolute) to the cotenants creates the unity of interest. Conveying a common right of possession or enjoyment creates the unity of possession.",
+                "unities": "of time and title]"
+            }
+        },
+        "references": {}
+    }
+}

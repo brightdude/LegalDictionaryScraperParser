@@ -1,0 +1,13 @@
+{
+    "Generation-Skipping Tax": {
+        "definition": "generation-skipping transfer tax",
+        "sub_definitions": {
+            "1": {
+                "1": "generation-skipping transfer tax"
+            }
+        },
+        "references": {
+            "generation-skipping transfer tax": "https://dictionary.findlaw.com/definition/generation-skipping-transfer-tax.html"
+        }
+    }
+}

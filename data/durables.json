@@ -1,0 +1,11 @@
+{
+    "Durables": {
+        "definition": "consumer goods",
+        "sub_definitions": {
+            "1": {
+                "1": "consumer goods (as vehicles or appliances) that are typically used repeatedly over a period of years called also"
+            }
+        },
+        "references": {}
+    }
+}

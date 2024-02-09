@@ -1,0 +1,19 @@
+{
+    "Finder": {
+        "definition": "one that finds [the of lost property has a right to it as against the world",
+        "origin": "[the of lost property has a right to it as against the world, except against the true owner \" McDonald v. Railway Express Agency , 81 S.E.2d 525 (1954)\"]",
+        "sub_definitions": {
+            "1": {
+                "definition": "one that finds [the of lost property has a right to it as against the world, except against the true owner \", 81 S.E.2d 525 (1954)\"]",
+                "McDonald v. Railway Express Agency": "81 S.E.2d 525 (1954)"
+            },
+            "2": {
+                "definition": "one that for a fee discovers a financial opportunity, passes it on to another, and may act as a go-between for but does not participate in subsequent negotiations between the involved parties compare",
+                "compares": "broker"
+            }
+        },
+        "references": {
+            "broker": "https://dictionary.findlaw.com/definition/broker.html"
+        }
+    }
+}

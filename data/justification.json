@@ -1,0 +1,20 @@
+{
+    "Justification": {
+        "definition": "the act or an instance of justifying 2",
+        "sub_definitions": {
+            "1": {
+                "definition": "the act or an instance of justifying"
+            },
+            "2": {
+                "definition": "something that justifiesa legally sufficient reason or cause (as self-defense) for an act that would otherwise be criminal or tortious"
+            },
+            "3": {
+                "definition": "the affirmative defense of having a legally sufficient justification compare",
+                "compares": "excuse"
+            }
+        },
+        "references": {
+            "excuse": "https://dictionary.findlaw.com/definition/excuse.html"
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "Legislature": {
+        "definition": "a body of persons having the power to legislate ;specif",
+        "compare": "executive",
+        "sub_definitions": {
+            "1": {
+                "1": "a body of persons having the power to legislate"
+            },
+            "2": {
+                "1": "an organized body having the authority to make laws for a political unit (as a nation or state) compare",
+                "compares": "executive"
+            }
+        },
+        "references": {
+            "executive": "https://dictionary.findlaw.com/definition/executive.html",
+            "judiciary": "https://dictionary.findlaw.com/definition/judiciary.html"
+        }
+    }
+}

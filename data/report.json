@@ -1,0 +1,34 @@
+{
+    "Report": {
+        "definition": "a usually detailed account or statement",
+        "origin": "[the committee made an unfavorable on the bill]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "to make a written record or summary of [ a case]",
+                "sub_terms": {
+                    "b": "to make a shorthand record of"
+                }
+            },
+            "2 a": {
+                "definition": "to give a formal or official account or statement of",
+                "sub_terms": {
+                    "b": "to return or present (a matter officially referred for consideration) with conclusions or recommendations",
+                    "c": "to announce or relate as the result of a special search, examination, or investigation",
+                    "d": "to make known to the proper authorities [the fire]",
+                    "e": "to make a charge of misconduct against [him for harassment]"
+                },
+                "ed": "him for harassment]"
+            },
+            "1": {
+                "definition": "to present oneself [for jury duty]",
+                "ed": "for jury duty]"
+            },
+            "2": {
+                "definition": "to make, issue, submit, or present a report [the committee will this afternoon]"
+            }
+        },
+        "references": {
+            "report out": "https://dictionary.findlaw.com/definition/report-out.html"
+        }
+    }
+}

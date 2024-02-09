@@ -1,0 +1,17 @@
+{
+    "Restrictive": {
+        "definition": "of or relating to restriction b",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "of or relating to restriction",
+                "sub_terms": {
+                    "b": "serving or tending to restrict"
+                }
+            },
+            "2": {
+                "definition": "prohibiting further negotiation"
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "List": {
+        "definition": "calendar",
+        "sub_definitions": {
+            "1": {
+                "1": "calendar"
+            }
+        },
+        "references": {
+            "calendar": "https://dictionary.findlaw.com/definition/calendar.html"
+        }
+    }
+}

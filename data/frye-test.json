@@ -1,0 +1,13 @@
+{
+    "Frye Test": {
+        "definition": "a common-law rule of evidence",
+        "origin": "[from United States v. Frye , 293 F. 1013 (1923), the case that established the rule]",
+        "sub_definitions": {
+            "1": {
+                "1": "a common-law rule of evidence: the results of scientific tests or procedures are admissible as evidence only when the tests or procedures have gained general acceptance in the particular field to which they belong called also",
+                "note": " InDaubert v. Merrell Dow Pharmaceuticals, 509 U.S. 579 (1993), the Supreme Court held that the Federal Rules of Evidence supersede the Frye test, and as a result scientific evidence (as expert testimony) needs to meet only the requirements of the Federal Rules of Evidence in order to be admissible."
+            }
+        },
+        "references": {}
+    }
+}

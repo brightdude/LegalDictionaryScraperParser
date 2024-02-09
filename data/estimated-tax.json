@@ -1,0 +1,12 @@
+{
+    "Estimated Tax": {
+        "definition": "a tax paid usually quarterly by certain entities",
+        "sub_definitions": {
+            "1": {
+                "1": "a tax paid usually quarterly by certain entities (as corporations or trusts) or individuals on income that is not subject to withholding",
+                "note": " A declaration of estimated tax is not required for federal income taxes for tax years after 1984. Some states, however, require declarations to be filed."
+            }
+        },
+        "references": {}
+    }
+}

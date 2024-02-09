@@ -1,0 +1,24 @@
+{
+    "Good Faith": {
+        "definition": "honesty",
+        "origin": "[translation of Latin bona fides ]",
+        "compare": "good faith exception",
+        "sub_definitions": {
+            "1": {
+                "1": "honesty, fairness, and lawfulness of purpose"
+            },
+            "2": {
+                "1": "absence of any intent to defraud, act maliciously, or take unfair advantage [filed the suit in",
+                "good faith": "] [negotiating in",
+                "see also": "good faith exception",
+                "compares": "bad faith",
+                "note": " The meaning ofgood faith, though always based on honesty, may vary depending on the specific context in which it is used. A person is said to buy in good faith when he or she holds an honest belief in his or her right or title to the property and has no knowledge or reason to know of any defect in the title. In section 1-201 of the Uniform Commercial Codegood faithis defined generally as “honesty in fact in the conduct or transaction concerned.” Article 2 of the U.C.C. says “good faith in the case of a merchant means honesty in fact and the observance of reasonable commercial standards of fair dealing in the trade.” Similarly, Article 3 on negotiable instruments definesgood faithas “honesty in fact and the observance of reasonable commercial standards of fair dealing,” a definition which also applies to the provisions of Article 4 on bank deposits and collections and Article 4A on funds transfers. The U.C.C. imposes an obligation of good faith on the performance of every contract or duty under its purview. The law also generally requires good faith of fiduciaries and agents acting on behalf of their principals. There is also a requirement under the National Labor Relations Act that employers and unions bargain in good faith."
+            }
+        },
+        "references": {
+            "good faith exception": "https://dictionary.findlaw.com/definition/good-faith-exception.html",
+            "good faith purchaser": "https://dictionary.findlaw.com/definition/good-faith-purchaser.html",
+            "bad faith": "https://dictionary.findlaw.com/definition/bad-faith.html"
+        }
+    }
+}

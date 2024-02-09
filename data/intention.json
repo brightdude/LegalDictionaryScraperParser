@@ -1,0 +1,18 @@
+{
+    "Intention": {
+        "definition": "something intended",
+        "origin": "[the of the testator]",
+        "sub_definitions": {
+            "1": {
+                "1": "something intended"
+            },
+            "2": {
+                "1": "intent",
+                "note": "Intentis more commonly used thanintentionwhen speaking technically esp. about the criminal and tort concepts of intent (senses 1a and 1b)."
+            }
+        },
+        "references": {
+            "intent": "https://dictionary.findlaw.com/definition/intent.html"
+        }
+    }
+}

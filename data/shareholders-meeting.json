@@ -1,0 +1,13 @@
+{
+    "Shareholders' Meeting": {
+        "definition": "annual meeting",
+        "sub_definitions": {
+            "1": {
+                "1": "annual meeting"
+            }
+        },
+        "references": {
+            "annual meeting": "https://dictionary.findlaw.com/definition/annual-meeting.html"
+        }
+    }
+}

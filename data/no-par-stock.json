@@ -1,0 +1,14 @@
+{
+    "No-Par Stock": {
+        "definition": "no-par value stock at stock",
+        "sub_definitions": {
+            "1": {
+                "1": "no-par value stock"
+            }
+        },
+        "references": {
+            "no-par value stock": "https://dictionary.findlaw.com/definition/no-par-value-stock.html",
+            "stock": "https://dictionary.findlaw.com/definition/stock.html"
+        }
+    }
+}

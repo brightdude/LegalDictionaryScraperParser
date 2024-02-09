@@ -1,0 +1,18 @@
+{
+    "Affirm": {
+        "definition": "to assert as true or factual 2",
+        "origin": "[ ed the lower court's ruling]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to make a solemn declaration under the penalties of perjury in place of swearing an oath to which one conscientiously objects"
+            },
+            "2": {
+                "definition": "to uphold the judgment or actions of a lower court [the appeals court]"
+            }
+        },
+        "references": {
+            "remand": "https://dictionary.findlaw.com/definition/remand.html",
+            "reverse": "https://dictionary.findlaw.com/definition/reverse.html"
+        }
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "Allonge": {
+        "definition": "a paper attached to an instrument to provide space for additional endorsements",
+        "origin": "[French, literally, something that lengthens, from Old French alonge , from alongier to make long, ultimately from Latin longus long]",
+        "sub_definitions": {
+            "1": {
+                "1": "a paper attached to an instrument to provide space for additional endorsements"
+            },
+            "2": {
+                "1": "rider",
+                "note": " Under Uniform Commercial Code section 3-202(2), an allonge must be so firmly affixed to the instrument that it becomes part of it in order for the endorsements to be valid. Endorsements on an allonge are often considered invalid if there is still room on the instrument for endorsements."
+            }
+        },
+        "references": {
+            "rider": "https://dictionary.findlaw.com/definition/rider.html"
+        }
+    }
+}

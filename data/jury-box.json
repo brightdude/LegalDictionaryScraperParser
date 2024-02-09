@@ -1,0 +1,22 @@
+{
+    "Jury Box": {
+        "definition": "the usually enclosed place where the jury sits in a courtroom compare bar",
+        "sub_definitions": {
+            "1": {
+                "definition": "the usually enclosed place where the jury sits in a courtroom compare,,,,",
+                "compares": "bar"
+            },
+            "2": {
+                "definition": "a box from which the names of prospective jurors are drawn by chance"
+            }
+        },
+        "references": {
+            "bar": "https://dictionary.findlaw.com/definition/bar.html",
+            "bench": "https://dictionary.findlaw.com/definition/bench.html",
+            "dock": "https://dictionary.findlaw.com/definition/dock.html",
+            "sidebar": "https://dictionary.findlaw.com/definition/sidebar.html",
+            "stand": "https://dictionary.findlaw.com/definition/stand.html",
+            "jury wheel": "https://dictionary.findlaw.com/definition/jury-wheel.html"
+        }
+    }
+}

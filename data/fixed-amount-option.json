@@ -1,0 +1,14 @@
+{
+    "Fixed Amount Option": {
+        "definition": "installments-for-a-fixed-amount option at option",
+        "sub_definitions": {
+            "1": {
+                "1": "installments-for-a-fixed-amount option"
+            }
+        },
+        "references": {
+            "installments-for-a-fixed-amount option": "https://dictionary.findlaw.com/definition/installments-for-a-fixed-amount-option.html",
+            "option": "https://dictionary.findlaw.com/definition/option.html"
+        }
+    }
+}

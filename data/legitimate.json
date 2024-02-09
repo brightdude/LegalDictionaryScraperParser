@@ -1,0 +1,35 @@
+{
+    "Legitimate": {
+        "definition": "conceived or born of parents lawfully married to each other or having been made through legal procedure equal in status to one so conceived or born ;also",
+        "origin": "[Medieval Latin legitimatus , past participle of legitimare to give legal status to, from Latin legitimus legally sanctioned, from leg-, lex law]",
+        "sub_definitions": {
+            "1": {
+                "definition": "conceived or born of parents lawfully married to each other or having been made through legal procedure equal in status to one so conceived or bornhaving rights and obligations under the law as the child of such birth"
+            },
+            "2": {
+                "definition": "being neither spurious nor false [a grievance]"
+            },
+            "3": {
+                "definition": "being in accordance with law or with established legal forms and requirements [a government]"
+            },
+            "4": {
+                "definition": "conforming to recognized principles or accepted rules and standards [a claim of entitlement] [a business reason]"
+            },
+            "le·git·i·mate·lyadv": {
+                "definition": "[lə-ji-tə-māt] vt"
+            },
+            "-mat·ing": {
+                "definition": "to make legitimate",
+                "sub_terms": {
+                    "a": "to give legal status or authorization to",
+                    "b": "to show or affirm to be justified or have merit",
+                    "c": "to put (an illegitimate child) in the state of a child born of married parents before the law by legal means compare"
+                },
+                "compares": "filiate"
+            }
+        },
+        "references": {
+            "filiate": "https://dictionary.findlaw.com/definition/filiate.html"
+        }
+    }
+}

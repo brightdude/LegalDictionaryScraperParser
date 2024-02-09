@@ -1,0 +1,13 @@
+{
+    "Jail": {
+        "definition": "a place of confinement for persons held in lawful custody ;specif",
+        "compare": "house of correction",
+        "references": {
+            "house of correction": "https://dictionary.findlaw.com/definition/house-of-correction.html",
+            "house of detention": "https://dictionary.findlaw.com/definition/house-of-detention.html",
+            "lockup": "https://dictionary.findlaw.com/definition/lockup.html",
+            "penitentiary": "https://dictionary.findlaw.com/definition/penitentiary.html",
+            "prison": "https://dictionary.findlaw.com/definition/prison.html"
+        }
+    }
+}

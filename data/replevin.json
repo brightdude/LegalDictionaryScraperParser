@@ -1,0 +1,21 @@
+{
+    "Replevin": {
+        "definition": "an action originating in common law and now largely codified by which a plaintiff having a right in personal property claimed to be wrongfully taken or detained by the defendant seeks to recover possession of the property and sometimes to obtain damages for the wrongful detention ;also",
+        "origin": "[Anglo-French replevine , from replevir to give security, from Old French, to give security for, from re- back + plevir to pledge]",
+        "sub_definitions": {
+            "1": {
+                "1": "an action originating in common law and now largely codified by which a plaintiff having a right in personal property claimed to be wrongfully taken or detained by the defendant seeks to recover possession of the property and sometimes to obtain damages for the wrongful detention"
+            },
+            "2": {
+                "1": "a procedure allowing the plaintiff as a provisional remedy to take possession of the property prior to judgment on the action",
+                "note": " Under section 2-716 of the Uniform Commercial Code, a buyer who is a party to a contract that has been breached by the seller has a right of replevin for goods that are identified to the contract if cover cannot reasonably be effected."
+            },
+            "3": {
+                "1": "replevy"
+            }
+        },
+        "references": {
+            "replevy": "https://dictionary.findlaw.com/definition/replevy.html"
+        }
+    }
+}

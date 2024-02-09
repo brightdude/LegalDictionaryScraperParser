@@ -1,0 +1,12 @@
+{
+    "Special Duty Doctrine": {
+        "definition": "an exception to the public duty doctrine that imposes liability for injury on a government entity when there is a special duty owed to the plaintiff but not to the public at large called also special duty exception NOTE",
+        "sub_definitions": {
+            "1": {
+                "1": "an exception to the public duty doctrine that imposes liability for injury on a government entity when there is a special duty owed to the plaintiff but not to the public at large called also",
+                "note": " The special duty doctrine applies when the duty owed to the plaintiff arises by statute or when the plaintiff has justifiably come to rely on the government's assumption of that duty."
+            }
+        },
+        "references": {}
+    }
+}

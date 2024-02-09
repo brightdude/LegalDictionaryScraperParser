@@ -1,0 +1,12 @@
+{
+    "Fraudulent": {
+        "definition": "characterized by",
+        "compare": "deceptive",
+        "sub_definitions": {},
+        "references": {
+            "deceptive": "https://dictionary.findlaw.com/definition/deceptive.html",
+            "false": "https://dictionary.findlaw.com/definition/false.html",
+            "misleading": "https://dictionary.findlaw.com/definition/misleading.html"
+        }
+    }
+}

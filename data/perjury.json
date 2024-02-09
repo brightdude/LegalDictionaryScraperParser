@@ -1,0 +1,15 @@
+{
+    "Perjury": {
+        "definition": "-ries [Anglo-French perjurie parjurie",
+        "origin": "[Anglo-French perjurie parjurie , from Latin perjurium , from perjurus deliberately giving false testimony, from per- detrimental to + jur- jus law]",
+        "sub_definitions": {
+            "-ries": {
+                "definition": "[Anglo-French, from Latin, fromdeliberately giving false testimony, fromdetrimental to +law]the act or crime of knowingly making a false statement (as about a material matter) while under oath or bound by an affirmation or other officially prescribed declaration that what one says, writes, or claims is true compare",
+                "compares": "false swearing"
+            }
+        },
+        "references": {
+            "false swearing": "https://dictionary.findlaw.com/definition/false-swearing.html"
+        }
+    }
+}

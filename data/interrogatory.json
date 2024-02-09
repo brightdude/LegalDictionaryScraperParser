@@ -1,0 +1,15 @@
+{
+    "Interrogatory": {
+        "definition": "-ries",
+        "sub_definitions": {
+            "-ries": {
+                "definition": "a written question required by law to be answered under the direction of a courta written question directed by one party to another regarding information that is within the scope of discovery see alsoandat,",
+                "note": " Interrogatories are widely used as a discovery device in civil procedure and also have limited use in criminal proceedings. An interrogatory may be objected to and does not have to be answered if the court determines that it is excessive or burdensome. An interrogatory may also be submitted by a judge to a jury when the court asks for a general verdict and wants to know the basis of the decision, or when the court requires the jury to return a special verdict."
+            }
+        },
+        "references": {
+            "verdict": "https://dictionary.findlaw.com/definition/verdict.html",
+            "special interrogatory": "https://dictionary.findlaw.com/definition/special-interrogatory.html"
+        }
+    }
+}

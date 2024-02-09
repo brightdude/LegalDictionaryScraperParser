@@ -1,0 +1,193 @@
+{
+    "Contract": {
+        "definition": "an agreement between two or more parties that creates in each party a duty to do or not do something and a right to performance of the other's duty or a remedy for the breach of the other's duty ;also",
+        "origin": "[Latin contractus from contrahere to draw together, enter into (a relationship or agreement), from com - with, together + trahere to draw]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to undertake or establish by a contract"
+            },
+            "accessory contract": {
+                "definition": "a contract (as a security agreement) made to secure the performance of another obligation comparein this entry",
+                "compares": "principal contract"
+            },
+            "ad·he·sion contract": {
+                "definition": "[ad-hē-zhən-]in this entry"
+            },
+            "aleatory contract": {
+                "definition": "a contract in which either party's performance is dependent on an uncertain event"
+            },
+            "bilateral contract": {
+                "definition": "a contract in which both parties have promised to perform comparein this entry",
+                "compares": "unilateral contract"
+            },
+            "commutative contract": {
+                "definition": "a contract in which the obligations of the parties to perform are equal to each other in value"
+            },
+            "constructive contract": {
+                "definition": "in this entry"
+            },
+            "contract for deed": {
+                "definition": "in this entry"
+            },
+            "contract implied in fact": {
+                "definition": "in this entry"
+            },
+            "contract implied in law": {
+                "definition": "in this entry"
+            },
+            "contract of adhesion": {
+                "definition": "a contract that is not negotiated by the parties and that is usually embodied in a standardized form prepared by the dominant party"
+            },
+            "contract under seal": {
+                "definition": "a contract that does not require consideration in order to be binding but that must be sealed, delivered, and show a clear intention of the parties to create a contract under seal",
+                "note": " Contracts under seal were in use long prior to the development of the requirement of consideration. They originally usually were impressed with an actual seal, but today the wordseal, the abbreviationL.S., or words such as “signed and sealed” or “witness my seal” may take the place of the seal. Without a clear indication of the parties' intention, however, the presence of a seal, such as a corporate seal, is insufficient to create a contract under seal. Contracts under seal have a substantially longer statute of limitations than contracts based on consideration."
+            },
+            "des·ti·na·tion contract": {
+                "definition": "a contract for goods stipulating that the seller assumes the risk of loss from damage to the goods until they arrive at the destination specified in the contract comparein this entry",
+                "compares": "shipment contract"
+            },
+            "du·al contract": {
+                "definition": "one of two contracts made by the same parties with regard to the same transactionone of two contracts made with regard to the sale of real estate of which one states an inaccurately high price for the purpose of defrauding a lender into providing a larger loan"
+            },
+            "executory contract": {
+                "definition": "a contract that sets forth promises that are not yet performed"
+            },
+            "express contract": {
+                "definition": "a contract created by the explicit language of the parties comparein this entry",
+                "compares": "implied contract"
+            },
+            "formal contract": {
+                "definition": "a contract made binding by the observance of required formalities regardless of the giving of considerationa contract that is a contract under seal, a recognizance, a letter of credit, or a negotiable instrument called also"
+            },
+            "forward contract": {
+                "definition": "a privately negotiated investment contract in which a buyer commits to purchase something (as a quantity of a commodity, security, or currency) at a predetermined price on a set future date called also"
+            },
+            "futures contract": {
+                "definition": "a contract purchased or sold on an exchange in which a party agrees to buy or sell a quantity of a commodity on a specified future date at a set pricecalled also"
+            },
+            "gratuitous contract": {
+                "definition": "a contract in which one party promises to do something without receiving anything in return comparein this entry",
+                "compares": "onerous contract"
+            },
+            "guaranteed investment contract": {
+                "definition": "an investment contract under which an institutional investor deposits a lump sum of money (as a pension fund) with an insurance company that guarantees the return of principal and a specific amount of interest at the end of the contract termsuch a contract considered as an investment [purchased a] called also",
+                "guaranteed investment contract": "] called also"
+            },
+            "il·lu·so·ry contract": {
+                "definition": "[i-lü-sə-rē-, -zə-]a contract in which at least one party makes an illusory promise"
+            },
+            "2": {
+                "definition": "to purchase (as goods or services) on a contract basis often used withto make a contract"
+            },
+            "implied in law contract": {
+                "definition": "in this entry"
+            },
+            "informal contract": {
+                "definition": "any contract that is not a formal contract called also"
+            },
+            "innominate contract": {
+                "definition": "a contract that is given no special designation as to its purpose comparein this entry",
+                "compares": "nominate contract"
+            },
+            "installment contract": {
+                "definition": "a contract in which performance is tendered in installments (as by separate periodic delivery of goods)"
+            },
+            "investment contract": {
+                "definition": "an agreement or transaction in which a party invests money in a common enterprise the profits from which are derived from the efforts of others"
+            },
+            "labor contract": {
+                "definition": "a contract between an employer and a labor union reached through and containing the results of collective bargaining"
+            },
+            "land installment contract": {
+                "definition": "a contract for the purchase of real property in which the seller retains the deed to the property or otherwise continues to have an interest in it until the buyer makes payments in installments equal to the full purchase price or as much of the purchase price as agreed upon called also"
+            },
+            "maritime contract": {
+                "definition": "a contract directly relating to the navigation, business, or commerce of the high seas or other navigable waters and falling within the jurisdiction of the admiralty court"
+            },
+            "nom·i·nate contract": {
+                "definition": "a contract given a special designation (as sale, insurance, or lease) comparein this entry",
+                "compares": "innominate contract"
+            },
+            "oner·ous contract": {
+                "definition": "a contract in which each party obligates himself or herself in exchange for the promise of the other comparein this entry",
+                "compares": "gratuitous contract"
+            },
+            "option contract": {
+                "definition": "a contract in which a time period is specified within which an offer must be accepted"
+            },
+            "out·put contract": {
+                "definition": "a contract in which the buyer agrees to buy and the seller agrees to sell all of a kind of goods that the seller produces"
+            },
+            "principal contract": {
+                "definition": "a contract from which a secured obligation arises comparein this entry",
+                "compares": "accessory contract"
+            },
+            "re·quire·ments contract": {
+                "definition": "a contract in which the seller agrees to sell and the buyer agrees to buy all of a kind of goods that the buyer requires"
+            },
+            "ship·ment contract": {
+                "definition": "a contract in which the seller bears the risk of loss from damage to the goods only until they are brought to the place of shipment comparein this entry",
+                "compares": "destination contract"
+            },
+            "simple contract": {
+                "definition": "in this entry"
+            },
+            "sub·sti·tut·ed contract": {
+                "definition": "a contract between parties to a prior contract that takes the place of and discharges the obligations under the prior contract compare,",
+                "compares": "accord"
+            },
+            "syn·al·lag·mat·ic contract": {
+                "definition": "in this entry"
+            },
+            "unilateral contract": {
+                "definition": "a contract in which only one party is obligated to perform comparein this entry",
+                "compares": "bilateral contract"
+            },
+            "yellow-dog contract": {
+                "definition": "an illegal employment contract in which a worker disavows membership in and agrees not to join a labor union in order to get a job"
+            },
+            "3": {
+                "definition": "the study of the law regarding contracts usually used in pl.vt"
+            }
+        },
+        "references": {
+            "accept": "https://dictionary.findlaw.com/definition/accept.html",
+            "bargain": "https://dictionary.findlaw.com/definition/bargain.html",
+            "breach": "https://dictionary.findlaw.com/definition/breach.html",
+            "cause": "https://dictionary.findlaw.com/definition/cause.html",
+            "consent": "https://dictionary.findlaw.com/definition/consent.html",
+            "consideration": "https://dictionary.findlaw.com/definition/consideration.html",
+            "duty": "https://dictionary.findlaw.com/definition/duty.html",
+            "meeting of the minds": "https://dictionary.findlaw.com/definition/meeting-of-the-minds.html",
+            "obligation": "https://dictionary.findlaw.com/definition/obligation.html",
+            "offer": "https://dictionary.findlaw.com/definition/offer.html",
+            "performance": "https://dictionary.findlaw.com/definition/performance.html",
+            "promise": "https://dictionary.findlaw.com/definition/promise.html",
+            "rescind": "https://dictionary.findlaw.com/definition/rescind.html",
+            "social contract": "https://dictionary.findlaw.com/definition/social-contract.html",
+            "subcontract": "https://dictionary.findlaw.com/definition/subcontract.html",
+            "principal contract": "https://dictionary.findlaw.com/definition/principal-contract.html",
+            "contract of adhesion": "https://dictionary.findlaw.com/definition/contract-of-adhesion.html",
+            "unilateral contract": "https://dictionary.findlaw.com/definition/unilateral-contract.html",
+            "quasi contract": "https://dictionary.findlaw.com/definition/quasi-contract.html",
+            "land installment contract": "https://dictionary.findlaw.com/definition/land-installment-contract.html",
+            "implied contract": "https://dictionary.findlaw.com/definition/implied-contract.html",
+            "shipment contract": "https://dictionary.findlaw.com/definition/shipment-contract.html",
+            "future": "https://dictionary.findlaw.com/definition/future.html",
+            "onerous contract": "https://dictionary.findlaw.com/definition/onerous-contract.html",
+            "express contract": "https://dictionary.findlaw.com/definition/express-contract.html",
+            "nominate contract": "https://dictionary.findlaw.com/definition/nominate-contract.html",
+            "collective bargaining agreement": "https://dictionary.findlaw.com/definition/collective-bargaining-agreement.html",
+            "innominate contract": "https://dictionary.findlaw.com/definition/innominate-contract.html",
+            "gratuitous contract": "https://dictionary.findlaw.com/definition/gratuitous-contract.html",
+            "accessory contract": "https://dictionary.findlaw.com/definition/accessory-contract.html",
+            "offense": "https://dictionary.findlaw.com/definition/offense.html",
+            "destination contract": "https://dictionary.findlaw.com/definition/destination-contract.html",
+            "informal contract": "https://dictionary.findlaw.com/definition/informal-contract.html",
+            "formal contract": "https://dictionary.findlaw.com/definition/formal-contract.html",
+            "accord": "https://dictionary.findlaw.com/definition/accord.html",
+            "novation": "https://dictionary.findlaw.com/definition/novation.html",
+            "bilateral contract": "https://dictionary.findlaw.com/definition/bilateral-contract.html"
+        }
+    }
+}

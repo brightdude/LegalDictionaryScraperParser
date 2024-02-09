@@ -1,0 +1,18 @@
+{
+    "Adjust": {
+        "definition": "to determine the amount to be paid under an insurance policy in settlement of",
+        "origin": "[ ing the basis]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "to determine the amount to be paid under an insurance policy in settlement of (a loss)",
+                "sub_terms": {
+                    "b": "to make new arrangements with creditors for the payment of (the debts of a debtor in bankruptcy)"
+                }
+            },
+            "2": {
+                "definition": "to calculate in accordance with a system [the basis]"
+            }
+        },
+        "references": {}
+    }
+}

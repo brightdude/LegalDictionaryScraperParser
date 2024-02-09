@@ -1,0 +1,17 @@
+{
+    "Teste": {
+        "definition": "the witnessing or concluding clause of an instrument",
+        "origin": "[Medieval Latin teste meipso (or seipso ) by my (or his) own witness]",
+        "sub_definitions": {
+            "1": {
+                "definition": "the witnessing or concluding clause of an instrument (as a writ)"
+            },
+            "2": {
+                "definition": "used esp. formerly to indicate that what follows is named as authority for what precedes"
+            }
+        },
+        "references": {
+            "witness": "https://dictionary.findlaw.com/definition/witness.html"
+        }
+    }
+}

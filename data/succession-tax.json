@@ -1,0 +1,10 @@
+{
+    "Succession Tax": {
+        "definition": "estate tax 2",
+        "sub_definitions": {},
+        "references": {
+            "estate tax": "https://dictionary.findlaw.com/definition/estate-tax.html",
+            "inheritance tax": "https://dictionary.findlaw.com/definition/inheritance-tax.html"
+        }
+    }
+}

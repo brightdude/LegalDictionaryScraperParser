@@ -1,0 +1,17 @@
+{
+    "Evasion": {
+        "definition": "a means of evading 2",
+        "sub_definitions": {
+            "1": {
+                "definition": "a means of evading"
+            },
+            "2": {
+                "definition": "the act or an instance of evading see also",
+                "see also": "tax evasion"
+            }
+        },
+        "references": {
+            "tax evasion": "https://dictionary.findlaw.com/definition/tax-evasion.html"
+        }
+    }
+}

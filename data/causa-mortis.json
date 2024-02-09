@@ -1,0 +1,19 @@
+{
+    "Causa Mortis": {
+        "definition": "made or done in contemplation of one's impending death [rejected his claim that the gift was causa mortis \"W. M. McGovern",
+        "origin": "[Latin mortis causa in contemplation of death]",
+        "compare": "gift",
+        "sub_definitions": {
+            "1": {
+                "1": "made or done in contemplation of one's impending death [rejected his claim that the gift was",
+                "causa mortis": "\"W. M. McGovern, Jr.",
+                "et al.": "\"] usually used following the term it modifies see also",
+                "compares": "inter vivos"
+            }
+        },
+        "references": {
+            "gift": "https://dictionary.findlaw.com/definition/gift.html",
+            "inter vivos": "https://dictionary.findlaw.com/definition/inter-vivos.html"
+        }
+    }
+}

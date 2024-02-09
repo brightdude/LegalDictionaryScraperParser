@@ -1,0 +1,13 @@
+{
+    "Mortis Causa": {
+        "definition": "causa mortis",
+        "sub_definitions": {
+            "1": {
+                "1": "causa mortis"
+            }
+        },
+        "references": {
+            "causa mortis": "https://dictionary.findlaw.com/definition/causa-mortis.html"
+        }
+    }
+}

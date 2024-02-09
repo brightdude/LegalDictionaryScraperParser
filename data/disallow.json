@@ -1,0 +1,16 @@
+{
+    "Disallow": {
+        "definition": "to deny the truth",
+        "origin": "[ ed the deduction]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to deny the truth, force, or validity of [the deduction] [ a bankruptcy claim]",
+                "ed": "the deduction] [ a bankruptcy claim]"
+            },
+            "2": {
+                "definition": "to refuse to allow [ payment of benefits]"
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "Commit": {
+        "definition": "to put into another's charge or trust",
+        "origin": "[ committed her children to her sister's care]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "to put into another's charge or trust[her children to her sister's care]",
+                "sub_terms": {
+                    "b": "to place in a prison or mental hospital esp. by judicial order [was found to be gravely disabled and was involuntarilyto the Central Louisiana State Hospital \", 531 So. 2d 575 (1988)\"] compare,",
+                    "c": "to send (as a legislative bill) to a committee for consideration and report [ the crime bill to the joint committee]"
+                },
+                "compares": "institutionalize",
+                "committed": "to the Central Louisiana State Hospital \"",
+                "In the Matter of K.G.": "531 So. 2d 575 (1988)\"] compa"
+            },
+            "2": {
+                "definition": "to carry into action deliberately[to define and punish piracies and felonieson the high seas \"art. I\"]",
+                "committed": "on the high seas \""
+            },
+            "3": {
+                "definition": "to obligate or bind oneself [would not to the irrevocable order]"
+            }
+        },
+        "references": {
+            "entrust": "https://dictionary.findlaw.com/definition/entrust.html",
+            "consign": "https://dictionary.findlaw.com/definition/consign.html",
+            "institutionalize": "https://dictionary.findlaw.com/definition/institutionalize.html",
+            "interdict": "https://dictionary.findlaw.com/definition/interdict.html",
+            "perpetrate": "https://dictionary.findlaw.com/definition/perpetrate.html",
+            "obligate": "https://dictionary.findlaw.com/definition/obligate.html",
+            "bind": "https://dictionary.findlaw.com/definition/bind.html"
+        }
+    }
+}

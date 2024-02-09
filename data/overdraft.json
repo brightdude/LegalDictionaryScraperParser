@@ -1,0 +1,14 @@
+{
+    "Overdraft": {
+        "definition": "the act or result of drawing on a bank account for more than the balance ;also",
+        "sub_definitions": {
+            "1": {
+                "definition": "the act or result of drawing on a bank account for more than the balancethe amount exceeding the balance in an overdraft"
+            },
+            "2": {
+                "definition": "a loan or credit extended on a current account esp. to established or institutional customers"
+            }
+        },
+        "references": {}
+    }
+}

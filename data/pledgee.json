@@ -1,0 +1,11 @@
+{
+    "Pledgee": {
+        "definition": "one to whom property is pledged",
+        "sub_definitions": {
+            "1": {
+                "1": "one to whom property is pledged"
+            }
+        },
+        "references": {}
+    }
+}

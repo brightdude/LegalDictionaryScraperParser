@@ -1,0 +1,15 @@
+{
+    "Accounting": {
+        "definition": "an often court-ordered presentment or examination of accounts [a complete would be necessary to determine the nature of the expenditures \" Case & Comment \"] 2",
+        "origin": "[a complete would be necessary to determine the nature of the expenditures \" Case & Comment \"]",
+        "sub_definitions": {
+            "1": {
+                "definition": "an often court-ordered presentment or examination of accounts [a complete would be necessary to determine the nature of the expenditures \"\"]"
+            },
+            "2": {
+                "definition": "the settlement by judicial action of the assets of a partnership (as upon dissolution)"
+            }
+        },
+        "references": {}
+    }
+}

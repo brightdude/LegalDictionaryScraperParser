@@ -1,0 +1,13 @@
+{
+    "Justice Court": {
+        "definition": "justice of the peace court",
+        "sub_definitions": {
+            "1": {
+                "1": "justice of the peace court"
+            }
+        },
+        "references": {
+            "justice of the peace court": "https://dictionary.findlaw.com/definition/justice-of-the-peace-court.html"
+        }
+    }
+}

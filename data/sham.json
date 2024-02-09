@@ -1,0 +1,24 @@
+{
+    "Sham": {
+        "definition": "something that is false",
+        "origin": "[the sale for one dollar was a transfer of property]",
+        "sub_definitions": {
+            "1": {
+                "1": "something that is false, deceptive, misleading, or otherwise not genuine"
+            },
+            "2": {
+                "1": "not genuine"
+            },
+            "3": {
+                "1": "intended to mislead or deceive"
+            },
+            "4": {
+                "1": "false"
+            }
+        },
+        "references": {
+            "false": "https://dictionary.findlaw.com/definition/false.html",
+            "illusory": "https://dictionary.findlaw.com/definition/illusory.html"
+        }
+    }
+}

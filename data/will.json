@@ -1,0 +1,76 @@
+{
+    "Will": {
+        "definition": "the desire",
+        "origin": "[the execution of a joint will or mutual wills does not create a presumption of a contract not to revoke the will or wills \" Maine Revised Statutes \"]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to order or direct by will [that his money be given to charity]",
+                "ed": "that his money be given to charity]"
+            },
+            "2": {
+                "definition": "to dispose of by will [the house to their children]",
+                "ed": "the house to their children]"
+            },
+            "3": {
+                "definition": "a legal declaration of a person's wishes regarding the disposal of his or her property after deatha formally executed written instrument by which a person makes disposition of his or her estate to take effect after death see also,,",
+                "see also": "codicil"
+            },
+            "antenuptial will": {
+                "definition": "a will that was executed by a person prior to that person's marriage and is usually revocable by the court if no provision was made for the person's spouse unless an intention not to make such a provision is manifest"
+            },
+            "conditional will": {
+                "definition": "a will intended to take effect upon a certain contingency and usually construed as having absolute force when the language pertaining to the condition suggests a general purpose to make a will"
+            },
+            "counter will": {
+                "definition": "in this entry"
+            },
+            "holographic will": {
+                "definition": "a will written out in the hand of the testator and accepted as valid in many states provided it meets statutory requirements (as that no important parts have been altered or replaced in the hand of another and that it has been properly witnessed)"
+            },
+            "international will": {
+                "definition": "a will written in any language and executed in accordance with procedures established as a result of an international convention so as to be valid as to form regardless of the location of its execution or the assets, nationality, domicile, or residence of the testator",
+                "note": " A properly executed international will is still subject to local probate laws; the validity deriving from adherence to statutory requirements for such wills is purely formal, and a will invalid in respect to such requirements may still be valid under other rules."
+            },
+            "joint and mutual will": {
+                "definition": "a single will jointly executed by two or more persons and containing reciprocal provisions for the disposition of property owned jointly, severally, or in common upon the death of one of them called also"
+            },
+            "joint will": {
+                "definition": "a single will jointly executed by two or more persons and containing their respective wills [the execution of aor mutual wills does not create a presumption of a contract not to revoke the will or wills \"\"] comparein this entry",
+                "note": " A joint and mutual will is a joint will, but a joint will need not contain reciprocal provisions.",
+                "compares": "joint and mutual will"
+            },
+            "mutual will": {
+                "definition": "one of two separate wills that share reciprocal provisions for the disposition of property in the event of death by one of the parties [aexecuted in connection with an agreement based on sufficient consideration is both contractual and testamentary in nature \", 514 N.W.2d 335 (1994)\"] called alsocomparein this entry",
+                "compares": "joint and mutual will",
+                "mutual will": "executed in connection with an agreement based on sufficient consideration is both contractual and testamentary in nature \"",
+                "Pruss v. Pruss": "514 N.W.2d 335 (1994)\"] called al"
+            },
+            "mystic will": {
+                "definition": "a will signed, sealed, witnessed, and notarized according to statutory procedure called also",
+                "note": " The Louisiana Civil Code requires that for a mystic will to be valid, the will document itself or the envelope containing it must be closed and sealed and thus presented to the notary public and witnesses, or closed and sealed in their presence, and the testator must declare that it contains his or her signed will. The envelope or closed document must be subscribed by the testator, witnesses, and notary public."
+            },
+            "non·in·ter·ven·tion will": {
+                "definition": "[nÄ n-in-tər-ven-chən-]a will that provides for an executor to administer the estate without judicial involvement"
+            },
+            "nuncupative will": {
+                "definition": "a will allowed in some states that is dictated orally before witnesses and set down in writing within a statutorily specified time period (as 30 days) and that is allowed only for one in imminent peril of death from a terminal illness or from military or maritime service"
+            },
+            "pour-over will": {
+                "definition": "a will that provides for a transfer of assets (as the residue of the estate) to a trust (as an inter vivos trust) upon the death of the testator"
+            },
+            "reciprocal will": {
+                "definition": "in this entry"
+            },
+            "at will:subject to an individual's discretion;specif:without a requirement that the employer have just cause for terminating an employee [could be dischargedat will]": {
+                "definition": "vt"
+            }
+        },
+        "references": {
+            "codicil": "https://dictionary.findlaw.com/definition/codicil.html",
+            "living will": "https://dictionary.findlaw.com/definition/living-will.html",
+            "testament": "https://dictionary.findlaw.com/definition/testament.html",
+            "mutual will": "https://dictionary.findlaw.com/definition/mutual-will.html",
+            "joint and mutual will": "https://dictionary.findlaw.com/definition/joint-and-mutual-will.html"
+        }
+    }
+}

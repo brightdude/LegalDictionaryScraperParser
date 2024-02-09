@@ -1,0 +1,14 @@
+{
+    "Legal Malice": {
+        "definition": "implied malice at malice",
+        "sub_definitions": {
+            "1": {
+                "1": "implied malice"
+            }
+        },
+        "references": {
+            "implied malice": "https://dictionary.findlaw.com/definition/implied-malice.html",
+            "malice": "https://dictionary.findlaw.com/definition/malice.html"
+        }
+    }
+}

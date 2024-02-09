@@ -1,0 +1,32 @@
+{
+    "Service": {
+        "definition": "the act of delivering to or informing someone of a writ",
+        "origin": "[after of process]",
+        "sub_definitions": {
+            "1": {
+                "definition": "the act of delivering to or informing someone of a writ, summons, or other notice as prescribed by law [after of process] see alsoat,,",
+                "note": " Although service of process is primarily the means for a court to exert personal jurisdiction over a person, some form of service (as by publication of notice in a newspaper) is also usually required for exercise of in rem or quasi in rem jurisdiction."
+            },
+            "2 a": {
+                "definition": "useful labor that does not produce a tangible commodity usually used in pl. [payment forrendered]",
+                "sub_terms": {
+                    "b": "the maintenance or repair of tangible property [machinery for the and improvement of the residence]vt"
+                }
+            },
+            "ser·vic·ing": {
+                "definition": "to provide services for",
+                "sub_terms": {
+                    "a": "to meet interest and sinking fund payments on (debt) [didn't have the cash flow to a large loan]",
+                    "b": "to collect payments and maintain a payment schedule for (a loan) esp. after sale of the loan to a secondary mortgage market (as the Federal National Mortgage Association) compare"
+                },
+                "compares": "originate"
+            }
+        },
+        "references": {
+            "notice": "https://dictionary.findlaw.com/definition/notice.html",
+            "substituted service": "https://dictionary.findlaw.com/definition/substituted-service.html",
+            "summons": "https://dictionary.findlaw.com/definition/summons.html",
+            "originate": "https://dictionary.findlaw.com/definition/originate.html"
+        }
+    }
+}

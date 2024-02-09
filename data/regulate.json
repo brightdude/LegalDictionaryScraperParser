@@ -1,0 +1,17 @@
+{
+    "Regulate": {
+        "definition": "to govern or direct according to rule 2 a",
+        "sub_definitions": {
+            "1": {
+                "definition": "to govern or direct according to rule"
+            },
+            "2 a": {
+                "definition": "to bring under the control of law",
+                "sub_terms": {
+                    "b": "to make regulations for or concerning"
+                }
+            }
+        },
+        "references": {}
+    }
+}

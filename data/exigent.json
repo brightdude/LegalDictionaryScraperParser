@@ -1,0 +1,14 @@
+{
+    "Exigent": {
+        "definition": "requiring immediate aid or action see also exigent circumstances",
+        "sub_definitions": {
+            "1": {
+                "1": "requiring immediate aid or action see also",
+                "see also": "exigent circumstances"
+            }
+        },
+        "references": {
+            "exigent circumstances": "https://dictionary.findlaw.com/definition/exigent-circumstances.html"
+        }
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "Patent Ambiguity": {
+        "definition": "an ambiguity in a legal document",
+        "compare": "latent ambiguity",
+        "sub_definitions": {
+            "1": {
+                "1": "an ambiguity in a legal document (as a contract or will) that is apparent on the face of the document and arises from inconsistent or uncertain language compare",
+                "compares": "latent ambiguity"
+            }
+        },
+        "references": {
+            "latent ambiguity": "https://dictionary.findlaw.com/definition/latent-ambiguity.html"
+        }
+    }
+}

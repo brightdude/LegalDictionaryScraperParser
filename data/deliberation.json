@@ -1,0 +1,21 @@
+{
+    "Deliberation": {
+        "definition": "the act of deliberating compare premeditation b",
+        "origin": "[killing with ]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "the act of deliberating compare",
+                "sub_terms": {
+                    "b": "a discussion and consideration by a group of persons (as a jury or legislature) of the reasons for or against a measure"
+                },
+                "compares": "premeditation"
+            },
+            "2": {
+                "definition": "the quality or state of being deliberate [killing with ]"
+            }
+        },
+        "references": {
+            "premeditation": "https://dictionary.findlaw.com/definition/premeditation.html"
+        }
+    }
+}

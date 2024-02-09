@@ -1,0 +1,22 @@
+{
+    "Legal Age": {
+        "definition": "an age at which a person becomes entitled under the law to engage in a particular activity or becomes responsible for particular acts [the legal age for drinking in this state] ;broadly",
+        "origin": "[the legal age for drinking in this state]",
+        "compare": "age of majority",
+        "sub_definitions": {
+            "1": {
+                "1": "an age at which a person becomes entitled under the law to engage in a particular activity or becomes responsible for particular acts [the",
+                "legal age": "for drinking in this state]"
+            },
+            "2": {
+                "1": "age of majority",
+                "compares": "age of consent"
+            }
+        },
+        "references": {
+            "age of majority": "https://dictionary.findlaw.com/definition/age-of-majority.html",
+            "age of consent": "https://dictionary.findlaw.com/definition/age-of-consent.html",
+            "emancipate": "https://dictionary.findlaw.com/definition/emancipate.html"
+        }
+    }
+}

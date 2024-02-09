@@ -1,0 +1,8 @@
+{
+    "Capital Expense": {
+        "definition": "Capital Expense",
+        "references": {
+            "expense": "https://dictionary.findlaw.com/definition/expense.html"
+        }
+    }
+}

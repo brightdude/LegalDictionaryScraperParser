@@ -1,0 +1,23 @@
+{
+    "Certificate Of Title": {
+        "definition": "a certificate of ownership stating that the title to the specified property is free and clear except for any encumbrance",
+        "sub_definitions": {
+            "1": {
+                "definition": "a certificate of ownership stating that the title to the specified property is free and clear except for any encumbrance (as a mortgage) listed on it",
+                "sub_terms": {
+                    "a": "a certificate issued by a motor vehicle registry called also",
+                    "b": "a certificate issued by a registry of deeds see also"
+                },
+                "see also": "torrens system"
+            },
+            "2": {
+                "definition": "a document issued by a title abstracter (as an attorney) giving a legal opinion as to the status of a property's title based on a title search or abstract of title compare",
+                "compares": "deed"
+            }
+        },
+        "references": {
+            "torrens system": "https://dictionary.findlaw.com/definition/torrens-system.html",
+            "deed": "https://dictionary.findlaw.com/definition/deed.html"
+        }
+    }
+}

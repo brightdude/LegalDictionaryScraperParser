@@ -1,0 +1,21 @@
+{
+    "Flat": {
+        "definition": "not varying [a rate] ;specif of a tax",
+        "origin": "[a rate]",
+        "sub_definitions": {
+            "1": {
+                "1": "not varying [a rate]"
+            },
+            "2": {
+                "1": "having a rate that remains constant for any taxable base"
+            },
+            "3": {
+                "1": "without interest charge"
+            },
+            "4": {
+                "1": "without allowance or charge for accrued interest [bonds sold ]"
+            }
+        },
+        "references": {}
+    }
+}

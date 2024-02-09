@@ -1,0 +1,24 @@
+{
+    "Seize": {
+        "definition": "to put in possession of property or vest with the right of possession or succession [stand seized of land] 2",
+        "origin": "[stand seized of land]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to put in possession of property or vest with the right of possession or succession [standof land]"
+            },
+            "2": {
+                "definition": "to take possession or custody of (property) esp. by lawful authority [ drugs as evidence] [the judgment of criminal forfeiture shall authorize the Attorney General to the interest or property subject to forfeiture \"Rule 32(b)(2)\"] [can the goods subject to his security interest and…keep them in satisfaction of the debt \"J. J. White and R. S. Summers\"] compare,",
+                "compares": "foreclose",
+                "Federal Rules of Criminal Procedure": "Rule 32(b)(2)\"] [can the goods subject to his security interest and…keep them in satisfaction of the debt \"J. J. White and R. S. Summers\"] compare"
+            },
+            "3": {
+                "definition": "to detain (a person) in such circumstances as would lead a reasonable person to believe that he or she was not free to leave [determined that the defendant waswhen surrounded by police officers]",
+                "seized": "when surrounded by police officers]"
+            }
+        },
+        "references": {
+            "foreclose": "https://dictionary.findlaw.com/definition/foreclose.html",
+            "repossess": "https://dictionary.findlaw.com/definition/repossess.html"
+        }
+    }
+}

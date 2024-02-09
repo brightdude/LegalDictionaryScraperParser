@@ -1,0 +1,21 @@
+{
+    "Memorandum": {
+        "definition": "-dums or",
+        "origin": "[-də]",
+        "sub_definitions": {
+            "-da": {
+                "definition": "[-də]"
+            },
+            "1": {
+                "definition": "a usually informal written communication"
+            },
+            "2": {
+                "definition": "a record (as a note) which is used by a party seeking to enforce an otherwise oral agreement in accordance with the Statute of Frauds to prove that the other party agreed to a contract and which need not contain all the terms of the contract itself"
+            }
+        },
+        "references": {
+            "brief": "https://dictionary.findlaw.com/definition/brief.html",
+            "memorandum decision": "https://dictionary.findlaw.com/definition/memorandum-decision.html"
+        }
+    }
+}

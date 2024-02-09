@@ -1,0 +1,16 @@
+{
+    "Forum Non Conveniens": {
+        "definition": "a doctrine allowing a court with jurisdiction over a case to dismiss it because the convenience of the parties and the interest of justice would be better served if the case were brought in a court having proper jurisdiction in another venue compare change of venue",
+        "origin": "[New Latin, literally, unsuitable tribunal]",
+        "compare": "change of venue",
+        "sub_definitions": {
+            "1": {
+                "1": "a doctrine allowing a court with jurisdiction over a case to dismiss it because the convenience of the parties and the interest of justice would be better served if the case were brought in a court having proper jurisdiction in another venue compare",
+                "compares": "change of venue"
+            }
+        },
+        "references": {
+            "change of venue": "https://dictionary.findlaw.com/definition/change-of-venue.html"
+        }
+    }
+}

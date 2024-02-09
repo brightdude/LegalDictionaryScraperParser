@@ -1,0 +1,33 @@
+{
+    "Fruit": {
+        "definition": "something",
+        "origin": "[moved to suppress evidence seized from the room on the grounds that it was obtained as the of an illegal arrest \" National Law Journal \"]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "something (as evidence) that is obtained or gathered during an action or operation (as a search) [moved to suppress evidence seized from the room on the grounds that it was obtained as the of an illegal arrest \"\"]",
+                "sub_terms": {
+                    "b": "[the Court was asked to extend the…doctrine \", 470 U.S. 298 (1985)\"]"
+                },
+                "Oregon v. Elstad": "470 U.S. 298 (1985)"
+            },
+            "2 a": {
+                "definition": "property (as income or goods) produced by or derived from other movable or immovable property without diminution of its substance [co-owners share theand products of the thing held \"\"] compare",
+                "compares": "product",
+                "s": "and products of the thing held \""
+            },
+            "civil fruit": {
+                "definition": "the revenue derived from property esp. by virtue of an obligation (as a lease)"
+            },
+            "nat·u·ral fruit": {
+                "definition": "an animal or plant product (as a crop)",
+                "sub_terms": {
+                    "b": "income that is produced or earned by other property or services"
+                }
+            }
+        },
+        "references": {
+            "fruit of the poisonous tree": "https://dictionary.findlaw.com/definition/fruit-of-the-poisonous-tree.html",
+            "product": "https://dictionary.findlaw.com/definition/product.html"
+        }
+    }
+}

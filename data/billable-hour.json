@@ -1,0 +1,11 @@
+{
+    "Billable Hour": {
+        "definition": "an hour that a lawyer spends engaged in work that can be charged to a client at the hourly rate",
+        "sub_definitions": {
+            "1": {
+                "1": "an hour that a lawyer spends engaged in work that can be charged to a client at the hourly rate"
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "Trespass": {
+        "definition": "wrongful conduct causing harm to another",
+        "origin": "[Anglo-French trespas violation of the law, actionable wrong, from Old French, crossing, passage, from trespasser to go across, from tres across + passer to pass]",
+        "compare": "trespass on the case",
+        "sub_definitions": {
+            "con·tinu·ing trespass": {
+                "definition": "a trespass that continues until the act (as of depriving another of his or her property without the intent to steal it) or instrumentality (as an object placed wrongfully on another's land) causing it is ended or removed"
+            },
+            "criminal trespass": {
+                "definition": "trespass to property that is forbidden by statute and punishable as a crime as distinguished from trespass that creates a cause of action for damages"
+            },
+            "trespass ab initio": {
+                "definition": "a trespass that arises upon a lawful act which because of subsequent unlawful or wrongful conduct is deemed under a legal fiction to have been trespassory from the beginning"
+            },
+            "trespass de bo·nis as·por·ta·tis": {
+                "definition": "[-dē-bō-nis-as-pȯr-tā-tis, -dā-bō-nēs-Ä s-pȯr-tÄ -tēs][probably from Medieval Latin ()(trespass) concerning property carried off]a common-law form of action to recover for trespass involving the carrying off of one's goods by another",
+                "de bonis asportatis": "(trespass) concerning property carried off]"
+            },
+            "trespass on the case": {
+                "definition": "a common-law form of action to recover for another's wrongful act that indirectly causes one's injury called also"
+            },
+            "trespass qua·re clau·sum fre·git": {
+                "definition": "[-kwer-ē-klȯ-zəm-frē-jət, -kwÄ -rā-kla-sm-frā-gēt][probably from Medieval Latin ()(trespass) whereby he or she broke into a close (tenement protected by law of trespass)]a trespass that involves wrongful and tortious entry on another's real property",
+                "quare clausum fregit": "(trespass) whereby he or she broke into a close (tenement protected by law of trespass)]"
+            },
+            "trespass to try title": {
+                "definition": "an action brought as a means of obtaining redress for a trespass to real property and determining the title to the property"
+            },
+            "trespass vi et ar·mis": {
+                "definition": "[-vī-et-Ä r-mis, -vē-, -mēs][Latinwith force and arms]a trespass involving intentional infliction of injury on a personvito commit a trespassto enter wrongfully or without proper authority or consent upon the real property of anotherto commit a trespass against",
+                "vi et armis": "with force and arms]"
+            }
+        },
+        "references": {
+            "trespass on the case": "https://dictionary.findlaw.com/definition/trespass-on-the-case.html",
+            "trespass quare clausum fregit": "https://dictionary.findlaw.com/definition/trespass-quare-clausum-fregit.html"
+        }
+    }
+}

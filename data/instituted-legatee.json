@@ -1,0 +1,14 @@
+{
+    "Instituted Legatee": {
+        "definition": "instituted heir at heir",
+        "sub_definitions": {
+            "1": {
+                "1": "instituted heir"
+            }
+        },
+        "references": {
+            "instituted heir": "https://dictionary.findlaw.com/definition/instituted-heir.html",
+            "heir": "https://dictionary.findlaw.com/definition/heir.html"
+        }
+    }
+}

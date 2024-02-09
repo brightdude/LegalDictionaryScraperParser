@@ -1,0 +1,16 @@
+{
+    "Wrongful Birth": {
+        "definition": "a malpractice claim brought by the parents of a child born with a birth defect against a physician or health-care provider whose alleged negligence",
+        "origin": "[recognize a cause of action for wrongful birth ]",
+        "sub_definitions": {
+            "1": {
+                "1": "a malpractice claim brought by the parents of a child born with a birth defect against a physician or health-care provider whose alleged negligence (as in prenatal testing or diagnosis) effectively deprived the parents of the opportunity to make an informed decision whether to avoid or terminate the pregnancy"
+            },
+            "2": {
+                "1": "the birth or injury at issue in such a claim [recognize a cause of action for",
+                "note": " Two factors behind the general recognition of the wrongful birth claim are scientific advances in prenatal diagnosis of birth defects and the legalization of abortion. Wrongful birth and wrongful life are distinct from malpractice claims alleging actual physical injury to a fetus caused by a negligently performed procedure."
+            }
+        },
+        "references": {}
+    }
+}

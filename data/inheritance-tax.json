@@ -1,0 +1,15 @@
+{
+    "Inheritance Tax": {
+        "definition": "an excise tax that is levied upon the privilege of receiving property as heir or next of kin under the law of intestacy and that is measured by the value of the property received compare estate tax",
+        "compare": "estate tax",
+        "sub_definitions": {
+            "1": {
+                "1": "an excise tax that is levied upon the privilege of receiving property as heir or next of kin under the law of intestacy and that is measured by the value of the property received compare",
+                "compares": "estate tax"
+            }
+        },
+        "references": {
+            "estate tax": "https://dictionary.findlaw.com/definition/estate-tax.html"
+        }
+    }
+}

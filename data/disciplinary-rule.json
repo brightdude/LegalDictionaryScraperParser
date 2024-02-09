@@ -1,0 +1,15 @@
+{
+    "Disciplinary Rule": {
+        "definition": "a rule that is set out in the ABA Model Code of Professional Responsibility and whose violation may result in disciplinary action against the violating lawyer compare ethical consideration",
+        "compare": "ethical consideration",
+        "sub_definitions": {
+            "1": {
+                "1": "a rule that is set out in the ABA Model Code of Professional Responsibility and whose violation may result in disciplinary action against the violating lawyer compare",
+                "compares": "ethical consideration"
+            }
+        },
+        "references": {
+            "ethical consideration": "https://dictionary.findlaw.com/definition/ethical-consideration.html"
+        }
+    }
+}

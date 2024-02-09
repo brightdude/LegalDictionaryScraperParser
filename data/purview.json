@@ -1,0 +1,16 @@
+{
+    "Purview": {
+        "definition": "the body of a statute or the part that begins with Be it enacted and ends before the repealing clause 2",
+        "origin": "[Anglo-French purveu est it is provided (opening phrase of a statute)]",
+        "sub_definitions": {
+            "1": {
+                "definition": "the body of a statute or the part that begins withand ends before the repealing clause",
+                "Be it enacted": "and ends before the repealing clause"
+            },
+            "2": {
+                "definition": "the limit or scope of a law"
+            }
+        },
+        "references": {}
+    }
+}

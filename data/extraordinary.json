@@ -1,0 +1,21 @@
+{
+    "Extraordinary": {
+        "definition": "going beyond what is usual",
+        "origin": "[an session of the legislature]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "going beyond what is usual, regular, or customaryof, relating to, or having the nature of a proceeding or action not normally required by law or not prescribed for the regular administration of law [an session of the legislature] [granted relief] compare",
+                "sub_terms": {
+                    "b": "of or relating to a financial transaction that is not expected to be repeated [an charge against earnings] [an gain]"
+                },
+                "compares": "ordinary"
+            },
+            "2": {
+                "definition": "employed for or sent on a special function or service [an ambassador ]"
+            }
+        },
+        "references": {
+            "ordinary": "https://dictionary.findlaw.com/definition/ordinary.html"
+        }
+    }
+}

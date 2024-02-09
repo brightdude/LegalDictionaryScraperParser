@@ -1,0 +1,21 @@
+{
+    "Revoke": {
+        "definition": "to annul by recalling or taking back",
+        "sub_definitions": {
+            "re·vok·ing": {
+                "definition": "to annul by recalling or taking back",
+                "sub_terms": {
+                    "a": "to destroy the effectiveness of (a will) by executing another or by an act of destruction (as tearing or crossing out)",
+                    "b": "to put an end to (a trust)",
+                    "c": "to withdraw (an offer) esp. before acceptance",
+                    "d": "to withdraw (acceptance of goods) by refusing to keep goods because of nonconformity see also",
+                    "e": "to take back (as a license or a grant of parole or probation) esp. because of misconduct"
+                },
+                "see also": "rejection"
+            }
+        },
+        "references": {
+            "rejection": "https://dictionary.findlaw.com/definition/rejection.html"
+        }
+    }
+}

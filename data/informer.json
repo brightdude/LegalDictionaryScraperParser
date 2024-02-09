@@ -1,0 +1,13 @@
+{
+    "Informer": {
+        "definition": "informant",
+        "sub_definitions": {
+            "1": {
+                "1": "informant"
+            }
+        },
+        "references": {
+            "informant": "https://dictionary.findlaw.com/definition/informant.html"
+        }
+    }
+}

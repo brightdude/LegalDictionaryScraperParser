@@ -1,0 +1,18 @@
+{
+    "Reinsurance": {
+        "definition": "insurance or indemnification by a second insurer of all or part of a risk assumed by another insurer as contracted for by the first insurer see also cede compare direct insurance",
+        "compare": "cede",
+        "sub_definitions": {
+            "1": {
+                "1": "insurance or indemnification by a second insurer of all or part of a risk assumed by another insurer as contracted for by the first insurer see also",
+                "see also": "cede",
+                "compares": "direct insurance"
+            }
+        },
+        "references": {
+            "cede": "https://dictionary.findlaw.com/definition/cede.html",
+            "direct insurance": "https://dictionary.findlaw.com/definition/direct-insurance.html",
+            "retrocession": "https://dictionary.findlaw.com/definition/retrocession.html"
+        }
+    }
+}

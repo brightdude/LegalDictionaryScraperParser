@@ -1,0 +1,11 @@
+{
+    "Vice-Consul": {
+        "definition": "a consular officer subordinate to a consul general or to a consul",
+        "sub_definitions": {
+            "1": {
+                "1": "a consular officer subordinate to a consul general or to a consul"
+            }
+        },
+        "references": {}
+    }
+}

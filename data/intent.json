@@ -1,0 +1,42 @@
+{
+    "Intent": {
+        "definition": "the act or fact of intending",
+        "origin": "[there was a general intent to assault but not to kill]",
+        "sub_definitions": {
+            "1": {
+                "definition": "intent attributed to a person who intends to cause another harm when the harm is accidentally inflicted on an unintended victim"
+            },
+            "constructive intent": {
+                "definition": "intent that is inferred to exist (as from willfulness or recklessness) in relation to an act"
+            },
+            "general intent": {
+                "definition": "intent to perform an illegal act without the desire for further consequences or a precise result [there was ato assault but not to kill]",
+                "general intent": "to assault but not to kill]"
+            },
+            "specific intent": {
+                "definition": "intent to perform an illegal act with the knowledge or purpose that particular results will or may ensue [assaulted him withto kill]"
+            },
+            "2": {
+                "definition": "a doctrine in tort and criminal law: a wrongdoer who causes harm to a person other than the one intended may nevertheless be held to have intended the harmful result"
+            },
+            "2 a": {
+                "definition": "see also",
+                "sub_terms": {
+                    "b": "the purpose of a document (as a contract or will)",
+                    "c": "the aim or goal of a person in creating a document or taking an action [the court's attempt to fulfill the donor's ] [the of the contracting parties implied by their language] see also"
+                },
+                "see also": "original intent"
+            }
+        },
+        "references": {
+            "knowledge": "https://dictionary.findlaw.com/definition/knowledge.html",
+            "mens rea": "https://dictionary.findlaw.com/definition/mens-rea.html",
+            "motive": "https://dictionary.findlaw.com/definition/motive.html",
+            "negligence": "https://dictionary.findlaw.com/definition/negligence.html",
+            "intent": "https://dictionary.findlaw.com/definition/intent.html",
+            "intendment": "https://dictionary.findlaw.com/definition/intendment.html",
+            "legislative intent": "https://dictionary.findlaw.com/definition/legislative-intent.html",
+            "original intent": "https://dictionary.findlaw.com/definition/original-intent.html"
+        }
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "Cost": {
+        "definition": "the amount or equivalent paid or charged for something 2 pl",
+        "sub_definitions": {
+            "1": {
+                "definition": "the amount or equivalent paid or charged for something"
+            },
+            "2": {
+                "definition": "expenses incurred in litigationthose given by the law or the court to the prevailing party against the losing party"
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "Capricious": {
+        "definition": "governed or characterized by impulse or whim",
+        "sub_definitions": {
+            "1": {
+                "definition": "governed or characterized by impulse or whim",
+                "sub_terms": {
+                    "a": "lacking a rational basis",
+                    "b": "likely to change suddenly"
+                }
+            },
+            "2": {
+                "definition": "not supported by the weight of evidence or established rules of law often used in the phrase"
+            }
+        },
+        "references": {}
+    }
+}

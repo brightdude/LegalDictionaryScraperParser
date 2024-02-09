@@ -1,0 +1,14 @@
+{
+    "Equity Of Redemption": {
+        "definition": "the right of a defaulting mortgagor to redeem the mortgaged property before an absolute foreclosure 2",
+        "sub_definitions": {
+            "1": {
+                "definition": "the right of a defaulting mortgagor to redeem the mortgaged property before an absolute foreclosure"
+            },
+            "2": {
+                "definition": "the interest or estate remaining to a mortgagor in mortgaged propertythe value of such interest"
+            }
+        },
+        "references": {}
+    }
+}

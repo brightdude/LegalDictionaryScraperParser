@@ -1,0 +1,15 @@
+{
+    "Add-On": {
+        "definition": "being or able to be added on [ no-fault benefits] 2",
+        "origin": "[ no-fault benefits]",
+        "sub_definitions": {
+            "1": {
+                "definition": "being or able to be added on [ no-fault benefits]"
+            },
+            "2": {
+                "definition": "able to be added to [ certificates of deposit]"
+            }
+        },
+        "references": {}
+    }
+}

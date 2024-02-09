@@ -1,0 +1,14 @@
+{
+    "Stake": {
+        "definition": "the subject matter",
+        "sub_definitions": {
+            "1": {
+                "definition": "the subject matter (as property or an obligation) of an interpleader"
+            },
+            "2": {
+                "definition": "an interest or share in an esp. commercial undertaking"
+            }
+        },
+        "references": {}
+    }
+}

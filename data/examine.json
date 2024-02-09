@@ -1,0 +1,20 @@
+{
+    "Examine": {
+        "definition": "to investigate or inspect closely [ the title] compare audit 2",
+        "origin": "[ the title]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to investigate or inspect closely [ the title] compare",
+                "compares": "audit"
+            },
+            "2": {
+                "definition": "to question closely esp. in a court proceeding compare",
+                "compares": "depose"
+            }
+        },
+        "references": {
+            "audit": "https://dictionary.findlaw.com/definition/audit.html",
+            "depose": "https://dictionary.findlaw.com/definition/depose.html"
+        }
+    }
+}

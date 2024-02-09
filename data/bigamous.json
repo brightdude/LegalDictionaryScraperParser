@@ -1,0 +1,15 @@
+{
+    "Bigamous": {
+        "definition": "guilty of bigamy [a spouse] 2",
+        "origin": "[a spouse]",
+        "sub_definitions": {
+            "1": {
+                "definition": "guilty of bigamy [a spouse]"
+            },
+            "2": {
+                "definition": "involving bigamy [a marriage]"
+            }
+        },
+        "references": {}
+    }
+}

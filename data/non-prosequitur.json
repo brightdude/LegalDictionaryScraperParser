@@ -1,0 +1,16 @@
+{
+    "Non Prosequitur": {
+        "definition": "a judgment entered against a plaintiff for failure to appear to prosecute a suit compare nolle prosequi",
+        "origin": "[Late Latin, he or she does not prosecute]",
+        "compare": "nolle prosequi",
+        "sub_definitions": {
+            "1": {
+                "1": "a judgment entered against a plaintiff for failure to appear to prosecute a suit compare",
+                "compares": "nolle prosequi"
+            }
+        },
+        "references": {
+            "nolle prosequi": "https://dictionary.findlaw.com/definition/nolle-prosequi.html"
+        }
+    }
+}

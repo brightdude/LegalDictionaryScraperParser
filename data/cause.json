@@ -1,0 +1,105 @@
+{
+    "Cause": {
+        "definition": "something that brings about an effect or result [the negligent act which was the of the plaintiff's injury] NOTE",
+        "origin": "[the negligent act which was the of the plaintiff's injury]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to serve as the cause of [the scales struck the plaintiffinjuries for which she sues \", 162 N.E.99 (1928)\"]",
+                "causing": "injuries for which she sues \"",
+                "Palsgraf v. Long Island R.R. Co.": "162 N.E.99 (1928)"
+            },
+            "actual cause": {
+                "definition": "in this entry"
+            },
+            "but-for cause": {
+                "definition": "in this entry"
+            },
+            "cause in fact": {
+                "definition": "a cause without which the result would not have occurred called also"
+            },
+            "concurrent cause": {
+                "definition": "a cause that joins simultaneously with another cause to produce a result called alsocompareandin this entry",
+                "compares": "intervening cause"
+            },
+            "di·rect cause": {
+                "definition": "in this entry"
+            },
+            "ef·fi·cient in·ter·ven·ing cause": {
+                "definition": "in this entry"
+            },
+            "2": {
+                "definition": "to effect by command, authority, or force [the administrator shall an investigation to be made]"
+            },
+            "legal cause": {
+                "definition": "in this entry"
+            },
+            "procuring cause": {
+                "definition": "one (as a broker) that sets in motion a continuous series of events culminating esp. in the sale or leasing of real estate [entitled to a commission as theof the sale even though the listing had expired]",
+                "procuring cause": "of the sale even though the listing had expired]"
+            },
+            "pro·duc·ing cause": {
+                "definition": "an efficient, exciting, or contributing cause (as an act, practice, or event) that produces an injury which would not have occurred without it [claimed that the workplace accident was aof his disability] used esp. in workers' compensation and consumer protection cases",
+                "note": " A producing cause lacks the element of foreseeability associated with a proximate cause, being more exclusively concerned with causation in fact.",
+                "producing cause": "of his disability] used esp. in workers' compensation and consumer protection cases"
+            },
+            "proximate cause": {
+                "definition": "a cause that sets in motion a sequence of events uninterrupted by any superseding causes and that results in a usually foreseeable effect (as an injury) which would not otherwise have occurred called alsosee alsoin the Important Cases section comparein this entry",
+                "compares": "remote cause",
+                "Palsgraf v. Long Island Railroad Co.": "in the Important Cases section compare"
+            },
+            "re·mote cause": {
+                "definition": "a cause that is followed by a superseding cause interrupting the chain of causationa cause that in ordinary experience does not lead to a particular effect comparein this entry",
+                "compares": "proximate cause"
+            },
+            "su·per·sed·ing cause": {
+                "definition": "an unforeseeable intervening cause that interrupts the chain of causation and becomes the proximate cause of the effect called alsocompareandin this entry",
+                "compares": "concurrent cause"
+            },
+            "supervening cause": {
+                "definition": "in this entry"
+            },
+            "good cause": {
+                "definition": "a substantial reason put forth in good faith that is not unreasonable, arbitrary, or irrational and that is sufficient to create an excuse for an act under the law [unable to showfor failure to pay child support] [neglect of duty isfor removal of a trustee]",
+                "good cause": "for removal of a trustee]"
+            },
+            "prob··a·ble cause": {
+                "definition": "[prÄ -bə-bəl-]"
+            },
+            "3": {
+                "definition": "something (as an event or the exercise of ordinary care or prudence) that excuses or justifies failure to file a tax return on time"
+            },
+            "suf·fi·cient cause": {
+                "definition": "cause that is deemed enough to provide an excuse under the law",
+                "sub_terms": {
+                    "a": "in this entry often used in the phrase",
+                    "b": "in this entry"
+                }
+            },
+            "3 a": {
+                "definition": "a ground of a legal action [tortious conduct is not a of divorce embraced within the statutory cause of cruel and inhuman treatment \"\"]",
+                "sub_terms": {
+                    "b": "[questions of law…determinative of the then pending \"R. T. Gerwatowski\"]"
+                }
+            },
+            "4": {
+                "definition": "the reason for making a contract comparevt",
+                "note": " Under the Louisiana Civil Code, if a contract's cause is illicit or immoral, the contract is absolutely null. If the cause fails after the contract is made (as when a leased building cannot be occupied because of a fire), the contract may either be not enforced or only partially enforced.",
+                "compares": "frustration"
+            }
+        },
+        "references": {
+            "cause in fact": "https://dictionary.findlaw.com/definition/cause-in-fact.html",
+            "intervening cause": "https://dictionary.findlaw.com/definition/intervening-cause.html",
+            "superseding cause": "https://dictionary.findlaw.com/definition/superseding-cause.html",
+            "proximate cause": "https://dictionary.findlaw.com/definition/proximate-cause.html",
+            "concurrent cause": "https://dictionary.findlaw.com/definition/concurrent-cause.html",
+            "remote cause": "https://dictionary.findlaw.com/definition/remote-cause.html",
+            "good cause": "https://dictionary.findlaw.com/definition/good-cause.html",
+            "just cause": "https://dictionary.findlaw.com/definition/just-cause.html",
+            "reasonable suspicion": "https://dictionary.findlaw.com/definition/reasonable-suspicion.html",
+            "probable cause": "https://dictionary.findlaw.com/definition/probable-cause.html",
+            "case": "https://dictionary.findlaw.com/definition/case.html",
+            "frustration": "https://dictionary.findlaw.com/definition/frustration.html"
+        }
+    }
+}

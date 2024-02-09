@@ -1,0 +1,19 @@
+{
+    "Allowance": {
+        "definition": "an allotted share",
+        "origin": "[an to support the deceased's family]",
+        "sub_definitions": {
+            "1": {
+                "definition": "an allotted share",
+                "sub_terms": {
+                    "a": "a sum granted as a reimbursement or payment for expenses [an to support the deceased's family] [deduction for a moving ]",
+                    "b": "a sum granted as a reduction or increase [an for depreciation]"
+                }
+            },
+            "2": {
+                "definition": "an act of allowing [ of a deduction]"
+            }
+        },
+        "references": {}
+    }
+}

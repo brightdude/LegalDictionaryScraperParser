@@ -1,0 +1,13 @@
+{
+    "Carryforward": {
+        "definition": "carryover",
+        "sub_definitions": {
+            "1": {
+                "1": "carryover"
+            }
+        },
+        "references": {
+            "carryover": "https://dictionary.findlaw.com/definition/carryover.html"
+        }
+    }
+}

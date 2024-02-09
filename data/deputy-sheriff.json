@@ -1,0 +1,11 @@
+{
+    "Deputy Sheriff": {
+        "definition": "an assistant appointed to take on some of the duties of a sheriff",
+        "sub_definitions": {
+            "1": {
+                "1": "an assistant appointed to take on some of the duties of a sheriff"
+            }
+        },
+        "references": {}
+    }
+}

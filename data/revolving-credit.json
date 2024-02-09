@@ -1,0 +1,11 @@
+{
+    "Revolving Credit": {
+        "definition": "a credit which may be used repeatedly up to the limit specified after partial or total repayments have been made",
+        "sub_definitions": {
+            "1": {
+                "1": "a credit which may be used repeatedly up to the limit specified after partial or total repayments have been made"
+            }
+        },
+        "references": {}
+    }
+}

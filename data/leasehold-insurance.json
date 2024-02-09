@@ -1,0 +1,11 @@
+{
+    "Leasehold Insurance": {
+        "definition": "insurance against loss to a lessee",
+        "sub_definitions": {
+            "1": {
+                "1": "insurance against loss to a lessee (as of profits derived from a sublease) because of cancellation of a lease as a result of fire or other specified peril"
+            }
+        },
+        "references": {}
+    }
+}

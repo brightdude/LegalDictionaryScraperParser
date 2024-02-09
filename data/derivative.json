@@ -1,0 +1,19 @@
+{
+    "Derivative": {
+        "definition": "a contract or security that derives its value from that of an underlying asset",
+        "origin": "[a transaction]",
+        "compare": "direct",
+        "sub_definitions": {
+            "1": {
+                "definition": "arising out of or dependent on the existence of something else compare",
+                "compares": "direct"
+            },
+            "2": {
+                "definition": "of, relating to, or being a derivative [a transaction]"
+            }
+        },
+        "references": {
+            "direct": "https://dictionary.findlaw.com/definition/direct.html"
+        }
+    }
+}

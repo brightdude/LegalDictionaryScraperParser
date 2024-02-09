@@ -1,0 +1,20 @@
+{
+    "Distress": {
+        "definition": "seizure and detention of the goods of another as pledge or to obtain satisfaction of a claim by the sale of the goods seized ;specif",
+        "origin": "[Anglo-French destrece , literally, tightness, anguish, deprivation, from Old French, ultimately from Late Latin districtus severe, from past participle of distringere to hinder, punish see distrain ]",
+        "sub_definitions": {
+            "1": {
+                "definition": "seizure and detention of the goods of another as pledge or to obtain satisfaction of a claim by the sale of the goods seizedseizure by a landlord of a tenant's property to obtain satisfaction of arrearages in rent",
+                "note": " Distress is regulated by statute where available. It has been held unconstitutional by some courts."
+            },
+            "2": {
+                "definition": "pain or suffering affecting the body, a bodily part, or the mind see also",
+                "see also": "emotional distress"
+            }
+        },
+        "references": {
+            "distrain": "https://dictionary.findlaw.com/definition/distrain.html",
+            "emotional distress": "https://dictionary.findlaw.com/definition/emotional-distress.html"
+        }
+    }
+}

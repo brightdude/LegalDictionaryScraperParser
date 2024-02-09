@@ -1,0 +1,8 @@
+{
+    "Beneficiary Heir": {
+        "definition": "Beneficiary Heir",
+        "references": {
+            "heir": "https://dictionary.findlaw.com/definition/heir.html"
+        }
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "Stakeholder": {
+        "definition": "a person holding property or owing an obligation that is claimed by two or more adverse claimants and who has no claim to or interest in the property or obligation [the can interplead the claimants] 2",
+        "origin": "[the can interplead the claimants]",
+        "sub_definitions": {
+            "1": {
+                "definition": "a person holding property or owing an obligation that is claimed by two or more adverse claimants and who has no claim to or interest in the property or obligation [the can interplead the claimants]"
+            },
+            "2": {
+                "definition": "a person having an interest or share in a commercial undertaking"
+            }
+        },
+        "references": {}
+    }
+}

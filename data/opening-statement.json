@@ -1,0 +1,14 @@
+{
+    "Opening Statement": {
+        "definition": "a statement to the jury by trial counsel before the presentation of evidence that usually explains the nature of the case",
+        "sub_definitions": {
+            "1": {
+                "1": "a statement to the jury by trial counsel before the presentation of evidence that usually explains the nature of the case, the factual matters to be proven, and the evidence to be presented and that summarizes the arguments to be made"
+            },
+            "2": {
+                "1": "a similar statement made to the presiding authority (as an arbitrator) at a nonjudicial or quasi-judicial hearing (as an arbitration hearing)"
+            }
+        },
+        "references": {}
+    }
+}

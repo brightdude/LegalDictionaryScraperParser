@@ -1,0 +1,22 @@
+{
+    "Demurrer": {
+        "definition": "a plea in response to an allegation",
+        "origin": "[Anglo-French, from demurrer to file a demurrer, literally, to stay, dwell, delay, from Old French demorer , from Latin demorari to delay]",
+        "compare": "confession and avoidance",
+        "sub_definitions": {
+            "demurrer to the evidence": {
+                "definition": "a demurrer that asserts that the evidence is not sufficient to create a question of fact for the jury to decide"
+            },
+            "general demurrer": {
+                "definition": "a demurrer that challenges the sufficiency of the substance of allegation"
+            },
+            "special demurrer": {
+                "definition": "a demurrer that challenges the structure or form of an allegation as uncertain or ambiguous",
+                "note": " A special demurrer must specify the defect in the allegation."
+            }
+        },
+        "references": {
+            "confession and avoidance": "https://dictionary.findlaw.com/definition/confession-and-avoidance.html"
+        }
+    }
+}

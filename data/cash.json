@@ -1,0 +1,15 @@
+{
+    "Cash": {
+        "definition": "ready money 2",
+        "origin": "[agree that the buyer will pay cash against documents ]",
+        "sub_definitions": {
+            "1": {
+                "definition": "ready money"
+            },
+            "2": {
+                "definition": "money or its equivalent (as a check) paid for goods or services at the time of purchase or delivery"
+            }
+        },
+        "references": {}
+    }
+}

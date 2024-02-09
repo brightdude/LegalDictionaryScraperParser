@@ -1,0 +1,11 @@
+{
+    "Use And Occupation": {
+        "definition": "an action in which the owner of property seeks compensation for use and occupation of the premises by another",
+        "sub_definitions": {
+            "1": {
+                "1": "an action in which the owner of property seeks compensation for use and occupation of the premises by another (as a tenant remaining in possession after expiration of a lease)"
+            }
+        },
+        "references": {}
+    }
+}

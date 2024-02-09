@@ -1,0 +1,11 @@
+{
+    "Rule Of Four": {
+        "definition": "a rule in the U.S. Supreme Court under which a petition for certiorari will be granted and the case in question reviewed if four of the nine justices so decide",
+        "sub_definitions": {
+            "1": {
+                "1": "a rule in the U.S. Supreme Court under which a petition for certiorari will be granted and the case in question reviewed if four of the nine justices so decide"
+            }
+        },
+        "references": {}
+    }
+}

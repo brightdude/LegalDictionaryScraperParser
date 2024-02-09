@@ -1,0 +1,15 @@
+{
+    "Cumulative Voting": {
+        "definition": "a system of voting for corporate directors in which each shareholder is entitled to as many votes as he or she has shares times the number of directors to be elected compare straight voting",
+        "compare": "straight voting",
+        "sub_definitions": {
+            "1": {
+                "1": "a system of voting for corporate directors in which each shareholder is entitled to as many votes as he or she has shares times the number of directors to be elected compare",
+                "compares": "straight voting"
+            }
+        },
+        "references": {
+            "straight voting": "https://dictionary.findlaw.com/definition/straight-voting.html"
+        }
+    }
+}

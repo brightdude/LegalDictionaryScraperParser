@@ -1,0 +1,21 @@
+{
+    "Sell": {
+        "definition": "to transfer ownership of by sale compare barter",
+        "sub_definitions": {
+            "1": {
+                "definition": "to transfer ownership of by sale compare,,",
+                "compares": "barter"
+            },
+            "2": {
+                "definition": "to offer for saleto dispose of something by salemake a sale compare",
+                "compares": "donate"
+            }
+        },
+        "references": {
+            "barter": "https://dictionary.findlaw.com/definition/barter.html",
+            "convey": "https://dictionary.findlaw.com/definition/convey.html",
+            "give": "https://dictionary.findlaw.com/definition/give.html",
+            "donate": "https://dictionary.findlaw.com/definition/donate.html"
+        }
+    }
+}

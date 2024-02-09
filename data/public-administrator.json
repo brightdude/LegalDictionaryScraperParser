@@ -1,0 +1,8 @@
+{
+    "Public Administrator": {
+        "definition": "Public Administrator",
+        "references": {
+            "administrator": "https://dictionary.findlaw.com/definition/administrator.html"
+        }
+    }
+}

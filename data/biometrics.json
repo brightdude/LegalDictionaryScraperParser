@@ -1,0 +1,6 @@
+{
+    "Biometrics": {
+        "definition": "Biologically unique information used to identify individuals. This information can be used to verify identity or check against other entries in the database. The best known biometric is the fingerprint, but others include facial recognition and iris scans. Go to the U.S. Department of State Biometrics page to learn more.",
+        "references": {}
+    }
+}

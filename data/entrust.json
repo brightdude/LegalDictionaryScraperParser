@@ -1,0 +1,20 @@
+{
+    "Entrust": {
+        "definition": "to deliver something to",
+        "sub_definitions": {
+            "1": {
+                "definition": "to deliver something to (a person) under a charge or duty"
+            },
+            "2": {
+                "definition": "to give (something) over to the care of anotherto deliver to a merchant who may transfer ownership to a buyer in the ordinary course of business used esp. in thesee alsocompare,",
+                "compares": "bail",
+                "see also": "negligent entrustment"
+            }
+        },
+        "references": {
+            "negligent entrustment": "https://dictionary.findlaw.com/definition/negligent-entrustment.html",
+            "bail": "https://dictionary.findlaw.com/definition/bail.html",
+            "consign": "https://dictionary.findlaw.com/definition/consign.html"
+        }
+    }
+}

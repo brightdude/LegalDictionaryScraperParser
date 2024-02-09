@@ -1,0 +1,12 @@
+{
+    "Innocent Spouse": {
+        "definition": "a spouse who may be relieved of liability for taxes on an amount of income that the other spouse failed to include on a joint return filed with the Internal Revenue Service NOTE",
+        "sub_definitions": {
+            "1": {
+                "1": "a spouse who may be relieved of liability for taxes on an amount of income that the other spouse failed to include on a joint return filed with the Internal Revenue Service",
+                "note": " In order to be relieved of tax liability, the innocent spouse must prove that the other spouse omitted the amount of income, that he or she did not know and had no reason to know that the income had been omitted, and that it is unfair under the circumstances to hold the innocent spouse liable."
+            }
+        },
+        "references": {}
+    }
+}

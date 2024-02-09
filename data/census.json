@@ -1,0 +1,16 @@
+{
+    "Census": {
+        "definition": "a usually complete count of a population",
+        "sub_definitions": {
+            "1": {
+                "1": "a usually complete count of a population (as of a state)"
+            },
+            "2": {
+                "1": "a periodic governmental count of a population that usually includes social and economic information (as occupations, ages, and incomes) see also"
+            }
+        },
+        "references": {
+            "Constitution": "https://dictionary.findlaw.com/definition/constitution.html"
+        }
+    }
+}

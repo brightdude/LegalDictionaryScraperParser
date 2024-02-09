@@ -1,0 +1,18 @@
+{
+    "Independent": {
+        "definition": "not dependent on others",
+        "origin": "[declared she was on her financial aid form]",
+        "sub_definitions": {
+            "1": {
+                "definition": "not dependent on others (as parents) for livelihoodnot a dependent [declared she was on her financial aid form]"
+            },
+            "2 a": {
+                "definition": "not affiliated with another usually larger unit [an adjuster]",
+                "sub_terms": {
+                    "b": "not contingent on something else [an promise]"
+                }
+            }
+        },
+        "references": {}
+    }
+}

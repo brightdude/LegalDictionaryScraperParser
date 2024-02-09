@@ -1,0 +1,8 @@
+{
+    "Nominal Party": {
+        "definition": "Nominal Party",
+        "references": {
+            "party": "https://dictionary.findlaw.com/definition/party.html"
+        }
+    }
+}

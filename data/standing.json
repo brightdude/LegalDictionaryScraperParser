@@ -1,0 +1,16 @@
+{
+    "Standing": {
+        "definition": "continuing in existence",
+        "origin": "[a order]",
+        "sub_definitions": {
+            "1": {
+                "definition": "the status of being qualified to assert or enforce legal rights or duties in a judicial forum because one has a sufficient and protectable interest in the outcome of a justiciable controversy and usually has suffered or is threatened with actual injury [only one who already has can argue the public interest in support of his claim \", 768 P.2d 1293 (1989)\"]",
+                "Hawaii's Thousand Friends v. Anderson": "768 P.2d 1293 (1989)"
+            },
+            "2": {
+                "definition": "a principle requiring that a party have standing in order to justify the exercise of the court's remedial powers"
+            }
+        },
+        "references": {}
+    }
+}

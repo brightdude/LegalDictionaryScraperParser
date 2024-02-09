@@ -1,0 +1,23 @@
+{
+    "Suspend": {
+        "definition": "to debar temporarily from a privilege",
+        "origin": "[ trading]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to debar temporarily from a privilege, office, or function"
+            },
+            "2 a": {
+                "definition": "to stop temporarily [ trading]",
+                "sub_terms": {
+                    "b": "to make temporarily ineffective [ a license]",
+                    "c": "[ a hearing]",
+                    "d": "to defer until a later time see alsoat"
+                }
+            }
+        },
+        "references": {
+            "stay": "https://dictionary.findlaw.com/definition/stay.html",
+            "sentence": "https://dictionary.findlaw.com/definition/sentence.html"
+        }
+    }
+}

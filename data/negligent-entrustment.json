@@ -1,0 +1,14 @@
+{
+    "Negligent Entrustment": {
+        "definition": "the entrusting of a dangerous article",
+        "sub_definitions": {
+            "1": {
+                "1": "the entrusting of a dangerous article (as a motor vehicle) to one who is reckless or too inexperienced or incompetent to use it safely"
+            },
+            "2": {
+                "1": "a theory or doctrine making one liable for injury caused by a party to whom one negligently entrusted something"
+            }
+        },
+        "references": {}
+    }
+}

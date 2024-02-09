@@ -1,0 +1,8 @@
+{
+    "Judicial Sale": {
+        "definition": "Judicial Sale",
+        "references": {
+            "sale": "https://dictionary.findlaw.com/definition/sale.html"
+        }
+    }
+}

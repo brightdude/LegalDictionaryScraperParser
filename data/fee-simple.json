@@ -1,0 +1,33 @@
+{
+    "Fee Simple": {
+        "definition": "fees simple [ simple without limitation",
+        "origin": "[ simple without limitation (as to heirs) and unrestricted (as to transfer of ownership)]",
+        "sub_definitions": {
+            "fees simple": {
+                "definition": "[without limitation (as to heirs) and unrestricted (as to transfer of ownership)]a fee that is alienable (as by deed, will, or intestacy) and of potentially indefinite durationin this entry"
+            },
+            "fee simple absolute": {
+                "definition": "a fee that is freely inheritable and alienable without any limitations or restrictions on transfers and that is of indefinite duration",
+                "note": " A fee simple absolute is conveyed by language granting the estate “to the grantee and his or her heirs,” “to the grantee, his heirs and assigns,” or “to the grantee.” The termheirsis considered in this context a word of limitation, and so this does not create a future interest in the estate in the heirs but simply makes the estate freely alienable."
+            },
+            "fee simple conditional": {
+                "definition": "a fee granted to an individual and to that individual's descendants which is subject to a reversion or remainder if the grantee has no lineal descendants but which becomes a fee simple absolute and freely alienable upon the birth of a direct descendant see alsoin the Important Laws section compareat",
+                "note": " The fee simple conditional is not recognized in England or the United States except in South Carolina.",
+                "De Donis Conditionalibus": "in the Important Laws section compare"
+            },
+            "fee simple determinable": {
+                "definition": "a defeasible fee that automatically terminates upon the occurrence of a specified event or condition and which reverts to the grantor compareat",
+                "note": " A fee simple determinable is conveyed by language which states that the estate automatically terminates and reverts to the grantor, and which expresses duration (“so long as,” “until,” “during the time that”)."
+            },
+            "fee simple on condition sub·se·quent": {
+                "definition": "[-səb-si-kwənt]a defeasible fee that may be terminated by the grantor or assigns upon the occurrence of an event called also",
+                "note": " A fee simple on condition subsequent is conveyed by language that creates a right of entry or power of termination in the grantor and that expresses condition (“on condition that,” “provided that”)."
+            }
+        },
+        "references": {
+            "fee simple absolute": "https://dictionary.findlaw.com/definition/fee-simple-absolute.html",
+            "fee": "https://dictionary.findlaw.com/definition/fee.html",
+            "estate": "https://dictionary.findlaw.com/definition/estate.html"
+        }
+    }
+}

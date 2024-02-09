@@ -1,0 +1,49 @@
+{
+    "Rule": {
+        "definition": "a prescribed guide for conduct or action b",
+        "origin": "[a directing the district court to show cause why its ruling should not be vacated \" People v. District Court , 797 P.2d 1259 (1990)\"]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "a prescribed guide for conduct or action",
+                "sub_terms": {
+                    "b": "a regulating principle or precept"
+                }
+            },
+            "2 a": {
+                "definition": "an order or directive issued by a court in a particular proceeding esp. upon petition of a party to the proceeding that commands an officer or party to perform an act or show cause why an act should not be performed [a directing the district court to show cause why its ruling should not be vacated \", 797 P.2d 1259 (1990)\"]",
+                "sub_terms": {
+                    "b": "a usually judicially promulgated regulation having the force of law that governs judicial practice or procedure [of evidence] [of appellate procedure] see also",
+                    "c": ""
+                },
+                "see also": "rule of court",
+                "People v. District Court": "797 P.2d 1259 (1990)",
+                "s": "of appellate procedure] see also"
+            },
+            "3": {
+                "definition": "all or part of a statement (as a regulation) by an administrative agency that has general or particular applicability and future effect and that is designed to implement, interpret, or prescribe law or policy or that describes the organization, procedure, or practice of the agency itself [a subject to statutory notice and comment requirements for informal rulemaking]"
+            },
+            "4 a": {
+                "definition": "a regulation or bylaw governing procedure or conduct in a body, organization, institution, or proceeding",
+                "sub_terms": {
+                    "b": "a resolution of a legislative rules committee setting forth the terms for consideration of a particular bill by the entire body"
+                }
+            },
+            "5": {
+                "definition": "the exercise of authority or control [majority ] see also,vb",
+                "see also": "home rule"
+            },
+            "1": {
+                "definition": "to exercise supreme authority"
+            },
+            "2": {
+                "definition": "to lay down a rule or ruling [in favor of the plaintiff]",
+                "ruled": "in favor of the plaintiff]"
+            }
+        },
+        "references": {
+            "rule of court": "https://dictionary.findlaw.com/definition/rule-of-court.html",
+            "rule of law": "https://dictionary.findlaw.com/definition/rule-of-law.html",
+            "home rule": "https://dictionary.findlaw.com/definition/home-rule.html"
+        }
+    }
+}

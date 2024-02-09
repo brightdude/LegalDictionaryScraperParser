@@ -1,0 +1,14 @@
+{
+    "Ineffective Assistance Of Counsel": {
+        "definition": "representation of a criminal defendant that is so flawed as to deprive the defendant of a fair trial [claimed ineffective assistance of counsel following his conviction] called also ineffective assistance NOTE",
+        "origin": "[claimed ineffective assistance of counsel following his conviction]",
+        "sub_definitions": {
+            "1": {
+                "1": "representation of a criminal defendant that is so flawed as to deprive the defendant of a fair trial [claimed",
+                "ineffective assistance of counsel": "following his conviction] called also",
+                "note": " Ineffective assistance of counsel is a violation of the guarantee of the assistance of counsel that is provided in the Sixth Amendment to the U.S. Constitution. A claim of ineffective assistance of counsel may be brought as a result of government interference with the attorney-client relationship that precludes effective representation, as when an informant is present during conversations between the attorney and the defendant. The existence of a conflict of interest on the part of the attorney may also be the basis for a claim. Most claims are, however, based on the attorney's failure to provide competent representation. Competent representation does not require the best representation, only a performance that is reasonable under prevailing professional norms."
+            }
+        },
+        "references": {}
+    }
+}

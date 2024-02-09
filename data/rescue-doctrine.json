@@ -1,0 +1,12 @@
+{
+    "Rescue Doctrine": {
+        "definition": "a common-law doctrine that permits a plaintiff to recover from a party whose negligence was the proximate cause of a peril from which the plaintiff reasonably undertook to rescue a third party NOTE",
+        "sub_definitions": {
+            "1": {
+                "1": "a common-law doctrine that permits a plaintiff to recover from a party whose negligence was the proximate cause of a peril from which the plaintiff reasonably undertook to rescue a third party",
+                "note": " The act of rescue itself is considered foreseeable, and the negligence of the defendant is considered to be the proximate cause of injury to the rescuer as well as to the one rescued."
+            }
+        },
+        "references": {}
+    }
+}

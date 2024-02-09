@@ -1,0 +1,12 @@
+{
+    "Crime Of Violence": {
+        "definition": "a crime that by its nature poses a substantial risk that force will be used against a person or property NOTE",
+        "sub_definitions": {
+            "1": {
+                "1": "a crime that by its nature poses a substantial risk that force will be used against a person or property",
+                "note": " A record of crimes of violence is used esp. to determine career offender status under federal sentencing guidelines."
+            }
+        },
+        "references": {}
+    }
+}

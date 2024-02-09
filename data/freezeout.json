@@ -1,0 +1,15 @@
+{
+    "Freezeout": {
+        "definition": "a corporate action",
+        "compare": "squeezeout",
+        "sub_definitions": {
+            "1": {
+                "1": "a corporate action (as a merger) taken by those in control of the corporation (as controlling shareholders or the board of directors) for the purpose of causing the minority shareholders to lose their equity in the corporation (as by the sale of their shares) compare",
+                "compares": "squeezeout"
+            }
+        },
+        "references": {
+            "squeezeout": "https://dictionary.findlaw.com/definition/squeezeout.html"
+        }
+    }
+}

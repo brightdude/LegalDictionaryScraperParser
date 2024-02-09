@@ -1,0 +1,29 @@
+{
+    "Strict": {
+        "definition": "characterized by narrowness",
+        "origin": "[ interpretation]",
+        "sub_definitions": {
+            "1": {
+                "definition": "characterized by narrownessnot demonstrating a broad or liberal view [ interpretation]"
+            },
+            "2 a": {
+                "definition": "firm or rigid in requirement or control",
+                "sub_terms": {
+                    "b": "severe in discipline"
+                }
+            },
+            "3 a": {
+                "definition": "inflexibly maintained or adhered to",
+                "sub_terms": {
+                    "b": "rigorously conforming to a principle or norm or condition [a bill of interpleader]"
+                }
+            },
+            "4": {
+                "definition": "not requiring fault see alsoat"
+            }
+        },
+        "references": {
+            "liability": "https://dictionary.findlaw.com/definition/liability.html"
+        }
+    }
+}

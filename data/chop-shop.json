@@ -1,0 +1,11 @@
+{
+    "Chop-Shop": {
+        "definition": "a place where stolen automobiles are stripped of salable parts",
+        "sub_definitions": {
+            "1": {
+                "1": "a place where stolen automobiles are stripped of salable parts"
+            }
+        },
+        "references": {}
+    }
+}

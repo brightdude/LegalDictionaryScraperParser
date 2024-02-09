@@ -1,0 +1,13 @@
+{
+    "Habendum": {
+        "definition": "the part of a deed that limits and defines an estate of ownership granted and sometimes the type of tenancy by which the estate is to be held NOTE",
+        "origin": "[New Latin, from Latin, to be had, neuter of habendus , future passive participle of habēre to have, to hold (the first word of this part of the deed)]",
+        "sub_definitions": {
+            "1": {
+                "1": "the part of a deed that limits and defines an estate of ownership granted and sometimes the type of tenancy by which the estate is to be held",
+                "note": " The habendum is now often just a formality."
+            }
+        },
+        "references": {}
+    }
+}

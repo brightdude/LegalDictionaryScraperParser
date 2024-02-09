@@ -1,0 +1,14 @@
+{
+    "Expectancy Damages": {
+        "definition": "expectation damages at damage",
+        "sub_definitions": {
+            "1": {
+                "1": "expectation damages"
+            }
+        },
+        "references": {
+            "expectation damages": "https://dictionary.findlaw.com/definition/expectation-damages.html",
+            "damage": "https://dictionary.findlaw.com/definition/damage.html"
+        }
+    }
+}

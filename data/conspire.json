@@ -1,0 +1,15 @@
+{
+    "Conspire": {
+        "definition": "to join in a conspiracy compare solicit",
+        "origin": "[Latin conspirare to be in harmony, to join in an unlawful agreement, from com - together + spirare to breathe]",
+        "sub_definitions": {
+            "con·spir·ing": {
+                "definition": "[Latinto be in harmony, to join in an unlawful agreement, from- together +to breathe]to join in a conspiracy compare",
+                "compares": "solicit"
+            }
+        },
+        "references": {
+            "solicit": "https://dictionary.findlaw.com/definition/solicit.html"
+        }
+    }
+}

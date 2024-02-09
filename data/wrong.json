@@ -1,0 +1,17 @@
+{
+    "Wrong": {
+        "definition": "a violation of the rights of another ;esp",
+        "origin": "[the difference between right and ]",
+        "sub_definitions": {
+            "1": {
+                "definition": "a violation of the rights of another"
+            },
+            "2": {
+                "definition": "something (as conduct, practices, or qualities) contrary to justice, goodness, equity, or law [the difference between right and ]vtto do a wrong totreat with injustice"
+            }
+        },
+        "references": {
+            "tort": "https://dictionary.findlaw.com/definition/tort.html"
+        }
+    }
+}

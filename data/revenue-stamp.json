@@ -1,0 +1,16 @@
+{
+    "Revenue Stamp": {
+        "definition": "a stamp for use as evidence of a tax",
+        "sub_definitions": {
+            "1": {
+                "1": "a stamp for use as evidence of a tax (as on a package of cigarettes, a proprietary article, or a mortgage or deed)"
+            },
+            "2": {
+                "1": "tax stamp"
+            }
+        },
+        "references": {
+            "tax stamp": "https://dictionary.findlaw.com/definition/tax-stamp.html"
+        }
+    }
+}

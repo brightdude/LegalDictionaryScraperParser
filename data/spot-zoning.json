@@ -1,0 +1,15 @@
+{
+    "Spot Zoning": {
+        "definition": "the usually illegal rezoning of a small parcel of land within the limits of another zone that is illegal when not done in accord with a comprehensive zoning plan or when arbitrary or discriminatory compare variance",
+        "compare": "variance",
+        "sub_definitions": {
+            "1": {
+                "1": "the usually illegal rezoning of a small parcel of land within the limits of another zone that is illegal when not done in accord with a comprehensive zoning plan or when arbitrary or discriminatory compare",
+                "compares": "variance"
+            }
+        },
+        "references": {
+            "variance": "https://dictionary.findlaw.com/definition/variance.html"
+        }
+    }
+}

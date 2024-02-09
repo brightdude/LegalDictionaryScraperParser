@@ -1,0 +1,26 @@
+{
+    "Release": {
+        "definition": "to relieve or free from obligation",
+        "origin": "[the debtor is released from all dischargeable debts]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "discharge from an obligation or responsibility that bars a cause of action [did not effect a of the school for any negligence]",
+                "sub_terms": {
+                    "b": "the giving up or renunciation of a right or claim that bars a cause of action [was a of the remainder of the debt]"
+                },
+                "note": " A release may in some situations require consideration in order to be valid. A release of one joint obligor sometimes is considered to release all the obligors."
+            },
+            "2": {
+                "definition": "an act or instrument that effects a release [signed a issued by the insurer] called alsocompare",
+                "compares": "hold harmless"
+            },
+            "3": {
+                "definition": "the act or instance of freeing esp. from custody"
+            }
+        },
+        "references": {
+            "surrender": "https://dictionary.findlaw.com/definition/surrender.html",
+            "hold harmless": "https://dictionary.findlaw.com/definition/hold-harmless.html"
+        }
+    }
+}

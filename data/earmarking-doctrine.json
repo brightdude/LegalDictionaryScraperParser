@@ -1,0 +1,12 @@
+{
+    "Earmarking Doctrine": {
+        "definition": "a doctrine in bankruptcy law",
+        "origin": "[probably so called because the loan has been earmarked, i.e., specifically designated, by the debtor to pay a specific creditor]",
+        "sub_definitions": {
+            "1": {
+                "1": "a doctrine in bankruptcy law: a loan made by a third person to a debtor to enable the debtor to pay off a specified creditor cannot be avoided by the trustee as a preference since the debtor never actually had control of the funds and the transfer does not diminish the debtor's estate"
+            }
+        },
+        "references": {}
+    }
+}

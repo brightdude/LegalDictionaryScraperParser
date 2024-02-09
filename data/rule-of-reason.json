@@ -1,0 +1,16 @@
+{
+    "Rule Of Reason": {
+        "definition": "a standard used in restraint of trade actions that requires the plaintiff to show and the factfinder to find that under all the circumstances the practice in question unreasonably restricts competition in the relevant market compare per se rule NOTE",
+        "compare": "per se rule",
+        "sub_definitions": {
+            "1": {
+                "1": "a standard used in restraint of trade actions that requires the plaintiff to show and the factfinder to find that under all the circumstances the practice in question unreasonably restricts competition in the relevant market compare",
+                "compares": "per se rule",
+                "note": " The rule of reason does not apply to per se violations of the Sherman Antitrust Act."
+            }
+        },
+        "references": {
+            "per se rule": "https://dictionary.findlaw.com/definition/per-se-rule.html"
+        }
+    }
+}

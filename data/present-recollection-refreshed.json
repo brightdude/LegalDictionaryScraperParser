@@ -1,0 +1,15 @@
+{
+    "Present Recollection Refreshed": {
+        "definition": "a rule of evidence allowing the use of a writing to jog the memory of a witness and enable the witness to testify about things newly remembered called also present recollection revived compare past recollection recorded",
+        "compare": "past recollection recorded",
+        "sub_definitions": {
+            "1": {
+                "1": "a rule of evidence allowing the use of a writing to jog the memory of a witness and enable the witness to testify about things newly remembered called also",
+                "compares": "past recollection recorded"
+            }
+        },
+        "references": {
+            "past recollection recorded": "https://dictionary.findlaw.com/definition/past-recollection-recorded.html"
+        }
+    }
+}

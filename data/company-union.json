@@ -1,0 +1,12 @@
+{
+    "Company Union": {
+        "definition": "an unaffiliated labor union of the employees of a single company NOTE",
+        "sub_definitions": {
+            "1": {
+                "1": "an unaffiliated labor union of the employees of a single company",
+                "note": " Historically, the company union was one formed or dominated by the company. Such unions have been long held to be illegal."
+            }
+        },
+        "references": {}
+    }
+}

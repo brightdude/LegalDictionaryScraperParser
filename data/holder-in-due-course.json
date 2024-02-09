@@ -1,0 +1,16 @@
+{
+    "Holder In Due Course": {
+        "definition": "the holder of a negotiable instrument that is complete and regular on its face and that is taken in good faith and for value without notice that it is overdue or has been dishonored or that there is any defense against it or claim to it by any party compare bona fide holder NOTE",
+        "compare": "bona fide holder",
+        "sub_definitions": {
+            "1": {
+                "1": "the holder of a negotiable instrument that is complete and regular on its face and that is taken in good faith and for value without notice that it is overdue or has been dishonored or that there is any defense against it or claim to it by any party compare",
+                "compares": "bona fide holder",
+                "note": " A holder in due course takes the negotiable instrument free of any claims to it and of most defenses of a party to it. Federal Trade Commission rules have abolished the status of holder in due course in consumer transactions."
+            }
+        },
+        "references": {
+            "bona fide holder": "https://dictionary.findlaw.com/definition/bona-fide-holder.html"
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "Co-": {
+        "definition": "with",
+        "origin": "[ co defendant]",
+        "sub_definitions": {
+            "1": {
+                "definition": "withtogetherjointjointly [defendant]"
+            },
+            "2 a": {
+                "definition": "associated in an action with anotherfellow [-conspirator]",
+                "sub_terms": {
+                    "b": "having a usually lesser share in duty or responsibilityalternatedeputy [-counsel]"
+                },
+                "co": "-conspirator]"
+            }
+        },
+        "references": {}
+    }
+}

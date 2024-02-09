@@ -1,0 +1,19 @@
+{
+    "Barratry": {
+        "definition": "-tries [Middle French baraterie deception",
+        "origin": "[Middle French baraterie deception, from barater to deceive, cheat]",
+        "sub_definitions": {
+            "-tries": {
+                "definition": "[Middle Frenchdeception, fromto deceive, cheat]"
+            },
+            "1": {
+                "definition": "an unlawful act or fraudulent breach of duty by a ship's master or crew that injures the interests of the ship's or cargo's owners often used in marine insurance policies",
+                "note": " Examples of barratry include embezzling cargo, stealing a ship's equipment, or willfully sinking a ship."
+            },
+            "2": {
+                "definition": "the persistent incitement of litigation"
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "Enroll": {
+        "definition": "to insert",
+        "origin": "[ enrolled the deed]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to insert, register, or enter in a list, catalog, or roll [the deed]"
+            },
+            "2": {
+                "definition": "to prepare a final copy of (a bill passed by a legislature) in written or printed form see alsoatcompare",
+                "compares": "engross"
+            }
+        },
+        "references": {
+            "bill": "https://dictionary.findlaw.com/definition/bill.html",
+            "engross": "https://dictionary.findlaw.com/definition/engross.html"
+        }
+    }
+}

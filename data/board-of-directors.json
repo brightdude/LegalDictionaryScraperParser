@@ -1,0 +1,11 @@
+{
+    "Board Of Directors": {
+        "definition": "a group of individuals elected by the shareholders of a corporation to manage the corporation's business and appoint its officers",
+        "sub_definitions": {
+            "1": {
+                "1": "a group of individuals elected by the shareholders of a corporation to manage the corporation's business and appoint its officers"
+            }
+        },
+        "references": {}
+    }
+}

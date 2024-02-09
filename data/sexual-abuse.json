@@ -1,0 +1,17 @@
+{
+    "Sexual Abuse": {
+        "definition": "the infliction of sexual contact upon a person by forcible compulsion b",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "the infliction of sexual contact upon a person by forcible compulsion",
+                "sub_terms": {
+                    "b": "the engaging in sexual contact with a person who is below a specified age or who is incapable of giving consent because of age or mental or physical incapacity"
+                }
+            },
+            "2": {
+                "definition": "the crime of engaging in or inflicting sexual abuse"
+            }
+        },
+        "references": {}
+    }
+}

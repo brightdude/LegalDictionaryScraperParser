@@ -1,0 +1,12 @@
+{
+    "Jury List": {
+        "definition": "a list of individuals qualified to be selected for jury duty NOTE",
+        "sub_definitions": {
+            "1": {
+                "1": "a list of individuals qualified to be selected for jury duty",
+                "note": " The jury list is compiled in various ways in different jurisdictions, but it is usually based on a list of registered voters or licensed drivers."
+            }
+        },
+        "references": {}
+    }
+}

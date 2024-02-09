@@ -1,0 +1,25 @@
+{
+    "Discount": {
+        "definition": "a reduction made from the gross amount or value of something",
+        "origin": "[dis-kant, dis-kant]",
+        "compare": "bond",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "selling goods or services at a discount [a broker]",
+                "sub_terms": {
+                    "b": "offered or sold at a discount [ securities]"
+                }
+            },
+            "2": {
+                "definition": "reflecting a discount [the price]"
+            },
+            "3": {
+                "definition": "to take into account (a future event or prospect) in making present calculationsto give or make discounts[dis-kant] adj"
+            }
+        },
+        "references": {
+            "bond": "https://dictionary.findlaw.com/definition/bond.html",
+            "premium": "https://dictionary.findlaw.com/definition/premium.html"
+        }
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "Coheir": {
+        "definition": "a joint heir",
+        "sub_definitions": {
+            "1": {
+                "1": "a joint heir"
+            }
+        },
+        "references": {}
+    }
+}

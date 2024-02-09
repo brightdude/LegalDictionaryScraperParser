@@ -1,0 +1,16 @@
+{
+    "Tender Of Delivery": {
+        "definition": "an offer of goods by a seller to a buyer that consists of putting or holding them at the disposition of the buyer and giving the buyer any notification reasonably necessary for taking delivery [a cause of action for breach of warranty usually accrues upon tender of delivery ] compare delivery",
+        "origin": "[a cause of action for breach of warranty usually accrues upon tender of delivery ]",
+        "compare": "delivery",
+        "sub_definitions": {
+            "1": {
+                "1": "an offer of goods by a seller to a buyer that consists of putting or holding them at the disposition of the buyer and giving the buyer any notification reasonably necessary for taking delivery [a cause of action for breach of warranty usually accrues upon",
+                "compares": "delivery"
+            }
+        },
+        "references": {
+            "delivery": "https://dictionary.findlaw.com/definition/delivery.html"
+        }
+    }
+}

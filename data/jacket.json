@@ -1,0 +1,11 @@
+{
+    "Jacket": {
+        "definition": "a standard insurance policy to which other coverage or exclusions may be attached",
+        "sub_definitions": {
+            "1": {
+                "1": "a standard insurance policy to which other coverage or exclusions may be attached"
+            }
+        },
+        "references": {}
+    }
+}

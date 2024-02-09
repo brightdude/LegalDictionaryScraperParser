@@ -1,0 +1,15 @@
+{
+    "Capital Expenditure": {
+        "definition": "an amount paid out that creates a long-term benefit",
+        "sub_definitions": {
+            "1": {
+                "1": "an amount paid out that creates a long-term benefit (as one lasting beyond the taxable year)"
+            },
+            "2": {
+                "1": "costs that are incurred in the acquisition or improvement of property (as capital assets) or that are otherwise chargeable to a capital account",
+                "note": " Capital expenditures are not deductible for income tax purposes. They are generally added to the property's basis."
+            }
+        },
+        "references": {}
+    }
+}

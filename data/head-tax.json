@@ -1,0 +1,11 @@
+{
+    "Head Tax": {
+        "definition": "a tax that imposes the same amount of tax on every individual in a class or group",
+        "sub_definitions": {
+            "1": {
+                "1": "a tax that imposes the same amount of tax on every individual in a class or group"
+            }
+        },
+        "references": {}
+    }
+}

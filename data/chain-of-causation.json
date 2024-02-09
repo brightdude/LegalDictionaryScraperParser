@@ -1,0 +1,16 @@
+{
+    "Chain Of Causation": {
+        "definition": "the causal connection between an original cause and its subsequent effects esp. as a basis for criminal or civil liability [intervening acts of third parties will not break the chain of causation \" Brownell v. Figel",
+        "origin": "[intervening acts of third parties will not break the chain of causation \" Brownell v. Figel , 950 F.2d 1285 (1991)\"]",
+        "sub_definitions": {
+            "1": {
+                "1": "the causal connection between an original cause and its subsequent effects esp. as a basis for criminal or civil liability [intervening acts of third parties will not break the",
+                "Brownell v. Figel": "950 F.2d 1285 (1991)\"] see al",
+                "see also": "nexus"
+            }
+        },
+        "references": {
+            "nexus": "https://dictionary.findlaw.com/definition/nexus.html"
+        }
+    }
+}

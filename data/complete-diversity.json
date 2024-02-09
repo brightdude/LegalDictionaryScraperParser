@@ -1,0 +1,18 @@
+{
+    "Complete Diversity": {
+        "definition": "diversity of citizenship in which the citizenship of all the plaintiffs to an action differs from that of all the defendants see also diversity of citizenship diversity jurisdiction at jurisdiction compare minimal diversity",
+        "compare": "diversity of citizenship",
+        "sub_definitions": {
+            "1": {
+                "1": "diversity of citizenship in which the citizenship of all the plaintiffs to an action differs from that of all the defendants see also",
+                "see also": "diversity of citizenship",
+                "compares": "minimal diversity"
+            }
+        },
+        "references": {
+            "diversity of citizenship": "https://dictionary.findlaw.com/definition/diversity-of-citizenship.html",
+            "jurisdiction": "https://dictionary.findlaw.com/definition/jurisdiction.html",
+            "minimal diversity": "https://dictionary.findlaw.com/definition/minimal-diversity.html"
+        }
+    }
+}

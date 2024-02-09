@@ -1,0 +1,23 @@
+{
+    "Rescind": {
+        "definition": "to take back and make void [ ed its suspension of his license] 2",
+        "origin": "[Latin rescindere to cut loose, annul, from re- away, back + scindere to cut, split]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to take back and make void [its suspension of his license]",
+                "ed": "its suspension of his license]"
+            },
+            "2": {
+                "definition": "to abrogate (a contract or transaction) by mutual agreement, judicial decree, or unilateral declaration because of fraud, mistake, duress, misrepresentation, illegality, a breach, or another sufficient ground with both parties restored to their positions before the contract was made [denied that the other party had the right to the contract] compare,",
+                "compares": "cancel"
+            },
+            "3": {
+                "definition": "to make void by the same or by a superior authority [ a regulation]to rescind something (as a contract)"
+            }
+        },
+        "references": {
+            "cancel": "https://dictionary.findlaw.com/definition/cancel.html",
+            "terminate": "https://dictionary.findlaw.com/definition/terminate.html"
+        }
+    }
+}

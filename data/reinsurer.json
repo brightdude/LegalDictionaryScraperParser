@@ -1,0 +1,11 @@
+{
+    "Reinsurer": {
+        "definition": "an insurance company that insures all or part of the liability of another insurance company",
+        "sub_definitions": {
+            "1": {
+                "1": "an insurance company that insures all or part of the liability of another insurance company"
+            }
+        },
+        "references": {}
+    }
+}

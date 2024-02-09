@@ -1,0 +1,18 @@
+{
+    "Redress": {
+        "definition": "relief from distress b",
+        "origin": "[ri-dres]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "relief from distress",
+                "sub_terms": {
+                    "b": "a means of obtaining a remedy"
+                }
+            },
+            "2": {
+                "definition": "compensation (as damages) for wrong or loss"
+            }
+        },
+        "references": {}
+    }
+}

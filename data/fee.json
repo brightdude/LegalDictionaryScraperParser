@@ -1,0 +1,68 @@
+{
+    "Fee": {
+        "definition": "an inheritable freehold estate in real property ;esp",
+        "origin": "[Middle English, fief, from Old French fé fief , ultimately from a Germanic word akin to Old High German fehu cattle]",
+        "sub_definitions": {
+            "1": {
+                "definition": "an inheritable freehold estate in real propertycompareat",
+                "compares": "leasehold"
+            },
+            "absolute fee": {
+                "definition": "a fee granted with no restrictions or limitations on alienabilityat"
+            },
+            "conditional fee": {
+                "definition": "a fee that is subject to a condition",
+                "sub_terms": {
+                    "a": "at",
+                    "b": "at"
+                }
+            },
+            "defeasible fee": {
+                "definition": "a fee that is subject to terminating or being terminated"
+            },
+            "determinable fee": {
+                "definition": "a defeasible fee that terminates automatically upon the occurrence of a specified eventat"
+            },
+            "fee patent": {
+                "definition": "a fee simple absolute that is granted by a patent from the U.S. governmenta patent that grants a fee simple absolute [the land shall have the same status as though suchhad never been issued \"\"]",
+                "note": " Allotments of parcels of land in reservations are held in private ownership by fee patents.",
+                "fee patent": "had never been issued \""
+            },
+            "fee tail": {
+                "definition": "a fee which is granted to an individual and to that individual's descendants, which is subject to a reversion or a remainder if a tenant in tail dies with no lineal descendants, and which is not freely alienable see alsoin the Important Laws section compareat",
+                "note": " The fee tail developed out of the fee simple conditional as a means to ensure that property would remain intact and in the family. Instead of giving the grantee a fee simple absolute once he or she has a child, which the grantee could then alienate (as by selling), the fee tail creates a future interest in the descendants which prevents the grantee and the descendants from alienating the property. A fee tail is created by a conveyance to the grantee and to the heirs of the grantee's body. In most jurisdictions, the fee tail is not recognized.",
+                "see also": "entail",
+                "De Donis Conditionalibus": "in the Important Laws section compare"
+            },
+            "2": {
+                "definition": "a fixed amount or percentage chargeda sum paid or charged for a service [attorney]"
+            },
+            "contingency fee": {
+                "definition": "a fee for the services of a lawyer paid upon successful completion of the services and usually calculated as a percentage of the gain obtained for the client called alsocompare,",
+                "compares": "champerty"
+            },
+            "fil·ing fee": {
+                "definition": "a fee charged for the filing of a document",
+                "note": " Filing fees are ordinarily charged in civil matters with the filing of the complaint."
+            },
+            "jury fee": {
+                "definition": "a fee that is assessed in some courts as part of the cost of a civil jury trial"
+            },
+            "orig·i·na·tion fee": {
+                "definition": "a fee charged by a lender for the preparation and processing of a loan"
+            }
+        },
+        "references": {
+            "fee simple": "https://dictionary.findlaw.com/definition/fee-simple.html",
+            "leasehold": "https://dictionary.findlaw.com/definition/leasehold.html",
+            "estate": "https://dictionary.findlaw.com/definition/estate.html",
+            "fee simple absolute": "https://dictionary.findlaw.com/definition/fee-simple-absolute.html",
+            "fee simple conditional": "https://dictionary.findlaw.com/definition/fee-simple-conditional.html",
+            "fee simple on condition subsequent": "https://dictionary.findlaw.com/definition/fee-simple-on-condition-subsequent.html",
+            "fee simple determinable": "https://dictionary.findlaw.com/definition/fee-simple-determinable.html",
+            "entail": "https://dictionary.findlaw.com/definition/entail.html",
+            "champerty": "https://dictionary.findlaw.com/definition/champerty.html",
+            "maintenance": "https://dictionary.findlaw.com/definition/maintenance.html"
+        }
+    }
+}

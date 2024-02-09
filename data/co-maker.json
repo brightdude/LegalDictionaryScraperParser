@@ -1,0 +1,12 @@
+{
+    "Co-Maker": {
+        "definition": "one of two or more persons who sign an instrument to indicate a promise to pay a financial obligation NOTE",
+        "sub_definitions": {
+            "1": {
+                "1": "one of two or more persons who sign an instrument to indicate a promise to pay a financial obligation",
+                "note": " Any co-maker may be sued for the entire amount of the indebtedness, although a co-maker who is forced to pay more than his or her share may seek contribution from the other co-makers."
+            }
+        },
+        "references": {}
+    }
+}

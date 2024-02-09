@@ -1,0 +1,20 @@
+{
+    "Foreclose": {
+        "definition": "to subject to foreclosure proceedings vi",
+        "origin": "[Anglo-French forclos , past participle of foreclore to preclude, prevent, from fors outside + clore to close]",
+        "compare": "repossess",
+        "sub_definitions": {
+            "1": {
+                "1": "to subject to foreclosure proceedings"
+            },
+            "2": {
+                "1": "to foreclose a mortgage or other security interest compare",
+                "compares": "repossess"
+            }
+        },
+        "references": {
+            "repossess": "https://dictionary.findlaw.com/definition/repossess.html",
+            "seize": "https://dictionary.findlaw.com/definition/seize.html"
+        }
+    }
+}

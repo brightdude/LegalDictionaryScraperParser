@@ -1,0 +1,18 @@
+{
+    "Race-Notice": {
+        "definition": "of",
+        "origin": "[ race from the notion of two parties rushing to the courthouse in order to be the first to record a claim or interest on the same property]",
+        "compare": "notice",
+        "sub_definitions": {
+            "1": {
+                "1": "of, relating to, or being a recording act which stipulates that an unrecorded deed, mortgage, or lien shall not be valid against a recorded one unless the recording party (as a subsequent purchaser from the same seller) had notice of the interest or claim of the other party when recording compare",
+                "compares": "notice",
+                "note": " If one party purchases a property and records the deed, a subsequent purchaser is normally held to know about it — to have “constructive notice” of it — as a matter of law since it is a matter of public record. Under a race-notice statute, however, a subsequent purchaser cannot have constructive notice of an unrecorded deed, and so the recorded deed has priority unless the purchaser actually knew about — had “actual notice” of — the unrecorded deed."
+            }
+        },
+        "references": {
+            "notice": "https://dictionary.findlaw.com/definition/notice.html",
+            "pure race": "https://dictionary.findlaw.com/definition/pure-race.html"
+        }
+    }
+}

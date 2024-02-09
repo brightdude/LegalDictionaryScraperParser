@@ -1,0 +1,19 @@
+{
+    "Forfeit": {
+        "definition": "something forfeited or subject to being forfeited vt 1",
+        "origin": "[Anglo-French, from Middle French forfait , past participle of forfaire to commit a crime, from fors outside + faire to do]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to lose or lose the right to by some default, failure, or neglect of obligation or duty or by some offense [shall to the United States…any proceeds which the person obtained, directly or indirectly, from racketeering activity \"\"]"
+            },
+            "2": {
+                "definition": "to subject to forfeiture [it shall be placed in the custody of the Collector, who…shall cause a notice of the seizure and intention to and sell the same \", 107 F. Supp. 501 (1952)\"]",
+                "Morgan v. United States": "107 F. Supp. 501 (1952)"
+            },
+            "for·feit·ableadj": {
+                "definition": "adjforfeited or subject to forfeiture"
+            }
+        },
+        "references": {}
+    }
+}

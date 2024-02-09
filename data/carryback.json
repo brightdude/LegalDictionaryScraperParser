@@ -1,0 +1,15 @@
+{
+    "Carryback": {
+        "definition": "the portion of an income tax deduction",
+        "compare": "carryover",
+        "sub_definitions": {
+            "1": {
+                "1": "the portion of an income tax deduction (as for a net operating loss) or credit which cannot be taken entirely in a given period and which may be deducted from taxable income of a prior period compare",
+                "compares": "carryover"
+            }
+        },
+        "references": {
+            "carryover": "https://dictionary.findlaw.com/definition/carryover.html"
+        }
+    }
+}

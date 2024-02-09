@@ -1,0 +1,13 @@
+{
+    "Prospectus": {
+        "definition": "-tus·es [-tə-səz]",
+        "origin": "[-tə-səz]",
+        "sub_definitions": {
+            "-tus·es": {
+                "definition": "[-tə-səz]a preliminary printed statement describing a business or other enterprise and distributed to prospective buyers, investors, or participantsa description of a new security issue supplied to prospective purchasers and providing a disclosure of detailed information concerning the company's business and financial standing",
+                "note": " Under the Securities Act of 1933, the prospectus is part of the registration statement that must be filed with the Securities and Exchange Commission before a security may be offered or sold to the public. The Securities Act definesprospectusbroadly as “any prospectus, notice, circular, advertisement, letter, or communication, written or by radio or television, which offers any security for sale or confirms the sale of any security.”"
+            }
+        },
+        "references": {}
+    }
+}

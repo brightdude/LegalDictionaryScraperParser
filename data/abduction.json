@@ -1,0 +1,19 @@
+{
+    "Abduction": {
+        "definition": "the action of abducting [ of a robbery victim] b",
+        "origin": "[ of a robbery victim]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "the action of abducting [ of a robbery victim]",
+                "sub_terms": {
+                    "b": "the tort or felony of abducting a person"
+                }
+            },
+            "2": {
+                "definition": "the unlawful carrying away of a wife or female child or ward for the purpose of marriage or sexual intercourse",
+                "note": " Sense 2 has its roots in common law. As statutorily defined, mainly in the nineteenth century, abduction is generally stated to include taking away or detention of a woman under a certain age, usually 16 or 18, with or without her consent or knowledge of her age."
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "Court Of Common Pleas": {
+        "definition": "an intermediate-level court in some states",
+        "sub_definitions": {
+            "1": {
+                "1": "an intermediate-level court in some states (as Arkansas, Connecticut, and Ohio) having limited jurisdiction over various civil and criminal matters"
+            }
+        },
+        "references": {}
+    }
+}

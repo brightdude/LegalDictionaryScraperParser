@@ -1,0 +1,33 @@
+{
+    "Donation": {
+        "definition": "the making of an esp. charitable gift 2 in the civil law of Louisiana",
+        "origin": "[-in-tər-vī-vōs, -in-ter-vē-vōs]",
+        "sub_definitions": {
+            "1": {
+                "definition": "the making of an esp. charitable gift"
+            },
+            "2": {
+                "definition": "a voluntary transfer of ownership of property from one person to another compare",
+                "compares": "sale"
+            },
+            "dis·guised donation": {
+                "definition": "a transfer of property (as a sale) that does not have a sufficient reciprocal consideration (as a proportional price) so that it is considered a gratuitous donation and must meet the statutory requirements for a donation (as a notarial act) to be valid called alsocompare",
+                "compares": "simulation"
+            },
+            "donation in·ter vi·vos": {
+                "definition": "[-in-tər-vī-vōs, -in-ter-vē-vōs]a donation that transfers property owned by the donor and that takes effect upon the donee's acceptance compareat"
+            },
+            "donation mor·tis cau·sa": {
+                "definition": "[-mȯr-tis-kȯ-zə, -mȯr-tēs-ka-sÄ ]a donation that is to take effect on the donor's death and that is revocable compareat"
+            },
+            "3": {
+                "definition": "something that is transferred by a donation"
+            }
+        },
+        "references": {
+            "sale": "https://dictionary.findlaw.com/definition/sale.html",
+            "simulation": "https://dictionary.findlaw.com/definition/simulation.html",
+            "gift": "https://dictionary.findlaw.com/definition/gift.html"
+        }
+    }
+}

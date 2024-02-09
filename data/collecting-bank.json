@@ -1,0 +1,8 @@
+{
+    "Collecting Bank": {
+        "definition": "Collecting Bank",
+        "references": {
+            "bank": "https://dictionary.findlaw.com/definition/bank.html"
+        }
+    }
+}

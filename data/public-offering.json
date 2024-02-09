@@ -1,0 +1,16 @@
+{
+    "Public Offering": {
+        "definition": "an offering of corporate securities to the general public or to potential purchasers whose level of knowledge or access to information about the securities is dependent upon the disclosures of the corporation compare private offering NOTE",
+        "compare": "private offering",
+        "sub_definitions": {
+            "1": {
+                "1": "an offering of corporate securities to the general public or to potential purchasers whose level of knowledge or access to information about the securities is dependent upon the disclosures of the corporation compare",
+                "compares": "private offering",
+                "note": " Public offerings are subject to the requirements of the Securities Act of 1933 for filing a registration statement before the offering can take place."
+            }
+        },
+        "references": {
+            "private offering": "https://dictionary.findlaw.com/definition/private-offering.html"
+        }
+    }
+}

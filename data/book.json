@@ -1,0 +1,18 @@
+{
+    "Book": {
+        "definition": "a record of a business's financial transactions or financial condition often used in pl. [the s show a profit] 2",
+        "origin": "[the s show a profit]",
+        "sub_definitions": {
+            "1": {
+                "definition": "a record of a business's financial transactions or financial condition often used in pl. [theshow a profit]",
+                "s": "show a profit]"
+            },
+            "3": {
+                "definition": "the bets registered by a bookmakerthe business or activity of giving odds and taking betsvtto make (an arrested person) undergo booking"
+            }
+        },
+        "references": {
+            "police register": "https://dictionary.findlaw.com/definition/police-register.html"
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "Disability": {
+        "definition": "-ties 1",
+        "origin": "[a minor's ]",
+        "sub_definitions": {
+            "1": {
+                "definition": "inability to pursue an occupation because of a physical or mental impairmentinability to engage in any substantial gainful activity because of a medically determinable physical or mental impairment that can be expected to result in death or to be of long continued or indefinite duration in accordance with the Social Security Act see alsoin the Important Laws section compare,",
+                "compares": "incapacity",
+                "see also": "benefit",
+                "Americans with Disabilities Act": "in the Important Laws section compare"
+            },
+            "2": {
+                "definition": "lack of legal qualification to do something [a minor's ]"
+            }
+        },
+        "references": {
+            "benefit": "https://dictionary.findlaw.com/definition/benefit.html",
+            "incapacity": "https://dictionary.findlaw.com/definition/incapacity.html",
+            "occupational disease": "https://dictionary.findlaw.com/definition/occupational-disease.html"
+        }
+    }
+}

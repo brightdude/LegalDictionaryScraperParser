@@ -1,0 +1,17 @@
+{
+    "Lesion": {
+        "definition": "loss from failure to receive a threshold amount or value",
+        "origin": "[Anglo-French, damage, injury, from Latin laesio , from laedere to injure]",
+        "compare": "unjust enrichment",
+        "sub_definitions": {
+            "1": {
+                "1": "loss from failure to receive a threshold amount or value (as one-half market value) for immovable property conveyed or transferred by a commutative contract (as a sale or exchange) [a new partition may be demanded for the least \"",
+                "Louisiana Civil Code": "\"] called also",
+                "compares": "unjust enrichment"
+            }
+        },
+        "references": {
+            "unjust enrichment": "https://dictionary.findlaw.com/definition/unjust-enrichment.html"
+        }
+    }
+}

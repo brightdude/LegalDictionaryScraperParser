@@ -1,0 +1,20 @@
+{
+    "Diverse": {
+        "definition": "differing from one another ;specif",
+        "origin": "[a defendant]",
+        "compare": "jurisdiction",
+        "sub_definitions": {
+            "1": {
+                "1": "differing from one another"
+            },
+            "2": {
+                "1": "differing in citizenship from another party to an action [a defendant] see also",
+                "compares": "nondiverse"
+            }
+        },
+        "references": {
+            "jurisdiction": "https://dictionary.findlaw.com/definition/jurisdiction.html",
+            "nondiverse": "https://dictionary.findlaw.com/definition/nondiverse.html"
+        }
+    }
+}

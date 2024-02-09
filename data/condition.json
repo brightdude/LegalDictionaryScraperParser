@@ -1,0 +1,55 @@
+{
+    "Condition": {
+        "definition": "an uncertain future act or event whose occurrence or nonoccurrence determines the rights or obligations of a party under a legal instrument and esp. a contract ;also",
+        "origin": "[-pri-sēd-nt, -pre-sə-dənt]",
+        "sub_definitions": {
+            "1": {
+                "definition": "an uncertain future act or event whose occurrence or nonoccurrence determines the rights or obligations of a party under a legal instrument and esp. a contracta clause in the instrument describing the act or event and its effect"
+            },
+            "concurrent condition": {
+                "definition": "a condition that is to be fulfilled by one party at the same time that a mutual condition is to be fulfilled by another party"
+            },
+            "condition implied in law": {
+                "definition": "in this entry"
+            },
+            "condition precedent": {
+                "definition": "[-pri-sēd-nt, -pre-sə-dənt]a condition that must be fulfilled before performance under a contract can become due, an estate can vest, or a right can become effective"
+            },
+            "condition subsequent": {
+                "definition": "a condition whose fulfillment defeats or modifies an estate or right already in effect or vested or discharges an already existing duty under a contract"
+            },
+            "constructive condition": {
+                "definition": "a condition created by operation of law called alsocomparein this entry",
+                "compares": "express condition"
+            },
+            "express condition": {
+                "definition": "a condition created and explicitly stated by the parties to a contract comparein this entry",
+                "compares": "constructive condition"
+            },
+            "potestative condition": {
+                "definition": "[pō-tes-tā-tiv]a condition whose fulfillment was completely within the power of the obligated party",
+                "note": " article 1770 of the louisiana civil code eliminates the termpotestative condition, stating that suspensive conditions which depend on the whim of the obligated party make the obligation null, and that resolutory conditions which depend on the will of the obligated party must be fulfilled in good faith."
+            },
+            "resolutory condition": {
+                "definition": "[re-zə-lü-tə-rē-, ri-zÄ l-y-tōr-ē-]a condition that upon fulfillment terminates an already enforceable obligation and entitles the parties to be restored to their original positions see alsoin this entry",
+                "see also": "potestative condition"
+            },
+            "suspensive condition": {
+                "definition": "a condition which must be fulfilled before an obligation is enforceable see alsoin this entry",
+                "see also": "potestative condition"
+            },
+            "2": {
+                "definition": "a state of being [a latent defective ]"
+            },
+            "3": {
+                "definition": "one of the rights or obligations of the policyholder or the insurer set forth in an insurance policyvtto make subject to conditions [the sale…was orallyupon approval of the patent \"j. d. calamari and j. m. perillo\"]",
+                "conditioned": "upon approval of the patent \"j. d. calamari and j. m. perillo\"]"
+            }
+        },
+        "references": {
+            "constructive condition": "https://dictionary.findlaw.com/definition/constructive-condition.html",
+            "express condition": "https://dictionary.findlaw.com/definition/express-condition.html",
+            "potestative condition": "https://dictionary.findlaw.com/definition/potestative-condition.html"
+        }
+    }
+}

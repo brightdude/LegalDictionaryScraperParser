@@ -1,0 +1,11 @@
+{
+    "Group Insurance": {
+        "definition": "insurance issued upon a group of persons under a single or blanket insurance policy",
+        "sub_definitions": {
+            "1": {
+                "1": "insurance issued upon a group of persons under a single or blanket insurance policy"
+            }
+        },
+        "references": {}
+    }
+}

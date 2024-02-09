@@ -1,0 +1,12 @@
+{
+    "Future": {
+        "definition": "a contract traded on an exchange in which a party agrees to buy or sell a quantity of a bulk commodity",
+        "sub_definitions": {
+            "1": {
+                "1": "a contract traded on an exchange in which a party agrees to buy or sell a quantity of a bulk commodity (as soybeans) at a specified future date and at a set price usually used in pl.",
+                "note": " If the price of the commodity has gone up when the future date arrives, the buyer in the contract profits. If the price has gone down, the seller profits."
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "Trust Indenture": {
+        "definition": "a document under which a trust",
+        "sub_definitions": {
+            "1": {
+                "1": "a document under which a trust (as one created by the issuer of bonds in accordance with the Trust Indenture Act of 1939) is conducted"
+            }
+        },
+        "references": {}
+    }
+}

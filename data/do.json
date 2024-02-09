@@ -1,0 +1,18 @@
+{
+    "Do": {
+        "definition": "perform execute 2",
+        "origin": "[ did this act of cruelty]",
+        "sub_definitions": {
+            "2": {
+                "definition": "[this act of cruelty]used with the infinitive withoutto form present and past tenses in legal and parliamentary language[ hereby bequeath]",
+                "did": "this act of cruelty]",
+                "to": "to form present and past tenses in legal and parliamentary language"
+            }
+        },
+        "references": {
+            "perform": "https://dictionary.findlaw.com/definition/perform.html",
+            "execute": "https://dictionary.findlaw.com/definition/execute.html",
+            "commit": "https://dictionary.findlaw.com/definition/commit.html"
+        }
+    }
+}

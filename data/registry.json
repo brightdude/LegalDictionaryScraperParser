@@ -1,0 +1,20 @@
+{
+    "Registry": {
+        "definition": "-tries 1",
+        "origin": "[an instrument filed for in the conveyance records \" Louisiana Civil Code \"]",
+        "sub_definitions": {
+            "1": {
+                "definition": "[an instrument filed for in the conveyance records \"\"]"
+            },
+            "2": {
+                "definition": "the nationality of a ship according to its entry in a register"
+            },
+            "3": {
+                "definition": "a place of registrationa place where official records and documents are kept [the of motor vehicles] [ of deeds]"
+            }
+        },
+        "references": {
+            "registration": "https://dictionary.findlaw.com/definition/registration.html"
+        }
+    }
+}

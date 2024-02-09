@@ -1,0 +1,30 @@
+{
+    "Board": {
+        "definition": "a group of individuals having managerial",
+        "origin": "[ Board of Regents]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "a group of individuals having managerial, supervisory, investigatory, or advisory powers over a public or private business, trust, or other organization or institution [of Regents] [of Bar Overseers]",
+                "sub_terms": {
+                    "b": ""
+                },
+                "Board": "of Bar Overseers]"
+            },
+            "2 a": {
+                "definition": "a group of citizens elected to administer the business of or an aspect of the business of a political unit (as a town or county) [a of selectmen]",
+                "sub_terms": {
+                    "b": "a federal, state, or local government agency see alsoin the Important Agencies section"
+                },
+                "National Labor Relations Board": "in the Important Agencies section"
+            },
+            "3": {
+                "definition": "a securities or commodities exchange see also",
+                "see also": "board of trade"
+            }
+        },
+        "references": {
+            "board of directors": "https://dictionary.findlaw.com/definition/board-of-directors.html",
+            "board of trade": "https://dictionary.findlaw.com/definition/board-of-trade.html"
+        }
+    }
+}

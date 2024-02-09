@@ -1,0 +1,18 @@
+{
+    "Magistrate": {
+        "definition": "a civil or judicial official vested with limited judicial powers [a family support ] [a traffic ] 2 a",
+        "origin": "[Latin magistratus magistracy, magistrate, from magistr- magister master, political superior]",
+        "sub_definitions": {
+            "1": {
+                "definition": "a civil or judicial official vested with limited judicial powers [a family support ] [a traffic ]"
+            },
+            "2 a": {
+                "definition": "a municipal, state, or federal judicial officer commonly authorized to issue warrants, hear minor cases, and conduct preliminary or pretrial hearings called also",
+                "sub_terms": {
+                    "b": "an official (as a judge) authorized to perform the role or function of a magistrate [ means an officer having power to issue a warrant for the arrest of a person charged with a public offense \"\"]"
+                }
+            }
+        },
+        "references": {}
+    }
+}

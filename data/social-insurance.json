@@ -1,0 +1,11 @@
+{
+    "Social Insurance": {
+        "definition": "insurance of the individual against certain hazards",
+        "sub_definitions": {
+            "1": {
+                "1": "insurance of the individual against certain hazards (as unemployment, old age, and disability) that is undertaken, facilitated, or enforced by government as a social policy"
+            }
+        },
+        "references": {}
+    }
+}

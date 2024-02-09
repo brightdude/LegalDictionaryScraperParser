@@ -1,0 +1,15 @@
+{
+    "Adjective Law": {
+        "definition": "the portion of the law that deals with the rules of procedure governing evidence",
+        "compare": "substantive law",
+        "sub_definitions": {
+            "1": {
+                "1": "the portion of the law that deals with the rules of procedure governing evidence, pleading, and practice compare",
+                "compares": "substantive law"
+            }
+        },
+        "references": {
+            "substantive law": "https://dictionary.findlaw.com/definition/substantive-law.html"
+        }
+    }
+}

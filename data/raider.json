@@ -1,0 +1,15 @@
+{
+    "Raider": {
+        "definition": "one that attempts a usually hostile takeover of a business corporation compare white knight",
+        "compare": "white knight",
+        "sub_definitions": {
+            "1": {
+                "1": "one that attempts a usually hostile takeover of a business corporation compare",
+                "compares": "white knight"
+            }
+        },
+        "references": {
+            "white knight": "https://dictionary.findlaw.com/definition/white-knight.html"
+        }
+    }
+}

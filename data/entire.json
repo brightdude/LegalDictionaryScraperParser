@@ -1,0 +1,20 @@
+{
+    "Entire": {
+        "definition": "not capable of being divided into independent parts",
+        "origin": "[an contract]",
+        "compare": "divisible",
+        "sub_definitions": {
+            "1": {
+                "1": "not capable of being divided into independent parts (as promises)"
+            },
+            "2": {
+                "1": "constituting an undivided unit [an contract] compare",
+                "compares": "divisible"
+            }
+        },
+        "references": {
+            "divisible": "https://dictionary.findlaw.com/definition/divisible.html",
+            "severable": "https://dictionary.findlaw.com/definition/severable.html"
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "Ordinary Care": {
+        "definition": "due care 2",
+        "sub_definitions": {
+            "2": {
+                "definition": "conformity to the reasonable business standards that prevail in a particular area for a particular business"
+            }
+        },
+        "references": {
+            "due care": "https://dictionary.findlaw.com/definition/due-care.html"
+        }
+    }
+}

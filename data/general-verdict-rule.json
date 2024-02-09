@@ -1,0 +1,11 @@
+{
+    "General Verdict Rule": {
+        "definition": "a rule providing that if a jury returns a general verdict in favor of one party it is presumed to have found in favor of that party on every issue",
+        "sub_definitions": {
+            "1": {
+                "1": "a rule providing that if a jury returns a general verdict in favor of one party it is presumed to have found in favor of that party on every issue"
+            }
+        },
+        "references": {}
+    }
+}

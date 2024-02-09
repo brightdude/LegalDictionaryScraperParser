@@ -1,0 +1,25 @@
+{
+    "Clerk": {
+        "definition": "an official responsible",
+        "origin": "[a city ]",
+        "sub_definitions": {
+            "1": {
+                "definition": "an official responsible (as to a court) for correspondence, records, and accounts and having specified powers or authority (as to issue writs) [a city ] [ of court]"
+            },
+            "2 a": {
+                "definition": "a person employed to keep records or accounts or to perform general office work",
+                "sub_terms": {
+                    "b": "a person (as a law student or graduate) employed by an attorney or judge to assist with case-related tasks (as research) compare"
+                },
+                "compares": "paralegal"
+            },
+            "clerk·shipn": {
+                "definition": "vito act or work as a clerk [for a Supreme Court justice]",
+                "ed": "for a Supreme Court justice]"
+            }
+        },
+        "references": {
+            "paralegal": "https://dictionary.findlaw.com/definition/paralegal.html"
+        }
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "District Attorney": {
+        "definition": "the prosecuting officer of a judicial district see also state's attorney",
+        "sub_definitions": {
+            "1": {
+                "1": "the prosecuting officer of a judicial district see also",
+                "see also": "state's attorney"
+            }
+        },
+        "references": {
+            "state's attorney": "https://dictionary.findlaw.com/definition/state-s-attorney.html"
+        }
+    }
+}

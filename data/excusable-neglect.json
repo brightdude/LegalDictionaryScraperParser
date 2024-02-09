@@ -1,0 +1,16 @@
+{
+    "Excusable Neglect": {
+        "definition": "the failure of a party to follow a required procedure in a timely fashion that results from a circumstance",
+        "compare": "unavoidable casualty",
+        "sub_definitions": {
+            "1": {
+                "1": "the failure of a party to follow a required procedure in a timely fashion that results from a circumstance (as an accident) which is considered by the court to be sufficient reason to excuse that party compare",
+                "compares": "unavoidable casualty",
+                "note": " Excusable neglect allows a party to seek relief from a default judgment, to file late, or to be granted a deadline extension."
+            }
+        },
+        "references": {
+            "unavoidable casualty": "https://dictionary.findlaw.com/definition/unavoidable-casualty.html"
+        }
+    }
+}

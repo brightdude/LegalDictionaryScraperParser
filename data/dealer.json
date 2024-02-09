@@ -1,0 +1,18 @@
+{
+    "Dealer": {
+        "definition": "one that deals ;specif",
+        "compare": "broker",
+        "sub_definitions": {
+            "1": {
+                "1": "one that deals"
+            },
+            "2": {
+                "1": "a person or entity that buys and sells securities for his or her or its own account and not for others compare",
+                "compares": "broker"
+            }
+        },
+        "references": {
+            "broker": "https://dictionary.findlaw.com/definition/broker.html"
+        }
+    }
+}

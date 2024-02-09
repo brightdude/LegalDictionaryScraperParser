@@ -1,0 +1,16 @@
+{
+    "Defender": {
+        "definition": "a lawyer who represents defendants ;esp",
+        "sub_definitions": {
+            "1": {
+                "1": "a lawyer who represents defendants"
+            },
+            "2": {
+                "1": "public defender"
+            }
+        },
+        "references": {
+            "public defender": "https://dictionary.findlaw.com/definition/public-defender.html"
+        }
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "Court Of Law": {
+        "definition": "court ;specif",
+        "compare": "court",
+        "sub_definitions": {
+            "2": {
+                "1": "a court that hears cases and decides them on the basis of statutes and common law compare",
+                "compares": "court of equity"
+            }
+        },
+        "references": {
+            "court": "https://dictionary.findlaw.com/definition/court.html",
+            "court of equity": "https://dictionary.findlaw.com/definition/court-of-equity.html"
+        }
+    }
+}

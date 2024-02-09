@@ -1,0 +1,18 @@
+{
+    "Invasion Of Privacy": {
+        "definition": "the tort of unjustifiably intruding upon another's right to privacy by appropriating his or her name or likeness",
+        "compare": "privacy",
+        "sub_definitions": {
+            "1": {
+                "1": "the tort of unjustifiably intruding upon another's right to privacy by appropriating his or her name or likeness, by unreasonably interfering with his or her seclusion, by publicizing information about his or her private affairs that a reasonable person would find objectionable and in which there is no legitimate public interest, or by publicizing information that unreasonably places him or her in a false light see also",
+                "see also": "privacy",
+                "compares": "right of privacy"
+            }
+        },
+        "references": {
+            "privacy": "https://dictionary.findlaw.com/definition/privacy.html",
+            "right of privacy": "https://dictionary.findlaw.com/definition/right-of-privacy.html",
+            "zone of privacy": "https://dictionary.findlaw.com/definition/zone-of-privacy.html"
+        }
+    }
+}

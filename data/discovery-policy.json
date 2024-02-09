@@ -1,0 +1,13 @@
+{
+    "Discovery Policy": {
+        "definition": "claims made policy",
+        "sub_definitions": {
+            "1": {
+                "1": "claims made policy"
+            }
+        },
+        "references": {
+            "claims made policy": "https://dictionary.findlaw.com/definition/claims-made-policy.html"
+        }
+    }
+}

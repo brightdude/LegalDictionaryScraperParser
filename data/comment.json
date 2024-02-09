@@ -1,0 +1,26 @@
+{
+    "Comment": {
+        "definition": "an essay analyzing",
+        "origin": "[a published in the Yale Law Review]",
+        "sub_definitions": {
+            "1": {
+                "sub_terms": {
+                    "a": "an essay analyzing, criticizing, or explaining a subject [a published in the Yale Law Review]",
+                    "b": "an explanatory remark appended to a section of text (as of enacted code)"
+                }
+            },
+            "2": {
+                "definition": "an expression of an opinion or attitude about something",
+                "sub_terms": {
+                    "a": "a remark to a jury by a judge or prosecutor about evidence",
+                    "b": "a written expression of opinion or information solicited by an agency about a subject of its rulemaking see also"
+                },
+                "note": " A prosecutor may not remark to the jury that a defendant's failure to testify implies guilt, and a judge may not remark to the jury his or her opinion about what the evidence does or does not prove.",
+                "see also": "informal rulemaking"
+            }
+        },
+        "references": {
+            "informal rulemaking": "https://dictionary.findlaw.com/definition/informal-rulemaking.html"
+        }
+    }
+}

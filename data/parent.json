@@ -1,0 +1,24 @@
+{
+    "Parent": {
+        "definition": "a person who begets or brings forth offspring ;esp",
+        "origin": "[a company]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "a person who begets or brings forth offspringthe natural parents of a child born of their marriage",
+                "sub_terms": {
+                    "b": "a person who legally adopts a child",
+                    "c": "a person or entity that owes to a child a legally imposed duty of support",
+                    "d": "a stepparent where designated by statute"
+                },
+                "note": " The biological father of an illegitimate child is usually not considered the child's parent absent a judicial determination of paternity. There have been exceptions, based mainly on the father's attitude toward, support of, or involvement with the child."
+            },
+            "2": {
+                "definition": "an entity or group that gives rise to or acquires another usually subsidiary entity or group [a company]a corporation that owns a required minimum percentage of the stock of another corporation compare",
+                "compares": "affiliate"
+            }
+        },
+        "references": {
+            "affiliate": "https://dictionary.findlaw.com/definition/affiliate.html"
+        }
+    }
+}

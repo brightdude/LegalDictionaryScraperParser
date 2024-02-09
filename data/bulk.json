@@ -1,0 +1,18 @@
+{
+    "Bulk": {
+        "definition": "a large mass in bulk 1",
+        "origin": "[ shipment of wheat]",
+        "sub_definitions": {
+            "in bulk1:not divided into parts or packaged in separate units2:in large quantities": {
+                "definition": "adj"
+            },
+            "1": {
+                "definition": "being in bulk [ shipment of wheat] [ foods]"
+            },
+            "2": {
+                "definition": "of or relating to materials in bulk [ buyer]"
+            }
+        },
+        "references": {}
+    }
+}

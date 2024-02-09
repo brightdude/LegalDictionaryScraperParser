@@ -1,0 +1,16 @@
+{
+    "Event": {
+        "definition": "something that happens",
+        "sub_definitions": {
+            "1": {
+                "definition": "something that happens"
+            },
+            "2": {
+                "definition": "the issue or outcome of a legal action or proceeding as finally determined"
+            }
+        },
+        "references": {
+            "occurrence": "https://dictionary.findlaw.com/definition/occurrence.html"
+        }
+    }
+}

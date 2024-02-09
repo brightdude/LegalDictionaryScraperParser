@@ -1,0 +1,13 @@
+{
+    "Penal Law": {
+        "definition": "a law prescribing a penalty",
+        "sub_definitions": {
+            "1": {
+                "definition": "a law prescribing a penalty (as a fine or imprisonment) for one who violates it"
+            }
+        },
+        "references": {
+            "penal code": "https://dictionary.findlaw.com/definition/penal-code.html"
+        }
+    }
+}

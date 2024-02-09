@@ -1,0 +1,13 @@
+{
+    "Claim Preclusion": {
+        "definition": "res judicata",
+        "sub_definitions": {
+            "1": {
+                "1": "res judicata"
+            }
+        },
+        "references": {
+            "res judicata": "https://dictionary.findlaw.com/definition/res-judicata.html"
+        }
+    }
+}

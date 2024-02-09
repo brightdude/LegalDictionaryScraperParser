@@ -1,0 +1,25 @@
+{
+    "Domicile": {
+        "definition": "the place where an individual has a fixed and permanent home for legal purposes called also legal residence 2",
+        "origin": "[Latin domicilium dwelling place, home]",
+        "sub_definitions": {
+            "1": {
+                "definition": "the place where an individual has a fixed and permanent home for legal purposes called also"
+            },
+            "2": {
+                "definition": "the place where an organization (as a corporation) is chartered or that is the organization's principal place of business compare,vt",
+                "note": " The domicile of an individual or organization determines the proper jurisdiction and venue for legal process. The courts of a person's domicile have personal jurisdiction. For persons lacking capacity (as minors), domicile is often statutorily determined as the domicile of the guardian.",
+                "compares": "citizenship"
+            },
+            "-cil·ing": {
+                "definition": "to establish in or provide with a domicile [an alien admitted to the United States for permanent residence shall be deemed a citizen of the State in which such alien is\"\"] [any state in which a corporation is\"L. H. Tribe\"]",
+                "U.S. Code": "\"] [any state in which a corporation is",
+                "domiciled": "\"L. H. Tribe\"]"
+            }
+        },
+        "references": {
+            "citizenship": "https://dictionary.findlaw.com/definition/citizenship.html",
+            "residence": "https://dictionary.findlaw.com/definition/residence.html"
+        }
+    }
+}

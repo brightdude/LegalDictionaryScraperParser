@@ -1,0 +1,13 @@
+{
+    "Wharton's Rule": {
+        "definition": "a rule that prohibits the prosecution of two persons for conspiracy to commit a particular offense when the offense in question can only be committed by at least two persons NOTE",
+        "origin": "[after Francis Wharton (1820-89), American lawyer and author, who formulated it]",
+        "sub_definitions": {
+            "1": {
+                "1": "a rule that prohibits the prosecution of two persons for conspiracy to commit a particular offense when the offense in question can only be committed by at least two persons",
+                "note": " Wharton's Rule does not apply when legislative intent is to the contrary (as when the legislation imposes a separate punishment for conspiracy to commit a particular crime)."
+            }
+        },
+        "references": {}
+    }
+}

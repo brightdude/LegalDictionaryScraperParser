@@ -1,0 +1,13 @@
+{
+    "Walkout": {
+        "definition": "strike 2",
+        "sub_definitions": {
+            "2": {
+                "definition": "the action of leaving a meeting or organization as an expression of disapproval"
+            }
+        },
+        "references": {
+            "strike": "https://dictionary.findlaw.com/definition/strike.html"
+        }
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "Embargo": {
+        "definition": "-goes [Spanish",
+        "origin": "[Spanish, from embargar to bar]",
+        "sub_definitions": {
+            "-goes": {
+                "definition": "[Spanish, fromto bar]"
+            },
+            "1": {
+                "definition": "an order of a government prohibiting the departure of commercial ships from its ports"
+            },
+            "2": {
+                "definition": "a legal prohibition on commerce [an on arms shipments]"
+            },
+            "3": {
+                "definition": "an order by a common carrier or public regulatory agency prohibiting or restricting freight transportationvt"
+            },
+            "-go·ing": {
+                "definition": "to place an embargo on"
+            }
+        },
+        "references": {}
+    }
+}

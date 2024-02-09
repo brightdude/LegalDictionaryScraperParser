@@ -1,0 +1,19 @@
+{
+    "Reform": {
+        "definition": "to put",
+        "origin": "[allows a writing signed by mistake to be ed \"W. M. McGovern, Jr. et al. \"]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to put (a writing) into a corrected form that more accurately reflects the agreement of the parties [allows a writing signed by mistake to be\"W. M. McGovern, Jr.\"] compare",
+                "compares": "ratify"
+            },
+            "2": {
+                "definition": "to induce or cause to abandon wrongful or harmful ways [adrug dealer]to become changed for the better",
+                "ed": "drug dealer]"
+            }
+        },
+        "references": {
+            "ratify": "https://dictionary.findlaw.com/definition/ratify.html"
+        }
+    }
+}

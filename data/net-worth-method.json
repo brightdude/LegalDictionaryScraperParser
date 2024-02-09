@@ -1,0 +1,11 @@
+{
+    "Net Worth Method": {
+        "definition": "a method used by the Internal Revenue Service to detect and calculate tax evasion in which the change in a taxpayer's net worth is compared to reported taxable income taking into account living expenses",
+        "sub_definitions": {
+            "1": {
+                "1": "a method used by the Internal Revenue Service to detect and calculate tax evasion in which the change in a taxpayer's net worth is compared to reported taxable income taking into account living expenses, allowable deductions and exemptions, and nontaxable income"
+            }
+        },
+        "references": {}
+    }
+}

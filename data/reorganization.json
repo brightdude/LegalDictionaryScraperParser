@@ -1,0 +1,47 @@
+{
+    "Reorganization": {
+        "definition": "the act of reorganizing",
+        "origin": "[ā-]",
+        "sub_definitions": {
+            "1": {
+                "definition": "the act of reorganizingthe state of being reorganized"
+            },
+            "2 a": {
+                "definition": "the rehabilitation of the finances of a business in accordance with a plan approved by a bankruptcy court under the provisions of chapter 11 of the Bankruptcy Code",
+                "sub_terms": {
+                    "b": "any of various procedures (as recapitalization or merger) that affect the tax structure of a corporation under the Internal Revenue Code and often produce favorable tax treatment"
+                }
+            },
+            "A reorganization": {
+                "definition": "[ā-]a reorganization that consists of a merger or consolidation which complies with the requirements of applicable state statute"
+            },
+            "B reorganization": {
+                "definition": "[bē-]a reorganization involving the acquisition by one corporation of the stock of another corporation in exchange solely for all or some of the voting stock of the acquiring corporation or its parent either of which has control of the acquired corporation immediately after the acquisition"
+            },
+            "C reorganization": {
+                "definition": "[sē-]a reorganization involving the acquisition by one corporation of substantially all of the property of another corporation in exchange solely for all or part of the voting stock of the acquiring corporation or its parent regardless of any liability assumed by the acquiring corporation as a result of the acquisition"
+            },
+            "D reorganization": {
+                "definition": "[dē-]a reorganization involving a transfer by a corporation of all or part of its assets to another corporation that results in control of the other corporation being immediately placed in the transferor or one or more of its shareholders or both but under which the stock or securities of the other corporation must be distributed in a qualified transaction see also,,",
+                "see also": "spin-off"
+            },
+            "E reorganization": {
+                "definition": "[ē-]a reorganization that consists of a recapitalization"
+            },
+            "F reorganization": {
+                "definition": "[ef-]a reorganization consisting merely of a change in the identity, form, or place of organization of a corporation"
+            },
+            "G reorganization": {
+                "definition": "[jē-]a reorganization involving a transfer by a corporation of all or part of its assets to another corporation under a bankruptcy or similar proceeding provided that the stock or securities of the other corporation are distributed in a qualified transaction"
+            },
+            "3": {
+                "definition": "alteration of the existing structure of governmental units (as bureaus or legislative committees) and the lines of control and authority between them usually to promote greater efficiency and responsibility"
+            }
+        },
+        "references": {
+            "spin-off": "https://dictionary.findlaw.com/definition/spin-off.html",
+            "split-off": "https://dictionary.findlaw.com/definition/split-off.html",
+            "split-up": "https://dictionary.findlaw.com/definition/split-up.html"
+        }
+    }
+}

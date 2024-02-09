@@ -1,0 +1,10 @@
+{
+    "Repo": {
+        "definition": "repos 1",
+        "sub_definitions": {},
+        "references": {
+            "repurchase agreement": "https://dictionary.findlaw.com/definition/repurchase-agreement.html",
+            "repossession": "https://dictionary.findlaw.com/definition/repossession.html"
+        }
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "Malice": {
+        "definition": "the intention or desire to cause harm",
+        "origin": "[if cannot be proved or a benign purpose can be imagined \"David Kairys\"]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "the intention or desire to cause harm (as death, bodily injury, or property damage) to another through an unlawful or wrongful act without justification or excuse",
+                "sub_terms": {
+                    "b": "wanton disregard for the rights of others or for the value of human life",
+                    "c": "an improper or evil motive or purpose [if cannot be proved or a benign purpose can be imagined \"David Kairys\"]",
+                    "d": "in this entry"
+                }
+            },
+            "1": {
+                "definition": "malice proved by evidence to exist or have existed in one that inflicts unjustified harm on another",
+                "sub_terms": {
+                    "a": "an intent to injure or kill",
+                    "b": "called also"
+                }
+            },
+            "2 a": {
+                "definition": "the knowledge that defamatory statements esp. regarding a public figure are false",
+                "sub_terms": {
+                    "b": "see alsoin the Important Cases section"
+                },
+                "see also": "public figure",
+                "New York Times Co. v. Sullivan": "in the Important Cases section"
+            },
+            "implied malice": {
+                "definition": "malice inferred from the nature or consequences of a harmful act done without justification or excusemalice inferred from subjective awareness of duty or of the likely results of one's act called also"
+            },
+            "malice aforethought": {
+                "definition": "actual or implied malice existing in or attributed to the intention of one that injures or esp. kills without justification or excuse and usually requiring some degree of deliberation or premeditation or wanton disregard for life [murder is the unlawful killing of a human being, or a fetus, with\"\"]"
+            },
+            "malice in fact": {
+                "definition": "in this entry"
+            },
+            "malice in law": {
+                "definition": "in this entry"
+            },
+            "2": {
+                "definition": "feelings of ill will, spite, or revenge",
+                "note": " Such feelings are usually not an important component of malice in legal consideration unless punitive damages or actual malice is an issue."
+            }
+        },
+        "references": {
+            "actual malice": "https://dictionary.findlaw.com/definition/actual-malice.html",
+            "malice": "https://dictionary.findlaw.com/definition/malice.html",
+            "reckless disregard of the truth": "https://dictionary.findlaw.com/definition/reckless-disregard-of-the-truth.html",
+            "public figure": "https://dictionary.findlaw.com/definition/public-figure.html",
+            "implied malice": "https://dictionary.findlaw.com/definition/implied-malice.html"
+        }
+    }
+}

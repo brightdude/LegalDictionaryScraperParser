@@ -1,0 +1,16 @@
+{
+    "Immune": {
+        "definition": "having immunity",
+        "sub_definitions": {
+            "1": {
+                "1": "having immunity"
+            },
+            "2": {
+                "1": "exempt"
+            }
+        },
+        "references": {
+            "exempt": "https://dictionary.findlaw.com/definition/exempt.html"
+        }
+    }
+}

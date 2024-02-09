@@ -1,0 +1,12 @@
+{
+    "Common Law": {
+        "definition": "a body of law that is based on custom and general principles and embodied in case law and that serves as precedent or is applied to situations not covered by statute [the common law of torts]",
+        "origin": "[the common law of torts]",
+        "compare": "equity",
+        "references": {
+            "equity": "https://dictionary.findlaw.com/definition/equity.html",
+            "civil law": "https://dictionary.findlaw.com/definition/civil-law.html",
+            "statutory law": "https://dictionary.findlaw.com/definition/statutory-law.html"
+        }
+    }
+}

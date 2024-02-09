@@ -1,0 +1,8 @@
+{
+    "Administrator Ad Litem": {
+        "definition": "Administrator Ad Litem",
+        "references": {
+            "administrator": "https://dictionary.findlaw.com/definition/administrator.html"
+        }
+    }
+}

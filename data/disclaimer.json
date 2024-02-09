@@ -1,0 +1,26 @@
+{
+    "Disclaimer": {
+        "definition": "a refusal or disavowal of something that one has a right to claim ;specif",
+        "origin": "[Anglo-French desclamer , from desclamer to disavow, deny, from Old French des -, prefix marking reversal + clamer to claim see claim ]",
+        "sub_definitions": {
+            "1": {
+                "definition": "a refusal or disavowal of something that one has a right to claima relinquishment or formal refusal to accept an interest or estate see also",
+                "see also": "qualified disclaimer"
+            },
+            "2": {
+                "definition": "a denial of responsibility for a thing or act",
+                "sub_terms": {
+                    "a": "a negation or limitation of the rights under a warranty given by a seller to a buyer",
+                    "b": "a denial of coverage by an insurance company"
+                }
+            },
+            "3": {
+                "definition": "a writing that embodies a disclaimer"
+            }
+        },
+        "references": {
+            "claim": "https://dictionary.findlaw.com/definition/claim.html",
+            "qualified disclaimer": "https://dictionary.findlaw.com/definition/qualified-disclaimer.html"
+        }
+    }
+}

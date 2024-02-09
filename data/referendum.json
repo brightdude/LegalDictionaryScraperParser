@@ -1,0 +1,16 @@
+{
+    "Referendum": {
+        "definition": "-da [-də] or",
+        "origin": "[-də]",
+        "sub_definitions": {
+            "-da": {
+                "definition": "[-də]"
+            },
+            "-dums": {
+                "definition": "[New Latin, from Latin, neuter of, gerundive ofto refer]the submission to popular vote of a measure passed on or proposed by a legislative body or by popular initiativethe popular vote on a measure so submitted",
+                "referendus": "gerundive "
+            }
+        },
+        "references": {}
+    }
+}

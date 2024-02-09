@@ -1,0 +1,13 @@
+{
+    "Trade Union": {
+        "definition": "labor union",
+        "sub_definitions": {
+            "1": {
+                "1": "labor union"
+            }
+        },
+        "references": {
+            "labor union": "https://dictionary.findlaw.com/definition/labor-union.html"
+        }
+    }
+}

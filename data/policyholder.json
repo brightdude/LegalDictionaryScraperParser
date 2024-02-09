@@ -1,0 +1,15 @@
+{
+    "Policyholder": {
+        "definition": "the owner of an insurance policy called also policyowner compare subject",
+        "compare": "subject",
+        "sub_definitions": {
+            "1": {
+                "1": "the owner of an insurance policy called also",
+                "compares": "subject"
+            }
+        },
+        "references": {
+            "subject": "https://dictionary.findlaw.com/definition/subject.html"
+        }
+    }
+}

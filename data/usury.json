@@ -1,0 +1,17 @@
+{
+    "Usury": {
+        "definition": "the lending of money at exorbitant interest rates ;specif",
+        "origin": "[Medieval Latin usuria interest, lending at exorbitant interest, alteration of Latin usura use, interest (i.e., sum paid for use of money), from usus use]",
+        "sub_definitions": {
+            "1": {
+                "definition": "the lending of money at exorbitant interest ratesthe crime of charging or contracting to charge an unlawfully high rate of interest"
+            },
+            "2": {
+                "definition": "a rate or amount of interest charged in usury compareat"
+            }
+        },
+        "references": {
+            "interest": "https://dictionary.findlaw.com/definition/interest.html"
+        }
+    }
+}

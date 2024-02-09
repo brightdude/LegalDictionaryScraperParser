@@ -1,0 +1,46 @@
+{
+    "Succession": {
+        "definition": "the order in which or the conditions under which one person after another succeeds to a property",
+        "origin": "[the sequence of to the presidency]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "the order in which or the conditions under which one person after another succeeds to a property, dignity, position, title, or throne [the sequence of to the presidency]",
+                "sub_terms": {
+                    "b": "the right of a person or line of ancestry to succeed",
+                    "c": "the line of ancestry having such a right"
+                }
+            },
+            "2 a": {
+                "definition": "the act or process of following in order",
+                "sub_terms": {
+                    "b": "the act or process of one person's taking the place of another in the enjoyment of or liability for rights or duties or both"
+                }
+            },
+            "3": {
+                "definition": "the act or process by which a person becomes entitled to the property or property interest of a deceased person and esp. an intestatethe transmission of the estate of a decedent to his or her heirs, legatees, or deviseesthe estate of the deceased including assets and liabilities used chiefly in the civil law of Louisiana"
+            },
+            "1": {
+                "definition": "the transmission of property or property interests of a decedent as provided by statute as distinguished from the transfer in accordance with the decedent's willthe operation of such statutory provisions in transmitting intestate property [would take the property by]"
+            },
+            "2": {
+                "definition": "property that is not disposed of by will but by operation of statute [who presents himself to claim an\"\"]"
+            },
+            "testate succession": {
+                "definition": "the transmission of property in accordance with a valid will"
+            },
+            "vacant succession": {
+                "definition": "an estate that has not been claimed, of which the heirs are unknown, or that has been renounced by all of the heirs"
+            },
+            "4 a": {
+                "definition": "the continuance of a corporation's status as a legal person [perpetual corporate ]",
+                "sub_terms": {
+                    "b": "the act or process by which one corporation assumes ownership of another [documents…that all aim to prepare your company for its new owner's \"Saul Berkowitz\"]"
+                }
+            },
+            "5": {
+                "definition": "the act or process by which one state takes over or follows upon another and becomes entitled to its rights and position in international law"
+            }
+        },
+        "references": {}
+    }
+}

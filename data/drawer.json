@@ -1,0 +1,16 @@
+{
+    "Drawer": {
+        "definition": "the party that draws a draft compare drawee",
+        "compare": "drawee",
+        "sub_definitions": {
+            "1": {
+                "1": "the party that draws a draft compare",
+                "compares": "drawee"
+            }
+        },
+        "references": {
+            "drawee": "https://dictionary.findlaw.com/definition/drawee.html",
+            "payee": "https://dictionary.findlaw.com/definition/payee.html"
+        }
+    }
+}

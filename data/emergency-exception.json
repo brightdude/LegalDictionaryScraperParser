@@ -1,0 +1,11 @@
+{
+    "Emergency Exception": {
+        "definition": "an exception to the requirement for a search warrant in a situation in which a police officer has reason to believe that immediate action including a search is necessary to protect life or prevent serious injury",
+        "sub_definitions": {
+            "1": {
+                "1": "an exception to the requirement for a search warrant in a situation in which a police officer has reason to believe that immediate action including a search is necessary to protect life or prevent serious injury"
+            }
+        },
+        "references": {}
+    }
+}

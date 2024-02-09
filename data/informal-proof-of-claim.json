@@ -1,0 +1,12 @@
+{
+    "Informal Proof Of Claim": {
+        "definition": "a writing by a creditor that contains a demand for payment of a debt and an intention to hold the debtor's bankruptcy estate liable but that is not in the form prescribed in the Bankruptcy Code for proofs of claim NOTE",
+        "sub_definitions": {
+            "1": {
+                "1": "a writing by a creditor that contains a demand for payment of a debt and an intention to hold the debtor's bankruptcy estate liable but that is not in the form prescribed in the Bankruptcy Code for proofs of claim",
+                "note": " If an informal proof of claim is filed with the bankruptcy court within the time allowed for filing proofs of claim, the court may allow the creditor to file a proof of claim in its correct form and consider it as having been filed on the date that the informal proof of claim was filed."
+            }
+        },
+        "references": {}
+    }
+}

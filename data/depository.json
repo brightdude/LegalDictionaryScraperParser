@@ -1,0 +1,14 @@
+{
+    "Depository": {
+        "definition": "-ries 1",
+        "origin": "[night ]",
+        "sub_definitions": {
+            "1": {
+                "definition": "a place where something is deposited esp. for safekeeping [night ]a bank chosen for the depositing of government funds"
+            }
+        },
+        "references": {
+            "depositary": "https://dictionary.findlaw.com/definition/depositary.html"
+        }
+    }
+}

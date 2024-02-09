@@ -1,0 +1,34 @@
+{
+    "Principal": {
+        "definition": "being the main or most important",
+        "origin": "[their place of business]",
+        "sub_definitions": {
+            "1": {
+                "definition": "a participant in an action or transaction esp. having control or authority [theof a business]",
+                "sub_terms": {
+                    "a": "one who engages another to act for him or her subject to his or her general control or instructionone from whom an agent derives authority to act compare",
+                    "b": "one who commits a crime or instigates, encourages, or assists another to commit it esp. when constructively or actually present see also"
+                },
+                "compares": "fiduciary",
+                "see also": "accessory",
+                "s": "of a business]: as"
+            },
+            "2": {
+                "definition": "a capital sum earning interest, due as a debt, or used as a fund [shall receive the income from the trust until age 18, and thereafter the ] [payments shall be applied first to interest and then to ]the main body of an estate, devise, or bequest"
+            },
+            "principal in the first degree": {
+                "definition": "a principal under common law who intentionally commits and is actually or constructively present at the commission of a crime"
+            },
+            "principal in the second degree": {
+                "definition": "a principal under common law who aids, encourages, or commands another to commit a crime and is actually or constructively present when it is committed",
+                "sub_terms": {
+                    "c": "the person primarily liable on a legal obligation or one who will ultimately bear the burden because of a duty to indemnify another as distinguished from one (as an endorser, surety, or guarantor) who is secondarily liable"
+                }
+            }
+        },
+        "references": {
+            "fiduciary": "https://dictionary.findlaw.com/definition/fiduciary.html",
+            "accessory": "https://dictionary.findlaw.com/definition/accessory.html"
+        }
+    }
+}

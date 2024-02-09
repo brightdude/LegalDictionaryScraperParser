@@ -1,0 +1,15 @@
+{
+    "Round Lot": {
+        "definition": "the standard unit of trading in a security market usually amounting to 100 shares of stock compare odd lot",
+        "compare": "odd lot",
+        "sub_definitions": {
+            "1": {
+                "1": "the standard unit of trading in a security market usually amounting to 100 shares of stock compare",
+                "compares": "odd lot"
+            }
+        },
+        "references": {
+            "odd lot": "https://dictionary.findlaw.com/definition/odd-lot.html"
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "Declare": {
+        "definition": "to make known formally",
+        "origin": "[ declaring who shall then act as President \" U.S. Constitution amend. XX\"]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to make known formally, officially, or explicitly [who shall then act as President \"amend. XX\"]",
+                "U.S. Constitution": "amend. XX\"]"
+            },
+            "2 a": {
+                "definition": "to make a full statement of (one's taxable property) [didn't some of his income]",
+                "sub_terms": {
+                    "b": "to state the value of (one's taxable or dutiable property) [the diamond earrings]"
+                },
+                "declared": "the diamond earrings]"
+            },
+            "3": {
+                "definition": "to make payable [ dividends]"
+            }
+        },
+        "references": {}
+    }
+}

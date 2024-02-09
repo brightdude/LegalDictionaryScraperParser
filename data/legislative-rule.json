@@ -1,0 +1,15 @@
+{
+    "Legislative Rule": {
+        "definition": "a rule adopted by a government agency in accordance with the notice and comment requirements of the Administrative Procedure Act that has the force of law and imposes new duties on the regulated parties called also substantive rule compare interpretive rule",
+        "compare": "interpretive rule",
+        "sub_definitions": {
+            "1": {
+                "1": "a rule adopted by a government agency in accordance with the notice and comment requirements of the Administrative Procedure Act that has the force of law and imposes new duties on the regulated parties called also",
+                "compares": "interpretive rule"
+            }
+        },
+        "references": {
+            "interpretive rule": "https://dictionary.findlaw.com/definition/interpretive-rule.html"
+        }
+    }
+}

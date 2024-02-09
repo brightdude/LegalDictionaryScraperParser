@@ -1,0 +1,13 @@
+{
+    "Judicial Discretion": {
+        "definition": "discretion",
+        "sub_definitions": {
+            "1": {
+                "1": "discretion"
+            }
+        },
+        "references": {
+            "discretion": "https://dictionary.findlaw.com/definition/discretion.html"
+        }
+    }
+}

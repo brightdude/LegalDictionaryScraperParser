@@ -1,0 +1,17 @@
+{
+    "Martial Law": {
+        "definition": "the law applied in occupied territory by the military authority of the occupying power 2",
+        "sub_definitions": {
+            "1": {
+                "definition": "the law applied in occupied territory by the military authority of the occupying power"
+            },
+            "2": {
+                "definition": "the law administered by military forces that is invoked by a government in an emergency when civilian law enforcement agencies are unable to maintain public order and safety compare",
+                "compares": "military law"
+            }
+        },
+        "references": {
+            "military law": "https://dictionary.findlaw.com/definition/military-law.html"
+        }
+    }
+}

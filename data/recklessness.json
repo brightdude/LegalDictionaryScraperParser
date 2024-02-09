@@ -1,0 +1,19 @@
+{
+    "Recklessness": {
+        "definition": "the quality or state of being reckless ;also",
+        "compare": "negligence",
+        "sub_definitions": {
+            "1": {
+                "1": "the quality or state of being reckless"
+            },
+            "2": {
+                "1": "reckless conduct compare",
+                "compares": "negligence",
+                "note": " Recklessness may be the basis for civil and often criminal liability. Unlike negligence it requires conscious disregard of risk to others."
+            }
+        },
+        "references": {
+            "negligence": "https://dictionary.findlaw.com/definition/negligence.html"
+        }
+    }
+}

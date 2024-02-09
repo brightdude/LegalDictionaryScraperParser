@@ -1,0 +1,25 @@
+{
+    "Commitment": {
+        "definition": "an act of committing",
+        "origin": "[petition for ]",
+        "sub_definitions": {
+            "1": {
+                "definition": "an act of committing",
+                "sub_terms": {
+                    "a": "placement in or assignment to a prison or mental hospital [petition for ] compare,",
+                    "b": "an act of referring a matter to a legislative committee",
+                    "c": "a warrant committing someone to a prison"
+                },
+                "note": " Commitment to a mental health facility is calledcivil commitmentwhen it is not part of a criminal proceeding. Civil commitment proceedings are initiated by the patient, in the case of voluntary commitment, or by someone (as a family member or government agent) authorized by statute to petition for the patient's involuntary commitment. Some form of a hearing and periodic review is required in involuntary commitment proceedings. A criminal defendant may be committed to a mental hospital as a result of being found incompetent to stand trial, not guilty by reason of insanity, or incompetent to be sentenced.",
+                "compares": "incompetent"
+            },
+            "2": {
+                "definition": "an agreement or promise to do something in the futurea promise to assume a financial obligation at a future date [cannot meet their loan]"
+            }
+        },
+        "references": {
+            "incompetent": "https://dictionary.findlaw.com/definition/incompetent.html",
+            "interdiction": "https://dictionary.findlaw.com/definition/interdiction.html"
+        }
+    }
+}

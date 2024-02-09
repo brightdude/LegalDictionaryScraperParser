@@ -1,0 +1,18 @@
+{
+    "Irresistible Impulse Test": {
+        "definition": "a test used in some jurisdictions when considering an insanity defense that involves a determination of whether an impulse to commit a criminal act was irresistible due to mental disease or defect regardless of whether the defendant knew right from wrong compare diminished capacity",
+        "compare": "diminished capacity",
+        "sub_definitions": {
+            "1": {
+                "1": "a test used in some jurisdictions when considering an insanity defense that involves a determination of whether an impulse to commit a criminal act was irresistible due to mental disease or defect regardless of whether the defendant knew right from wrong compare",
+                "compares": "diminished capacity"
+            }
+        },
+        "references": {
+            "diminished capacity": "https://dictionary.findlaw.com/definition/diminished-capacity.html",
+            "durham rule": "https://dictionary.findlaw.com/definition/durham-rule.html",
+            "m'naghten test": "https://dictionary.findlaw.com/definition/m-naghten-test.html",
+            "substantial capacity test": "https://dictionary.findlaw.com/definition/substantial-capacity-test.html"
+        }
+    }
+}

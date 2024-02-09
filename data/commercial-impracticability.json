@@ -1,0 +1,13 @@
+{
+    "Commercial Impracticability": {
+        "definition": "impracticability",
+        "sub_definitions": {
+            "1": {
+                "1": "impracticability"
+            }
+        },
+        "references": {
+            "impracticability": "https://dictionary.findlaw.com/definition/impracticability.html"
+        }
+    }
+}

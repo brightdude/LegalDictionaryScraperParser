@@ -1,0 +1,32 @@
+{
+    "Settle": {
+        "definition": "to resolve conclusively [ a question of law] 2",
+        "origin": "[ a question of law]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to conclude a lawsuit by entering into an agreement [the plaintiff chose to out of court]"
+            },
+            "2": {
+                "definition": "to make a settlement of a transfer of funds"
+            },
+            "3": {
+                "definition": "to adjust differences or accounts [with his creditors]",
+                "settled": "with his creditors]"
+            },
+            "4": {
+                "definition": "to resolve a disagreement about (a court order) [no hearing to consider these objections and to the order had been conducted \", 314 N.W.2d 597 (1981)\"]",
+                "Saba v. Gray": "314 N.W.2d 597 (1981)"
+            },
+            "5 a": {
+                "definition": "to fix (a price) by mutual agreement",
+                "sub_terms": {
+                    "b": "to conclude (a lawsuit) by entering into an agreement negotiated by the parties usually out of court",
+                    "c": "to close (as an account) by paymentto close by compromise and payment of less than the full amount claimed or due"
+                }
+            }
+        },
+        "references": {
+            "close": "https://dictionary.findlaw.com/definition/close.html"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "License": {
+        "definition": "a right or permission granted by a competent authority",
+        "origin": "[Anglo-French, literally, permission, from Old French, from Latin licentia , from licent- licens , present participle of licēre to be permitted, be for sale]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "a right or permission granted by a competent authority (as of a government or a business) to engage in some business or occupation, do some act, or engage in some transaction which would be unlawful without such right or permissiona document, plate, or tag evidencing a license granted",
+                "sub_terms": {
+                    "b": "revocable authority or permission given solely to one having no possessory rights in a tract of land to do something on that land which would otherwise be unlawful or a trespass compare,",
+                    "c": "a grant by the holder of a copyright or patent to another of any of the rights embodied in the copyright or patent short of an assignment of all rights"
+                },
+                "compares": "easement"
+            },
+            "2": {
+                "definition": "to permit or authorize by a license"
+            },
+            "3 a": {
+                "definition": "freedom that allows or is used with irresponsibility",
+                "sub_terms": {
+                    "b": "disregard for standards of personal conductlicentiousnessvt"
+                }
+            },
+            "1": {
+                "definition": "to issue a license to"
+            }
+        },
+        "references": {
+            "easement": "https://dictionary.findlaw.com/definition/easement.html",
+            "lease": "https://dictionary.findlaw.com/definition/lease.html"
+        }
+    }
+}

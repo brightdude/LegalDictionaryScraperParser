@@ -1,0 +1,36 @@
+{
+    "Joinder": {
+        "definition": "the act or an instance of joining",
+        "origin": "[Anglo-French, from joinder to join, from Old French joindre , from Latin jungere ]",
+        "compare": "misjoinder",
+        "sub_definitions": {
+            "collusive joinder": {
+                "definition": "an addition of a party to a suit made for the purpose of manufacturing federal jurisdiction",
+                "note": " Under the Federal Rules of Civil Procedure a federal district court will not have jurisdiction when collusive joinder is made."
+            },
+            "compulsory joinder": {
+                "definition": "joinder of a party to a suit required by the court when the party is indispensable to complete relief for parties already involved or when the party claims an interest that may substantially affect the other parties or may be put at risk by the action"
+            },
+            "joinder of remedies": {
+                "definition": "a joining of two claims in one action even though one cannot be recognized until the other is resolvedthe combination of legal and equitable claims in one action when a fraudulent conveyance must first be set aside legally before equitable relief can be granted to a creditor"
+            },
+            "permissive joinder": {
+                "definition": "a joining in a suit as coplaintiffs or codefendants of any parties that share common issues of law or fact in regard to the same occurrences or transactionsa joining in one suit of any legal, equitable, or maritime claims a party has against the opposing party",
+                "sub_terms": {
+                    "b": "a joining of offenses or defendants in an indictment, information, or prosecution",
+                    "c": "a formal answer (as denial of fact) to an issue tendered [moved for summary judgment after of issue]",
+                    "d": "a joining into a common transaction [requires the of both spouses \"W. M. McGovern, Jr.\"]"
+                }
+            }
+        },
+        "references": {
+            "misjoinder": "https://dictionary.findlaw.com/definition/misjoinder.html",
+            "counterclaim": "https://dictionary.findlaw.com/definition/counterclaim.html",
+            "cross-claim": "https://dictionary.findlaw.com/definition/cross-claim.html",
+            "impleader": "https://dictionary.findlaw.com/definition/impleader.html",
+            "interpleader": "https://dictionary.findlaw.com/definition/interpleader.html",
+            "intervention": "https://dictionary.findlaw.com/definition/intervention.html",
+            "sever": "https://dictionary.findlaw.com/definition/sever.html"
+        }
+    }
+}

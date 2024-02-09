@@ -1,0 +1,15 @@
+{
+    "Abjure": {
+        "definition": "renounce ;specif",
+        "origin": "[Latin abjurare , from ab - off + jurare to swear]",
+        "sub_definitions": {
+            "ab·jur·ing": {
+                "definition": "[Latin, from- off +to swear]to disclaim formally or renounce upon oath [solemnlyhis allegiance to his former country]",
+                "s": "his allegiance to his former country]"
+            }
+        },
+        "references": {
+            "renounce": "https://dictionary.findlaw.com/definition/renounce.html"
+        }
+    }
+}

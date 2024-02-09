@@ -1,0 +1,21 @@
+{
+    "Due Diligence": {
+        "definition": "such diligence as a reasonable person under the same circumstances would use",
+        "origin": "[the greatest exposure…for failure to conduct adequate due diligence arises in the context of public offerings of securities \"G. M. Lawrence\"]",
+        "sub_definitions": {
+            "1": {
+                "definition": "such diligence as a reasonable person under the same circumstances would useuse of reasonable but not necessarily exhaustive efforts called also",
+                "note": "Due diligenceis used most often in connection with the performance of a professional or fiduciary duty, or with regard to proceeding with a court action.Due careis used more often in connection with general tort actions."
+            },
+            "2 a": {
+                "definition": "the care that a prudent person might be expected to exercise in the examination and evaluation of risks affecting a business transaction",
+                "sub_terms": {
+                    "b": "the process of investigation carried on usually by a disinterested third party (as an accounting or law firm) on behalf of a party contemplating a business transaction (as a corporate acquisition or merger, loan of finances, or esp. purchase of securities) for the purpose of providing information with which to evaluate the advantages and risks involved [the greatest exposure…for failure to conduct adequatearises in the context of public offerings of securities \"G. M. Lawrence\"]",
+                    "c": "the defense (as to a lawsuit) that due diligence was conducted"
+                },
+                "due diligence": "arises in the context of public offerings of securities \"G. M. Lawrence\"]"
+            }
+        },
+        "references": {}
+    }
+}

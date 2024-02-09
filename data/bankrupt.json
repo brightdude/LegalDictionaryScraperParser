@@ -1,0 +1,28 @@
+{
+    "Bankrupt": {
+        "definition": "a debtor",
+        "origin": "[was adjudicated a ]",
+        "compare": "debtor",
+        "sub_definitions": {
+            "1": {
+                "1": "a debtor (as an individual or organization) whose property is subject to administration under the bankruptcy laws for the benefit of the debtor's creditors [was adjudicated a ] — see also",
+                "see also": "debtor"
+            },
+            "2": {
+                "1": "ruined financially"
+            },
+            "3": {
+                "1": "judicially declared a bankrupt [the company is ] compare",
+                "compares": "insolvent"
+            },
+            "4": {
+                "1": "to reduce to bankruptcy [was",
+                "ed": "by attorney's fees]"
+            }
+        },
+        "references": {
+            "debtor": "https://dictionary.findlaw.com/definition/debtor.html",
+            "insolvent": "https://dictionary.findlaw.com/definition/insolvent.html"
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "Product": {
+        "definition": "the result of work or thought 2 a",
+        "sub_definitions": {
+            "1": {
+                "definition": "the result of work or thought"
+            },
+            "2 a": {
+                "definition": "the output of an industry or firm",
+                "sub_terms": {
+                    "b": "a thing created by manufacturing"
+                }
+            },
+            "3": {
+                "definition": "something (as timber or a mineral) that is derived from something else and that diminishes the substance of the thing from which it is derived compare",
+                "compares": "fruit"
+            }
+        },
+        "references": {
+            "fruit": "https://dictionary.findlaw.com/definition/fruit.html"
+        }
+    }
+}

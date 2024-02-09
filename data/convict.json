@@ -1,0 +1,20 @@
+{
+    "Convict": {
+        "definition": "to find guilty of a criminal offense [was ed of fraud] compare acquit [kÄ n-vikt] n",
+        "origin": "[Latin convictus past participle of convincere to find guilty, prove, from com - with, together + vincer to conquer]",
+        "compare": "acquit",
+        "sub_definitions": {
+            "1": {
+                "1": "to find guilty of a criminal offense [was",
+                "ed": "of fraud] compare",
+                "compares": "acquit"
+            },
+            "2": {
+                "1": "a person convicted of and serving a sentence for a crime"
+            }
+        },
+        "references": {
+            "acquit": "https://dictionary.findlaw.com/definition/acquit.html"
+        }
+    }
+}

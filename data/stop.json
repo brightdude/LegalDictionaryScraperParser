@@ -1,0 +1,20 @@
+{
+    "Stop": {
+        "definition": "to cause to halt [ stopped payment] 2",
+        "origin": "[ stopped payment]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to cause to halt [payment]"
+            },
+            "2": {
+                "definition": "to subject to a legal stopto cease activity or motionnan act or instance of stoppinga temporary detention that constitutes a limited seizure of a person for the purpose of inquiry or investigation and that must be based on reasonable suspicion see alsocompare",
+                "compares": "arrest",
+                "see also": "terry stop"
+            }
+        },
+        "references": {
+            "terry stop": "https://dictionary.findlaw.com/definition/terry-stop.html",
+            "arrest": "https://dictionary.findlaw.com/definition/arrest.html"
+        }
+    }
+}

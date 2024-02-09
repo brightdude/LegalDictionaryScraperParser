@@ -1,0 +1,21 @@
+{
+    "Negotiate": {
+        "definition": "to confer with another so as to settle some matter vt 1",
+        "origin": "[ a contract]",
+        "sub_definitions": {
+            "-at·ing": {
+                "definition": "to confer with another so as to settle some matter"
+            },
+            "1": {
+                "definition": "to bring about through conference, discussion, and agreement or compromise [ a contract]"
+            },
+            "2 a": {
+                "definition": "to transfer (as an instrument) to another by delivery or endorsement",
+                "sub_terms": {
+                    "b": "to convert into cash or the equivalent value [ a check]"
+                }
+            }
+        },
+        "references": {}
+    }
+}

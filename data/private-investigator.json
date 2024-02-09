@@ -1,0 +1,11 @@
+{
+    "Private Investigator": {
+        "definition": "a person not a member of a police force who is licensed to do detective work",
+        "sub_definitions": {
+            "1": {
+                "1": "a person not a member of a police force who is licensed to do detective work (as investigation of suspected wrongdoing or searching for missing persons)"
+            }
+        },
+        "references": {}
+    }
+}

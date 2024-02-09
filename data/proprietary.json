@@ -1,0 +1,27 @@
+{
+    "Proprietary": {
+        "definition": "-tar·ies 1",
+        "origin": "[ rights]",
+        "sub_definitions": {
+            "1": {
+                "definition": "something that is used, produced, or marketed under exclusive legal right of the inventor or makera drug (as a patent medicine) that is protected by secrecy, patent, or copyright against free competition as to name, product, composition, or process of manufacture"
+            },
+            "2": {
+                "definition": "used, made, or marketed by one having the exclusive legal right [a process]"
+            },
+            "1 a": {
+                "definition": "held as property of a private owner",
+                "sub_terms": {
+                    "b": "of, relating to, or characteristic of a proprietor [ rights]"
+                }
+            },
+            "3": {
+                "definition": "privately owned and managed and run as a profit-making organization [a insurer] [a clinic]"
+            },
+            "4": {
+                "definition": "of or relating to the acts of a municipality which profit or benefit the municipality and for which it is answerable in negligence"
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "Impeach": {
+        "definition": "to charge with a crime or misconduct ;specif",
+        "origin": "[Anglo-French empecher , from Old French empeechier to hinder, from Late Latin impedicare to fetter, from Latin in- + pedica fetter, from ped- pes foot]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to charge with a crime or misconductto charge (a public official) before a competent tribunal (as the U.S. Senate) with misconduct in office see alsoandof thein the back matter",
+                "note": " Impeachment is the first step in removing an officer from office. The president, vice president, and other federal officers (as judges) may be impeached by the House of Representatives. (Members of Congress themselves are not removed by being impeached and tried, but rather are expelled by a two-thirds majority vote in the member's house.) The House draws up articles of impeachment that itemize the charges and their factual bases. The articles of impeachment, once approved by a simple majority of the House members, are then submitted to the Senate, thereby impeaching the officer. The Senate then holds a trial, at the conclusion of which each member votes for or against conviction on each article of impeachment. Two-thirds of the Senate members present must vote in favor of conviction. Once convicted, the officer can be removed from office. Although the Constitution specifies that an officer is to be impeached for high crimes and misdemeanors, impeachment can also occur for misconduct that is not necessarily criminal (as violation of the Constitution). Because impeachment is the first step taken to remove an officer from officeimpeachis often used in general contexts to refer to the removal itself, but that is not its specific legal meaning. An officer generally cannot be impeached for acts done prior to taking office."
+            },
+            "2": {
+                "definition": "to cast doubt on",
+                "sub_terms": {
+                    "a": "to attack the validity of (a judgment or verdict) because of judicial or juror misconduct",
+                    "b": "to challenge the credibility of (a witness) or the validity of (a witness's testimony) [a witness, including a criminal defendant who testifies in his own behalf, may beon the ground of former conviction \"W. R. LaFave and A. W. Scott, Jr.\"] see alsoatcompare"
+                },
+                "note": " A witness may be impeached by character evidence or circumstantial evidence relating to the credibility of the witness, and esp. on the grounds of prior convictions, prior inconsistent statements, contradiction by other evidence, and the witness's reputation for truth, prior acts of misconduct, and partiality.",
+                "compares": "rehabilitate",
+                "ed": "on the ground of former conviction \"W. R. LaFave and A. W. Scott, Jr.\"] see also"
+            }
+        },
+        "references": {
+            "Constitution": "https://dictionary.findlaw.com/definition/constitution.html",
+            "evidence": "https://dictionary.findlaw.com/definition/evidence.html",
+            "rehabilitate": "https://dictionary.findlaw.com/definition/rehabilitate.html"
+        }
+    }
+}

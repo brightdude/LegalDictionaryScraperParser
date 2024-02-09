@@ -1,0 +1,11 @@
+{
+    "Regulation U": {
+        "definition": "a regulation of the Board of Governors of the Federal Reserve System imposing credit restrictions on banks that extend credit for the purpose of buying or carrying margin stock if the credit is secured directly or indirectly by margin stock",
+        "sub_definitions": {
+            "1": {
+                "1": "a regulation of the Board of Governors of the Federal Reserve System imposing credit restrictions on banks that extend credit for the purpose of buying or carrying margin stock if the credit is secured directly or indirectly by margin stock"
+            }
+        },
+        "references": {}
+    }
+}

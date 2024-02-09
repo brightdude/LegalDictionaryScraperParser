@@ -1,0 +1,18 @@
+{
+    "Necessaries": {
+        "definition": "goods",
+        "sub_definitions": {
+            "1": {
+                "definition": "goods, services, or expenses that are considered necessary",
+                "sub_terms": {
+                    "a": "such goods, services, or expenses as are essential to the maintenance and support of a present or former spouse or of the child of divorced parents and for which one spouse or parent may seek reimbursement or contribution from the other",
+                    "b": "essential goods or services furnished to a vessel whose supplier may be entitled to a maritime lien"
+                }
+            },
+            "2": {
+                "definition": "goods or services delivered to a minor that are considered by reference to his or her circumstances to warrant holding the minor to a contract for them despite an attempt to disaffirm it"
+            }
+        },
+        "references": {}
+    }
+}

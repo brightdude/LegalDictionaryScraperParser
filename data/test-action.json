@@ -1,0 +1,14 @@
+{
+    "Test Action": {
+        "definition": "test case at case",
+        "sub_definitions": {
+            "1": {
+                "1": "test case"
+            }
+        },
+        "references": {
+            "test case": "https://dictionary.findlaw.com/definition/test-case.html",
+            "case": "https://dictionary.findlaw.com/definition/case.html"
+        }
+    }
+}

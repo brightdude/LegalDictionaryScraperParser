@@ -1,0 +1,11 @@
+{
+    "Form 10-K": {
+        "definition": "a financial disclosure form required by the Securities and Exchange Commission to be filed annually by companies issuing securities or having a threshold amount of gross assets",
+        "sub_definitions": {
+            "1": {
+                "1": "a financial disclosure form required by the Securities and Exchange Commission to be filed annually by companies issuing securities or having a threshold amount of gross assets"
+            }
+        },
+        "references": {}
+    }
+}

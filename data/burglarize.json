@@ -1,0 +1,13 @@
+{
+    "Burglarize": {
+        "definition": "to commit a burglary at [ burglarized the apartment]",
+        "origin": "[ burglarized the apartment]",
+        "sub_definitions": {
+            "-iz·ing": {
+                "definition": "to commit a burglary at [the apartment]",
+                "burglarized": "the apartment]"
+            }
+        },
+        "references": {}
+    }
+}

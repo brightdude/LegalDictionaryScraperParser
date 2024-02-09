@@ -1,0 +1,18 @@
+{
+    "Debenture": {
+        "definition": "an unsecured bond that is backed by the issuer's general credit rather than a specific lien called also debenture bond see also indenture compare mortgage bond at bond NOTE",
+        "origin": "[Anglo-French debentour and Medieval Latin debentura , perhaps from Latin debentur they are owed]",
+        "compare": "indenture",
+        "sub_definitions": {
+            "1": {
+                "1": "an unsecured bond that is backed by the issuer's general credit rather than a specific lien called also",
+                "see also": "indenture",
+                "note": " Debentures are often convertible to stocks."
+            }
+        },
+        "references": {
+            "indenture": "https://dictionary.findlaw.com/definition/indenture.html",
+            "bond": "https://dictionary.findlaw.com/definition/bond.html"
+        }
+    }
+}

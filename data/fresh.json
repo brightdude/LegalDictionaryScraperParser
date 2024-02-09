@@ -1,0 +1,18 @@
+{
+    "Fresh": {
+        "definition": "free of the detrimental effects of delay",
+        "origin": "[a resumed interrogation requiring Miranda warnings]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "free of the detrimental effects of delay (as the fading of memories)",
+                "sub_terms": {
+                    "b": "characterized by promptness"
+                }
+            },
+            "2": {
+                "definition": "experienced, made, or received newly or anew [a resumed interrogation requiring Miranda warnings]"
+            }
+        },
+        "references": {}
+    }
+}

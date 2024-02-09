@@ -1,0 +1,14 @@
+{
+    "Petit": {
+        "definition": "petty",
+        "origin": "[Anglo-French, minor, small]",
+        "sub_definitions": {
+            "1": {
+                "1": "petty"
+            }
+        },
+        "references": {
+            "petty": "https://dictionary.findlaw.com/definition/petty.html"
+        }
+    }
+}

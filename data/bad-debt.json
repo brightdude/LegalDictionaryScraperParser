@@ -1,0 +1,8 @@
+{
+    "Bad Debt": {
+        "definition": "Bad Debt",
+        "references": {
+            "debt": "https://dictionary.findlaw.com/definition/debt.html"
+        }
+    }
+}

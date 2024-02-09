@@ -1,0 +1,11 @@
+{
+    "Franchise Tax": {
+        "definition": "a business tax imposed upon various corporations granted a franchise",
+        "sub_definitions": {
+            "1": {
+                "1": "a business tax imposed upon various corporations granted a franchise"
+            }
+        },
+        "references": {}
+    }
+}

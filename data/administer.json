@@ -1,0 +1,27 @@
+{
+    "Administer": {
+        "definition": "to manage the affairs of",
+        "origin": "[ a trust fund]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to perform the office of an administrator or executor"
+            },
+            "2 a": {
+                "definition": "to direct or supervise the execution, use, or conduct of [ a trust fund]",
+                "sub_terms": {
+                    "b": "to settle (an estate) under a court appointment as administrator or executor"
+                }
+            },
+            "3 a": {
+                "definition": "to give ritually [ an oath]",
+                "sub_terms": {
+                    "b": "to give (as a narcotic) for the purpose of ingesting"
+                }
+            },
+            "2": {
+                "definition": "to manage or conduct affairs"
+            }
+        },
+        "references": {}
+    }
+}

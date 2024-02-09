@@ -1,0 +1,17 @@
+{
+    "Practical Construction": {
+        "definition": "the interpretation of the terms of a contract as shown by the performance of the parties that may be used by the court to help determine the intent of the parties ;also",
+        "sub_definitions": {
+            "1": {
+                "definition": "the interpretation of the terms of a contract as shown by the performance of the parties that may be used by the court to help determine the intent of the partiesthe doctrine that permits such a method of discerning intent compare",
+                "compares": "course of performance"
+            },
+            "2": {
+                "definition": "interpretation of a statute or document in a manner that does not defeat its purpose esp. when a strict interpretation would produce clearly unintended or absurd results"
+            }
+        },
+        "references": {
+            "course of performance": "https://dictionary.findlaw.com/definition/course-of-performance.html"
+        }
+    }
+}

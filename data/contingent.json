@@ -1,0 +1,23 @@
+{
+    "Contingent": {
+        "definition": "likely but not certain to happen compare executory 2",
+        "origin": "[a fund]",
+        "sub_definitions": {
+            "1": {
+                "definition": "likely but not certain to happen compare",
+                "compares": "executory"
+            },
+            "2": {
+                "definition": "intended for use in circumstances not completely foreseen [a fund]"
+            },
+            "3": {
+                "definition": "dependent on or conditioned by something else [a claim] [a legacy on the marriage] compare",
+                "compares": "vested"
+            }
+        },
+        "references": {
+            "executory": "https://dictionary.findlaw.com/definition/executory.html",
+            "vested": "https://dictionary.findlaw.com/definition/vested.html"
+        }
+    }
+}

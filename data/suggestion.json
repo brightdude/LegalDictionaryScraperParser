@@ -1,0 +1,19 @@
+{
+    "Suggestion": {
+        "definition": "the act or process of suggesting b",
+        "origin": "[reference to a party's death in a pleading was not the equivalent of a formal of death on the record \" Kissic v. Liberty Nat'l Life Ins. Co. , 641 So. 2d 250 (1994)\"]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "the act or process of suggesting",
+                "sub_terms": {
+                    "b": "something suggested"
+                }
+            },
+            "2": {
+                "definition": "an entry on the record of a fact or circumstance (as the death or insolvency of a party) material to a case and essential for the court in making its determination [reference to a party's death in a pleading was not the equivalent of a formal of death on the record \", 641 So. 2d 250 (1994)\"]",
+                "Kissic v. Liberty Nat'l Life Ins. Co.": "641 So. 2d 250 (1994)"
+            }
+        },
+        "references": {}
+    }
+}

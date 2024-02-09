@@ -1,0 +1,16 @@
+{
+    "Cosigner": {
+        "definition": "cosignatory ;esp",
+        "sub_definitions": {
+            "1": {
+                "1": "cosignatory"
+            },
+            "2": {
+                "1": "a joint signer of a promissory note"
+            }
+        },
+        "references": {
+            "cosignatory": "https://dictionary.findlaw.com/definition/cosignatory.html"
+        }
+    }
+}

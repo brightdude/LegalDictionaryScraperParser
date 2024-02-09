@@ -1,0 +1,18 @@
+{
+    "Jeopardy": {
+        "definition": "exposure to or imminence of death",
+        "sub_definitions": {
+            "1": {
+                "definition": "exposure to or imminence of death, loss, or injury"
+            },
+            "2": {
+                "definition": "the danger of conviction that an accused person is subjected to when on trial for a criminal offense see also",
+                "note": " Jeopardy attaches, or comes into effect for double jeopardy purposes, when a jury is sworn in or, in a non-jury trial, when the judge begins to hear evidence. The Fifth Amendment to the U.S. Constitution forbids double jeopardy for the same offense, and this applies whether the first trial ends in acquittal, conviction, or a mistrial. If a mistrial occurs due to a manifest necessity or if a defendant appeals a conviction, however, the rule against double jeopardy does not apply. The issue of manifest necessity is determined by the trial judge and, if necessary, by an appeals court.",
+                "see also": "double jeopardy"
+            }
+        },
+        "references": {
+            "double jeopardy": "https://dictionary.findlaw.com/definition/double-jeopardy.html"
+        }
+    }
+}

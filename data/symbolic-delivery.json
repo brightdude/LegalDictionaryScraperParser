@@ -1,0 +1,14 @@
+{
+    "Symbolic Delivery": {
+        "definition": "constructive delivery at delivery",
+        "sub_definitions": {
+            "1": {
+                "1": "constructive delivery"
+            }
+        },
+        "references": {
+            "constructive delivery": "https://dictionary.findlaw.com/definition/constructive-delivery.html",
+            "delivery": "https://dictionary.findlaw.com/definition/delivery.html"
+        }
+    }
+}

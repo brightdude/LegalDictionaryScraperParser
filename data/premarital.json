@@ -1,0 +1,13 @@
+{
+    "Premarital": {
+        "definition": "antenuptial",
+        "sub_definitions": {
+            "1": {
+                "1": "antenuptial"
+            }
+        },
+        "references": {
+            "antenuptial": "https://dictionary.findlaw.com/definition/antenuptial.html"
+        }
+    }
+}

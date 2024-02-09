@@ -1,0 +1,21 @@
+{
+    "Per Capita": {
+        "definition": "equally to each individual [all property to pass to the descendants per capita ] used of a method of distributing an esp. intestate estate compare per stirpes NOTE",
+        "origin": "[Medieval Latin, by heads]",
+        "sub_definitions": {
+            "1": {
+                "definition": "equally to each individual [all property to pass to the descendants] used of a method of distributing an esp. intestate estate compare",
+                "note": " Per capita distribution of an estate provides each descendant with an equal share of the estate's assets regardless of the degree of his or her kinship. Children, grandchildren, great-grandchildren, etc., all receive equal shares.",
+                "compares": "per stirpes",
+                "per capita": "] used of a method of distributing an esp. intestate estate compare"
+            },
+            "2": {
+                "definition": "per unit of populationby or for each individual [a hightax burden]",
+                "per capita": "tax burden]"
+            }
+        },
+        "references": {
+            "per stirpes": "https://dictionary.findlaw.com/definition/per-stirpes.html"
+        }
+    }
+}

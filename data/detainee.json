@@ -1,0 +1,14 @@
+{
+    "Detainee": {
+        "definition": "a person who is detained ;esp",
+        "sub_definitions": {
+            "1": {
+                "1": "a person who is detained"
+            },
+            "2": {
+                "1": "a person held in custody prior to trial or hearing"
+            }
+        },
+        "references": {}
+    }
+}

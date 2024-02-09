@@ -1,0 +1,14 @@
+{
+    "Issue Preclusion": {
+        "definition": "estoppel by judgment at estoppel",
+        "sub_definitions": {
+            "1": {
+                "1": "estoppel by judgment"
+            }
+        },
+        "references": {
+            "estoppel by judgment": "https://dictionary.findlaw.com/definition/estoppel-by-judgment.html",
+            "estoppel": "https://dictionary.findlaw.com/definition/estoppel.html"
+        }
+    }
+}

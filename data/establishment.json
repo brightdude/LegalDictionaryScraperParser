@@ -1,0 +1,22 @@
+{
+    "Establishment": {
+        "definition": "something established",
+        "sub_definitions": {
+            "1": {
+                "definition": "something established",
+                "sub_terms": {
+                    "a": "a church recognized by law as the official church of a nation or state and supported by civil authority",
+                    "b": "a permanent civil or military organization",
+                    "c": "a place of residence or esp. business with its furnishings and staff"
+                }
+            },
+            "2 a": {
+                "definition": "an act of establishing",
+                "sub_terms": {
+                    "b": "the state of being established"
+                }
+            }
+        },
+        "references": {}
+    }
+}

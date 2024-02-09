@@ -1,0 +1,13 @@
+{
+    "P.O.D. Account": {
+        "definition": "an account payable on request to an original party or upon the party's death to one or more designated beneficiaries NOTE",
+        "origin": "[ P ayable O n D eath]",
+        "sub_definitions": {
+            "1": {
+                "1": "an account payable on request to an original party or upon the party's death to one or more designated beneficiaries",
+                "note": " A P.O.D. account is one of the few vehicles for the transfer of a decedent's property outside of probate."
+            }
+        },
+        "references": {}
+    }
+}

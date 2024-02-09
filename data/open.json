@@ -1,0 +1,36 @@
+{
+    "Open": {
+        "definition": "exposed to general view or knowledge",
+        "origin": "[an , notorious, continuous, and adverse use of the property]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to begin actioncommence on some course or activity [the stockat par]"
+            },
+            "2": {
+                "definition": "to begin the trial of a case [defendant…has the option of presenting an opening statement immediately after plaintiff\"J. H. Friedenthal\"]",
+                "s": "\"J. H. Friedenthal"
+            },
+            "3 a": {
+                "definition": "being in effect or operation [an mine] [a bench warrant still ]",
+                "sub_terms": {
+                    "b": "available for use [an toll road]",
+                    "c": "not finally determined, decided, or settledsubject to further consideration [an question]",
+                    "d": "remaining effective or available for use until canceled [an insurance contract]"
+                }
+            },
+            "4": {
+                "definition": "not repressed or regulated by legal controls [a state with gambling]vb"
+            },
+            "2 a": {
+                "definition": "to make the statement by which the trial of (a case) is begun and put before the court",
+                "sub_terms": {
+                    "b": "to be the first to speak in summing up or arguing (a case)"
+                }
+            },
+            "3": {
+                "definition": "to restore or recall (as an order, rule, or judgment) from a finally determined state to a state in which the parties are free to prosecute or oppose by further proceedings"
+            }
+        },
+        "references": {}
+    }
+}

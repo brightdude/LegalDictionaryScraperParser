@@ -1,0 +1,37 @@
+{
+    "Remainder": {
+        "definition": "an estate in property in favor of one other than the grantor that follows upon the natural termination of a prior intervening possessory estate",
+        "origin": "[Anglo-French, from Old French remaindre to remain]",
+        "sub_definitions": {
+            "1": {
+                "definition": "an estate in property in favor of one other than the grantor that follows upon the natural termination of a prior intervening possessory estate (as a life estate) created at the same time and by the same instrument compareat,"
+            },
+            "charitable remainder": {
+                "definition": "a remainder in favor of a charity"
+            },
+            "contingent remainder": {
+                "definition": "a remainder that is to take effect in favor of an unidentifiable person (as one not yet born) or upon the occurrence of an uncertain event called also"
+            },
+            "cross remainder": {
+                "definition": "either of two or more remainders in favor of two or more persons so that upon the termination of one remainder that share goes to the other or others"
+            },
+            "executory remainder": {
+                "definition": "in this entry"
+            },
+            "remainder vested subject to open": {
+                "definition": "a vested remainder that is subject to diminution by the shares of other remaindermen (as children born later)"
+            },
+            "vested remainder": {
+                "definition": "a remainder in the favor of an ascertained person who has a present interest and is entitled to take possession upon the termination of the prior estate"
+            },
+            "2": {
+                "definition": "that which remains or is leftthe property in a decedent's estate that is not otherwise devised or bequeathed [I leave the rest, residue, and of my estate to my son Michael]"
+            }
+        },
+        "references": {
+            "interest": "https://dictionary.findlaw.com/definition/interest.html",
+            "reversion": "https://dictionary.findlaw.com/definition/reversion.html",
+            "contingent remainder": "https://dictionary.findlaw.com/definition/contingent-remainder.html"
+        }
+    }
+}

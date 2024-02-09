@@ -1,0 +1,16 @@
+{
+    "Liquidated": {
+        "definition": "settled or determined by liquidating see also liquidated damages at damage 2",
+        "sub_definitions": {
+            "1": {
+                "definition": "settled or determined by liquidating see alsoat"
+            },
+            "2": {
+                "definition": "capable of being readily fixed, calculated, or ascertained as a sum esp. without dispute or reliance on opinion or discretion"
+            }
+        },
+        "references": {
+            "damage": "https://dictionary.findlaw.com/definition/damage.html"
+        }
+    }
+}

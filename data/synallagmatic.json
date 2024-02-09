@@ -1,0 +1,14 @@
+{
+    "Synallagmatic": {
+        "definition": "bilateral",
+        "origin": "[Greek synallagmatikos of a contract, from synallagmat- synallagama contract, covenant, from synallassein to enter into a contract, from syn- together with, at the same time as + allassein to change, exchange, barter, from allos other]",
+        "sub_definitions": {
+            "1": {
+                "1": "bilateral"
+            }
+        },
+        "references": {
+            "bilateral": "https://dictionary.findlaw.com/definition/bilateral.html"
+        }
+    }
+}

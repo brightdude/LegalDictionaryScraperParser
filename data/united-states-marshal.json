@@ -1,0 +1,13 @@
+{
+    "United States Marshal": {
+        "definition": "marshal",
+        "sub_definitions": {
+            "1": {
+                "1": "marshal"
+            }
+        },
+        "references": {
+            "marshal": "https://dictionary.findlaw.com/definition/marshal.html"
+        }
+    }
+}

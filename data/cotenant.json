@@ -1,0 +1,13 @@
+{
+    "Cotenant": {
+        "definition": "joint tenant",
+        "sub_definitions": {
+            "1": {
+                "1": "joint tenant"
+            }
+        },
+        "references": {
+            "joint tenant": "https://dictionary.findlaw.com/definition/joint-tenant.html"
+        }
+    }
+}

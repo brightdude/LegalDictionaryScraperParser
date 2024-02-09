@@ -1,0 +1,16 @@
+{
+    "In Ventre Sa Mere": {
+        "definition": "in the womb",
+        "sub_definitions": {
+            "1": {
+                "1": "in the womb"
+            },
+            "2": {
+                "1": "in utero"
+            }
+        },
+        "references": {
+            "in utero": "https://dictionary.findlaw.com/definition/in-utero.html"
+        }
+    }
+}

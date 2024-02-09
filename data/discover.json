@@ -1,0 +1,22 @@
+{
+    "Discover": {
+        "definition": "to find out about",
+        "origin": "[when the victim s the fraud]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to find out about, recognize, or realize for the first time [when the victimthe fraud] see also",
+                "see also": "discovery rule",
+                "s": "the fraud] see also"
+            },
+            "2 a": {
+                "definition": "to make the subject of discovery",
+                "sub_terms": {
+                    "b": "to learn of or obtain (information) through discovery"
+                }
+            }
+        },
+        "references": {
+            "discovery rule": "https://dictionary.findlaw.com/definition/discovery-rule.html"
+        }
+    }
+}

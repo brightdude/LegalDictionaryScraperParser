@@ -1,0 +1,19 @@
+{
+    "Compulsion": {
+        "definition": "an act of compelling",
+        "origin": "[a payment exacted by lawless \"E. A. Farnsworth and W. F. Young\"]",
+        "sub_definitions": {
+            "1": {
+                "definition": "an act of compelling (as by threat or intimidation)[a payment exacted by lawless \"E. A. Farnsworth and W. F. Young\"]"
+            },
+            "2": {
+                "definition": "the state of being compelled",
+                "note": " Compulsion can make a contract voidable or be a ground for damages or restitution. Compulsion may also be a defense to a criminal act."
+            }
+        },
+        "references": {
+            "coercion": "https://dictionary.findlaw.com/definition/coercion.html",
+            "duress": "https://dictionary.findlaw.com/definition/duress.html"
+        }
+    }
+}

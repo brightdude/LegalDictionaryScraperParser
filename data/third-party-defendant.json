@@ -1,0 +1,11 @@
+{
+    "Third-Party Defendant": {
+        "definition": "a third party who is the object of a third-party complaint",
+        "sub_definitions": {
+            "1": {
+                "1": "a third party who is the object of a third-party complaint"
+            }
+        },
+        "references": {}
+    }
+}

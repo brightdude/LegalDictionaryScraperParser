@@ -1,0 +1,23 @@
+{
+    "Preempt": {
+        "definition": "to acquire",
+        "origin": "[a senior user of a trademark could not use of the mark in remote geographical markets \" Mesa Springs Enterprises v. Cutco Indus. , 736 P.2d 1251 (1986)\"]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "to acquire (land) by preemption",
+                "sub_terms": {
+                    "b": "to seize upon to the exclusion of otherstake for oneself [a senior user of a trademark could not use of the mark in remote geographical markets \", 736 P.2d 1251 (1986)\"]"
+                },
+                "Mesa Springs Enterprises v. Cutco Indus.": "736 P.2d 1251 (1986)"
+            },
+            "2 a": {
+                "definition": "to replace or supersede (a law) by preemption [such state laws are notby the federal Energy Reorganization Act of 1974 \"\"]",
+                "sub_terms": {
+                    "b": "to preclude or bar (an action) by preemption [federal airline deregulation does not claims under state contract law \"\"]"
+                },
+                "ed": "by the federal Energy Reorganization Act of 1974 \""
+            }
+        },
+        "references": {}
+    }
+}

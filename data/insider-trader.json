@@ -1,0 +1,11 @@
+{
+    "Insider Trader": {
+        "definition": "one that engages in insider trading",
+        "sub_definitions": {
+            "1": {
+                "1": "one that engages in insider trading"
+            }
+        },
+        "references": {}
+    }
+}

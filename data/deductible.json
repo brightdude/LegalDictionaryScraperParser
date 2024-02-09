@@ -1,0 +1,16 @@
+{
+    "Deductible": {
+        "definition": "allowable as a deduction de·duc·ti·bil·i·ty   [-dək-tə-bi-lə-tē] n n",
+        "origin": "[-dək-tə-bi-lə-tē]",
+        "compare": "franchise",
+        "sub_definitions": {
+            "de·duc·ti·bil·i·ty   [-dək-tə-bi-lə-tē]n": {
+                "definition": "na clause in an insurance policy that relieves the insurer of responsibility for an initial specified loss of the kind insured againstthe amount specified in such a clause compare",
+                "compares": "franchise"
+            }
+        },
+        "references": {
+            "franchise": "https://dictionary.findlaw.com/definition/franchise.html"
+        }
+    }
+}

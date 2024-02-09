@@ -1,0 +1,18 @@
+{
+    "Disclaim": {
+        "definition": "to make a disclaimer vt 1",
+        "origin": "[-klā-mənt]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to reject or relinquish a claim to (as an interest in an estate)"
+            },
+            "2 a": {
+                "definition": "to deny or reject the right, validity, or authority of",
+                "sub_terms": {
+                    "b": "to negate or limit the rights under (a warranty)"
+                }
+            }
+        },
+        "references": {}
+    }
+}

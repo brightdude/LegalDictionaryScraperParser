@@ -1,0 +1,11 @@
+{
+    "Fictitious Payee": {
+        "definition": "a person named as payee in an instrument who does not in fact exist or who does exist but to whom the maker of the instrument does not intend to convey any interest in the instrument",
+        "sub_definitions": {
+            "1": {
+                "1": "a person named as payee in an instrument who does not in fact exist or who does exist but to whom the maker of the instrument does not intend to convey any interest in the instrument"
+            }
+        },
+        "references": {}
+    }
+}

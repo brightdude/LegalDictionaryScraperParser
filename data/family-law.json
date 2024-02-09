@@ -1,0 +1,11 @@
+{
+    "Family Law": {
+        "definition": "an area of law dealing with family relations including divorce",
+        "sub_definitions": {
+            "1": {
+                "1": "an area of law dealing with family relations including divorce, adoption, paternity, custody, and support"
+            }
+        },
+        "references": {}
+    }
+}

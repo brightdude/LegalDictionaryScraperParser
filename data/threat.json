@@ -1,0 +1,17 @@
+{
+    "Threat": {
+        "definition": "an expression of an intention to injure another",
+        "origin": "[criminal laws against making terroristic s ]",
+        "sub_definitions": {
+            "1": {
+                "1": "an expression of an intention to injure another"
+            },
+            "2": {
+                "1": "menace"
+            }
+        },
+        "references": {
+            "menace": "https://dictionary.findlaw.com/definition/menace.html"
+        }
+    }
+}

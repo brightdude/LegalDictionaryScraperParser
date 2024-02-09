@@ -1,0 +1,19 @@
+{
+    "Entrapment": {
+        "definition": "the action or process of entrapping [ is un-American and has no place in law enforcement \"Tip O'Neill\"] 2",
+        "origin": "[ is un-American and has no place in law enforcement \"Tip O'Neill\"]",
+        "sub_definitions": {
+            "1": {
+                "definition": "the action or process of entrapping [ is un-American and has no place in law enforcement \"Tip O'Neill\"]"
+            },
+            "2": {
+                "definition": "the state or condition of being entrappedthe affirmative defense of having been entrapped by a government agent (as an officer or informant) see also",
+                "note": " Entrapment is available as a defense only when an agent of the state or federal government has provided the encouragement or inducement. This defense is sometimes allowed in administrative proceedings (as for the revocation of a license to practice medicine) as well as criminal proceedings. In order to establish entrapment, the defendant has the burden of proving either that he or she would not have committed the crime but for the undue persuasion or fraud of the government agent, or that the encouragement was such that it created a risk that persons not inclined to commit the crime would commit it, depending on the jurisdiction. When entrapment is pleaded, evidence (as character evidence) regarding the defendant that might otherwise have been excluded is allowed to be admitted.",
+                "see also": "predispose"
+            }
+        },
+        "references": {
+            "predispose": "https://dictionary.findlaw.com/definition/predispose.html"
+        }
+    }
+}

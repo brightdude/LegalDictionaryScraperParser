@@ -1,0 +1,13 @@
+{
+    "World Court": {
+        "definition": "international court of justice",
+        "sub_definitions": {
+            "1": {
+                "1": "international court of justice"
+            }
+        },
+        "references": {
+            "international court of justice": "https://dictionary.findlaw.com/definition/international-court-of-justice.html"
+        }
+    }
+}

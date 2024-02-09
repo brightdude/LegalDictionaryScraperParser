@@ -1,0 +1,11 @@
+{
+    "Straight Deductible": {
+        "definition": "a deductible that is a constant value",
+        "sub_definitions": {
+            "1": {
+                "1": "a deductible that is a constant value (as a specified amount)"
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "Deliver": {
+        "definition": "to transfer possession of",
+        "origin": "[a deed must be ed to be effective \"W. M. McGovern, Jr. et al. \"]",
+        "sub_definitions": {
+            "-er·ing": {
+                "definition": "to transfer possession of (property) to anotherput into the possession or exclusive control of another [a deed must beto be effective \"W. M. McGovern, Jr.\"] see alsocompare,,,,",
+                "compares": "bail",
+                "see also": "gift",
+                "et al.": "\"] see also"
+            }
+        },
+        "references": {
+            "gift": "https://dictionary.findlaw.com/definition/gift.html",
+            "bail": "https://dictionary.findlaw.com/definition/bail.html",
+            "convey": "https://dictionary.findlaw.com/definition/convey.html",
+            "donate": "https://dictionary.findlaw.com/definition/donate.html",
+            "give": "https://dictionary.findlaw.com/definition/give.html",
+            "sell": "https://dictionary.findlaw.com/definition/sell.html"
+        }
+    }
+}

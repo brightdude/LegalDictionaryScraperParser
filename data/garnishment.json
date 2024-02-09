@@ -1,0 +1,17 @@
+{
+    "Garnishment": {
+        "definition": "a remedial device used by a creditor to have property of the debtor or money owed to the debtor that is in the possession of a third party attached to pay the debt to the creditor ;specif",
+        "compare": "assignment",
+        "sub_definitions": {
+            "1": {
+                "1": "a remedial device used by a creditor to have property of the debtor or money owed to the debtor that is in the possession of a third party attached to pay the debt to the creditor"
+            },
+            "2": {
+                "1": "attachment of the debtor's wages to satisfy a judgment compare"
+            }
+        },
+        "references": {
+            "assignment": "https://dictionary.findlaw.com/definition/assignment.html"
+        }
+    }
+}

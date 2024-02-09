@@ -1,0 +1,11 @@
+{
+    "Indemnitor": {
+        "definition": "one that indemnifies",
+        "sub_definitions": {
+            "1": {
+                "1": "one that indemnifies"
+            }
+        },
+        "references": {}
+    }
+}

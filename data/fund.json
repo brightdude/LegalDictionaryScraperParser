@@ -1,0 +1,68 @@
+{
+    "Fund": {
+        "definition": "a sum of money or other resources whose principal or interest is set aside for a specific objective cli·ent security fund",
+        "origin": "[taft-hÄ rt-lē-]",
+        "sub_definitions": {
+            "1": {
+                "definition": "a sum of money or other resources whose principal or interest is set aside for a specific objective"
+            },
+            "cli·ent security fund": {
+                "definition": "a fund established by each state to compensate clients for losses suffered due to their attorneys' misappropriation of funds"
+            },
+            "common trust fund": {
+                "definition": "an in-house trust fund established by a bank trust department to pool the assets of many small trusts for greater diversification in investing"
+            },
+            "executor fund": {
+                "definition": "a fund established in estate planning to provide for the payment of final expenses by an executor"
+            },
+            "joint wel·fare fund": {
+                "definition": "a fund that is established by collective bargaining to provide health and welfare benefits to employees and that is jointly administered by representatives of labor and management"
+            },
+            "paid-in fund": {
+                "definition": "a reserve cash fund in lieu of a capital stock account set up by mutual insurance companies to cover unforeseen losses"
+            },
+            "sink·ing fund": {
+                "definition": "a fund set up and accumulated by regular deposits for paying off the principal on a debt or for other specified purposes (as self-insurance)"
+            },
+            "strike fund": {
+                "definition": "a fund accumulated by a union through special assessments or from general funds and used to pay striking workers or for other strike-related activities"
+            },
+            "Taft-Hart·ley fund": {
+                "definition": "[taft-hÄ rt-lē-][after the Taft-Hartley Act of 1947, which established it]in this entry"
+            },
+            "trust fund": {
+                "definition": "property (as money or securities) settled or held in a trust"
+            },
+            "2": {
+                "definition": "to place in a fund"
+            },
+            "growth fund": {
+                "definition": "a mutual fund that invests in the stock of growth companies"
+            },
+            "hedge fund": {
+                "definition": "an investing group usually in the form of a limited partnership that employs speculative techniques in the hope of obtaining large capital gains"
+            },
+            "index fund": {
+                "definition": "a mutual fund that invests to reflect the composition of the market as a whole by matching its investments to a stock index"
+            },
+            "mu·tu·al fund": {
+                "definition": "an investment company that invests its shareholders' money in a usually diversified group of securities of other companies"
+            },
+            "vul·ture fund": {
+                "definition": "an investment company that buys up bankrupt or insolvent companies with the goal of reorganizing them so they can be profitably resold as going concernsvt"
+            },
+            "1 a": {
+                "definition": "to make provision of resources for discharging the principal or interest of",
+                "sub_terms": {
+                    "b": "to provide financial resources for"
+                }
+            },
+            "3": {
+                "definition": "to convert into a debt that is payable either at a distant date or at no definite date and that bears a fixed interest"
+            }
+        },
+        "references": {
+            "joint welfare fund": "https://dictionary.findlaw.com/definition/joint-welfare-fund.html"
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "Witness Stand": {
+        "definition": "stand",
+        "sub_definitions": {
+            "1": {
+                "1": "stand"
+            }
+        },
+        "references": {
+            "stand": "https://dictionary.findlaw.com/definition/stand.html"
+        }
+    }
+}

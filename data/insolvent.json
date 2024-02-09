@@ -1,0 +1,21 @@
+{
+    "Insolvent": {
+        "definition": "having ceased paying or unable to pay debts as they fall due in the usual course of business compare bankrupt 2",
+        "origin": "[an estate]",
+        "sub_definitions": {
+            "1": {
+                "definition": "having ceased paying or unable to pay debts as they fall due in the usual course of business compare",
+                "compares": "bankrupt"
+            },
+            "2": {
+                "definition": "having liabilities in excess of a reasonable market value of assets held"
+            },
+            "3": {
+                "definition": "insufficient to pay all debts [an estate]"
+            }
+        },
+        "references": {
+            "bankrupt": "https://dictionary.findlaw.com/definition/bankrupt.html"
+        }
+    }
+}

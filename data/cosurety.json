@@ -1,0 +1,11 @@
+{
+    "Cosurety": {
+        "definition": "-ties",
+        "sub_definitions": {
+            "-ties": {
+                "definition": "any of two or more sureties liable on the same obligation"
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "Arbitrator": {
+        "definition": "an impartial person or group that is given the power by disputing parties to resolve their dispute compare mediator",
+        "compare": "mediator",
+        "sub_definitions": {
+            "1": {
+                "1": "an impartial person or group that is given the power by disputing parties to resolve their dispute compare",
+                "compares": "mediator"
+            }
+        },
+        "references": {
+            "mediator": "https://dictionary.findlaw.com/definition/mediator.html"
+        }
+    }
+}

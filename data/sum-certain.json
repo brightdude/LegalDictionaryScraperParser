@@ -1,0 +1,11 @@
+{
+    "Sum Certain": {
+        "definition": "an amount that can be determined with certainty from the information presented",
+        "sub_definitions": {
+            "1": {
+                "1": "an amount that can be determined with certainty from the information presented (as on a negotiable instrument) without resort to outside sources"
+            }
+        },
+        "references": {}
+    }
+}

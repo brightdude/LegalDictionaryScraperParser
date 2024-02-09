@@ -1,0 +1,20 @@
+{
+    "Non-": {
+        "definition": "not",
+        "sub_definitions": {
+            "1": {
+                "1": "not"
+            },
+            "2": {
+                "1": "other than"
+            },
+            "3": {
+                "1": "reverse of"
+            },
+            "4": {
+                "1": "absence of"
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "Noncitizen": {
+        "definition": "one who is not a citizen",
+        "sub_definitions": {
+            "1": {
+                "1": "one who is not a citizen"
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "Fortuitous Event": {
+        "definition": "an event of natural or human origin that could not have been reasonably foreseen or expected and is out of the control of the persons concerned",
+        "compare": "force majeure",
+        "sub_definitions": {
+            "1": {
+                "1": "an event of natural or human origin that could not have been reasonably foreseen or expected and is out of the control of the persons concerned (as parties to a contract)"
+            },
+            "2": {
+                "1": "force majeure",
+                "see also": "frustration",
+                "compares": "inevitable accident"
+            }
+        },
+        "references": {
+            "force majeure": "https://dictionary.findlaw.com/definition/force-majeure.html",
+            "frustration": "https://dictionary.findlaw.com/definition/frustration.html",
+            "inevitable accident": "https://dictionary.findlaw.com/definition/inevitable-accident.html"
+        }
+    }
+}

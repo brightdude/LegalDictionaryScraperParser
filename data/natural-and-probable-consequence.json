@@ -1,0 +1,13 @@
+{
+    "Natural And Probable Consequence": {
+        "definition": "a consequence that one could reasonably expect to result from an act [the injury was determined to be a natural and probable consequence of the defendant's negligence]",
+        "origin": "[the injury was determined to be a natural and probable consequence of the defendant's negligence]",
+        "sub_definitions": {
+            "1": {
+                "1": "a consequence that one could reasonably expect to result from an act [the injury was determined to be a",
+                "natural and probable consequence": "of the defendant's negligence]"
+            }
+        },
+        "references": {}
+    }
+}

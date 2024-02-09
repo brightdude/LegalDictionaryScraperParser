@@ -1,0 +1,13 @@
+{
+    "Veniremember": {
+        "definition": "venireperson",
+        "sub_definitions": {
+            "1": {
+                "1": "venireperson"
+            }
+        },
+        "references": {
+            "venireperson": "https://dictionary.findlaw.com/definition/venireperson.html"
+        }
+    }
+}

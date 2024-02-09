@@ -1,0 +1,46 @@
+{
+    "Patent": {
+        "definition": "open to public inspection see also letters patent at letter b",
+        "origin": "[Anglo-French, from Latin patent- patens , from present participle of patēre to be open]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "open to public inspection see alsoat",
+                "sub_terms": {
+                    "b": "secured or protected by a patent [a nonexclusive license to produce and sell the product] [sought to enforce her rights against infringement]"
+                }
+            },
+            "2": {
+                "definition": "of, relating to, or concerned with the granting of patents esp. for inventions [a lawyer] [involved in litigation]"
+            },
+            "3": {
+                "definition": "an instrument making a conveyance of public lands [to issue a to each of said Indians for the village or town lot occupied by him \"\"] see alsoatvtto obtain or grant a right to (something) by a patent [the land wasto the railroad]to protect the rights to (an invention) by a patent [printed matter cannot be]",
+                "U.S. Code": "\"] see also",
+                "ed": "to the railroad]"
+            },
+            "pat·ent·lyadv": {
+                "definition": "[pat-nt] n"
+            },
+            "1": {
+                "definition": "an official document conferring a right or privilegeat"
+            },
+            "2 a": {
+                "definition": "the right to exclude others from making, using, or selling an invention or products made by an invented process that is granted to an inventor and his or her heirs or assigns for a term of years see alsoatcompare,",
+                "sub_terms": {
+                    "b": "the writing securing such a right [received his in the mail]",
+                    "c": "a patented invention [all substantial rights to a \"\"]"
+                },
+                "note": " A patent may be granted for a process, act, or method that is new, useful, and not obvious, for a new use of a known process, machine, or composition of matter or material, as well as for an asexually reproduced distinct and new variety of plant (excluding one propagated from a tuber), and for any new, original, and ornamental design for an article of manufacture. Design patents are issued for a term of 14 years. Patents issuing on applications made after June 8, 1995, for basic or plant patents (excluding design patents) are for a term of 20 years from the date of application. An inventor can file a provisional patent application, which requires less documentation and lower fees than a regular application, before reducing the invention to practice. This allows the inventor to claim “patent pending” status for the invention and to establish an earlier filing date and priority of the invention. A regular patent application must be made within a year of the provisional application or it will expire. Patents are considered personal property and may be sold, assigned, or otherwise transferred. Under common law, if a patented invention or discovery is made while the inventor is working for a company, and is made on company time with company facilities and materials, the employer receives an irrevocable, nonassignable, nonexclusive, royalty-free license to use it. Often an employee is required contractually to assign his or her patent to the employer.",
+                "compares": "copyright"
+            }
+        },
+        "references": {
+            "letter": "https://dictionary.findlaw.com/definition/letter.html",
+            "latent": "https://dictionary.findlaw.com/definition/latent.html",
+            "letters patent": "https://dictionary.findlaw.com/definition/letters-patent.html",
+            "property": "https://dictionary.findlaw.com/definition/property.html",
+            "copyright": "https://dictionary.findlaw.com/definition/copyright.html",
+            "trademark": "https://dictionary.findlaw.com/definition/trademark.html",
+            "fee": "https://dictionary.findlaw.com/definition/fee.html"
+        }
+    }
+}

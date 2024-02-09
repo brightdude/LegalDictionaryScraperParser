@@ -1,0 +1,15 @@
+{
+    "Cloud On Title": {
+        "definition": "an interest",
+        "compare": "quiet",
+        "sub_definitions": {
+            "1": {
+                "1": "an interest (as a lien) in real property that if valid impairs the owner's title compare",
+                "compares": "quiet"
+            }
+        },
+        "references": {
+            "quiet": "https://dictionary.findlaw.com/definition/quiet.html"
+        }
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "Financial Statement": {
+        "definition": "a statement of one's status with regard to money or wealth compare financing statement",
+        "compare": "financing statement",
+        "sub_definitions": {
+            "1": {
+                "1": "a statement of one's status with regard to money or wealth compare",
+                "compares": "financing statement"
+            }
+        },
+        "references": {
+            "financing statement": "https://dictionary.findlaw.com/definition/financing-statement.html"
+        }
+    }
+}

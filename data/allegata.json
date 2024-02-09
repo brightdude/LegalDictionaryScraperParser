@@ -1,0 +1,16 @@
+{
+    "Allegata": {
+        "definition": "facts alleged or allegations made in a pleading compare probata",
+        "origin": "[New Latin, plural of allegatum , from Medieval Latin allegare to allege, from Latin, to dispatch, adduce in support]",
+        "compare": "probata",
+        "sub_definitions": {
+            "1": {
+                "1": "facts alleged or allegations made in a pleading compare",
+                "compares": "probata"
+            }
+        },
+        "references": {
+            "probata": "https://dictionary.findlaw.com/definition/probata.html"
+        }
+    }
+}

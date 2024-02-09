@@ -1,0 +1,11 @@
+{
+    "Trade Acceptance": {
+        "definition": "a time draft or bill of exchange for the amount of a specific purchase drawn by the seller on the buyer",
+        "sub_definitions": {
+            "1": {
+                "1": "a time draft or bill of exchange for the amount of a specific purchase drawn by the seller on the buyer, bearing the buyer's acceptance, and often noting the place of payment (as a bank)"
+            }
+        },
+        "references": {}
+    }
+}

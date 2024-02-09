@@ -1,0 +1,14 @@
+{
+    "Financier": {
+        "definition": "one who specializes in raising and expending public moneys 2",
+        "sub_definitions": {
+            "1": {
+                "definition": "one who specializes in raising and expending public moneys"
+            },
+            "2": {
+                "definition": "one who deals with finance and investment on a large scale"
+            }
+        },
+        "references": {}
+    }
+}

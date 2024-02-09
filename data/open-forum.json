@@ -1,0 +1,15 @@
+{
+    "Open Forum": {
+        "definition": "a government property that is opened to the public for expressive activities of any kind compare limited public forum",
+        "compare": "limited public forum",
+        "sub_definitions": {
+            "1": {
+                "1": "a government property that is opened to the public for expressive activities of any kind compare",
+                "compares": "limited public forum"
+            }
+        },
+        "references": {
+            "limited public forum": "https://dictionary.findlaw.com/definition/limited-public-forum.html"
+        }
+    }
+}

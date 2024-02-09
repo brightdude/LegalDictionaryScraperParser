@@ -1,0 +1,16 @@
+{
+    "Rule Of Law": {
+        "definition": "an authoritative legal doctrine",
+        "origin": "[adopting the rule of law that is most persuasive in light of precedent, reason and policy \" Wright v. Wright , 904 P.2d 403 (1995)\"]",
+        "sub_definitions": {
+            "1": {
+                "definition": "an authoritative legal doctrine, principle, or precept applied to the facts of an appropriate case [adopting thethat is most persuasive in light of precedent, reason and policy \", 904 P.2d 403 (1995)\"]",
+                "Wright v. Wright": "904 P.2d 403 (1995)"
+            },
+            "2": {
+                "definition": "government by lawadherence to due process of law"
+            }
+        },
+        "references": {}
+    }
+}

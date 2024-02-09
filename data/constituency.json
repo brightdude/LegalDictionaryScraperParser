@@ -1,0 +1,17 @@
+{
+    "Constituency": {
+        "definition": "-cies 1",
+        "sub_definitions": {
+            "1": {
+                "definition": "a body of citizens entitled to elect a representative (as to a legislative or executive office)"
+            },
+            "2": {
+                "definition": "the residents in an electoral district"
+            },
+            "3": {
+                "definition": "an electoral district"
+            }
+        },
+        "references": {}
+    }
+}

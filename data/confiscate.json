@@ -1,0 +1,16 @@
+{
+    "Confiscate": {
+        "definition": "to seize without compensation as forfeited to the public treasury compare criminal forfeiture NOTE",
+        "origin": "[kÄ n-fə-skā-shən]",
+        "sub_definitions": {
+            "-cat·ing": {
+                "definition": "to seize without compensation as forfeited to the public treasury compare",
+                "note": " Illegal items such as narcotics or firearms, or profits from the sale of illegal items, may be confiscated by law enforcement officers. Additionally, government action that reduces the value of property to a person or entity as to make it nearly worthless has been held to constitute confiscation. Examples of such government action include the passage of zoning laws that prevent the use of land for its designated purpose and the setting of utility rates so low that the utility company cannot realize a reasonable return on its investment.",
+                "compares": "criminal forfeiture"
+            }
+        },
+        "references": {
+            "criminal forfeiture": "https://dictionary.findlaw.com/definition/criminal-forfeiture.html"
+        }
+    }
+}

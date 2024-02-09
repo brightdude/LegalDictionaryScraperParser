@@ -1,0 +1,11 @@
+{
+    "Cosignatory": {
+        "definition": "a joint signer",
+        "sub_definitions": {
+            "1": {
+                "1": "a joint signer"
+            }
+        },
+        "references": {}
+    }
+}

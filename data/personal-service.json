@@ -1,0 +1,14 @@
+{
+    "Personal Service": {
+        "definition": "a service based on the intellectual or manual efforts of an individual",
+        "sub_definitions": {
+            "1": {
+                "definition": "a service based on the intellectual or manual efforts of an individual (as for salary or wages) rather than a salable product of his or her skills"
+            },
+            "2": {
+                "definition": "physical delivery of process to a person to whom it is directed or to someone authorized to receive it on that person's behalf"
+            }
+        },
+        "references": {}
+    }
+}

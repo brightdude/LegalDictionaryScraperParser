@@ -1,0 +1,13 @@
+{
+    "Market Price": {
+        "definition": "the price at which a security is currently selling on the market 2",
+        "sub_definitions": {
+            "1": {
+                "definition": "the price at which a security is currently selling on the market"
+            }
+        },
+        "references": {
+            "market value": "https://dictionary.findlaw.com/definition/market-value.html"
+        }
+    }
+}

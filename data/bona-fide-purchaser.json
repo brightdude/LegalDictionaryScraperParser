@@ -1,0 +1,12 @@
+{
+    "Bona Fide Purchaser": {
+        "definition": "a purchaser who purchases in good faith without notice of any defect in title and for a valuable consideration called also bona fide purchaser for value NOTE",
+        "sub_definitions": {
+            "1": {
+                "1": "a purchaser who purchases in good faith without notice of any defect in title and for a valuable consideration called also",
+                "note": " There are particular requirements for a bona fide purchaser of a security set out in Uniform Commercial Code section 8-302. Under this section a bona fide purchaser is one who buys a security in good faith and without notice of any adverse claims and who takes delivery of a certificated security either as a bearer security or as a registered security issued to him or her or endorsed to him or her or by a blank endorsement or to whom the transfer of an uncertificated security is registered on the books of the issuer, or as otherwise provided in section 8-313."
+            }
+        },
+        "references": {}
+    }
+}

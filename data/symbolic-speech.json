@@ -1,0 +1,19 @@
+{
+    "Symbolic Speech": {
+        "definition": "conduct that is intended to convey a particular message which is likely to be understood by those viewing it [it is well established that wearing certain clothing can be a form of protected symbolic speech \" City of Harvard v. Gaut",
+        "origin": "[it is well established that wearing certain clothing can be a form of protected symbolic speech \" City of Harvard v. Gaut , 660 N.E.2d 259 (1996)\"]",
+        "compare": "commercial speech",
+        "sub_definitions": {
+            "1": {
+                "1": "conduct that is intended to convey a particular message which is likely to be understood by those viewing it [it is well established that wearing certain clothing can be a form of protected",
+                "City of Harvard v. Gaut": "660 N.E.2d 259 (1996)\"] compa",
+                "compares": "commercial speech",
+                "note": " Symbolic speech is entitled to free speech protection under the First Amendment to the U.S. Constitution unless its regulation is within the constitutional power of the government and is justified by an important government interest, and the restriction placed on it by regulation is no greater than is essential to the furtherance of that interest."
+            }
+        },
+        "references": {
+            "commercial speech": "https://dictionary.findlaw.com/definition/commercial-speech.html",
+            "pure speech": "https://dictionary.findlaw.com/definition/pure-speech.html"
+        }
+    }
+}

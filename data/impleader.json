@@ -1,0 +1,22 @@
+{
+    "Impleader": {
+        "definition": "the act or procedural device of impleading a third party ;specif",
+        "compare": "counterclaim",
+        "sub_definitions": {
+            "1": {
+                "1": "the act or procedural device of impleading a third party"
+            },
+            "2": {
+                "1": "a petition or complaint brought in a lawsuit by a plaintiff or defendant against a third party who may be liable to that plaintiff or defendant called also",
+                "compares": "counterclaim"
+            }
+        },
+        "references": {
+            "counterclaim": "https://dictionary.findlaw.com/definition/counterclaim.html",
+            "cross-claim": "https://dictionary.findlaw.com/definition/cross-claim.html",
+            "interpleader": "https://dictionary.findlaw.com/definition/interpleader.html",
+            "intervention": "https://dictionary.findlaw.com/definition/intervention.html",
+            "joinder": "https://dictionary.findlaw.com/definition/joinder.html"
+        }
+    }
+}

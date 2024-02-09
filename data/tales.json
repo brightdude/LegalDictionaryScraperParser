@@ -1,0 +1,12 @@
+{
+    "Tales": {
+        "definition": "persons added to a jury from among those available in or about the courthouse or in the county to make up a deficiency in the number of jurors regularly summoned [a juror]",
+        "origin": "[from the Medieval Latin phrase tales de circumstantibus such (persons) of the bystanders; from the use of the phrase in the writ summoning them]",
+        "sub_definitions": {
+            "1": {
+                "1": "persons added to a jury from among those available in or about the courthouse or in the county to make up a deficiency in the number of jurors regularly summoned [a juror]"
+            }
+        },
+        "references": {}
+    }
+}

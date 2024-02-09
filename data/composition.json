@@ -1,0 +1,16 @@
+{
+    "Composition": {
+        "definition": "an agreement between an insolvent debtor and several creditors whereby partial payment of the debts discharges in full the original obligations compare accord",
+        "compare": "accord",
+        "sub_definitions": {
+            "1": {
+                "1": "an agreement between an insolvent debtor and several creditors whereby partial payment of the debts discharges in full the original obligations compare",
+                "compares": "accord"
+            }
+        },
+        "references": {
+            "accord": "https://dictionary.findlaw.com/definition/accord.html",
+            "compromise": "https://dictionary.findlaw.com/definition/compromise.html"
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "Prove": {
+        "definition": "prov·en [prü-vən] prov·ing 1",
+        "origin": "[prü-vən]",
+        "sub_definitions": {
+            "prov·en": {
+                "definition": "[prü-vən]"
+            },
+            "1": {
+                "definition": "to test the truth, validity, or genuineness of [ a will at probate]"
+            },
+            "2 a": {
+                "definition": "to establish the existence, truth, or validity of [the charges were neverin court]",
+                "sub_terms": {
+                    "b": "to provide sufficient proof of or that [the defendant guilty beyond a reasonable doubt]"
+                },
+                "proved": "the defendant guilty beyond a reasonable doubt]"
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "Force": {
+        "definition": "a cause of motion",
+        "origin": "[the labor ]",
+        "sub_definitions": {
+            "1": {
+                "definition": "a cause of motion, activity, or change"
+            },
+            "intervening force": {
+                "definition": "a force that acts after another's negligent act or omission has occurred and that causes injury to anotherat"
+            },
+            "irresistible force": {
+                "definition": "an unforeseeable event esp. that prevents performance of an obligation under a contract"
+            },
+            "2": {
+                "definition": "to impose or require by law see alsoatat",
+                "see also": "elective share"
+            },
+            "3": {
+                "definition": "violence, compulsion, or constraint exerted upon or against a person or thing"
+            },
+            "constructive force": {
+                "definition": "the use of threats or intimidation for the purpose of gaining control over or preventing resistance from another"
+            },
+            "dead·ly force": {
+                "definition": "force that is intended to cause or that carries a substantial risk of causing death or serious bodily injury comparein this entry",
+                "note": " As a general rule, deadly force may be used without incurring criminal or tort liability when one reasonably believes that one's life or safety is in danger. In some cases, a person's unreasonable belief in the need for deadly force has been used to justify reducing a charge of murder to voluntary manslaughter. Additionally, a police officer is generally justified in using deadly force to prevent the escape of a suspect who threatens the officer or who the officer has probable cause to believe has committed a violent crime.",
+                "compares": "nondeadly force"
+            },
+            "lawful force": {
+                "definition": "force that is considered justified under the law and does not create criminal or tort liability comparein this entry",
+                "compares": "unlawful force"
+            },
+            "mod·er·ate force": {
+                "definition": "[mÄ -də-rət-]in this entry"
+            },
+            "non·dead·ly force": {
+                "definition": "force that is intended to cause minor bodily injurya threat (as by the brandishing of a gun) to use deadly force called alsocomparein this entry",
+                "compares": "deadly force"
+            },
+            "reasonable force": {
+                "definition": "Lawful force that is reasonably necessary to accomplish a particular end (as preventing theft of one's property)"
+            },
+            "unlawful force": {
+                "definition": "force that is not justified under the law and therefore is considered a tort or crime or both comparein this entry",
+                "compares": "lawful force"
+            },
+            "in force:valid and operative [a life insurance policyin force]": {
+                "definition": "vt"
+            },
+            "1 a": {
+                "definition": "to compel by physical means often against resistance [him into the car]",
+                "sub_terms": {
+                    "b": "to break open or through [the door] see also"
+                },
+                "see also": "forcible entry",
+                "forced": "the door] see also"
+            }
+        },
+        "references": {
+            "intervening cause": "https://dictionary.findlaw.com/definition/intervening-cause.html",
+            "cause": "https://dictionary.findlaw.com/definition/cause.html",
+            "force majeure": "https://dictionary.findlaw.com/definition/force-majeure.html",
+            "police force": "https://dictionary.findlaw.com/definition/police-force.html",
+            "nondeadly force": "https://dictionary.findlaw.com/definition/nondeadly-force.html",
+            "unlawful force": "https://dictionary.findlaw.com/definition/unlawful-force.html",
+            "deadly force": "https://dictionary.findlaw.com/definition/deadly-force.html",
+            "lawful force": "https://dictionary.findlaw.com/definition/lawful-force.html",
+            "forcible entry": "https://dictionary.findlaw.com/definition/forcible-entry.html",
+            "elective share": "https://dictionary.findlaw.com/definition/elective-share.html",
+            "heir": "https://dictionary.findlaw.com/definition/heir.html",
+            "sale": "https://dictionary.findlaw.com/definition/sale.html"
+        }
+    }
+}

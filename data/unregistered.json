@@ -1,0 +1,14 @@
+{
+    "Unregistered": {
+        "definition": "not registered [charged with operating an motor vehicle] see also unregistered security at security",
+        "origin": "[charged with operating an motor vehicle]",
+        "sub_definitions": {
+            "1": {
+                "1": "not registered [charged with operating an motor vehicle] see also"
+            }
+        },
+        "references": {
+            "security": "https://dictionary.findlaw.com/definition/security.html"
+        }
+    }
+}

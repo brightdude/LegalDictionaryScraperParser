@@ -1,0 +1,21 @@
+{
+    "Revenue": {
+        "definition": "the total income produced by a given source [a property expected to yield a large annual ] 2",
+        "origin": "[a property expected to yield a large annual ]",
+        "sub_definitions": {
+            "1": {
+                "definition": "the total income produced by a given source [a property expected to yield a large annual ]"
+            },
+            "2": {
+                "definition": "the gross income returned by an investment"
+            },
+            "3": {
+                "definition": "the yield of sources of income (as taxes) that a political unit (as a nation or state) collects and receives into the treasury for public use"
+            },
+            "4": {
+                "definition": "a government department concerned with the collection of national revenue"
+            }
+        },
+        "references": {}
+    }
+}

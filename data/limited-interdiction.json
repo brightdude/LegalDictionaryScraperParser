@@ -1,0 +1,17 @@
+{
+    "Limited Interdiction": {
+        "definition": "partial removal of one's rights [under limited interdiction he could care for his person but not his estate] compare interdiction",
+        "origin": "[under limited interdiction he could care for his person but not his estate]",
+        "compare": "interdiction",
+        "sub_definitions": {
+            "1": {
+                "1": "partial removal of one's rights [under",
+                "limited interdiction": "he could care for his person but not his estate] compare",
+                "compares": "interdiction"
+            }
+        },
+        "references": {
+            "interdiction": "https://dictionary.findlaw.com/definition/interdiction.html"
+        }
+    }
+}

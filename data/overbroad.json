@@ -1,0 +1,19 @@
+{
+    "Overbroad": {
+        "definition": "not sufficiently restricted to a specific subject or purpose [an search] ;esp",
+        "origin": "[an search]",
+        "compare": "vague",
+        "sub_definitions": {
+            "1": {
+                "1": "not sufficiently restricted to a specific subject or purpose [an search]"
+            },
+            "2": {
+                "1": "characterized by a prohibition or chilling effect on constitutionally protected conduct [an statute] compare",
+                "compares": "vague"
+            }
+        },
+        "references": {
+            "vague": "https://dictionary.findlaw.com/definition/vague.html"
+        }
+    }
+}

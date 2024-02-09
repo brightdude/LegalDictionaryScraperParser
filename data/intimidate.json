@@ -1,0 +1,18 @@
+{
+    "Intimidate": {
+        "definition": "to make timid or fearful ;esp",
+        "origin": "[in-ti-mə-dā-shən]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to make timid or fearfulto compel or deter by or as if by threats see also",
+                "see also": "coercion"
+            },
+            "2": {
+                "definition": "to engage in the crime of intimidating (as a witness, juror, public officer in the performance of his or her duty, or victim of a robbery or other crime)"
+            }
+        },
+        "references": {
+            "coercion": "https://dictionary.findlaw.com/definition/coercion.html"
+        }
+    }
+}

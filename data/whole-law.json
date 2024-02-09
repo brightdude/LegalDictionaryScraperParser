@@ -1,0 +1,16 @@
+{
+    "Whole Law": {
+        "definition": "the entire body of laws of a state including its provisions for conflict of laws compare internal law",
+        "compare": "internal law",
+        "sub_definitions": {
+            "1": {
+                "1": "the entire body of laws of a state including its provisions for conflict of laws compare",
+                "compares": "internal law"
+            }
+        },
+        "references": {
+            "internal law": "https://dictionary.findlaw.com/definition/internal-law.html",
+            "renvoi": "https://dictionary.findlaw.com/definition/renvoi.html"
+        }
+    }
+}

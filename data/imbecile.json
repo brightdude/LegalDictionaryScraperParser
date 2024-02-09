@@ -1,0 +1,17 @@
+{
+    "Imbecile": {
+        "definition": "a mentally retarded or deficient person ;esp",
+        "sub_definitions": {
+            "1": {
+                "1": "a mentally retarded or deficient person"
+            },
+            "2": {
+                "1": "a severely mentally retarded person used esp. formerly ; see also",
+                "see also": "idiot"
+            }
+        },
+        "references": {
+            "idiot": "https://dictionary.findlaw.com/definition/idiot.html"
+        }
+    }
+}

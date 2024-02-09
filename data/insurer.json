@@ -1,0 +1,14 @@
+{
+    "Insurer": {
+        "definition": "one that contracts to indemnify another by way of insurance",
+        "sub_definitions": {
+            "1": {
+                "1": "one that contracts to indemnify another by way of insurance"
+            },
+            "2": {
+                "1": "an insurance company or underwriter"
+            }
+        },
+        "references": {}
+    }
+}

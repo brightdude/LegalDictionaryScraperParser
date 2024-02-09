@@ -1,0 +1,28 @@
+{
+    "Permissive": {
+        "definition": "based on or having permission [ occupancy] [a user of the vehicle] 2",
+        "origin": "[ occupancy]",
+        "sub_definitions": {
+            "1": {
+                "definition": "based on or having permission [ occupancy] [a user of the vehicle]"
+            },
+            "2": {
+                "definition": "granting permission or discretion (as to the court) [a statute]"
+            },
+            "3": {
+                "definition": "not compulsory",
+                "sub_terms": {
+                    "a": "allowed or made under a standard, rule, or provision that permits discretion or an option see alsoatatcompare",
+                    "b": "allowed under modern rules of civil procedure although not arising from the same transaction or occurrence as the one at issue in the original claim [a counterclaim] see alsoat"
+                },
+                "compares": "compulsory"
+            }
+        },
+        "references": {
+            "intervention": "https://dictionary.findlaw.com/definition/intervention.html",
+            "presumption": "https://dictionary.findlaw.com/definition/presumption.html",
+            "compulsory": "https://dictionary.findlaw.com/definition/compulsory.html",
+            "joinder": "https://dictionary.findlaw.com/definition/joinder.html"
+        }
+    }
+}

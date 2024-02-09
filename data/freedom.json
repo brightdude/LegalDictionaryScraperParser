@@ -1,0 +1,24 @@
+{
+    "Freedom": {
+        "definition": "the quality or state of being free",
+        "sub_definitions": {
+            "1": {
+                "definition": "the quality or state of being free",
+                "sub_terms": {
+                    "a": "the absence of necessity, coercion, or constraint in choice or action",
+                    "b": "liberation from slavery or restraint or from the power of another",
+                    "c": "the quality or state of being exempt or released from something onerous"
+                }
+            },
+            "2 a": {
+                "definition": "a political or civil right",
+                "sub_terms": {
+                    "b": ""
+                }
+            }
+        },
+        "references": {
+            "franchise": "https://dictionary.findlaw.com/definition/franchise.html"
+        }
+    }
+}

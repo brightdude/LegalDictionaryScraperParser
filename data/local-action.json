@@ -1,0 +1,15 @@
+{
+    "Local Action": {
+        "definition": "an action",
+        "compare": "transitory action",
+        "sub_definitions": {
+            "1": {
+                "1": "an action (as for trespassing) that must be brought in the venue that has jurisdiction over the situs or is otherwise designated by law compare",
+                "compares": "transitory action"
+            }
+        },
+        "references": {
+            "transitory action": "https://dictionary.findlaw.com/definition/transitory-action.html"
+        }
+    }
+}

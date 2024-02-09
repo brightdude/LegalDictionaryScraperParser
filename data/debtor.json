@@ -1,0 +1,20 @@
+{
+    "Debtor": {
+        "definition": "a person who owes a debt see also bankrupt compare creditor",
+        "compare": "bankrupt",
+        "sub_definitions": {
+            "1": {
+                "1": "a person who owes a debt see also",
+                "see also": "bankrupt",
+                "compares": "creditor",
+                "note": " The Bankruptcy Act of 1978 calls the person concerned in a bankruptcy case the “debtor” as opposed to the “bankrupt.”"
+            }
+        },
+        "references": {
+            "bankrupt": "https://dictionary.findlaw.com/definition/bankrupt.html",
+            "creditor": "https://dictionary.findlaw.com/definition/creditor.html",
+            "obligee": "https://dictionary.findlaw.com/definition/obligee.html",
+            "obligor": "https://dictionary.findlaw.com/definition/obligor.html"
+        }
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "Coerce": {
+        "definition": "to subject",
+        "sub_definitions": {
+            "co·erc·ing": {
+                "definition": "to subject (a person) to coercion compare,",
+                "compares": "importune"
+            }
+        },
+        "references": {
+            "importune": "https://dictionary.findlaw.com/definition/importune.html",
+            "solicit": "https://dictionary.findlaw.com/definition/solicit.html"
+        }
+    }
+}

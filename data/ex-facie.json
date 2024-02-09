@@ -1,0 +1,16 @@
+{
+    "Ex Facie": {
+        "definition": "on its face [valid ex facie ] compare prima facie",
+        "origin": "[New Latin, literally, from the appearance]",
+        "compare": "prima facie",
+        "sub_definitions": {
+            "1": {
+                "1": "on its face [valid",
+                "compares": "prima facie"
+            }
+        },
+        "references": {
+            "prima facie": "https://dictionary.findlaw.com/definition/prima-facie.html"
+        }
+    }
+}

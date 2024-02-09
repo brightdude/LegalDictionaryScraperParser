@@ -1,0 +1,14 @@
+{
+    "Express Malice": {
+        "definition": "actual malice at malice",
+        "sub_definitions": {
+            "1": {
+                "1": "actual malice"
+            }
+        },
+        "references": {
+            "actual malice": "https://dictionary.findlaw.com/definition/actual-malice.html",
+            "malice": "https://dictionary.findlaw.com/definition/malice.html"
+        }
+    }
+}

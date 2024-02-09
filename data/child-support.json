@@ -1,0 +1,16 @@
+{
+    "Child Support": {
+        "definition": "payment made for the support of the children of divorced or separated parents while the children are minors or until they reach an age set by the separation agreement or in a court order compare alimony NOTE",
+        "compare": "alimony",
+        "sub_definitions": {
+            "1": {
+                "1": "payment made for the support of the children of divorced or separated parents while the children are minors or until they reach an age set by the separation agreement or in a court order compare",
+                "compares": "alimony",
+                "note": " Child support is usually paid by the parent who is without custody. In the case of joint custody, both parents usually pay child support."
+            }
+        },
+        "references": {
+            "alimony": "https://dictionary.findlaw.com/definition/alimony.html"
+        }
+    }
+}

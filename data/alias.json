@@ -1,0 +1,25 @@
+{
+    "Alias": {
+        "definition": "otherwise called",
+        "origin": "[Latin, otherwise, from alius other]",
+        "compare": "pluries",
+        "sub_definitions": {
+            "1": {
+                "1": "otherwise called"
+            },
+            "2": {
+                "1": "also known as [John Thomas Nolan, Legs Diamond]"
+            },
+            "3": {
+                "1": "an assumed or additional name"
+            },
+            "4": {
+                "1": "issued after the original instrument has not produced any action [an tax warrant] [an summons] compare",
+                "compares": "pluries"
+            }
+        },
+        "references": {
+            "pluries": "https://dictionary.findlaw.com/definition/pluries.html"
+        }
+    }
+}

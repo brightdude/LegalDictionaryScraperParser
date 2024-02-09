@@ -1,0 +1,24 @@
+{
+    "Police": {
+        "definition": "to control",
+        "origin": "[ the area]",
+        "sub_definitions": {
+            "po·lic·ing": {
+                "definition": "to control, regulate, or keep in order esp. as an official duty [ the area]n"
+            },
+            "1": {
+                "definition": "the control and regulation of affairs affecting the order and welfare of a political unit and its citizens"
+            },
+            "2 a": {
+                "definition": "the department of a government or other institution that maintains order and safety and enforces laws",
+                "sub_terms": {
+                    "b": "",
+                    "c": "the members of a police force"
+                }
+            }
+        },
+        "references": {
+            "police force": "https://dictionary.findlaw.com/definition/police-force.html"
+        }
+    }
+}

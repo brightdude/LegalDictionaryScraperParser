@@ -1,0 +1,11 @@
+{
+    "Subchapter": {
+        "definition": "a subdivision of a chapter",
+        "sub_definitions": {
+            "1": {
+                "1": "a subdivision of a chapter (as of a statute or code)"
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "Landmark": {
+        "definition": "an object",
+        "origin": "[a decision]",
+        "sub_definitions": {
+            "1": {
+                "definition": "an object (as a stone or tree) that marks a boundary of land"
+            },
+            "2": {
+                "definition": "an event or development that marks a turning point or stage [a decision]"
+            },
+            "3": {
+                "definition": "a structure (as a building) of unusual historical or aesthetic interestone that is officially designated and set aside for preservation"
+            }
+        },
+        "references": {}
+    }
+}

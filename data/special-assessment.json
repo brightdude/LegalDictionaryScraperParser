@@ -1,0 +1,11 @@
+{
+    "Special Assessment": {
+        "definition": "a specific tax levied on private property to meet the cost of public improvements that provide a special benefit enhancing the value of the property",
+        "sub_definitions": {
+            "1": {
+                "1": "a specific tax levied on private property to meet the cost of public improvements that provide a special benefit enhancing the value of the property"
+            }
+        },
+        "references": {}
+    }
+}

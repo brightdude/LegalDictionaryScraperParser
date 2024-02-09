@@ -1,0 +1,14 @@
+{
+    "Short Rate": {
+        "definition": "an insurance premium charge for less than a year of coverage that is more than a pro rata part of the annual premium 2",
+        "sub_definitions": {
+            "1": {
+                "definition": "an insurance premium charge for less than a year of coverage that is more than a pro rata part of the annual premium"
+            },
+            "2": {
+                "definition": "an insurance policy written for less than one year called also"
+            }
+        },
+        "references": {}
+    }
+}

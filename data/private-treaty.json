@@ -1,0 +1,13 @@
+{
+    "Private Treaty": {
+        "definition": "a sale of property on terms determined between the buyer and the seller [got better prices by private treaty than his neighbors did at auction]",
+        "origin": "[got better prices by private treaty than his neighbors did at auction]",
+        "sub_definitions": {
+            "1": {
+                "1": "a sale of property on terms determined between the buyer and the seller [got better prices by",
+                "private treaty": "than his neighbors did at auction]"
+            }
+        },
+        "references": {}
+    }
+}

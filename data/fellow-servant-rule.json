@@ -1,0 +1,12 @@
+{
+    "Fellow-Servant Rule": {
+        "definition": "a common-law rule or doctrine in tort law",
+        "sub_definitions": {
+            "1": {
+                "1": "a common-law rule or doctrine in tort law: an employer is not liable for injuries inflicted on one employee by the fault of another employee during the course of his or her employment",
+                "note": " This rule is no longer used in most jurisdictions as a result of federal and state workers' compensation statutes."
+            }
+        },
+        "references": {}
+    }
+}

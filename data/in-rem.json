@@ -1,0 +1,20 @@
+{
+    "In Rem": {
+        "definition": "against or with respect to a thing",
+        "origin": "[Latin]",
+        "compare": "jurisdiction",
+        "sub_definitions": {
+            "1": {
+                "1": "against or with respect to a thing (as a right, status, or interest in property) without reference to the persons involved [when the Government is proceeding against property",
+                "Austin v. United States": "509 U.S. 602 (1993)\"] [",
+                "in rem": "action] see also",
+                "compares": "in personam"
+            }
+        },
+        "references": {
+            "jurisdiction": "https://dictionary.findlaw.com/definition/jurisdiction.html",
+            "in personam": "https://dictionary.findlaw.com/definition/in-personam.html",
+            "quasi in rem": "https://dictionary.findlaw.com/definition/quasi-in-rem.html"
+        }
+    }
+}

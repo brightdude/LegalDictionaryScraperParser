@@ -1,0 +1,18 @@
+{
+    "Equivalent": {
+        "definition": "something that performs substantially the same function as another thing in substantially the same way compare aggregation",
+        "compare": "aggregation",
+        "sub_definitions": {
+            "1": {
+                "1": "something that performs substantially the same function as another thing in substantially the same way compare",
+                "compares": "aggregation",
+                "note": " Under patent law, a patentee may bring a claim for infringement against the inventor of an equivalent."
+            }
+        },
+        "references": {
+            "aggregation": "https://dictionary.findlaw.com/definition/aggregation.html",
+            "combination": "https://dictionary.findlaw.com/definition/combination.html",
+            "invention": "https://dictionary.findlaw.com/definition/invention.html"
+        }
+    }
+}

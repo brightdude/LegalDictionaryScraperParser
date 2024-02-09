@@ -1,0 +1,14 @@
+{
+    "Compensatory Damages": {
+        "definition": "actual damages at damage",
+        "sub_definitions": {
+            "1": {
+                "1": "actual damages"
+            }
+        },
+        "references": {
+            "actual damages": "https://dictionary.findlaw.com/definition/actual-damages.html",
+            "damage": "https://dictionary.findlaw.com/definition/damage.html"
+        }
+    }
+}

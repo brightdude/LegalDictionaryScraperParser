@@ -1,0 +1,15 @@
+{
+    "Unearned Income": {
+        "definition": "income",
+        "compare": "earned income",
+        "sub_definitions": {
+            "1": {
+                "1": "income (as interest and dividends) that is not gained by labor, service, or skill compare",
+                "compares": "earned income"
+            }
+        },
+        "references": {
+            "earned income": "https://dictionary.findlaw.com/definition/earned-income.html"
+        }
+    }
+}

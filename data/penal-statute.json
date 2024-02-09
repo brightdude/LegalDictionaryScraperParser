@@ -1,0 +1,16 @@
+{
+    "Penal Statute": {
+        "definition": "penal law ;esp",
+        "sub_definitions": {
+            "1": {
+                "1": "penal law"
+            },
+            "2": {
+                "1": "a law that calls for a penalty as opposed to one providing for a remedy for a wronged party"
+            }
+        },
+        "references": {
+            "penal law": "https://dictionary.findlaw.com/definition/penal-law.html"
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "Invest": {
+        "definition": "to install in an office or position 2 a",
+        "origin": "[Medieval Latin investire , from Latin, to clothe, from in- in + vestis garment]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to commit (money) in order to earn a financial return"
+            },
+            "2 a": {
+                "definition": "to furnish with or formally grant power or authority",
+                "sub_terms": {
+                    "b": "to grant someone control or authority overvb  [Italianto clothe, invest money, from Latin, to clothe]"
+                },
+                "investire": "to clothe, invest money, from Latin, to clothe]"
+            },
+            "2": {
+                "definition": "to make use of for future benefits or advantagesto commit funds or purchase something of intrinsic value for future gainmake an investment often used with[in precious metals]",
+                "ing": "in precious metals]"
+            }
+        },
+        "references": {
+            "vest": "https://dictionary.findlaw.com/definition/vest.html"
+        }
+    }
+}

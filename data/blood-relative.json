@@ -1,0 +1,15 @@
+{
+    "Blood Relative": {
+        "definition": "a relative by common descent compare affine",
+        "compare": "affine",
+        "sub_definitions": {
+            "1": {
+                "1": "a relative by common descent compare",
+                "compares": "affine"
+            }
+        },
+        "references": {
+            "affine": "https://dictionary.findlaw.com/definition/affine.html"
+        }
+    }
+}

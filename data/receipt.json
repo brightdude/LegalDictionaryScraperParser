@@ -1,0 +1,17 @@
+{
+    "Receipt": {
+        "definition": "the act",
+        "sub_definitions": {
+            "1": {
+                "definition": "the act, process, or fact of taking possession"
+            },
+            "2": {
+                "definition": "something (as income) received usually used in pl."
+            },
+            "3": {
+                "definition": "a writing acknowledging the receiving of goods or money"
+            }
+        },
+        "references": {}
+    }
+}

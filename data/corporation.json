@@ -1,0 +1,54 @@
+{
+    "Corporation": {
+        "definition": "an invisible",
+        "origin": "[Late Latin corporatio , from Latin corporare to form into a body, from corpor - corpus body]",
+        "compare": "pierce",
+        "sub_definitions": {
+            "close corporation": {
+                "definition": "[klōs-]a corporation whose shares are held by a small number of individuals (as management) and not publicly tradedin this entry called alsocomparein this entry",
+                "compares": "public corporation"
+            },
+            "foreign corporation": {
+                "definition": "a corporation organized under the laws of a state or government other than that in which it is doing business"
+            },
+            "government corporation": {
+                "definition": "in this entry"
+            },
+            "moneyed corporation": {
+                "definition": "a corporation (as a bank) authorized to engage in the investment, exchange, or lending of moneyed capital"
+            },
+            "municipal corporation": {
+                "definition": "a political unit created or otherwise given corporate status (as by a charter) by a superior governing authority (as a state) and endowed with powers of local self-government (as eminent domain)a public corporation (as a utility) created to act as an agency of administration and local self-government",
+                "note": " As a result of its incorporation, a municipal corporation has the capacity to sue and be sued. Citizens as well as officials are usually considered part of a municipal corporation."
+            },
+            "professional corporation": {
+                "definition": "a corporation organized by one or more licensed individuals (as a doctor or lawyer) to provide professional services and obtain tax advantages"
+            },
+            "1": {
+                "definition": "a corporation that exists as a legal entity without independent assets or operations as an instrument by which another company or corporation can carry out dealings usually unrelated to its primary business"
+            },
+            "2": {
+                "definition": "a corporation formed for purposes of tax evasion or acquisition or merger rather than for a legitimate business purpose"
+            },
+            "S corporation": {
+                "definition": "a small business corporation that is treated for federal tax purposes as a partnership called also"
+            },
+            "small business corporation": {
+                "definition": "a corporation described in section 1361 of the Internal Revenue Code that has 35 shareholders or less and only one class of stock and that may if eligible elect to be an S corporation and taxed accordingly"
+            },
+            "subchapter S corporation": {
+                "definition": "in this entry"
+            }
+        },
+        "references": {
+            "pierce": "https://dictionary.findlaw.com/definition/pierce.html",
+            "association": "https://dictionary.findlaw.com/definition/association.html",
+            "partnership": "https://dictionary.findlaw.com/definition/partnership.html",
+            "sole proprietorship": "https://dictionary.findlaw.com/definition/sole-proprietorship.html",
+            "small business corporation": "https://dictionary.findlaw.com/definition/small-business-corporation.html",
+            "public corporation": "https://dictionary.findlaw.com/definition/public-corporation.html",
+            "close corporation": "https://dictionary.findlaw.com/definition/close-corporation.html",
+            "s corporation": "https://dictionary.findlaw.com/definition/s-corporation.html"
+        }
+    }
+}

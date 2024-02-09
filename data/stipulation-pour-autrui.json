@@ -1,0 +1,13 @@
+{
+    "Stipulation Pour Autrui": {
+        "definition": "a contract or provision in a contract that confers a benefit on a third-party beneficiary NOTE",
+        "origin": "[French, stipulation for other persons]",
+        "sub_definitions": {
+            "1": {
+                "1": "a contract or provision in a contract that confers a benefit on a third-party beneficiary",
+                "note": " A stipulation pour autrui gives the third-party beneficiary a cause of action against the promisor for specific performance. In order for a third party to be a third-party beneficiary of a stipulation pour autrui there usually has to be a legal or factual relationship between the stipulator and the beneficiary."
+            }
+        },
+        "references": {}
+    }
+}

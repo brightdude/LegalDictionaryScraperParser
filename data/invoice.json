@@ -1,0 +1,16 @@
+{
+    "Invoice": {
+        "definition": "an itemized statement furnished to a purchaser by a seller and usually specifying the price of goods or services and the terms of sale",
+        "sub_definitions": {
+            "1": {
+                "definition": "an itemized statement furnished to a purchaser by a seller and usually specifying the price of goods or services and the terms of sale"
+            },
+            "2": {
+                "definition": "a consignment of merchandise"
+            }
+        },
+        "references": {
+            "bill": "https://dictionary.findlaw.com/definition/bill.html"
+        }
+    }
+}

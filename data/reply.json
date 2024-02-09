@@ -1,0 +1,11 @@
+{
+    "Reply": {
+        "definition": "a plaintiff's or complainant's response to a plea",
+        "sub_definitions": {
+            "1": {
+                "1": "a plaintiff's or complainant's response to a plea, allegation, or counterclaim in the defendant's answer"
+            }
+        },
+        "references": {}
+    }
+}

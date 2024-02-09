@@ -1,0 +1,18 @@
+{
+    "Executive Order": {
+        "definition": "an order issued by a government's executive on the basis of authority specifically granted to the executive branch",
+        "origin": "[the National Security Agency was created by an executive order ]",
+        "compare": "proclamation",
+        "sub_definitions": {
+            "1": {
+                "1": "an order issued by a government's executive on the basis of authority specifically granted to the executive branch (as by the U.S. Constitution or a congressional act) [the National Security Agency was created by an",
+                "compares": "proclamation",
+                "note": " An executive order from the president does not have the force of law until it is printed in the Federal Register."
+            }
+        },
+        "references": {
+            "proclamation": "https://dictionary.findlaw.com/definition/proclamation.html",
+            "statute": "https://dictionary.findlaw.com/definition/statute.html"
+        }
+    }
+}

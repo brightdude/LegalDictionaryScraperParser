@@ -1,0 +1,14 @@
+{
+    "County Commission": {
+        "definition": "a commission for a county 2",
+        "sub_definitions": {
+            "1": {
+                "definition": "a commission for a county"
+            },
+            "2": {
+                "definition": "a court in West Virginia having jurisdiction over certain probate matters including civil commitments"
+            }
+        },
+        "references": {}
+    }
+}

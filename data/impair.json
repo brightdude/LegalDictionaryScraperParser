@@ -1,0 +1,19 @@
+{
+    "Impair": {
+        "definition": "to damage or make worse by or as if by diminishing [ ed health] 2",
+        "origin": "[ ed health]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to damage or make worse by or as if by diminishing [health]"
+            },
+            "2": {
+                "definition": "to diminish the value of (property or property rights)to diminish the value of (legal contractual obligations) to the point that a party loses the benefit of the contract or the contract otherwise becomes invalid [a lawa state's own obligations was entitled to less deference \"Gerald Gunther\"] see also",
+                "see also": "contract clause",
+                "ing": "a state's own obligations was entitled to less deference \"Gerald Gunther\"] see also"
+            }
+        },
+        "references": {
+            "contract clause": "https://dictionary.findlaw.com/definition/contract-clause.html"
+        }
+    }
+}

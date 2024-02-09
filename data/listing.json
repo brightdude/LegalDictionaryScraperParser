@@ -1,0 +1,33 @@
+{
+    "Listing": {
+        "definition": "an arrangement",
+        "sub_definitions": {
+            "1": {
+                "definition": "an arrangement, agreement, or contract for the marketing of real property through one or more real estate agents usually for a specific period called also"
+            },
+            "exclusive agency listing": {
+                "definition": "a listing under which only one agent may sell the property but without the right to a commission if the owner sells it directly",
+                "note": " An agent is usually still entitled to a commission if the owner sells directly to a buyer who was introduced into the process by the agent, even if the sale occurs after the agreement expires."
+            },
+            "exclusive right to sell listing": {
+                "definition": "a listing under which only one agent may sell the property and is entitled to a commission if the owner sells it directly to any party"
+            },
+            "multiple listing": {
+                "definition": "an agreement or arrangement under which real property is marketed through a service or association composed of several agents with a commission from the sale of a property shared between the selling agent and the agent that initiates the listing of it"
+            },
+            "net listing": {
+                "definition": "a listing under which the agent that sells a property retains as compensation the amount of the selling price that exceeds a specified sum"
+            },
+            "open listing": {
+                "definition": "a listing that does not preclude the use of multiple agents or a direct sale by the owner with no commission paid to an agent called also"
+            },
+            "2 a": {
+                "definition": "a record of a property or properties available through a real estate agent",
+                "sub_terms": {
+                    "b": "a property listed in such a record"
+                }
+            }
+        },
+        "references": {}
+    }
+}

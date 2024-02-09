@@ -1,0 +1,15 @@
+{
+    "Penalty": {
+        "definition": "-ties 1",
+        "origin": "[the court declined to enforce the contractual and determined actual damages instead]",
+        "sub_definitions": {
+            "1": {
+                "definition": "a punishment that is imposed on a wrongdoer by statute or judicial decision"
+            },
+            "2": {
+                "definition": "a pecuniary sum that by agreement is to be paid by a party who fails to fulfill an obligation to another and that is punitive rather than compensatory [the court declined to enforce the contractual and determined actual damages instead]"
+            }
+        },
+        "references": {}
+    }
+}

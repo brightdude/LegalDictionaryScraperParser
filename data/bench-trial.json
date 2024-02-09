@@ -1,0 +1,15 @@
+{
+    "Bench Trial": {
+        "definition": "a trial in which there is no jury and the judge decides the case compare jury trial",
+        "compare": "jury trial",
+        "sub_definitions": {
+            "1": {
+                "1": "a trial in which there is no jury and the judge decides the case compare",
+                "compares": "jury trial"
+            }
+        },
+        "references": {
+            "jury trial": "https://dictionary.findlaw.com/definition/jury-trial.html"
+        }
+    }
+}

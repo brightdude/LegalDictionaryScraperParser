@@ -1,0 +1,40 @@
+{
+    "Draft": {
+        "definition": "a preliminary version of something",
+        "origin": "[ ing legislation]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to select for some purposeto conscript for military service"
+            },
+            "2 a": {
+                "definition": "a system for or act of selecting individuals from a group (as for military service)",
+                "sub_terms": {
+                    "b": "the act or process of selecting an individual (as for political candidacy) without his or her expressed consent"
+                }
+            },
+            "3": {
+                "definition": "an order for the payment of money drawn by one person or bank on another see also,compare",
+                "compares": "check",
+                "see also": "drawee"
+            },
+            "documentary draft": {
+                "definition": "a draft that will be honored only upon the presentation of certain documents (as an invoice or certificate of title)"
+            },
+            "sight draft": {
+                "definition": "a draft payable on presentation"
+            },
+            "time draft": {
+                "definition": "a draft payable a specified number of days after the date of the draft or of its presentationvt"
+            },
+            "2": {
+                "definition": "to compose or prepare esp. the preliminary version of [legislation]to practice draftsmanship",
+                "ing": "legislation]"
+            }
+        },
+        "references": {
+            "drawee": "https://dictionary.findlaw.com/definition/drawee.html",
+            "drawer": "https://dictionary.findlaw.com/definition/drawer.html",
+            "check": "https://dictionary.findlaw.com/definition/check.html"
+        }
+    }
+}

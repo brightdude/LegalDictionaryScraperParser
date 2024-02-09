@@ -1,0 +1,17 @@
+{
+    "Secondary Market": {
+        "definition": "the market in which previously issued securities are sold compare primary market 2",
+        "sub_definitions": {
+            "1": {
+                "definition": "the market in which previously issued securities are sold compare",
+                "compares": "primary market"
+            },
+            "2": {
+                "definition": "the market in which existing mortgages are bought and sold"
+            }
+        },
+        "references": {
+            "primary market": "https://dictionary.findlaw.com/definition/primary-market.html"
+        }
+    }
+}

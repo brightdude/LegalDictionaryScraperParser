@@ -1,0 +1,9 @@
+{
+    "Root": {
+        "definition": "descendant by roots",
+        "sub_definitions": {},
+        "references": {
+            "descendant": "https://dictionary.findlaw.com/definition/descendant.html"
+        }
+    }
+}

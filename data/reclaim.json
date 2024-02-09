@@ -1,0 +1,19 @@
+{
+    "Reclaim": {
+        "definition": "to make fit or available for human use [ ing land that had been strip-mined] 2 a",
+        "origin": "[ ing land that had been strip-mined]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to make fit or available for human use [land that had been strip-mined]",
+                "ing": "land that had been strip-mined]"
+            },
+            "2 a": {
+                "definition": "to demand the return of by right",
+                "sub_terms": {
+                    "b": "to regain possession of"
+                }
+            }
+        },
+        "references": {}
+    }
+}

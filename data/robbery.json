@@ -1,0 +1,21 @@
+{
+    "Robbery": {
+        "definition": "-ber·ies [Anglo-French robberie roberie",
+        "origin": "[Anglo-French robberie roberie , from Old French, from rober to take something away from a person by force]",
+        "sub_definitions": {
+            "-ber·ies": {
+                "definition": "[Anglo-French, from Old French, fromto take something away from a person by force]the unlawful taking away of personal property from a person by violence or by threat of violence that causes fearlarceny from the person or immediate presence of another by violence or threat of violence and with intent to steal"
+            },
+            "aggravated robbery": {
+                "definition": "robbery committed with aggravating factors (as use of a weapon, infliction of bodily injury, or use of an accomplice)"
+            },
+            "armed robbery": {
+                "definition": "robbery committed by a person armed with a dangerous or deadly weapon"
+            },
+            "simple robbery": {
+                "definition": "robbery that does not involve any aggravating factors"
+            }
+        },
+        "references": {}
+    }
+}

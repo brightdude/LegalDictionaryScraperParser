@@ -1,0 +1,32 @@
+{
+    "Franchise": {
+        "definition": "a special right or privilege granted by the government to an individual",
+        "origin": "[Anglo-French, literally, freedom, liberty, from Middle French, from franchir to free, from Old French franc free]",
+        "sub_definitions": {
+            "1": {
+                "definition": "a special right or privilege granted by the government to an individual, group, or business entity",
+                "sub_terms": {
+                    "a": "a right to conduct a business and esp. to be and to exercise the powers of a corporation",
+                    "b": "a right granted to a public utility company to provide services and to use public land for that purpose"
+                }
+            },
+            "2": {
+                "definition": "a constitutional or statutory rightthe right to vote used with[restricting them in employment, education, the , legal personality, and public accommodation \"W. H. Burns\"]",
+                "the": "[restricting them in employment, education, the , legal personality, and public accommodation \"W. H. Burns\"]"
+            },
+            "3": {
+                "definition": "a right or license that is granted to an individual or group to market a company's goods or services in a particular territory under the company's trademark, trade name, or service mark and that often involves the use of rules and procedures designed by the company and services (as advertising) and facilities provided by the company in return for fees, royalties, or other compensationa business granted such a right or license [ran a fast-food ]"
+            },
+            "4 a": {
+                "definition": "an amount of liability (as a percentage or sum) specified in an insurance contract below which an insurer disclaims liability and above which the insurer assumes total liability compare",
+                "sub_terms": {
+                    "b": "group insurance covering fewer than the minimum number of participants required by law for such coverage"
+                },
+                "compares": "deductible"
+            }
+        },
+        "references": {
+            "deductible": "https://dictionary.findlaw.com/definition/deductible.html"
+        }
+    }
+}

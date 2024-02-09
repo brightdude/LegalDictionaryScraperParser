@@ -1,0 +1,17 @@
+{
+    "Collation": {
+        "definition": "the actual or supposed return of goods to the mass of the succession that is made by an heir who received property in advance for the purpose of having the property divided with the rest of the succession compare hotchpot NOTE",
+        "origin": "[French, from Latin collatio bonorum (in Roman law) contribution made by emancipated heirs to an estate under an intestate succession, literally, bringing together of goods]",
+        "compare": "hotchpot",
+        "sub_definitions": {
+            "1": {
+                "1": "the actual or supposed return of goods to the mass of the succession that is made by an heir who received property in advance for the purpose of having the property divided with the rest of the succession compare",
+                "compares": "hotchpot",
+                "note": " Children and grandchildren of a decedent must return anything that they received in advance by donation inter vivos. Further, they cannot claim legacies made to them unless made expressly by the decedent as an advantage over their coheirs to be received besides their portion of the succession. Donations made to a grandchild by a grandparent during the life of the child's father are not subject to collation. A collation may be made in kind by the actual delivering up of the thing given, or by taking less from the succession in proportion to the value of the thing received in advance."
+            }
+        },
+        "references": {
+            "hotchpot": "https://dictionary.findlaw.com/definition/hotchpot.html"
+        }
+    }
+}

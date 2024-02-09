@@ -1,0 +1,19 @@
+{
+    "Assumption Of Risk": {
+        "definition": "a doctrine that a person may in advance relieve another person of the obligation to act towards him or her with due care and may accept the chance of being injured ;also",
+        "compare": "negligence",
+        "sub_definitions": {
+            "1": {
+                "1": "a doctrine that a person may in advance relieve another person of the obligation to act towards him or her with due care and may accept the chance of being injured"
+            },
+            "2": {
+                "1": "an affirmative defense that the plaintiff cannot receive compensation for injuries from the defendant because the plaintiff freely and knowingly assumed the risk of injury and relieved the defendant of the obligation to act with reasonable care compare",
+                "note": " Assumption of risk may be express or may be implied from the plaintiff's words and actions. Assumption of risk has been abolished in certain types of cases, such as workers' compensation cases."
+            }
+        },
+        "references": {
+            "negligence": "https://dictionary.findlaw.com/definition/negligence.html",
+            "volenti non fit injuria": "https://dictionary.findlaw.com/definition/volenti-non-fit-injuria.html"
+        }
+    }
+}

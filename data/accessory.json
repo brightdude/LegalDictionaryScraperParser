@@ -1,0 +1,30 @@
+{
+    "Accessory": {
+        "definition": "-ries [Medieval Latin accessorius subordinate matter",
+        "origin": "[ik-se-sə-rē, ak-]",
+        "sub_definitions": {
+            "-ries": {
+                "definition": "[Medieval Latinsubordinate matter, accomplice to a crime, from Latinto go to, agree, assent]",
+                "accessorius": "subordinate matter, accomplice to a crime, from Latin",
+                "accedere": "to go to, agree, assent]"
+            },
+            "1": {
+                "definition": "a person who is not actually or constructively present but with criminal intent contributes as an assistant or instigator to the commission of a felony called alsocompareat",
+                "note": " The traditional distinction between accessories before the fact and principals, that accessories were not present and principals were present at the commission of the crime, is not recognized under most modern state statutes. Accessories before the fact are usually considered principals."
+            },
+            "2": {
+                "definition": "a person who knowing that a felony has been committed aids, assists, or shelters the offender with the intent to defeat justice called also",
+                "note": " Many state statutes now omit the termaccessory after the factand instead characterize the accessory as having committed a particular offense, such as obstructing justice."
+            },
+            "3": {
+                "definition": "the crime of being an accessory usually used withand specifying the crime [convicted of murder and to murder \"H. B. Zobel\"]; compare",
+                "compares": "substantive crime",
+                "to": "and specifying the crime [convicted of murder and to murder \"H. B. Zobel\"]; compare"
+            }
+        },
+        "references": {
+            "principal": "https://dictionary.findlaw.com/definition/principal.html",
+            "substantive crime": "https://dictionary.findlaw.com/definition/substantive-crime.html"
+        }
+    }
+}

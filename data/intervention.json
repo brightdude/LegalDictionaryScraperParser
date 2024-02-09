@@ -1,0 +1,20 @@
+{
+    "Intervention": {
+        "definition": "the act or an instance of intervening ;specif",
+        "compare": "impleader",
+        "sub_definitions": {
+            "intervention of right": {
+                "definition": "intervention allowed in federal civil procedure when a statute grants an absolute right to intervene or when the applicant claims an interest in the subject of the proceeding that the applicant may be impeded from protecting by the disposition of the proceeding",
+                "note": " Intervention of right will not be granted if the court considers that the applicant's interest is already adequately represented."
+            },
+            "permissive intervention": {
+                "definition": "intervention allowed in federal civil procedure when a statute grants a conditional right to intervene or when the applicant's claim has a question of law or fact in common with the proceeding"
+            }
+        },
+        "references": {
+            "impleader": "https://dictionary.findlaw.com/definition/impleader.html",
+            "interpleader": "https://dictionary.findlaw.com/definition/interpleader.html",
+            "joinder": "https://dictionary.findlaw.com/definition/joinder.html"
+        }
+    }
+}

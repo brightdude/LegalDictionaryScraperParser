@@ -1,0 +1,36 @@
+{
+    "Call": {
+        "definition": "to announce or recite loudly [ ed the civil trial list] 2",
+        "origin": "[ ed the civil trial list]",
+        "sub_definitions": {
+            "1": {
+                "definition": "a demand for payment of money",
+                "sub_terms": {
+                    "a": "a notice by the U.S. Treasury to depositories to transfer part of its deposit balance to the Federal Reserve bank",
+                    "b": "a notice to a stockholder or subscriber to pay an assessment or an installment of subscription to capital"
+                }
+            },
+            "2": {
+                "definition": "at"
+            },
+            "3": {
+                "definition": "to demand payment of esp. by formal notice [ a loan]"
+            },
+            "4": {
+                "definition": "to demand presentation of (as a bond or option) for redemptionn",
+                "note": " A security issuer may call a security only if calling it is previously provided for, as, for example, in the indenture for a bond or in the stock agreement for preferred stock. The issuer usually pays the holder a premium for a called security."
+            },
+            "3 a": {
+                "definition": "a formal announcement or recitation [the daily of the motion calendar]",
+                "sub_terms": {
+                    "b": "[the speaker ordered a of the house]"
+                }
+            }
+        },
+        "references": {
+            "call option": "https://dictionary.findlaw.com/definition/call-option.html",
+            "option": "https://dictionary.findlaw.com/definition/option.html",
+            "roll call": "https://dictionary.findlaw.com/definition/roll-call.html"
+        }
+    }
+}

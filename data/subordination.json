@@ -1,0 +1,17 @@
+{
+    "Subordination": {
+        "definition": "an act or instance of subordinating ;also",
+        "sub_definitions": {
+            "1": {
+                "1": "an act or instance of subordinating"
+            },
+            "2": {
+                "1": "the remedy of subordinating a claim see also",
+                "see also": "equitable subordination"
+            }
+        },
+        "references": {
+            "equitable subordination": "https://dictionary.findlaw.com/definition/equitable-subordination.html"
+        }
+    }
+}

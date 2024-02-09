@@ -1,0 +1,8 @@
+{
+    "Revenue Bill": {
+        "definition": "Revenue Bill",
+        "references": {
+            "bill": "https://dictionary.findlaw.com/definition/bill.html"
+        }
+    }
+}

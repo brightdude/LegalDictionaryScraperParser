@@ -1,0 +1,15 @@
+{
+    "Parliamentarian": {
+        "definition": "an expert in the rules and usages of a parliament or other deliberative assembly ;specif often cap",
+        "sub_definitions": {
+            "1": {
+                "definition": "an expert in the rules and usages of a parliament or other deliberative assemblyan officer of a legislative body acting as adviser to the presiding officer on matters of procedure",
+                "note": " The parliamentarian of the U.S. House of Representatives is appointed by the Speaker of the House. The Secretary of the Senate appoints the Senate's parliamentarian with approval of the majority leader."
+            },
+            "2": {
+                "definition": "a member of a parliament"
+            }
+        },
+        "references": {}
+    }
+}

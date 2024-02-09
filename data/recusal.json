@@ -1,0 +1,15 @@
+{
+    "Recusal": {
+        "definition": "an act",
+        "compare": "challenge",
+        "sub_definitions": {
+            "1": {
+                "1": "an act, procedure, or fact of recusing compare",
+                "compares": "challenge"
+            }
+        },
+        "references": {
+            "challenge": "https://dictionary.findlaw.com/definition/challenge.html"
+        }
+    }
+}

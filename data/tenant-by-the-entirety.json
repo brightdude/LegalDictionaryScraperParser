@@ -1,0 +1,11 @@
+{
+    "Tenant By The Entirety": {
+        "definition": "any of the parties holding a piece of property as a tenancy by the entirety",
+        "sub_definitions": {
+            "1": {
+                "1": "any of the parties holding a piece of property as a tenancy by the entirety"
+            }
+        },
+        "references": {}
+    }
+}

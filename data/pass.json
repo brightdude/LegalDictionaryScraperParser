@@ -1,0 +1,43 @@
+{
+    "Pass": {
+        "definition": "to issue a decision",
+        "origin": "[the Supreme Court ed on a statute]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "to issue a decision, verdict, or opinion [the Supreme Courton a statute]",
+                "sub_terms": {
+                    "b": "to be legally issued [judgmentby default]"
+                },
+                "ed": "by default]"
+            },
+            "2": {
+                "definition": "to go from the control, ownership, or possession of one person or group to that of another [titleto the buyer]",
+                "es": "to the buyer]"
+            },
+            "1": {
+                "definition": "to omit a regularly scheduled declaration and payment of (a dividend)"
+            },
+            "2 a": {
+                "definition": "to get the approval of [the billthe House]",
+                "sub_terms": {
+                    "b": "to give approval or legal sanction to [the Housethe bill]"
+                }
+            },
+            "3": {
+                "definition": "to transfer the right to or interest in [the salethe title to the goods]",
+                "es": "the title to the goods]"
+            },
+            "4": {
+                "definition": "to put in circulation [ bad checks] compare",
+                "compares": "utter"
+            },
+            "5": {
+                "definition": "to pronounce (as a sentence or judgment) judicially [the courta severe sentence]",
+                "ed": "a severe sentence]"
+            }
+        },
+        "references": {
+            "utter": "https://dictionary.findlaw.com/definition/utter.html"
+        }
+    }
+}

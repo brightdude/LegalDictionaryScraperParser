@@ -1,0 +1,23 @@
+{
+    "Speech": {
+        "definition": "words or conduct used to communicate or express a thought",
+        "sub_definitions": {
+            "1": {
+                "1": "words or conduct used to communicate or express a thought"
+            },
+            "2": {
+                "1": "expression",
+                "see also": "commercial speech"
+            }
+        },
+        "references": {
+            "expression": "https://dictionary.findlaw.com/definition/expression.html",
+            "commercial speech": "https://dictionary.findlaw.com/definition/commercial-speech.html",
+            "freedom of speech": "https://dictionary.findlaw.com/definition/freedom-of-speech.html",
+            "free speech": "https://dictionary.findlaw.com/definition/free-speech.html",
+            "obscene": "https://dictionary.findlaw.com/definition/obscene.html",
+            "symbolic speech": "https://dictionary.findlaw.com/definition/symbolic-speech.html",
+            "Constitution": "https://dictionary.findlaw.com/definition/constitution.html"
+        }
+    }
+}

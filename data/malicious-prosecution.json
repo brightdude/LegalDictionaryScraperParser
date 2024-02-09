@@ -1,0 +1,18 @@
+{
+    "Malicious Prosecution": {
+        "definition": "the tort of initiating a criminal prosecution or civil suit against another party with malice and without probable cause ;also",
+        "compare": "abuse of process",
+        "sub_definitions": {
+            "1": {
+                "1": "the tort of initiating a criminal prosecution or civil suit against another party with malice and without probable cause"
+            },
+            "2": {
+                "1": "an action for damages based on this tort brought after termination of the proceedings in favor of the party seeking damages called also",
+                "compares": "abuse of process"
+            }
+        },
+        "references": {
+            "abuse of process": "https://dictionary.findlaw.com/definition/abuse-of-process.html"
+        }
+    }
+}

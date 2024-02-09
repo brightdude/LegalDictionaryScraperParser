@@ -1,0 +1,11 @@
+{
+    "Equitable Election": {
+        "definition": "the choice that a beneficiary of an instrument",
+        "sub_definitions": {
+            "1": {
+                "1": "the choice that a beneficiary of an instrument (as a will) must make to forgo a challenge to the instrument and accept the benefit or vice versa"
+            }
+        },
+        "references": {}
+    }
+}

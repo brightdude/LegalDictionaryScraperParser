@@ -1,0 +1,23 @@
+{
+    "Delivery": {
+        "definition": "-er·ies",
+        "sub_definitions": {
+            "-er·ies": {
+                "definition": "an act that shows a transferor's intent to make a transfer of property (as a gift)the transfer of possession or exclusive control of property to another"
+            },
+            "actual delivery": {
+                "definition": "a delivery (as by hand or shipment) of actual physical property (as jewelry or stock certificates)"
+            },
+            "conditional delivery": {
+                "definition": "a delivery after which ownership will be transferred upon fulfillment of a condition compareat",
+                "note": " A conditional delivery is usually made in order to make a transfer revocable."
+            },
+            "constructive delivery": {
+                "definition": "a delivery of a representation of property (as a written instrument) or means of possession (as a key) that is construed by a court as sufficient to show the transferor's intent or to put the property under the transferee's control called also"
+            }
+        },
+        "references": {
+            "gift": "https://dictionary.findlaw.com/definition/gift.html"
+        }
+    }
+}

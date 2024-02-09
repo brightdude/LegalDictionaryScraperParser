@@ -1,0 +1,11 @@
+{
+    "Floating Zone": {
+        "definition": "a zone that is to be used for a designated purpose and that is approved as to particular characteristics",
+        "sub_definitions": {
+            "1": {
+                "1": "a zone that is to be used for a designated purpose and that is approved as to particular characteristics (as size and type of buildings) but whose location is to be determined in the future"
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "Entity": {
+        "definition": "-ties",
+        "sub_definitions": {
+            "-ties": {
+                "definition": "an organization (as a business or governmental unit) that has a legal identity which is separate from those of its members see also,,,,",
+                "see also": "alter ego"
+            }
+        },
+        "references": {
+            "alter ego": "https://dictionary.findlaw.com/definition/alter-ego.html",
+            "instrumentality": "https://dictionary.findlaw.com/definition/instrumentality.html",
+            "juridical person": "https://dictionary.findlaw.com/definition/juridical-person.html",
+            "legal person": "https://dictionary.findlaw.com/definition/legal-person.html",
+            "pierce": "https://dictionary.findlaw.com/definition/pierce.html"
+        }
+    }
+}

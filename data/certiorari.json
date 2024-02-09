@@ -1,0 +1,17 @@
+{
+    "Certiorari": {
+        "definition": "an extraordinary writ issued by a superior court",
+        "origin": "[Medieval Latin certiorari ( volumus ) (we wish) to be informed (words used in the Latin texts of such writs)]",
+        "compare": "appeal",
+        "sub_definitions": {
+            "1": {
+                "1": "an extraordinary writ issued by a superior court (as the Supreme Court) to call up the records of a particular case from an inferior judicial body (as a Court of Appeals) see also the Judicial System in the back matter compare",
+                "compares": "appeal",
+                "note": " Certiorari is one of the two ways to have a case from a U.S. Court of Appeals reviewed by the U.S. Supreme Court. Certification is the other. The Supreme Court may also use certiorari to review a decision by a state's highest court when there is a question as to the validity of a federal treaty or statute, or of a state statute on constitutional grounds. Certiorari is also used within state court systems."
+            }
+        },
+        "references": {
+            "appeal": "https://dictionary.findlaw.com/definition/appeal.html"
+        }
+    }
+}

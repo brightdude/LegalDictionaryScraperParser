@@ -1,0 +1,14 @@
+{
+    "Swap": {
+        "definition": "an exchange of securities 2",
+        "sub_definitions": {
+            "1": {
+                "definition": "an exchange of securities"
+            },
+            "2": {
+                "definition": "a derivative contract in which two parties (as corporations) agree to exchange rates esp. relating to debt"
+            }
+        },
+        "references": {}
+    }
+}

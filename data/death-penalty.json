@@ -1,0 +1,16 @@
+{
+    "Death Penalty": {
+        "definition": "death as punishment for a crime called also capital punishment see also cruel and unusual punishment Gregg v. Georgia in the Important Cases section NOTE",
+        "sub_definitions": {
+            "1": {
+                "1": "death as punishment for a crime called also",
+                "see also": "cruel and unusual punishment",
+                "Gregg v. Georgia": "in the Important Cases section",
+                "note": " The U.S. Supreme Court has held that the death penalty is not inherently violative of the Eighth Amendment's prohibition on cruel and unusual punishment, provided that the method is not deemed cruel and that the punishment is not excessive in relation to the crime. A statute mandating the death penalty is unconstitutional, however. A sentencing judge is required to consider any mitigating circumstances before imposing the death penalty for a crime."
+            }
+        },
+        "references": {
+            "cruel and unusual punishment": "https://dictionary.findlaw.com/definition/cruel-and-unusual-punishment.html"
+        }
+    }
+}

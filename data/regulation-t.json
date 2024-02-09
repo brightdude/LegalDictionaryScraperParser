@@ -1,0 +1,11 @@
+{
+    "Regulation T": {
+        "definition": "a regulation of the Board of Governors of the Federal Reserve System regulating the extension of credit by and to securities brokers and dealers and imposing initial margin requirements and payment rules on securities transactions",
+        "sub_definitions": {
+            "1": {
+                "1": "a regulation of the Board of Governors of the Federal Reserve System regulating the extension of credit by and to securities brokers and dealers and imposing initial margin requirements and payment rules on securities transactions"
+            }
+        },
+        "references": {}
+    }
+}

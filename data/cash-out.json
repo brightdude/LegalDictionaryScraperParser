@@ -1,0 +1,21 @@
+{
+    "Cash Out": {
+        "definition": "to prematurely redeem the securities of",
+        "origin": "[the merging company will cash out the minority shareholders]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to prematurely redeem the securities of (a holder) often as part of a merger [the merging company willthe minority shareholders]",
+                "cash out": "the minority shareholders]"
+            },
+            "2 a": {
+                "definition": "to accept payment for (a security) in full often unwillingly [the shareholders were required totheir shares]",
+                "sub_terms": {
+                    "b": "to dispose of (one's goods or assets) by sale [his investment]"
+                },
+                "cash out": "their shares]",
+                "cashed out": "his investment]"
+            }
+        },
+        "references": {}
+    }
+}

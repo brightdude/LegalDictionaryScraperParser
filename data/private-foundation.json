@@ -1,0 +1,15 @@
+{
+    "Private Foundation": {
+        "definition": "a tax-exempt foundation operated exclusively for humanitarian",
+        "compare": "charity",
+        "sub_definitions": {
+            "1": {
+                "1": "a tax-exempt foundation operated exclusively for humanitarian (as religious, charitable, educational, or scientific) purposes whose earnings do not benefit any private individual and which does not participate in or carry on any political propaganda or campaign compare",
+                "compares": "charity"
+            }
+        },
+        "references": {
+            "charity": "https://dictionary.findlaw.com/definition/charity.html"
+        }
+    }
+}

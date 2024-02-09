@@ -1,0 +1,17 @@
+{
+    "Excited Utterance": {
+        "definition": "a statement that concerns a startling event",
+        "compare": "res gestae",
+        "sub_definitions": {
+            "1": {
+                "1": "a statement that concerns a startling event (as a physical assault) and that is made by a person while under stress caused by the event see also",
+                "see also": "res gestae",
+                "note": " Excited utterances are an exception to the hearsay rule. They may be admitted as evidence even if the declarant is available as a witness."
+            }
+        },
+        "references": {
+            "res gestae": "https://dictionary.findlaw.com/definition/res-gestae.html",
+            "declaration": "https://dictionary.findlaw.com/definition/declaration.html"
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "Bind": {
+        "definition": "to make responsible for an obligation",
+        "origin": "[band]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "to make responsible for an obligation (as under a contract) [agents have the power to the insurer \"R. I. Mehr\"]",
+                "sub_terms": {
+                    "b": "to burden with an obligation [prevented married women fromtheir property \"J. H. Friedenthal\"]"
+                },
+                "ing": "their property \"J. H. Friedenthal"
+            },
+            "2": {
+                "definition": "to exert control overconstrain by legal authority [this court isby precedent]",
+                "bound": "by precedent]"
+            },
+            "3": {
+                "definition": "to bring (an insurance policy) into effect by an oral communication or a binder"
+            }
+        },
+        "references": {}
+    }
+}

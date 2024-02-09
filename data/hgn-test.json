@@ -1,0 +1,13 @@
+{
+    "Hgn Test": {
+        "definition": "horizontal gaze nystagmus test",
+        "sub_definitions": {
+            "1": {
+                "1": "horizontal gaze nystagmus test"
+            }
+        },
+        "references": {
+            "horizontal gaze nystagmus test": "https://dictionary.findlaw.com/definition/horizontal-gaze-nystagmus-test.html"
+        }
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "False Pretenses": {
+        "definition": "false representations concerning past or present facts that are made with the intent to defraud another ;also",
+        "compare": "larceny",
+        "sub_definitions": {
+            "1": {
+                "1": "false representations concerning past or present facts that are made with the intent to defraud another"
+            },
+            "2": {
+                "1": "the crime of obtaining title to another's property by false pretenses compare"
+            }
+        },
+        "references": {
+            "larceny": "https://dictionary.findlaw.com/definition/larceny.html",
+            "theft": "https://dictionary.findlaw.com/definition/theft.html"
+        }
+    }
+}

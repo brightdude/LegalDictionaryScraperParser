@@ -1,0 +1,16 @@
+{
+    "Living Will": {
+        "definition": "a document in which the signer indicates preferences or directions for the administration and esp. the withdrawal or withholding of life-sustaining medical treatment in the event of terminal illness or permanent unconsciousness see also advance directive compare durable power of attorney at power of attorney",
+        "compare": "advance directive",
+        "sub_definitions": {
+            "1": {
+                "1": "a document in which the signer indicates preferences or directions for the administration and esp. the withdrawal or withholding of life-sustaining medical treatment in the event of terminal illness or permanent unconsciousness see also",
+                "see also": "advance directive"
+            }
+        },
+        "references": {
+            "advance directive": "https://dictionary.findlaw.com/definition/advance-directive.html",
+            "power of attorney": "https://dictionary.findlaw.com/definition/power-of-attorney.html"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "Vacate": {
+        "definition": "to make void",
+        "origin": "[ a lower court order]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to make void[ a lower court order]"
+            },
+            "2 a": {
+                "definition": "to make vacant",
+                "sub_terms": {
+                    "b": "to give up the occupancy ofto vacate an office, post, or tenancy"
+                }
+            }
+        },
+        "references": {
+            "annul": "https://dictionary.findlaw.com/definition/annul.html",
+            "set aside": "https://dictionary.findlaw.com/definition/set-aside.html"
+        }
+    }
+}

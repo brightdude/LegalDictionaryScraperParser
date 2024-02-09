@@ -1,0 +1,11 @@
+{
+    "Officiant": {
+        "definition": "one",
+        "sub_definitions": {
+            "1": {
+                "1": "one (as a priest) who officiates at a religious rite"
+            }
+        },
+        "references": {}
+    }
+}

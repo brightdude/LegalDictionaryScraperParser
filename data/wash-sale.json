@@ -1,0 +1,16 @@
+{
+    "Wash Sale": {
+        "definition": "a sale and purchase of securities that produces no change of the beneficial owner ;specif",
+        "origin": "[probably from the comparison of such a sale to the act of washing, which does not affect the nature of the thing washed]",
+        "sub_definitions": {
+            "1": {
+                "1": "a sale and purchase of securities that produces no change of the beneficial owner"
+            },
+            "2": {
+                "1": "a sale of securities within 30 days before or after the purchase of substantially identical securities",
+                "note": " Any loss from such a sale is not deductible for most taxpayers under the Internal Revenue Code."
+            }
+        },
+        "references": {}
+    }
+}

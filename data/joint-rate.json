@@ -1,0 +1,11 @@
+{
+    "Joint Rate": {
+        "definition": "a single rate charged by two or more carriers to transport a shipment of goods over a route",
+        "sub_definitions": {
+            "1": {
+                "1": "a single rate charged by two or more carriers to transport a shipment of goods over a route"
+            }
+        },
+        "references": {}
+    }
+}

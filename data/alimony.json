@@ -1,0 +1,35 @@
+{
+    "Alimony": {
+        "definition": "an allowance made to one spouse by the other for support pending or after legal separation or divorce compare child support alimony in gross",
+        "origin": "[Latin alimonia sustenance, from alere to nourish]",
+        "sub_definitions": {
+            "1": {
+                "definition": "an allowance made to one spouse by the other for support pending or after legal separation or divorce compare",
+                "compares": "child support"
+            },
+            "alimony in gross": {
+                "definition": "in this entry"
+            },
+            "alimony pen·den·te li·te": {
+                "definition": "[-pen-den-tē-lī-tē, -pen-den-tā-lē-tā]alimony granted pending a suit for divorce or separation that includes a reasonable allowance for the prosecution of the suit called also"
+            },
+            "lump sum alimony": {
+                "definition": "alimony awarded after divorce that is a specific vested amount not subject to change called also"
+            },
+            "per·ma·nent alimony": {
+                "definition": "alimony awarded after divorce which consists of payments at regular intervals that may change in amount or terminate (as upon the payee's remarriage)"
+            },
+            "tem·po·rary alimony": {
+                "definition": "in this entry"
+            },
+            "2": {
+                "definition": "means of living, support, or maintenance [fathers and mothers owe to their illegitimate children \"\"]"
+            }
+        },
+        "references": {
+            "child support": "https://dictionary.findlaw.com/definition/child-support.html",
+            "lump sum alimony": "https://dictionary.findlaw.com/definition/lump-sum-alimony.html",
+            "alimony pendente lite": "https://dictionary.findlaw.com/definition/alimony-pendente-lite.html"
+        }
+    }
+}

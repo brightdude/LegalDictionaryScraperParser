@@ -1,0 +1,20 @@
+{
+    "Confession": {
+        "definition": "an act of confessing 2",
+        "sub_definitions": {
+            "1": {
+                "definition": "an act of confessing"
+            },
+            "2": {
+                "definition": "an acknowledgment of a fact or allegation as true or provena written or oral statement by an accused party acknowledging the party's guilt (as by admitting commission of a crime) compareat,",
+                "note": " Courts differ on how a confession establishes the accused's guilt; for example, in some jurisdictions the confession has to establish all the necessary elements of the crime. In order to be admissible as evidence, a confession must be voluntary. A guilty plea is considered a judicial confession.",
+                "compares": "admission"
+            }
+        },
+        "references": {
+            "admission": "https://dictionary.findlaw.com/definition/admission.html",
+            "declaration": "https://dictionary.findlaw.com/definition/declaration.html",
+            "self-incrimination": "https://dictionary.findlaw.com/definition/self-incrimination.html"
+        }
+    }
+}

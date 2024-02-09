@@ -1,0 +1,11 @@
+{
+    "Employment Tax": {
+        "definition": "a tax imposed on the basis of an employee-employer relationship",
+        "sub_definitions": {
+            "1": {
+                "1": "a tax imposed on the basis of an employee-employer relationship"
+            }
+        },
+        "references": {}
+    }
+}

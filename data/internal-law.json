@@ -1,0 +1,16 @@
+{
+    "Internal Law": {
+        "definition": "the law of a state regulating its internal affairs compare international law",
+        "compare": "international law",
+        "sub_definitions": {
+            "1": {
+                "1": "the law of a state regulating its internal affairs compare",
+                "compares": "international law"
+            }
+        },
+        "references": {
+            "international law": "https://dictionary.findlaw.com/definition/international-law.html",
+            "whole law": "https://dictionary.findlaw.com/definition/whole-law.html"
+        }
+    }
+}

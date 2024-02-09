@@ -1,0 +1,15 @@
+{
+    "Electoral College": {
+        "definition": "a body of electors ;specif",
+        "sub_definitions": {
+            "1": {
+                "1": "a body of electors"
+            },
+            "2": {
+                "1": "the body of electors chosen from each state to elect the president and vice president of the U.S.",
+                "note": " Under Article II, Section 1 of the U.S. Constitution, each state chooses electors in the same number that the state has senators and representatives. The electors have the discretion to choose the candidate they vote for, but in practice the electors vote for the candidate that wins the most votes in their respective states. In all the states except Maine, the candidate that wins a plurality of the popular votes wins all of the state's electoral votes."
+            }
+        },
+        "references": {}
+    }
+}

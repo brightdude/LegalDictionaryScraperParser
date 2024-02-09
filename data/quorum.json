@@ -1,0 +1,12 @@
+{
+    "Quorum": {
+        "definition": "the number",
+        "origin": "[Middle English, a select number of English justices of the peace formerly required to be present at sessions to constitute a lawful bench, from Latin, of whom, genitive plural of qui who; from the wording of the commission once issued to justices of the peace in England]",
+        "sub_definitions": {
+            "1": {
+                "1": "the number (as a majority) of members or officers that must be present to conduct business [lacked a at the meeting of shareholders]"
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "Unemployment Insurance": {
+        "definition": "a social insurance program that provides unemployment compensation for a limited period to involuntarily unemployed workers",
+        "sub_definitions": {
+            "1": {
+                "1": "a social insurance program that provides unemployment compensation for a limited period to involuntarily unemployed workers"
+            }
+        },
+        "references": {}
+    }
+}

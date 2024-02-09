@@ -1,0 +1,37 @@
+{
+    "Act": {
+        "definition": "something done by a person in accordance with his or her free will [a tortious ] see also actus reus b",
+        "origin": "[a tortious ]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "something done by a person in accordance with his or her free will [a tortious ] see also",
+                "sub_terms": {
+                    "b": "the failure to do something that one has a legal duty to do called also"
+                },
+                "see also": "actus reus"
+            },
+            "2 a": {
+                "definition": "the formal product of a legislative bodythe formally declared will of a legislature the final requirement of which is usually the signature of the proper executive officer[an of Congress]",
+                "sub_terms": {
+                    "b": "a decision or determination of a sovereign, a legislative council, or a court of justice compare"
+                },
+                "compares": "bill"
+            },
+            "3": {
+                "definition": "to give a decision or award (as by vote of a deliberative body or by judicial decree) often used with[adjourned with several important matters still noton]",
+                "on": "[adjourned with several important matters still not"
+            },
+            "1": {
+                "definition": "to carry into effect a determination of the willtake action"
+            },
+            "2": {
+                "definition": "to discharge the duties of a specified office or postperform a specified function used with a prepositional phrase [declaring what officer shall then as President \"art. II\"]"
+            }
+        },
+        "references": {
+            "actus reus": "https://dictionary.findlaw.com/definition/actus-reus.html",
+            "statute": "https://dictionary.findlaw.com/definition/statute.html",
+            "bill": "https://dictionary.findlaw.com/definition/bill.html"
+        }
+    }
+}

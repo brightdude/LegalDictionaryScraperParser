@@ -1,0 +1,11 @@
+{
+    "Value-Added Tax": {
+        "definition": "a tax levied at each addition of value in the processing of a raw material",
+        "sub_definitions": {
+            "1": {
+                "1": "a tax levied at each addition of value in the processing of a raw material, the performance of a service, or the production and distribution of a commodity with each payer except the consumer reimbursed from payment at the next stage called also"
+            }
+        },
+        "references": {}
+    }
+}

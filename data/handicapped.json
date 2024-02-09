@@ -1,0 +1,11 @@
+{
+    "Handicapped": {
+        "definition": "having a disability that substantially limits a major life activity",
+        "sub_definitions": {
+            "1": {
+                "1": "having a disability that substantially limits a major life activity (as caring for oneself, working, or having sensory functions)"
+            }
+        },
+        "references": {}
+    }
+}

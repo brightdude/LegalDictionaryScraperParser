@@ -1,0 +1,21 @@
+{
+    "Coercion": {
+        "definition": "the use of express or implied threats of violence or reprisal",
+        "compare": "defense",
+        "sub_definitions": {
+            "1": {
+                "1": "the use of express or implied threats of violence or reprisal (as discharge from employment) or other intimidating behavior that puts a person in immediate fear of the consequences in order to compel that person to act against his or her will"
+            },
+            "2": {
+                "1": "the defense that one acted under coercion see also",
+                "see also": "defense",
+                "compares": "undue influence"
+            }
+        },
+        "references": {
+            "defense": "https://dictionary.findlaw.com/definition/defense.html",
+            "duress": "https://dictionary.findlaw.com/definition/duress.html",
+            "undue influence": "https://dictionary.findlaw.com/definition/undue-influence.html"
+        }
+    }
+}

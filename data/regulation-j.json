@@ -1,0 +1,11 @@
+{
+    "Regulation J": {
+        "definition": "a regulation of the Board of Governors of the Federal Reserve System governing the collection of checks and other cash and noncash items and the handling of returned checks by Federal Reserve banks",
+        "sub_definitions": {
+            "1": {
+                "1": "a regulation of the Board of Governors of the Federal Reserve System governing the collection of checks and other cash and noncash items and the handling of returned checks by Federal Reserve banks"
+            }
+        },
+        "references": {}
+    }
+}

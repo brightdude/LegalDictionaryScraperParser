@@ -1,0 +1,15 @@
+{
+    "Judicial Activism": {
+        "definition": "the practice in the judiciary of protecting or expanding individual rights through decisions that depart from established precedent or are independent of or in opposition to supposed constitutional or legislative intent compare judicial restraint",
+        "compare": "judicial restraint",
+        "sub_definitions": {
+            "1": {
+                "1": "the practice in the judiciary of protecting or expanding individual rights through decisions that depart from established precedent or are independent of or in opposition to supposed constitutional or legislative intent compare",
+                "compares": "judicial restraint"
+            }
+        },
+        "references": {
+            "judicial restraint": "https://dictionary.findlaw.com/definition/judicial-restraint.html"
+        }
+    }
+}

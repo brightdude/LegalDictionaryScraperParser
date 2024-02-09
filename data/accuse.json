@@ -1,0 +1,15 @@
+{
+    "Accuse": {
+        "definition": "to charge with an offense judicially or by a public process compare indict vi",
+        "origin": "[Latin accusare to find fault with, charge with a crime, from ad to, at + causa legal case, trial]",
+        "sub_definitions": {
+            "ac·cus·ing": {
+                "definition": "[Latinto find fault with, charge with a crime, fromto, at +legal case, trial]to charge with an offense judicially or by a public process compareto make or bring an accusation",
+                "compares": "indict"
+            }
+        },
+        "references": {
+            "indict": "https://dictionary.findlaw.com/definition/indict.html"
+        }
+    }
+}

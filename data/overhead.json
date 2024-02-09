@@ -1,0 +1,11 @@
+{
+    "Overhead": {
+        "definition": "business expenses",
+        "sub_definitions": {
+            "1": {
+                "1": "business expenses (as rent or insurance) not chargeable to a particular part of the work or product"
+            }
+        },
+        "references": {}
+    }
+}

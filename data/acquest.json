@@ -1,0 +1,13 @@
+{
+    "Acquest": {
+        "definition": "acquet",
+        "sub_definitions": {
+            "1": {
+                "1": "acquet"
+            }
+        },
+        "references": {
+            "acquet": "https://dictionary.findlaw.com/definition/acquet.html"
+        }
+    }
+}

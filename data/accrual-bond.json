@@ -1,0 +1,8 @@
+{
+    "Accrual Bond": {
+        "definition": "Accrual Bond",
+        "references": {
+            "bond": "https://dictionary.findlaw.com/definition/bond.html"
+        }
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "Block Grant": {
+        "definition": "an unrestricted federal grant",
+        "sub_definitions": {
+            "1": {
+                "1": "an unrestricted federal grant"
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "Firm": {
+        "definition": "the name or title under which a company transacts business 2",
+        "origin": "[German Firma , from Italian, signature, ultimately from Latin firmare to make firm, confirm]",
+        "sub_definitions": {
+            "1": {
+                "definition": "the name or title under which a company transacts business"
+            },
+            "2": {
+                "definition": "a partnership of two or more persons that is not recognized as a legal person distinct from the members composing it"
+            },
+            "3": {
+                "definition": "a business unit or enterprise"
+            }
+        },
+        "references": {}
+    }
+}

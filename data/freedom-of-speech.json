@@ -1,0 +1,18 @@
+{
+    "Freedom Of Speech": {
+        "definition": "the right to express information",
+        "compare": "free speech",
+        "sub_definitions": {
+            "1": {
+                "1": "the right to express information, ideas, and opinions free of government restrictions based on content and subject only to reasonable limitations (as the power of the government to avoid a clear and present danger) esp. as guaranteed by the First and Fourteenth Amendments to the U.S. Constitution see also",
+                "see also": "free speech",
+                "compares": "censorship"
+            }
+        },
+        "references": {
+            "free speech": "https://dictionary.findlaw.com/definition/free-speech.html",
+            "censorship": "https://dictionary.findlaw.com/definition/censorship.html",
+            "prior restraint": "https://dictionary.findlaw.com/definition/prior-restraint.html"
+        }
+    }
+}

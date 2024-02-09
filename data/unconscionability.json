@@ -1,0 +1,19 @@
+{
+    "Unconscionability": {
+        "definition": "the state or condition of being unconscionable [the issue of is to be decided by the court \"J. D. Calamari and J. M. Perillo\"] see also procedural unconscionability",
+        "origin": "[the issue of is to be decided by the court \"J. D. Calamari and J. M. Perillo\"]",
+        "sub_definitions": {
+            "1": {
+                "definition": "the state or condition of being unconscionable [the issue of is to be decided by the court \"J. D. Calamari and J. M. Perillo\"] see also,",
+                "see also": "procedural unconscionability"
+            },
+            "2": {
+                "definition": "a doctrine in contract law: a court may grant relief from or deny enforcement of all or part of a contract if it is found to be unconscionable"
+            }
+        },
+        "references": {
+            "procedural unconscionability": "https://dictionary.findlaw.com/definition/procedural-unconscionability.html",
+            "substantive unconscionability": "https://dictionary.findlaw.com/definition/substantive-unconscionability.html"
+        }
+    }
+}

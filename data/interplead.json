@@ -1,0 +1,20 @@
+{
+    "Interplead": {
+        "definition": "to bring",
+        "origin": "[Anglo-French enterpleder , from enter- between, among + pleder to plead, from Old French plaidier ]",
+        "compare": "implead",
+        "sub_definitions": {
+            "1": {
+                "1": "to bring (adverse claimants) into court by interpleader [the defendants can injured stock purchasers if they fear the latter may have a superior claim…to the agents' illicit profits \"R. C. Clark\"] compare",
+                "compares": "implead"
+            },
+            "2": {
+                "1": "to go to trial with each other in order to settle adverse claims to property held by or an obligation owed by a third party (as an insurance company) [may be joined as defendants and required to when their claims are such that the plaintiff is or may be exposed to double or multiple liability \""
+            }
+        },
+        "references": {
+            "implead": "https://dictionary.findlaw.com/definition/implead.html",
+            "intervene": "https://dictionary.findlaw.com/definition/intervene.html"
+        }
+    }
+}

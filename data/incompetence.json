@@ -1,0 +1,15 @@
+{
+    "Incompetence": {
+        "definition": "the state or fact of being incompetent compare competency",
+        "compare": "competency",
+        "sub_definitions": {
+            "1": {
+                "1": "the state or fact of being incompetent compare",
+                "compares": "competency"
+            }
+        },
+        "references": {
+            "competency": "https://dictionary.findlaw.com/definition/competency.html"
+        }
+    }
+}

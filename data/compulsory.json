@@ -1,0 +1,21 @@
+{
+    "Compulsory": {
+        "definition": "required or compelled by law",
+        "origin": "[ arbitration]",
+        "sub_definitions": {
+            "1": {
+                "definition": "required or compelled by lawobligatory [ arbitration] [ insurance]required to be brought or asserted in a pleading because of having arisen from the transaction or occurrence that is the subject of litigation [a counterclaim] [ reconvention] compare,",
+                "compares": "elective"
+            },
+            "2": {
+                "definition": "using compulsion[ measures]"
+            }
+        },
+        "references": {
+            "mandatory": "https://dictionary.findlaw.com/definition/mandatory.html",
+            "elective": "https://dictionary.findlaw.com/definition/elective.html",
+            "permissive": "https://dictionary.findlaw.com/definition/permissive.html",
+            "compelling": "https://dictionary.findlaw.com/definition/compelling.html"
+        }
+    }
+}

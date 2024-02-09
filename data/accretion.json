@@ -1,0 +1,26 @@
+{
+    "Accretion": {
+        "definition": "the process or a result of growth or enlargement",
+        "origin": "[ s to a trust fund resulting from the increase in value of…securities in which its corpus is invested \" In re Estate of Gartenlaub , 244 P. 348 (1926)\"]",
+        "sub_definitions": {
+            "1": {
+                "definition": "the process or a result of growth or enlargement",
+                "sub_terms": {
+                    "a": "the increase or extension of the boundaries of land or the consequent acquisition of land accruing to the owner by the gradual or imperceptible action of natural forces (as by the washing up of sand or soil from the sea or a river or by a gradual recession of the water from the usual watermark)accession in which the boundaries of land are enlarged by this process compare,",
+                    "b": "increase in the amount or extent of any kind of property or in the value of any property [to a trust fund resulting from the increase in value of…securities in which its corpus is invested \", 244 P. 348 (1926)\"]",
+                    "c": "enlargement of a bargaining unit by the addition of new employees"
+                },
+                "note": " Accretion in value of the principal of a trust is generally not considered income.",
+                "compares": "avulsion",
+                "In re Estate of Gartenlaub": "244 P. 348 (1926)"
+            },
+            "2": {
+                "definition": "the passing to an heir or conjoint legatee of the right to accept a portion of a succession resulting from the failure of a coheir or colegatee to take his or her own share"
+            }
+        },
+        "references": {
+            "avulsion": "https://dictionary.findlaw.com/definition/avulsion.html",
+            "reliction": "https://dictionary.findlaw.com/definition/reliction.html"
+        }
+    }
+}

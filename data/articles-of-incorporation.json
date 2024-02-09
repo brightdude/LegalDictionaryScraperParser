@@ -1,0 +1,18 @@
+{
+    "Articles Of Incorporation": {
+        "definition": "a document by which a corporation is formed that sets forth basic information",
+        "compare": "certificate of incorporation",
+        "sub_definitions": {
+            "1": {
+                "1": "a document by which a corporation is formed that sets forth basic information (as the corporation's name, purpose, directors, and stock) usu. as required by statute see also",
+                "see also": "certificate of incorporation",
+                "compares": "charter",
+                "note": " In most states a corporation is created upon the filing of the articles of incorporation with the secretary of state."
+            }
+        },
+        "references": {
+            "certificate of incorporation": "https://dictionary.findlaw.com/definition/certificate-of-incorporation.html",
+            "charter": "https://dictionary.findlaw.com/definition/charter.html"
+        }
+    }
+}

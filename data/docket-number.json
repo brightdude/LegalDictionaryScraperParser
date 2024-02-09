@@ -1,0 +1,11 @@
+{
+    "Docket Number": {
+        "definition": "the number assigned to a particular case on a court's docket",
+        "sub_definitions": {
+            "1": {
+                "1": "the number assigned to a particular case on a court's docket"
+            }
+        },
+        "references": {}
+    }
+}

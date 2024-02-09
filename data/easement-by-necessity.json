@@ -1,0 +1,9 @@
+{
+    "Easement By Necessity": {
+        "definition": "easement by implication at easement",
+        "references": {
+            "easement by implication": "https://dictionary.findlaw.com/definition/easement-by-implication.html",
+            "easement": "https://dictionary.findlaw.com/definition/easement.html"
+        }
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "Residency": {
+        "definition": "-cies 1",
+        "sub_definitions": {
+            "1": {
+                "definition": "an often official place of residence"
+            },
+            "2": {
+                "definition": "the condition of being a resident of a particular place"
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "Outstanding": {
+        "definition": "not paid [had several debts] 2",
+        "origin": "[had several debts]",
+        "sub_definitions": {
+            "1": {
+                "definition": "not paid [had several debts]"
+            },
+            "2": {
+                "definition": "publicly issued and sold [a million shares ]"
+            }
+        },
+        "references": {}
+    }
+}

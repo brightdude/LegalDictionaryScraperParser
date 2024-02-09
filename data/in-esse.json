@@ -1,0 +1,16 @@
+{
+    "In Esse": {
+        "definition": "in actual existence compare in posse",
+        "origin": "[Medieval Latin]",
+        "compare": "in posse",
+        "sub_definitions": {
+            "1": {
+                "1": "in actual existence compare",
+                "compares": "in posse"
+            }
+        },
+        "references": {
+            "in posse": "https://dictionary.findlaw.com/definition/in-posse.html"
+        }
+    }
+}

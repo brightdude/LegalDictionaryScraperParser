@@ -1,0 +1,51 @@
+{
+    "Assignment": {
+        "definition": "the act of assigning 2 a",
+        "sub_definitions": {
+            "1": {
+                "definition": "the act of assigning"
+            },
+            "2 a": {
+                "definition": "a position, post, or office to which one is assigned",
+                "sub_terms": {
+                    "b": "a task assigned"
+                }
+            },
+            "3": {
+                "definition": "a present transfer of property or rights"
+            },
+            "absolute assignment": {
+                "definition": "an assignment in which the transfer is complete and leaves the assignor with no interest in the property or right transferred"
+            },
+            "assignment for the benefit of creditors": {
+                "definition": "assignment of property by a debtor to an assignee to be held in trust and used to pay off the debtor's debts"
+            },
+            "assignment of income": {
+                "definition": "an assignment by one taxpayer to another of income for the purpose of avoiding taxes"
+            },
+            "assignment of lease": {
+                "definition": "an assignment by a tenant of all of his or her remaining rights in a property under a lease compare",
+                "compares": "sublease"
+            },
+            "effective assignment": {
+                "definition": "an assignment by which the assignor's interest in the property or right being assigned is terminated and transferred to the assignee"
+            },
+            "equitable assignment": {
+                "definition": "an assignment (as of property in which one has a future interest) that is not valid at law but that would be upheld in a court of equity"
+            },
+            "general assignment": {
+                "definition": "an assignment for the benefit of creditors of all of a debtor's property to be distributed fairly to the creditors compare",
+                "compares": "preference"
+            },
+            "wage assignment": {
+                "definition": "an assignment by an employee by which an amount of his or her wages are transferred to another party (as a creditor) before the wages are paid to the employee compare",
+                "compares": "garnishment"
+            }
+        },
+        "references": {
+            "sublease": "https://dictionary.findlaw.com/definition/sublease.html",
+            "preference": "https://dictionary.findlaw.com/definition/preference.html",
+            "garnishment": "https://dictionary.findlaw.com/definition/garnishment.html"
+        }
+    }
+}

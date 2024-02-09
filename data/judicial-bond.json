@@ -1,0 +1,8 @@
+{
+    "Judicial Bond": {
+        "definition": "Judicial Bond",
+        "references": {
+            "bond": "https://dictionary.findlaw.com/definition/bond.html"
+        }
+    }
+}

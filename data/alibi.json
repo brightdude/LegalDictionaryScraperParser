@@ -1,0 +1,16 @@
+{
+    "Alibi": {
+        "definition": "a defense of having been somewhere other than at the scene of a crime at the time the crime was committed ;also",
+        "origin": "[Latin, elsewhere, from alius other]",
+        "sub_definitions": {
+            "1": {
+                "1": "a defense of having been somewhere other than at the scene of a crime at the time the crime was committed"
+            },
+            "2": {
+                "1": "the fact or state of having been elsewhere at the time a crime was committed",
+                "note": " Federal Rule of Criminal Procedure 12.1 requires the defendant to provide notice upon written demand of an intention to offer a defense of alibi. Likewise, the prosecution must provide to the defendant upon written demand the names of witnesses that will be used to rebut the defense."
+            }
+        },
+        "references": {}
+    }
+}

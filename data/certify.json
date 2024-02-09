@@ -1,0 +1,35 @@
+{
+    "Certify": {
+        "definition": "to state authoritatively",
+        "origin": "[Medieval Latin certificare , from Late Latin, to assure, convince, from Latin certus certain + - ficare to make]",
+        "sub_definitions": {
+            "-fy·ing": {
+                "definition": "[Medieval Latin, from Late Latin, to assure, convince, from Latincertain + -to make]"
+            },
+            "1": {
+                "definition": "to state authoritatively",
+                "sub_terms": {
+                    "a": "to give assurance of the validity of [ corporate records]",
+                    "b": "to present in formal communication (as an order) esp. for review by an appellate court [the court may the question to the Supreme Judicial Court \"R. T. Gerwatowski\"] see also",
+                    "c": "to state as being true or as reported or as meeting a standard [refused to the suit as a class action and dismissed it \"Marcia Coyle\"]"
+                },
+                "see also": "certification"
+            },
+            "2": {
+                "definition": "to guarantee (a personal check) as to signature and amount by so indicating (as by stamping) on the face see alsoat",
+                "certified": ") on the face see also"
+            },
+            "3 a": {
+                "sub_terms": {
+                    "b": "to designate (a labor union) as an exclusive bargaining agent or representative"
+                }
+            }
+        },
+        "references": {
+            "certification": "https://dictionary.findlaw.com/definition/certification.html",
+            "check": "https://dictionary.findlaw.com/definition/check.html",
+            "certificate": "https://dictionary.findlaw.com/definition/certificate.html",
+            "license": "https://dictionary.findlaw.com/definition/license.html"
+        }
+    }
+}

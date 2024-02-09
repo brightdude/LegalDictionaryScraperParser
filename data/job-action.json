@@ -1,0 +1,15 @@
+{
+    "Job Action": {
+        "definition": "a temporary action",
+        "compare": "strike",
+        "sub_definitions": {
+            "1": {
+                "1": "a temporary action (as a slowing of work) by workers on the job that is meant as a protest to force compliance with demands compare",
+                "compares": "strike"
+            }
+        },
+        "references": {
+            "strike": "https://dictionary.findlaw.com/definition/strike.html"
+        }
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "Police Court": {
+        "definition": "a court of record in some states that has jurisdiction over various minor offenses and the power to bind over those accused of more serious offenses",
+        "sub_definitions": {
+            "1": {
+                "1": "a court of record in some states that has jurisdiction over various minor offenses and the power to bind over those accused of more serious offenses"
+            }
+        },
+        "references": {}
+    }
+}

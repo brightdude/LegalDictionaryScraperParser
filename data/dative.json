@@ -1,0 +1,15 @@
+{
+    "Dative": {
+        "definition": "appointed by a judge 2",
+        "origin": "[Medieval Latin dativus subject to appointment, from Latin, assigned (of a guardian), from datus , past participle of dare to give]",
+        "sub_definitions": {
+            "1": {
+                "definition": "appointed by a judge"
+            },
+            "2": {
+                "definition": "established by judicial appointment [ tutorship]"
+            }
+        },
+        "references": {}
+    }
+}

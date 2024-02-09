@@ -1,0 +1,15 @@
+{
+    "Usurious": {
+        "definition": "practicing usury 2",
+        "origin": "[ interest]",
+        "sub_definitions": {
+            "1": {
+                "definition": "practicing usury"
+            },
+            "2": {
+                "definition": "involving usury [ interest]"
+            }
+        },
+        "references": {}
+    }
+}

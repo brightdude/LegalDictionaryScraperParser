@@ -1,0 +1,14 @@
+{
+    "Illegality": {
+        "definition": "-ties 1",
+        "sub_definitions": {
+            "1": {
+                "definition": "the quality or state of being illegal"
+            },
+            "2": {
+                "definition": "an illegal action"
+            }
+        },
+        "references": {}
+    }
+}

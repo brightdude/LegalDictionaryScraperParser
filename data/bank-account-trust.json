@@ -1,0 +1,8 @@
+{
+    "Bank Account Trust": {
+        "definition": "Bank Account Trust",
+        "references": {
+            "trust": "https://dictionary.findlaw.com/definition/trust.html"
+        }
+    }
+}

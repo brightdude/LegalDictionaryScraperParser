@@ -1,0 +1,11 @@
+{
+    "Congressperson": {
+        "definition": "a congressman or congresswoman",
+        "sub_definitions": {
+            "1": {
+                "1": "a congressman or congresswoman"
+            }
+        },
+        "references": {}
+    }
+}

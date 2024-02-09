@@ -1,0 +1,22 @@
+{
+    "Commodatum": {
+        "definition": "a gratuitous loan of movable property to be used and returned by the borrower",
+        "origin": "[Latin, loan, from neuter of commodatus , past participle of commodare to lend, bestow]",
+        "compare": "loan for use",
+        "sub_definitions": {
+            "1": {
+                "1": "a gratuitous loan of movable property to be used and returned by the borrower"
+            },
+            "2": {
+                "1": "loan for use",
+                "compares": "deposit"
+            }
+        },
+        "references": {
+            "loan for use": "https://dictionary.findlaw.com/definition/loan-for-use.html",
+            "loan": "https://dictionary.findlaw.com/definition/loan.html",
+            "deposit": "https://dictionary.findlaw.com/definition/deposit.html",
+            "bailment": "https://dictionary.findlaw.com/definition/bailment.html"
+        }
+    }
+}

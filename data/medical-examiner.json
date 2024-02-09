@@ -1,0 +1,11 @@
+{
+    "Medical Examiner": {
+        "definition": "a public officer who determines the necessity of and conducts autopsies to find the cause of death",
+        "sub_definitions": {
+            "1": {
+                "1": "a public officer who determines the necessity of and conducts autopsies to find the cause of death"
+            }
+        },
+        "references": {}
+    }
+}

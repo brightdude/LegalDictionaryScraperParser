@@ -1,0 +1,10 @@
+{
+    "Resident": {
+        "definition": "one who has a residence in a particular place but does not necessarily have the status of a citizen compare citizen",
+        "compare": "citizen",
+        "references": {
+            "citizen": "https://dictionary.findlaw.com/definition/citizen.html",
+            "domiciliary": "https://dictionary.findlaw.com/definition/domiciliary.html"
+        }
+    }
+}

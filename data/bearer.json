@@ -1,0 +1,10 @@
+{
+    "Bearer": {
+        "definition": "a person holding a check",
+        "origin": "[a instrument]",
+        "compare": "order",
+        "references": {
+            "order": "https://dictionary.findlaw.com/definition/order.html"
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "Harmless": {
+        "definition": "free from harm",
+        "sub_definitions": {
+            "1": {
+                "definition": "free from harm, liability, or loss often used in the phrasesee also",
+                "see also": "hold harmless"
+            },
+            "2": {
+                "definition": "lacking capacity or intent to injure"
+            }
+        },
+        "references": {
+            "hold harmless": "https://dictionary.findlaw.com/definition/hold-harmless.html"
+        }
+    }
+}

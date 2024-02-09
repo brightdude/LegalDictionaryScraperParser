@@ -1,0 +1,17 @@
+{
+    "Ingress": {
+        "definition": "the act of entering 2",
+        "sub_definitions": {
+            "1": {
+                "definition": "the act of entering"
+            },
+            "2": {
+                "definition": "the power or liberty of access compare",
+                "compares": "egress"
+            }
+        },
+        "references": {
+            "egress": "https://dictionary.findlaw.com/definition/egress.html"
+        }
+    }
+}

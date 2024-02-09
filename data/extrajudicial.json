@@ -1,0 +1,20 @@
+{
+    "Extrajudicial": {
+        "definition": "not involving",
+        "origin": "[a creditor's repossession of property]",
+        "sub_definitions": {
+            "1": {
+                "definition": "not involving, occurring in, or forming part of a legal proceeding [a creditor's repossession of property] [an investigation][an identification]"
+            },
+            "2": {
+                "definition": "stemming from something outside of a court proceeding [a judge disqualified for bias that is and not derived from the evidence presented]"
+            },
+            "3": {
+                "definition": "occurring or arising outside of the course of judicial duties [a judge's conduct]"
+            }
+        },
+        "references": {
+            "out-of-court": "https://dictionary.findlaw.com/definition/out-of-court.html"
+        }
+    }
+}

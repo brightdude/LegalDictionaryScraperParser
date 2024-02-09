@@ -1,0 +1,17 @@
+{
+    "Exculpate": {
+        "definition": "to clear from alleged fault or guilt [a statement…offered to the accused is not admissible unless corroborating circumstances clearly indicate the trustworthiness of the statement \" Federal Rules of Evidence Rule 804",
+        "origin": "[Medieval Latin exculpare , from Latin ex- out of + culpa blame]",
+        "sub_definitions": {
+            "-pat·ing": {
+                "definition": "[Medieval Latin, from Latinout of +blame]to clear from alleged fault or guilt [a statement…offered to the accused is not admissible unless corroborating circumstances clearly indicate the trustworthiness of the statement \"Rule 804(b)(3)\"] compare,",
+                "compares": "acquit",
+                "Federal Rules of Evidence": "Rule 804(b)(3)\"] compare"
+            }
+        },
+        "references": {
+            "acquit": "https://dictionary.findlaw.com/definition/acquit.html",
+            "exonerate": "https://dictionary.findlaw.com/definition/exonerate.html"
+        }
+    }
+}

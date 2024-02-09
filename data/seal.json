@@ -1,0 +1,20 @@
+{
+    "Seal": {
+        "definition": "a device",
+        "origin": "[Old French seel , from Latin sigillum , from diminutive of signum mark, sign]",
+        "sub_definitions": {
+            "under seal:with an authenticating seal affixed": {
+                "definition": "vt"
+            },
+            "1": {
+                "definition": "to authenticate or approve by or as if by a seal"
+            },
+            "2": {
+                "definition": "to close off (as records) from public access"
+            }
+        },
+        "references": {
+            "contract": "https://dictionary.findlaw.com/definition/contract.html"
+        }
+    }
+}

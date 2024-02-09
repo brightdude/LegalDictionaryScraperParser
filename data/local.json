@@ -1,0 +1,13 @@
+{
+    "Local": {
+        "definition": "local union",
+        "sub_definitions": {
+            "1": {
+                "1": "local union"
+            }
+        },
+        "references": {
+            "local union": "https://dictionary.findlaw.com/definition/local-union.html"
+        }
+    }
+}

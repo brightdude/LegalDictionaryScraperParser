@@ -1,0 +1,18 @@
+{
+    "Answer": {
+        "definition": "the defendant's written response to the plaintiff's complaint in a civil suit in which he or she may deny any of plaintiff's allegations",
+        "origin": "[ the complaint]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to reply to in an answer [ the complaint]"
+            },
+            "2": {
+                "definition": "to make a defense against (as a charge or accusation)"
+            }
+        },
+        "references": {
+            "reply": "https://dictionary.findlaw.com/definition/reply.html",
+            "pleading": "https://dictionary.findlaw.com/definition/pleading.html"
+        }
+    }
+}

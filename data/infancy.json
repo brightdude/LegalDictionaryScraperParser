@@ -1,0 +1,16 @@
+{
+    "Infancy": {
+        "definition": "-cies 1",
+        "sub_definitions": {
+            "1": {
+                "definition": "the legal status of an infant"
+            },
+            "2": {
+                "definition": "the affirmative defense of lacking legal capacity (as to make a contract or commit a crime) because of being too young and esp. because one's age is below an age set by statute"
+            }
+        },
+        "references": {
+            "minority": "https://dictionary.findlaw.com/definition/minority.html"
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "Filius Nullius": {
+        "definition": "an illegitimate child",
+        "origin": "[Medieval Latin, literally, no one's son]",
+        "sub_definitions": {
+            "1": {
+                "1": "an illegitimate child"
+            },
+            "2": {
+                "1": "bastard"
+            }
+        },
+        "references": {
+            "bastard": "https://dictionary.findlaw.com/definition/bastard.html"
+        }
+    }
+}

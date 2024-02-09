@@ -1,0 +1,16 @@
+{
+    "Concubinage": {
+        "definition": "the relationship between persons who are cohabiting without the benefit of marriage used esp. in the civil law of Louisiana compare common-law marriage NOTE",
+        "compare": "common-law marriage",
+        "sub_definitions": {
+            "1": {
+                "1": "the relationship between persons who are cohabiting without the benefit of marriage used esp. in the civil law of Louisiana compare",
+                "compares": "common-law marriage",
+                "note": " Under Louisiana law, concubinage does not give rise to any rights in the parties to each other's property."
+            }
+        },
+        "references": {
+            "common-law marriage": "https://dictionary.findlaw.com/definition/common-law-marriage.html"
+        }
+    }
+}

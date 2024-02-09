@@ -1,0 +1,11 @@
+{
+    "Judgment Debtor": {
+        "definition": "one who is obligated to pay a debt or damages in accordance with a judgment entered by a court",
+        "sub_definitions": {
+            "1": {
+                "1": "one who is obligated to pay a debt or damages in accordance with a judgment entered by a court"
+            }
+        },
+        "references": {}
+    }
+}

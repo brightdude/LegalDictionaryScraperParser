@@ -1,0 +1,20 @@
+{
+    "A Fortiori": {
+        "definition": "all the more certainly",
+        "origin": "[New Latin, from the stronger (argument)]",
+        "sub_definitions": {
+            "1": {
+                "1": "all the more certainly"
+            },
+            "2": {
+                "1": "with greater reason"
+            },
+            "3": {
+                "1": "with still more convincing force used in drawing a conclusion that is thought to be even more certain than another [the evident purpose of the latter statute — to provide a distinct and more severe sentencing scheme for violent habitual offenders — plainly suggests that the Legislature intended it to apply",
+                "a fortiori": "to murderers as well as to criminals who commit other violent, but less serious, felonies",
+                "People v. Jenkins": "893 P.2d 1224 (1995)"
+            }
+        },
+        "references": {}
+    }
+}

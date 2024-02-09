@@ -1,0 +1,17 @@
+{
+    "Expenditure": {
+        "definition": "the act or process of paying out 2",
+        "sub_definitions": {
+            "1": {
+                "definition": "the act or process of paying out"
+            },
+            "2": {
+                "definition": "something paid out see also",
+                "see also": "capital expenditure"
+            }
+        },
+        "references": {
+            "capital expenditure": "https://dictionary.findlaw.com/definition/capital-expenditure.html"
+        }
+    }
+}

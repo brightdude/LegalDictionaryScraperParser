@@ -1,0 +1,36 @@
+{
+    "Pledge": {
+        "definition": "a delivery of esp. personal property as security for a debt or other obligation ;broadly",
+        "origin": "[property held in ]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to deliver or otherwise put forward as security for a debt or other obligation [his car as collateral for the loan]",
+                "pledged": "his car as collateral for the loan]"
+            },
+            "2 a": {
+                "definition": "property and esp. personal property that is used as security esp. upon deliverya security interest in collateral compareat",
+                "sub_terms": {
+                    "b": "a contract under which the delivery of property (as personal property) as security takes place"
+                }
+            },
+            "3 a": {
+                "definition": "the state of being held as security or guaranty [property held in ]",
+                "sub_terms": {
+                    "b": "something given as security for the performance of an act"
+                }
+            },
+            "4": {
+                "definition": "a binding promise to do or forbearvt"
+            },
+            "2": {
+                "definition": "to bind by a pledge [we mutually to each other our lives, our fortunes and our sacred honor \"\"]"
+            },
+            "3": {
+                "definition": "to assure or promise the performance or payment of"
+            }
+        },
+        "references": {
+            "mortgage": "https://dictionary.findlaw.com/definition/mortgage.html"
+        }
+    }
+}

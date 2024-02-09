@@ -1,0 +1,11 @@
+{
+    "Colegatee": {
+        "definition": "a joint legatee",
+        "sub_definitions": {
+            "1": {
+                "1": "a joint legatee"
+            }
+        },
+        "references": {}
+    }
+}

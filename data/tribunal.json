@@ -1,0 +1,15 @@
+{
+    "Tribunal": {
+        "definition": "the seat of a judge or one acting as a judge 2",
+        "origin": "[Latin, platform for magistrates, from tribunus tribune, from tribus tribe]",
+        "sub_definitions": {
+            "1": {
+                "definition": "the seat of a judge or one acting as a judge"
+            },
+            "2": {
+                "definition": "a court or forum of justicea person or body of persons having to hear and decide disputes so as to bind the parties"
+            }
+        },
+        "references": {}
+    }
+}

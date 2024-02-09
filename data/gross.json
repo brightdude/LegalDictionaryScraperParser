@@ -1,0 +1,24 @@
+{
+    "Gross": {
+        "definition": "flagrant or extreme esp. in badness or offensiveness",
+        "origin": "[Middle English, immediately obvious, from Middle French gros thick, coarse, from Latin grossus ]",
+        "sub_definitions": {
+            "1": {
+                "definition": "flagrant or extreme esp. in badness or offensivenessof very blameworthy character [a violation of the rules of ethics] [a abuse of trust]"
+            },
+            "2": {
+                "definition": "consisting of an overall total exclusive of deductions [ annual earnings] compare",
+                "compares": "net"
+            },
+            "gross·nessn": {
+                "definition": "noverall total exclusive of deductions"
+            },
+            "in gross1:as a lump sum see alsolump sum alimonyatalimony2:independently existing, belonging to a person, and not attached to land see alsoeasement in grossateasement": {
+                "definition": "vtto earn or bring in (an overall total) exclusive of deductions (as for taxes or expenses)"
+            }
+        },
+        "references": {
+            "net": "https://dictionary.findlaw.com/definition/net.html"
+        }
+    }
+}

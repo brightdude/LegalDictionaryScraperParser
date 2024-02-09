@@ -1,0 +1,16 @@
+{
+    "Renvoi": {
+        "definition": "the reference of a matter involving a conflict of laws to the law of the foreign jurisdiction involved including reference to the jurisdiction's rules governing conflicts of laws compare whole law",
+        "origin": "[French, act of sending back, reference, from Middle French, from renvoyer to send back]",
+        "compare": "whole law",
+        "sub_definitions": {
+            "1": {
+                "1": "the reference of a matter involving a conflict of laws to the law of the foreign jurisdiction involved including reference to the jurisdiction's rules governing conflicts of laws compare",
+                "compares": "whole law"
+            }
+        },
+        "references": {
+            "whole law": "https://dictionary.findlaw.com/definition/whole-law.html"
+        }
+    }
+}

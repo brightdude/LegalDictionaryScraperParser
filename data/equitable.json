@@ -1,0 +1,18 @@
+{
+    "Equitable": {
+        "definition": "having or exhibiting equity",
+        "origin": "[shall allocate…appropriations in an manner \" U.S. Code \"]",
+        "sub_definitions": {
+            "1": {
+                "definition": "having or exhibiting equitydealing fairly and equally [shall allocate…appropriations in an manner \"\"]"
+            },
+            "2": {
+                "definition": "existing or valid in equity or as a matter of equity as distinguished from law [an defense] compare",
+                "compares": "legal"
+            }
+        },
+        "references": {
+            "legal": "https://dictionary.findlaw.com/definition/legal.html"
+        }
+    }
+}

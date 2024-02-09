@@ -1,0 +1,14 @@
+{
+    "Lodger": {
+        "definition": "a person who occupies a rented room in another's house ;specif",
+        "sub_definitions": {
+            "1": {
+                "1": "a person who occupies a rented room in another's house"
+            },
+            "2": {
+                "1": "a person who by agreement with the owner of a house acquires no property, interest, or possession therein but only the right to occupy a designated room or area that remains in the owner's legal possession"
+            }
+        },
+        "references": {}
+    }
+}

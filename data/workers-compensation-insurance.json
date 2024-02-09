@@ -1,0 +1,11 @@
+{
+    "Workers' Compensation Insurance": {
+        "definition": "insurance purchased by an employer or created through self-insurance that provides coverage for workers' compensation claims by injured employees",
+        "sub_definitions": {
+            "1": {
+                "1": "insurance purchased by an employer or created through self-insurance that provides coverage for workers' compensation claims by injured employees"
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "Secondary Boycott": {
+        "definition": "a boycott of an employer with which a union does not have a dispute that is intended to induce the employer to cease doing business with another employer with which the union does have a dispute compare primary boycott NOTE",
+        "compare": "primary boycott",
+        "sub_definitions": {
+            "1": {
+                "1": "a boycott of an employer with which a union does not have a dispute that is intended to induce the employer to cease doing business with another employer with which the union does have a dispute compare",
+                "compares": "primary boycott",
+                "note": " Secondary boycotts are usually illegal under the National Labor Relations Act."
+            }
+        },
+        "references": {
+            "primary boycott": "https://dictionary.findlaw.com/definition/primary-boycott.html"
+        }
+    }
+}

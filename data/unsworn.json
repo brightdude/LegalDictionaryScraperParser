@@ -1,0 +1,12 @@
+{
+    "Unsworn": {
+        "definition": "not sworn [could only provide an statement]",
+        "origin": "[could only provide an statement]",
+        "sub_definitions": {
+            "1": {
+                "1": "not sworn [could only provide an statement]"
+            }
+        },
+        "references": {}
+    }
+}

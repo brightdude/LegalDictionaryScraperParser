@@ -1,0 +1,8 @@
+{
+    "Holdover Tenancy": {
+        "definition": "Holdover Tenancy",
+        "references": {
+            "tenancy": "https://dictionary.findlaw.com/definition/tenancy.html"
+        }
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "Public Person": {
+        "definition": "a juridical person",
+        "sub_definitions": {
+            "1": {
+                "1": "a juridical person (as the state) acting in a sovereign capacity"
+            }
+        },
+        "references": {}
+    }
+}

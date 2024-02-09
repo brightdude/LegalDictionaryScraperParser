@@ -1,0 +1,14 @@
+{
+    "Permissive Inference": {
+        "definition": "permissive presumption at presumption",
+        "sub_definitions": {
+            "1": {
+                "1": "permissive presumption"
+            }
+        },
+        "references": {
+            "permissive presumption": "https://dictionary.findlaw.com/definition/permissive-presumption.html",
+            "presumption": "https://dictionary.findlaw.com/definition/presumption.html"
+        }
+    }
+}

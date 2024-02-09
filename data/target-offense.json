@@ -1,0 +1,11 @@
+{
+    "Target Offense": {
+        "definition": "an offense",
+        "sub_definitions": {
+            "1": {
+                "1": "an offense (as murder) that is the object of a conspiracy"
+            }
+        },
+        "references": {}
+    }
+}

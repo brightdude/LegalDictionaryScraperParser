@@ -1,0 +1,18 @@
+{
+    "Appeal": {
+        "definition": "a proceeding in which a case is brought before a higher court for review of a lower court's judgment for the purpose of convincing the higher court that the lower court's judgment was incorrect ;also",
+        "origin": "[Old French apel , from apeler to call, accuse, appeal, from Latin appellare ]",
+        "compare": "affirm",
+        "sub_definitions": {
+            "ap·peal·able   [ə-pē-lə-bəl]adj": {
+                "definition": "vtto take (a lower court's decision) before a higher court for reviewundertake an appeal of (a case)to take a lower court's decision to a higher court for review"
+            }
+        },
+        "references": {
+            "affirm": "https://dictionary.findlaw.com/definition/affirm.html",
+            "certiorari": "https://dictionary.findlaw.com/definition/certiorari.html",
+            "new trial": "https://dictionary.findlaw.com/definition/new-trial.html",
+            "rehearing": "https://dictionary.findlaw.com/definition/rehearing.html"
+        }
+    }
+}

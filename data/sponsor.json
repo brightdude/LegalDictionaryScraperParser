@@ -1,0 +1,20 @@
+{
+    "Sponsor": {
+        "definition": "a legislator who introduces and supports a legislative proposal",
+        "sub_definitions": {
+            "1": {
+                "definition": "a legislator who introduces and supports a legislative proposal (as a bill or amendment)"
+            },
+            "2": {
+                "definition": "a person who assumes responsibility for some other person (as an immigrant) or thing"
+            },
+            "3 a": {
+                "definition": "one that securitizes assets",
+                "sub_terms": {
+                    "b": "one that promotes, advocates, or favors a business venture (as investment in a security or limited partnership)"
+                }
+            }
+        },
+        "references": {}
+    }
+}

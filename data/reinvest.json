@@ -1,0 +1,17 @@
+{
+    "Reinvest": {
+        "definition": "to invest again or anew 2 a",
+        "sub_definitions": {
+            "1": {
+                "definition": "to invest again or anew"
+            },
+            "2 a": {
+                "definition": "to invest (as income from investments) in additional securities",
+                "sub_terms": {
+                    "b": "to invest (as earnings) in a business rather than distribute as dividends or profits"
+                }
+            }
+        },
+        "references": {}
+    }
+}

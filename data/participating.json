@@ -1,0 +1,19 @@
+{
+    "Participating": {
+        "definition": "involving participation by more than one person or agency 2",
+        "origin": "[ shares]",
+        "sub_definitions": {
+            "1": {
+                "definition": "involving participation by more than one person or agency"
+            },
+            "2": {
+                "definition": "sharing in distributions",
+                "sub_terms": {
+                    "a": "entitling the holder to a share in any distribution of surplus by the issuing insurance company",
+                    "b": "entitled to a share in distributions that are in addition to regular fixed income [ shares]"
+                }
+            }
+        },
+        "references": {}
+    }
+}

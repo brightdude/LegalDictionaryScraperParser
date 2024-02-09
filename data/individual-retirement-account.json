@@ -1,0 +1,13 @@
+{
+    "Individual Retirement Account": {
+        "definition": "ira",
+        "sub_definitions": {
+            "1": {
+                "1": "ira"
+            }
+        },
+        "references": {
+            "ira": "https://dictionary.findlaw.com/definition/ira.html"
+        }
+    }
+}

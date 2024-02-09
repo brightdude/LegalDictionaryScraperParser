@@ -1,0 +1,19 @@
+{
+    "In Posse": {
+        "definition": "not in actuality",
+        "origin": "[Medieval Latin, in possibility]",
+        "compare": "in esse",
+        "sub_definitions": {
+            "1": {
+                "1": "not in actuality"
+            },
+            "2": {
+                "1": "having a potential to exist compare",
+                "compares": "in esse"
+            }
+        },
+        "references": {
+            "in esse": "https://dictionary.findlaw.com/definition/in-esse.html"
+        }
+    }
+}

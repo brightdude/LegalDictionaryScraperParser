@@ -1,0 +1,15 @@
+{
+    "Indenture": {
+        "definition": "a document stating the terms under which a security",
+        "origin": "[Old French endenture an indented document, from endenter to indent (divide a document into sections with irregular edges that can be matched for authentication), from en- thoroughly + dent tooth]",
+        "sub_definitions": {
+            "1": {
+                "definition": "a document stating the terms under which a security (as a debenture or other bond) is issueda document (as a mortgage or deed of trust) under which there is outstanding security constituting a claim against a debtor, a claim secured by a lien on any of the debtor's property, or an equity security of the debtor"
+            },
+            "2": {
+                "definition": "a deed or other document to which two or more parties (as both grantor and grantee) are bound"
+            }
+        },
+        "references": {}
+    }
+}

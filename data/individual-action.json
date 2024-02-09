@@ -1,0 +1,13 @@
+{
+    "Individual Action": {
+        "definition": "direct action",
+        "sub_definitions": {
+            "1": {
+                "1": "direct action"
+            }
+        },
+        "references": {
+            "direct action": "https://dictionary.findlaw.com/definition/direct-action.html"
+        }
+    }
+}

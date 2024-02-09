@@ -1,0 +1,11 @@
+{
+    "Congressional District": {
+        "definition": "a territorial division of a state from which a member of the U.S. House of Representatives is elected",
+        "sub_definitions": {
+            "1": {
+                "1": "a territorial division of a state from which a member of the U.S. House of Representatives is elected"
+            }
+        },
+        "references": {}
+    }
+}

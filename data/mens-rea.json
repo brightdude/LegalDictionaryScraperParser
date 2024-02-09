@@ -1,0 +1,16 @@
+{
+    "Mens Rea": {
+        "definition": "men·tes re·ae [men-tēz-rē-ē",
+        "origin": "[men-tēz-rē-ē, men-tās-rā-ī]",
+        "sub_definitions": {
+            "men·tes re·ae": {
+                "definition": "[men-tēz-rē-ē, men-tās-rā-ī][New Latin, literally, guilty mind]a culpable mental stateone involving intent or knowledge and forming an element of a criminal offense [murder contains aelement] compare",
+                "compares": "actus reus",
+                "mens rea": "element] compare"
+            }
+        },
+        "references": {
+            "actus reus": "https://dictionary.findlaw.com/definition/actus-reus.html"
+        }
+    }
+}

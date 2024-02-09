@@ -1,0 +1,90 @@
+{
+    "Security": {
+        "definition": "-ties 1 a",
+        "origin": "[used his property as for a loan]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "something (as a mortgage or collateral) that is provided to make certain the fulfillment of an obligation [used his property as for a loan]",
+                "sub_terms": {
+                    "b": "see also"
+                },
+                "see also": "security for costs"
+            },
+            "2": {
+                "definition": "a security that is to be offered for sale and for which a registration statement has been submitted"
+            },
+            "asset-backed security": {
+                "definition": "a security (as a bond) that represents ownership in or is secured by a pool of assets (as loans or receivables) that have been securitized"
+            },
+            "bearer security": {
+                "definition": "a security (as a bearer bond) that is not registered and is payable to anyone in possession of it"
+            },
+            "cer·tif·i·cat·ed security": {
+                "definition": "[sər-ti-fə-kā-təd-]a security that belongs to or is divisible into a class or series of shares, participations, interests, or obligations, is a commonly recognized medium of investment, and is represented on an instrument payable to the bearer or a specified person or on an instrument registered on books by or on behalf of the issuer"
+            },
+            "convertible security": {
+                "definition": "a security (as a share of preferred stock) that the owner has the right to convert into a share or obligation of another class or series (as common stock)"
+            },
+            "debt security": {
+                "definition": "a security (as a bond) serving as evidence of the indebtedness of the issuer (as a government or corporation) to the owner"
+            },
+            "equity security": {
+                "definition": "a security (as a share of stock) serving as evidence of an ownership interest in the issuerone convertible to or serving as evidence of a right to purchase, sell, or subscribe to such a security"
+            },
+            "ex·empt·ed security": {
+                "definition": "a security (as a government bond) exempt from particular requirements of the Securities and Exchange Commission (as those relating to registration on a security exchange)"
+            },
+            "fixed-income security": {
+                "definition": "a security (as a bond) that provides a fixed rate of return on an investment (as because of a fixed interest rate or dividend)"
+            },
+            "government security": {
+                "definition": "a security (as a Treasury bill) that is issued by a government, a government agency, or a corporation in which a government has a direct or indirect interest"
+            },
+            "hybrid security": {
+                "definition": "a security with characteristics of both an equity security and a debt security"
+            },
+            "mortgage-backed security": {
+                "definition": "a security that represents ownership in or is secured by a pool of mortgage obligationsa pass-through security based on mortgage obligations"
+            },
+            "pass-through security": {
+                "definition": "a security representing an ownership interest in a pool of debt obligations from which payments of interest and principal pass from the debtor through an intermediary (as a bank) to the investorone based on a pool of mortgage obligations guaranteed by a federal government agency compare,",
+                "compares": "collateralized mortgage obligation"
+            },
+            "1": {
+                "definition": "a security (as a registered bond) whose owner is registered on the books of the issuer"
+            },
+            "restricted security": {
+                "definition": "a security accompanied by restrictions on its free transfer or registration of transfer"
+            },
+            "shelf security": {
+                "definition": "a corporate security held for deferred issue in a shelf registration"
+            },
+            "Treasury security": {
+                "definition": "a security issued by a government treasury"
+            },
+            "un·cer·tif·i·cat·ed security": {
+                "definition": "[ən-sər-ti-fə-kā-təd-]a security that belongs to or is divisible into a class or series of shares, participations, interests, or obligations, that is a commonly recognized medium of investment, that is not represented by an instrument, and the transfer of which is registered on books by or on behalf of the issuer"
+            },
+            "unregistered security": {
+                "definition": "a security for which a registration statement has not been filed"
+            },
+            "when-is·sued security": {
+                "definition": "a security traded on a conditional basis prior to its issue"
+            },
+            "3 a": {
+                "definition": "measures taken to guard against espionage or sabotage, crime, attack, or escape",
+                "sub_terms": {
+                    "b": "an organization or department whose task is security"
+                }
+            }
+        },
+        "references": {
+            "surety": "https://dictionary.findlaw.com/definition/surety.html",
+            "security for costs": "https://dictionary.findlaw.com/definition/security-for-costs.html",
+            "due diligence": "https://dictionary.findlaw.com/definition/due-diligence.html",
+            "collateralized mortgage obligation": "https://dictionary.findlaw.com/definition/collateralized-mortgage-obligation.html",
+            "remic": "https://dictionary.findlaw.com/definition/remic.html",
+            "treasury": "https://dictionary.findlaw.com/definition/treasury.html"
+        }
+    }
+}

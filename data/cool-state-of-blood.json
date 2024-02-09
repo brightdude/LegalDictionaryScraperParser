@@ -1,0 +1,16 @@
+{
+    "Cool State Of Blood": {
+        "definition": "an emotional condition in which a person's anger or passion is not great enough to overcome his or her faculties or ability to reason often used in statutory definitions of murder compare cold blood",
+        "compare": "cold blood",
+        "sub_definitions": {
+            "1": {
+                "1": "an emotional condition in which a person's anger or passion is not great enough to overcome his or her faculties or ability to reason often used in statutory definitions of murder compare",
+                "compares": "cold blood"
+            }
+        },
+        "references": {
+            "cold blood": "https://dictionary.findlaw.com/definition/cold-blood.html",
+            "heat of passion": "https://dictionary.findlaw.com/definition/heat-of-passion.html"
+        }
+    }
+}

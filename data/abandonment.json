@@ -1,0 +1,39 @@
+{
+    "Abandonment": {
+        "definition": "the act of abandoning property or a right",
+        "sub_definitions": {
+            "1": {
+                "definition": "the act of abandoning property or a right",
+                "sub_terms": {
+                    "a": "relinquishment by an inventor of the right to enforce a patent see also",
+                    "b": "an author's relinquishment to the public domain of his or her copyrighted work",
+                    "c": "relinquishment of a trademark established by a failure to use the trademark and an intention never to resume use",
+                    "d": "the act of an insured in surrendering all rights to damaged or lost property to an insurer as a total loss compare",
+                    "e": "relinquishment by a trustee in bankruptcy of interest in property in the bankruptcy estate often for a nominal sum"
+                },
+                "compares": "salvage",
+                "see also": "dedication"
+            },
+            "2": {
+                "definition": "the act of abandoning a person",
+                "sub_terms": {
+                    "a": "failure to have contact with a spouse that is intended to create a permanent separation",
+                    "b": "failure to communicate with or provide financial support for one's child over a period of time that shows a purpose to forgo parental duties and rights"
+                }
+            },
+            "3": {
+                "definition": "the act of abandoning a contract"
+            },
+            "4 a": {
+                "definition": "the act of abandoning a course of action (as a crime)",
+                "sub_terms": {
+                    "b": "the affirmative defense (as recognized under the Model Penal Code) of voluntary withdrawal from the commission of a crime resulting from the actor's change of heart and not from intervening circumstances"
+                }
+            }
+        },
+        "references": {
+            "dedication": "https://dictionary.findlaw.com/definition/dedication.html",
+            "salvage": "https://dictionary.findlaw.com/definition/salvage.html"
+        }
+    }
+}

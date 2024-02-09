@@ -1,0 +1,18 @@
+{
+    "Tail": {
+        "definition": "the condition of being limited or restricted by entailing [a tenant in ] 2",
+        "origin": "[Anglo-French, literally, cutting, from Old French, from taillier to cut, prune]",
+        "sub_definitions": {
+            "1": {
+                "definition": "the condition of being limited or restricted by entailing [a tenant in ]"
+            },
+            "2": {
+                "definition": "adjlimited as to tenure see alsoat"
+            }
+        },
+        "references": {
+            "entail": "https://dictionary.findlaw.com/definition/entail.html",
+            "fee": "https://dictionary.findlaw.com/definition/fee.html"
+        }
+    }
+}

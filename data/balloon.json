@@ -1,0 +1,13 @@
+{
+    "Balloon": {
+        "definition": "being or having a final installment that is much larger than preceding ones in an installment or term loan [a payment] NOTE",
+        "origin": "[a payment]",
+        "sub_definitions": {
+            "1": {
+                "1": "being or having a final installment that is much larger than preceding ones in an installment or term loan [a payment]",
+                "note": " In contrast to an amortized loan, a balloon loan is generally repaid in periodic payments of interest and a large, lump sum payment of principal at the end of the term."
+            }
+        },
+        "references": {}
+    }
+}

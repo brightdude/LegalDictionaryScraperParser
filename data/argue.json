@@ -1,0 +1,24 @@
+{
+    "Argue": {
+        "definition": "to give reasons for or against a matter in dispute [ arguing for an extension] 2",
+        "origin": "[ arguing for an extension]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to give reasons for or against a matter in dispute [for an extension]",
+                "arguing": "for an extension]"
+            },
+            "2": {
+                "definition": "to present in court [lawyers in court filing briefs andappeals \"Rorie Sherman\"]",
+                "arguing": "appeals \"Rorie Sherman\"]"
+            },
+            "1 a": {
+                "definition": "to give reasons for or against [the issue before the judge]",
+                "sub_terms": {
+                    "b": "to prove or try to prove by giving reasons or evidence [will invasion of privacy]"
+                },
+                "argued": "the issue before the judge]"
+            }
+        },
+        "references": {}
+    }
+}

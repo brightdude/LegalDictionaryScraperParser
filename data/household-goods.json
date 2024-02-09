@@ -1,0 +1,8 @@
+{
+    "Household Goods": {
+        "definition": "Household Goods",
+        "references": {
+            "good": "https://dictionary.findlaw.com/definition/good.html"
+        }
+    }
+}

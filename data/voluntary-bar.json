@@ -1,0 +1,15 @@
+{
+    "Voluntary Bar": {
+        "definition": "a bar to which lawyers are not required to belong to practice law in the state compare integrated bar",
+        "compare": "integrated bar",
+        "sub_definitions": {
+            "1": {
+                "1": "a bar to which lawyers are not required to belong to practice law in the state compare",
+                "compares": "integrated bar"
+            }
+        },
+        "references": {
+            "integrated bar": "https://dictionary.findlaw.com/definition/integrated-bar.html"
+        }
+    }
+}

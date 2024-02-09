@@ -1,0 +1,17 @@
+{
+    "Obligee": {
+        "definition": "one",
+        "origin": "[an protected by a surety bond]",
+        "compare": "debtor",
+        "sub_definitions": {
+            "1": {
+                "1": "one (as a creditor) to whom another is legally obligated [an protected by a surety bond] compare",
+                "compares": "debtor"
+            }
+        },
+        "references": {
+            "debtor": "https://dictionary.findlaw.com/definition/debtor.html",
+            "obligor": "https://dictionary.findlaw.com/definition/obligor.html"
+        }
+    }
+}

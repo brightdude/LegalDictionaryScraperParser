@@ -1,0 +1,15 @@
+{
+    "Mass": {
+        "definition": "an aggregation of usually similar things",
+        "origin": "[ insurance underwriting]",
+        "sub_definitions": {
+            "1": {
+                "1": "an aggregation of usually similar things (as assets in a succession) considered as a whole"
+            },
+            "2": {
+                "1": "participated in by or affecting a large number of individuals [ insurance underwriting] [ tort litigation]"
+            }
+        },
+        "references": {}
+    }
+}

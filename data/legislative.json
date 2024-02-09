@@ -1,0 +1,31 @@
+{
+    "Legislative": {
+        "definition": "having the power or performing the function of legislating b",
+        "origin": "[ committees]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "having the power or performing the function of legislating",
+                "sub_terms": {
+                    "b": "belonging to the branch of government that is charged with such powers as making laws, levying and collecting taxes, and making financial appropriations compare,,"
+                },
+                "compares": "administrative"
+            },
+            "2 a": {
+                "definition": "of or relating to a legislature [ committees]",
+                "sub_terms": {
+                    "b": "composed of members of a legislature [ caucus]",
+                    "c": "created or effectuated by a legislature esp. as distinguished from an executive or judicial body",
+                    "d": "designed to assist a legislature or its members [a research agency]"
+                }
+            },
+            "3": {
+                "definition": "of, concerned with, or created by legislation"
+            }
+        },
+        "references": {
+            "administrative": "https://dictionary.findlaw.com/definition/administrative.html",
+            "executive": "https://dictionary.findlaw.com/definition/executive.html",
+            "judicial": "https://dictionary.findlaw.com/definition/judicial.html"
+        }
+    }
+}

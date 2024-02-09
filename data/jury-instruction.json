@@ -1,0 +1,13 @@
+{
+    "Jury Instruction": {
+        "definition": "instruction",
+        "sub_definitions": {
+            "1": {
+                "1": "instruction"
+            }
+        },
+        "references": {
+            "instruction": "https://dictionary.findlaw.com/definition/instruction.html"
+        }
+    }
+}

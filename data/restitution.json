@@ -1,0 +1,27 @@
+{
+    "Restitution": {
+        "definition": "a restoration of something to its rightful owner b",
+        "origin": "[ordered to pay to the victim of his crime]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "a restoration of something to its rightful owner",
+                "sub_terms": {
+                    "b": "a making good of or giving an equivalent for some injury"
+                }
+            },
+            "2 a": {
+                "definition": "the equitable remedy of restoring to an aggrieved party that which was obtained in unjust enrichment",
+                "sub_terms": {
+                    "b": "a remedy for breach of contract that consists of restoring the aggrieved party to the status quo that existed before the contract was made"
+                }
+            },
+            "3": {
+                "definition": "an amount to be paid for the purpose of restitution [ordered to pay to the victim of his crime] compare",
+                "compares": "fine"
+            }
+        },
+        "references": {
+            "fine": "https://dictionary.findlaw.com/definition/fine.html"
+        }
+    }
+}

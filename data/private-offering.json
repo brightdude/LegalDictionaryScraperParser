@@ -1,0 +1,16 @@
+{
+    "Private Offering": {
+        "definition": "the sale of an issue of securities directly by the issuer to one or a few large investors without any public offering called also private placement compare public offering NOTE",
+        "compare": "public offering",
+        "sub_definitions": {
+            "1": {
+                "1": "the sale of an issue of securities directly by the issuer to one or a few large investors without any public offering called also",
+                "compares": "public offering",
+                "note": " A private offering is exempt from the requirements of filing a registration statement with the Securities and Exchange Commission and distributing prospectuses to potential buyers before the sale."
+            }
+        },
+        "references": {
+            "public offering": "https://dictionary.findlaw.com/definition/public-offering.html"
+        }
+    }
+}

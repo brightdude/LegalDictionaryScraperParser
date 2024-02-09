@@ -1,0 +1,21 @@
+{
+    "Satisfy": {
+        "definition": "to carry out the terms or obligation of",
+        "origin": "[refused to the judgment against her]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "to carry out the terms or obligation of (as by payment of money) [refused to the judgment against her] [ a condition precedent]to cause to be discharged, settled, or paid [sought to his claim against the debtor]",
+                "sub_terms": {
+                    "b": "to meet an obligation to [ a creditor]"
+                }
+            },
+            "2": {
+                "definition": "to convince by argument or evidence"
+            },
+            "3": {
+                "definition": "to conform to [ requirements]"
+            }
+        },
+        "references": {}
+    }
+}

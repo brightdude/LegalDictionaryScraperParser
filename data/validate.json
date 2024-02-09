@@ -1,0 +1,18 @@
+{
+    "Validate": {
+        "definition": "to make valid b",
+        "origin": "[va-lə-dā-shən]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "to make valid",
+                "sub_terms": {
+                    "b": "to grant official sanction to by marking"
+                }
+            },
+            "2": {
+                "definition": "to confirm the validity of (an election)"
+            }
+        },
+        "references": {}
+    }
+}

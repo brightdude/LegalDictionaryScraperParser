@@ -1,0 +1,16 @@
+{
+    "Judicial Review": {
+        "definition": "review 2",
+        "sub_definitions": {
+            "2": {
+                "definition": "a constitutional doctrine that gives to a court system the power to annul legislative or executive acts which the judges declare to be unconstitutionalthe process of using this power see alsoin the Important Cases section",
+                "see also": "checks and balances",
+                "Marbury v. Madison": "in the Important Cases section"
+            }
+        },
+        "references": {
+            "review": "https://dictionary.findlaw.com/definition/review.html",
+            "checks and balances": "https://dictionary.findlaw.com/definition/checks-and-balances.html"
+        }
+    }
+}

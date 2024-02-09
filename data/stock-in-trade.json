@@ -1,0 +1,11 @@
+{
+    "Stock In Trade": {
+        "definition": "the equipment",
+        "sub_definitions": {
+            "1": {
+                "1": "the equipment, merchandise, or materials necessary to or used in a trade or business"
+            }
+        },
+        "references": {}
+    }
+}

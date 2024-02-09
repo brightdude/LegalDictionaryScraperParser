@@ -1,0 +1,17 @@
+{
+    "Court Of Claims": {
+        "definition": "a court",
+        "sub_definitions": {
+            "1": {
+                "definition": "a court (as in Illinois, Michigan, New York, and West Virginia) that has jurisdiction primarily over cases involving claims against the state"
+            },
+            "2": {
+                "definition": "a former court succeeded by the United States Claims Court see also",
+                "see also": "united states court of federal claims"
+            }
+        },
+        "references": {
+            "united states court of federal claims": "https://dictionary.findlaw.com/definition/united-states-court-of-federal-claims.html"
+        }
+    }
+}

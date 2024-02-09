@@ -1,0 +1,16 @@
+{
+    "Censorship": {
+        "definition": "the institution",
+        "compare": "freedom of speech",
+        "sub_definitions": {
+            "1": {
+                "1": "the institution, system, or practice of censoring compare",
+                "compares": "freedom of speech"
+            }
+        },
+        "references": {
+            "freedom of speech": "https://dictionary.findlaw.com/definition/freedom-of-speech.html",
+            "prior restraint": "https://dictionary.findlaw.com/definition/prior-restraint.html"
+        }
+    }
+}

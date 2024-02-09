@@ -1,0 +1,16 @@
+{
+    "Disparate Impact": {
+        "definition": "an unnecessary discriminatory effect on a protected class caused by a practice or policy that appears to be nondiscriminatory compare bona fide occupational qualification",
+        "compare": "bona fide occupational qualification",
+        "sub_definitions": {
+            "1": {
+                "1": "an unnecessary discriminatory effect on a protected class caused by a practice or policy that appears to be nondiscriminatory compare",
+                "compares": "bona fide occupational qualification"
+            }
+        },
+        "references": {
+            "bona fide occupational qualification": "https://dictionary.findlaw.com/definition/bona-fide-occupational-qualification.html",
+            "disparate treatment": "https://dictionary.findlaw.com/definition/disparate-treatment.html"
+        }
+    }
+}

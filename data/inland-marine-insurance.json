@@ -1,0 +1,16 @@
+{
+    "Inland Marine Insurance": {
+        "definition": "insurance against loss of or damage to property transported in domestic commerce",
+        "compare": "marine insurance",
+        "sub_definitions": {
+            "1": {
+                "1": "insurance against loss of or damage to property transported in domestic commerce, instrumentalities of transport and communication, and personal property compare",
+                "compares": "marine insurance"
+            }
+        },
+        "references": {
+            "marine insurance": "https://dictionary.findlaw.com/definition/marine-insurance.html",
+            "ocean marine insurance": "https://dictionary.findlaw.com/definition/ocean-marine-insurance.html"
+        }
+    }
+}

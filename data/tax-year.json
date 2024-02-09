@@ -1,0 +1,13 @@
+{
+    "Tax Year": {
+        "definition": "taxable year",
+        "sub_definitions": {
+            "1": {
+                "1": "taxable year"
+            }
+        },
+        "references": {
+            "taxable year": "https://dictionary.findlaw.com/definition/taxable-year.html"
+        }
+    }
+}

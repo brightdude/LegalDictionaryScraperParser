@@ -1,0 +1,17 @@
+{
+    "Letter Ruling": {
+        "definition": "a ruling",
+        "sub_definitions": {
+            "1": {
+                "1": "a ruling (as of a court or administrative agency) that is made in a letter (as an opinion or determination letter)"
+            },
+            "2": {
+                "1": "determination letter"
+            }
+        },
+        "references": {
+            "determination letter": "https://dictionary.findlaw.com/definition/determination-letter.html",
+            "letter": "https://dictionary.findlaw.com/definition/letter.html"
+        }
+    }
+}

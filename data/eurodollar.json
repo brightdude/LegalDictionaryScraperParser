@@ -1,0 +1,11 @@
+{
+    "Eurodollar": {
+        "definition": "a U.S. dollar held as Eurocurrency",
+        "sub_definitions": {
+            "1": {
+                "1": "a U.S. dollar held as Eurocurrency"
+            }
+        },
+        "references": {}
+    }
+}

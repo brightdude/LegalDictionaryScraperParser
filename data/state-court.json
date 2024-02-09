@@ -1,0 +1,11 @@
+{
+    "State Court": {
+        "definition": "a court established in accordance with a state constitution and having jurisdiction to adjudicate matters of state law",
+        "sub_definitions": {
+            "1": {
+                "1": "a court established in accordance with a state constitution and having jurisdiction to adjudicate matters of state law"
+            }
+        },
+        "references": {}
+    }
+}

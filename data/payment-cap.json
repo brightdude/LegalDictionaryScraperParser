@@ -1,0 +1,6 @@
+{
+    "Payment Cap": {
+        "definition": "a limit on how much an ARM's payment may increase, regardless of how much the interest rate increases.",
+        "references": {}
+    }
+}

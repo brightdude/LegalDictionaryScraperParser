@@ -1,0 +1,12 @@
+{
+    "Trespassory": {
+        "definition": "constituting a trespass [a taking of property]",
+        "origin": "[a taking of property]",
+        "sub_definitions": {
+            "1": {
+                "1": "constituting a trespass [a taking of property]"
+            }
+        },
+        "references": {}
+    }
+}

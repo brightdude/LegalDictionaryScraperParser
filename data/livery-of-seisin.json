@@ -1,0 +1,14 @@
+{
+    "Livery Of Seisin": {
+        "definition": "an ancient ceremony for conveyance of land by the symbolic transfer of a relevant item",
+        "sub_definitions": {
+            "1": {
+                "1": "an ancient ceremony for conveyance of land by the symbolic transfer of a relevant item (as a key, twig, or turf) or by symbolic entry of the grantee called also",
+                "see also": "feoffment"
+            }
+        },
+        "references": {
+            "feoffment": "https://dictionary.findlaw.com/definition/feoffment.html"
+        }
+    }
+}

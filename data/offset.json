@@ -1,0 +1,23 @@
+{
+    "Offset": {
+        "definition": "a claim or amount that reduces or balances another claim or amount",
+        "origin": "[the creditor's own debt was an ]",
+        "sub_definitions": {
+            "1": {
+                "1": "a claim or amount that reduces or balances another claim or amount"
+            },
+            "2": {
+                "1": "set-off"
+            },
+            "3": {
+                "1": "the reduction or balance achieved by such a claim"
+            },
+            "4": {
+                "1": "to balance, reduce, or calculate by reference to another amount [ the debt against a credit]"
+            }
+        },
+        "references": {
+            "set-off": "https://dictionary.findlaw.com/definition/set-off.html"
+        }
+    }
+}

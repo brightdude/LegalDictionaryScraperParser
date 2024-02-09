@@ -1,0 +1,18 @@
+{
+    "Intrude": {
+        "definition": "to enter by intrusion 2",
+        "origin": "[a search that s on a person's privacy]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to enter by intrusion"
+            },
+            "2": {
+                "definition": "[a search thaton a person's privacy]to encroach on or upon without permission or right",
+                "s": "on a person's privacy]"
+            }
+        },
+        "references": {
+            "encroach": "https://dictionary.findlaw.com/definition/encroach.html"
+        }
+    }
+}

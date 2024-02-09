@@ -1,0 +1,17 @@
+{
+    "Word Of Limitation": {
+        "definition": "a word in a deed or will esp. following the name of an intended grantee or devisee that serves to describe the nature or extent of the estate granted or devised usu. used in pl. [construed “and his heirs” in “to John and his heirs” as words of limitation describing an estate in fee simple rather than as words of purchase giving a future interest in the estate to his heirs] compare word of purchase",
+        "origin": "[construed “and his heirs” in “to John and his heirs” as words of limitation describing an estate in fee simple rather than as words of purchase giving a future interest in the estate to his heirs]",
+        "compare": "word of purchase",
+        "sub_definitions": {
+            "1": {
+                "1": "a word in a deed or will esp. following the name of an intended grantee or devisee that serves to describe the nature or extent of the estate granted or devised usu. used in pl. [construed “and his heirs” in “to John and his heirs” as",
+                "words of limitation": "describing an estate in fee simple rather than as words of purchase giving a future interest in the estate to his heirs] compare",
+                "compares": "word of purchase"
+            }
+        },
+        "references": {
+            "word of purchase": "https://dictionary.findlaw.com/definition/word-of-purchase.html"
+        }
+    }
+}

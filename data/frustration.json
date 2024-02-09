@@ -1,0 +1,25 @@
+{
+    "Frustration": {
+        "definition": "the act of frustrating b",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "the act of frustrating",
+                "sub_terms": {
+                    "b": "the state or an instance of being frustrated",
+                    "c": "something that frustrates"
+                }
+            },
+            "2": {
+                "definition": "a common-law doctrine of contract law: parties to a contract may be excused from performance even though performance is still possible if the reason for making the contract is partially or completely frustrated by a fortuitous event or by circumstances which are not the fault of either party called alsocompare,,,",
+                "note": " In order for frustration to be used as a successful defense to a breach of contract claim, the reason for making the contract must have been contemplated or recognized by both the contracting parties even though it was not expressed in the contract.",
+                "compares": "cause"
+            }
+        },
+        "references": {
+            "cause": "https://dictionary.findlaw.com/definition/cause.html",
+            "force majeure clause": "https://dictionary.findlaw.com/definition/force-majeure-clause.html",
+            "impossibility": "https://dictionary.findlaw.com/definition/impossibility.html",
+            "impracticability": "https://dictionary.findlaw.com/definition/impracticability.html"
+        }
+    }
+}

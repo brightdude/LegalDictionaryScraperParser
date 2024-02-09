@@ -1,0 +1,18 @@
+{
+    "Aggravator": {
+        "definition": "one that aggravates ;esp",
+        "origin": "[weigh the s and the mitigators in fixing a sentence]",
+        "sub_definitions": {
+            "1": {
+                "1": "one that aggravates"
+            },
+            "2": {
+                "1": "aggravating circumstance",
+                "s": "and the mitigators in fixing a sentence]"
+            }
+        },
+        "references": {
+            "aggravating circumstance": "https://dictionary.findlaw.com/definition/aggravating-circumstance.html"
+        }
+    }
+}

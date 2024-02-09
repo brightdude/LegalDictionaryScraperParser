@@ -1,0 +1,18 @@
+{
+    "Dissolution": {
+        "definition": "the act or process of ending",
+        "sub_definitions": {
+            "involuntary dissolution": {
+                "definition": "dissolution of a corporation by a court in response to a shareholder petition based on statutorily prescribed grounds"
+            },
+            "voluntary dissolution": {
+                "definition": "dissolution of a corporation upon the initiative of the directors and with approval of a certain percentage of the shareholders",
+                "sub_terms": {
+                    "d": "the termination of an injunction or stay by court order",
+                    "e": "the termination of a marriage by divorce"
+                }
+            }
+        },
+        "references": {}
+    }
+}

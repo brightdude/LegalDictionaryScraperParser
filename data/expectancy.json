@@ -1,0 +1,15 @@
+{
+    "Expectancy": {
+        "definition": "-cies",
+        "sub_definitions": {
+            "-cies": {
+                "definition": "something expected",
+                "sub_terms": {
+                    "a": "an interest held by a person who may receive something (as a bequest) in the future but has no enforceable right to it",
+                    "b": "the benefit that will be received from a contract if performed"
+                }
+            }
+        },
+        "references": {}
+    }
+}

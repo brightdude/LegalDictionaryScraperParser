@@ -1,0 +1,8 @@
+{
+    "Sale Or Return": {
+        "definition": "Sale Or Return",
+        "references": {
+            "sale": "https://dictionary.findlaw.com/definition/sale.html"
+        }
+    }
+}

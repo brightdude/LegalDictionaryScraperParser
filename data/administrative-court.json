@@ -1,0 +1,11 @@
+{
+    "Administrative Court": {
+        "definition": "a court sitting in the District Court or Superior Court in Maine that handles matters involving real estate licenses",
+        "sub_definitions": {
+            "1": {
+                "1": "a court sitting in the District Court or Superior Court in Maine that handles matters involving real estate licenses"
+            }
+        },
+        "references": {}
+    }
+}

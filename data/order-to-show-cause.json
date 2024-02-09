@@ -1,0 +1,8 @@
+{
+    "Order To Show Cause": {
+        "definition": "Order To Show Cause",
+        "references": {
+            "order": "https://dictionary.findlaw.com/definition/order.html"
+        }
+    }
+}

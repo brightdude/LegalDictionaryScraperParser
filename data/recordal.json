@@ -1,0 +1,13 @@
+{
+    "Recordal": {
+        "definition": "recordation",
+        "sub_definitions": {
+            "1": {
+                "1": "recordation"
+            }
+        },
+        "references": {
+            "recordation": "https://dictionary.findlaw.com/definition/recordation.html"
+        }
+    }
+}

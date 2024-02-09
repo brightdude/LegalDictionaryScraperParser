@@ -1,0 +1,11 @@
+{
+    "Confidential Communication": {
+        "definition": "a communication between parties to a confidential relation",
+        "sub_definitions": {
+            "1": {
+                "1": "a communication between parties to a confidential relation (as husband and wife, attorney and client, or doctor and patient) such that the recipient of the communication has a privilege exempting him or her from disclosing it as a witness called also"
+            }
+        },
+        "references": {}
+    }
+}

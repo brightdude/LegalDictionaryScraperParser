@@ -1,0 +1,11 @@
+{
+    "Deferred Income": {
+        "definition": "current income forgone to produce a later higher income",
+        "sub_definitions": {
+            "1": {
+                "1": "current income forgone to produce a later higher income (as at retirement)"
+            }
+        },
+        "references": {}
+    }
+}

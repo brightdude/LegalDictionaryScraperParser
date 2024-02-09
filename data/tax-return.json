@@ -1,0 +1,13 @@
+{
+    "Tax Return": {
+        "definition": "return",
+        "sub_definitions": {
+            "1": {
+                "1": "return"
+            }
+        },
+        "references": {
+            "return": "https://dictionary.findlaw.com/definition/return.html"
+        }
+    }
+}

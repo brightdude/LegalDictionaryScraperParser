@@ -1,0 +1,12 @@
+{
+    "Tribal Court": {
+        "definition": "a court administered through self-government of an American Indian tribe esp. on a reservation and having federally prescribed jurisdiction over custody and adoption cases involving tribal children",
+        "sub_definitions": {
+            "1": {
+                "1": "a court administered through self-government of an American Indian tribe esp. on a reservation and having federally prescribed jurisdiction over custody and adoption cases involving tribal children, criminal jurisdiction over offenses committed on tribal lands by members of the tribe, and broader civil jurisdiction over claims between tribe members and nonmembers",
+                "note": " Criminal prosecutions of tribal members in tribal courts must respect constitutional rights specifically listed in the Indian Civil Rights Act, which also provides for a federal habeas corpus remedy in lieu of federal appellate review. Parties to a civil action that arguably falls within the jurisdiction of a tribal court must first exhaust remedies there before seeking adjudication in a federal court, whether they are both tribal members or not. A dispute over such jurisdiction is ultimately a federal question."
+            }
+        },
+        "references": {}
+    }
+}

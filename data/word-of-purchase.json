@@ -1,0 +1,15 @@
+{
+    "Word Of Purchase": {
+        "definition": "a word in a deed or will that shows who is to receive the estate usu. used in pl. compare word of limitation",
+        "compare": "word of limitation",
+        "sub_definitions": {
+            "1": {
+                "1": "a word in a deed or will that shows who is to receive the estate usu. used in pl. compare",
+                "compares": "word of limitation"
+            }
+        },
+        "references": {
+            "word of limitation": "https://dictionary.findlaw.com/definition/word-of-limitation.html"
+        }
+    }
+}

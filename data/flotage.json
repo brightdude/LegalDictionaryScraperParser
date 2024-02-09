@@ -1,0 +1,13 @@
+{
+    "Flotage": {
+        "definition": "flotsam",
+        "sub_definitions": {
+            "1": {
+                "1": "flotsam"
+            }
+        },
+        "references": {
+            "flotsam": "https://dictionary.findlaw.com/definition/flotsam.html"
+        }
+    }
+}

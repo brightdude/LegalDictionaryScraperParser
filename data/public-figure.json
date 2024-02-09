@@ -1,0 +1,18 @@
+{
+    "Public Figure": {
+        "definition": "an individual or entity that has acquired fame or notoriety or has participated in a particular public controversy see also limited purpose public figure compare public official NOTE",
+        "compare": "limited purpose public figure",
+        "sub_definitions": {
+            "1": {
+                "1": "an individual or entity that has acquired fame or notoriety or has participated in a particular public controversy see also",
+                "see also": "limited purpose public figure",
+                "compares": "public official",
+                "note": " A public figure must prove actual malice in order to prevail in a defamation action."
+            }
+        },
+        "references": {
+            "limited purpose public figure": "https://dictionary.findlaw.com/definition/limited-purpose-public-figure.html",
+            "public official": "https://dictionary.findlaw.com/definition/public-official.html"
+        }
+    }
+}

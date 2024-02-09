@@ -1,0 +1,11 @@
+{
+    "Freeholder": {
+        "definition": "the owner of a freehold estate",
+        "sub_definitions": {
+            "1": {
+                "1": "the owner of a freehold estate"
+            }
+        },
+        "references": {}
+    }
+}

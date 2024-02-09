@@ -1,0 +1,11 @@
+{
+    "Innocent Purchaser": {
+        "definition": "one who purchases property for consideration in good faith and without knowledge of facts that would lead to the suspicion that the seller does not have good title",
+        "sub_definitions": {
+            "1": {
+                "1": "one who purchases property for consideration in good faith and without knowledge of facts that would lead to the suspicion that the seller does not have good title"
+            }
+        },
+        "references": {}
+    }
+}

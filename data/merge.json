@@ -1,0 +1,19 @@
+{
+    "Merge": {
+        "definition": "to cause to unite",
+        "origin": "[ one corporation with another]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to cause to unite, combine, or coalesce [ one corporation with another]"
+            },
+            "2": {
+                "definition": "to cause to be incorporated and superseded [one effect of a judgment is to therein the cause of action on which the action is brought \"2d\"] compareto become combinedundergo merger",
+                "compares": "bar",
+                "American Jurisprudence": "2d\"] compare"
+            }
+        },
+        "references": {
+            "bar": "https://dictionary.findlaw.com/definition/bar.html"
+        }
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "Taxable Year": {
+        "definition": "a period of time used as the basis of tax computation that is usually the annual accounting period of a calendar year or fiscal year called also tax year",
+        "sub_definitions": {
+            "1": {
+                "1": "a period of time used as the basis of tax computation that is usually the annual accounting period of a calendar year or fiscal year called also"
+            }
+        },
+        "references": {}
+    }
+}

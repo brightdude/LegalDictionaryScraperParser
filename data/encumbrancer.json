@@ -1,0 +1,11 @@
+{
+    "Encumbrancer": {
+        "definition": "a person who holds an encumbrance",
+        "sub_definitions": {
+            "1": {
+                "1": "a person who holds an encumbrance"
+            }
+        },
+        "references": {}
+    }
+}

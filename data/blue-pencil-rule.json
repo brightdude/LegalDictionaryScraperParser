@@ -1,0 +1,11 @@
+{
+    "Blue Pencil Rule": {
+        "definition": "a rule in contracts",
+        "sub_definitions": {
+            "1": {
+                "1": "a rule in contracts: a court may strike parts of a covenant not to compete in order to make the covenant reasonable"
+            }
+        },
+        "references": {}
+    }
+}

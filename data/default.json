@@ -1,0 +1,22 @@
+{
+    "Default": {
+        "definition": "failure to do something required by duty",
+        "origin": "[Anglo-French defalte defaute lack, fault, failure to answer a summons, from defaillir to be lacking, fail, from de -, intensive prefix + faillir to fail]",
+        "sub_definitions": {
+            "1": {
+                "definition": "failure to do something required by duty (as under a contract or by law)",
+                "sub_terms": {
+                    "a": "failure to comply with the terms of a loan agreement or security agreement esp. with regard to payment of the debt",
+                    "b": "a delay in performing under a contract that is recognized by the other party"
+                },
+                "note": " A party whose performance under a contract is delayed is not automatically in default. Rather, the law of Louisiana requires that the other party “put him or her in default” by a written or witnessed oral request for performance, by filing suit, or by invoking a specific provision in the contract. Moratory damages may be recoverable for loss caused by the delay."
+            },
+            "2": {
+                "definition": "failure to defend against a claim in court (as by failing to file pleadings or to appear in court) see alsoat"
+            }
+        },
+        "references": {
+            "judgment": "https://dictionary.findlaw.com/definition/judgment.html"
+        }
+    }
+}

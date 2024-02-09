@@ -1,0 +1,25 @@
+{
+    "Perpetuity": {
+        "definition": "-ties 1",
+        "origin": "[devised to them in ]",
+        "sub_definitions": {
+            "1": {
+                "definition": "the quality, state, or duration of being perpetual [devised to them in ]"
+            },
+            "2 a": {
+                "definition": "the condition of a future estate limited in such a way as not to vest within the period fixed by law for the vesting of an estatea limitation that gives rise to such a situation",
+                "sub_terms": {
+                    "b": "an estate that will not vest within the period fixed by law see also,"
+                },
+                "see also": "rule against perpetuities"
+            },
+            "3": {
+                "definition": "an annuity payable forever"
+            }
+        },
+        "references": {
+            "rule against perpetuities": "https://dictionary.findlaw.com/definition/rule-against-perpetuities.html",
+            "statutory rule against perpetuities": "https://dictionary.findlaw.com/definition/statutory-rule-against-perpetuities.html"
+        }
+    }
+}

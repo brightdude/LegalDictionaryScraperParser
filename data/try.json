@@ -1,0 +1,26 @@
+{
+    "Try": {
+        "definition": "to examine or investigate judicially [no fact tried by a jury",
+        "origin": "[Anglo-French trier to choose, sort, ascertain, examine judicially, from Old French, to choose, sort]",
+        "sub_definitions": {
+            "try·ing": {
+                "definition": "[Anglo-Frenchto choose, sort, ascertain, examine judicially, from Old French, to choose, sort]"
+            },
+            "1": {
+                "definition": "to examine or investigate judicially [no factby a jury, shall be otherwise reexamined in any court of the United States, than according to the rules of the common law \"amend. VII\"] [in all actionsupon the facts without a jury \"Rule 52(a)\"]",
+                "tried": "upon the facts without a jury \"",
+                "U.S. Constitution": "amend. VII\"] [in all actions",
+                "Federal Rules of Civil Procedure": "Rule 52(a)\"]"
+            },
+            "2": {
+                "definition": "to conduct the trial ofput on trial [if…the judge before whom the defendant has beenis unable to perform the duties to be performed by the court after a verdict or finding of guilt \"Rule 25(b)\"]",
+                "tried": "is unable to perform the duties to be performed by the court after a verdict or finding of guilt \"",
+                "Federal Rules of Criminal Procedure": "Rule 25(b)\"]"
+            },
+            "3": {
+                "definition": "to participate as lawyer or counsel in the trial ofbring to trial on behalf of a client [was unqualified to death penalty cases]"
+            }
+        },
+        "references": {}
+    }
+}

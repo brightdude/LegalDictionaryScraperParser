@@ -1,0 +1,15 @@
+{
+    "Unemancipated": {
+        "definition": "not emancipated ;specif",
+        "origin": "[an minor]",
+        "sub_definitions": {
+            "1": {
+                "1": "not emancipated"
+            },
+            "2": {
+                "1": "still under parental authority [an minor]"
+            }
+        },
+        "references": {}
+    }
+}

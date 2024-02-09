@@ -1,0 +1,13 @@
+{
+    "Court Of Chancery": {
+        "definition": "court of equity",
+        "sub_definitions": {
+            "1": {
+                "1": "court of equity"
+            }
+        },
+        "references": {
+            "court of equity": "https://dictionary.findlaw.com/definition/court-of-equity.html"
+        }
+    }
+}

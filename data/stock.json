@@ -1,0 +1,52 @@
+{
+    "Stock": {
+        "definition": "the equipment",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "the equipment, materials, or supplies of a business",
+                "sub_terms": {
+                    "b": "a store or supply accumulatedthe inventory of the goods of a merchant or manufacturer"
+                }
+            },
+            "2": {
+                "definition": "the outstanding shares of a joint stock company considered as an aggregate"
+            },
+            "1": {
+                "definition": "the stock that a corporation may issue under its charter including both common and preferred stock"
+            },
+            "common stock": {
+                "definition": "a class of stock whose holders share in company profits (as through dividends) on a pro rata basis, may vote for directors and on important matters such as mergers, and may have limited access to information not publicly available"
+            },
+            "cumulative preferred stock": {
+                "definition": "preferred stock whose holders are entitled to the payment of cumulative dividends as well as current dividends before common stockholders are paid"
+            },
+            "growth stock": {
+                "definition": "stock issued by a growth company"
+            },
+            "margin stock": {
+                "definition": "stock that may be purchased in a margin account"
+            },
+            "no-par value stock": {
+                "definition": "stock issued with no par value which may be carried for corporate accounting purposes as part of the capital stock or as part of the capital surplus to the extent allowed by law called also"
+            },
+            "pen·ny stock": {
+                "definition": "the stock of a small company not listed on a major exchange and traditionally selling at less than a dollar a share"
+            },
+            "preferred stock": {
+                "definition": "a class of corporate stock whose holders are guaranteed payment of dividends and a share of asset distribution before the holders of common stock but are usually denied voting rights"
+            },
+            "Treasury stock": {
+                "definition": "stock that is reacquired and held by the issuing company (as to increase the market value of traded shares)"
+            },
+            "voting stock": {
+                "definition": "stock (as common stock) entitling the holder to vote in matters of corporate governance"
+            },
+            "wa·tered stock": {
+                "definition": "stock issued with a par value greater than the value of the underlying assets"
+            }
+        },
+        "references": {
+            "capitalization": "https://dictionary.findlaw.com/definition/capitalization.html"
+        }
+    }
+}

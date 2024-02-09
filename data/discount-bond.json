@@ -1,0 +1,8 @@
+{
+    "Discount Bond": {
+        "definition": "Discount Bond",
+        "references": {
+            "bond": "https://dictionary.findlaw.com/definition/bond.html"
+        }
+    }
+}

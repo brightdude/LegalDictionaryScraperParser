@@ -1,0 +1,11 @@
+{
+    "Causality": {
+        "definition": "-ties",
+        "sub_definitions": {
+            "-ties": {
+                "definition": "the relationship between cause and effect"
+            }
+        },
+        "references": {}
+    }
+}

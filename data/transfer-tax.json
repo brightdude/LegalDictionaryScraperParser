@@ -1,0 +1,11 @@
+{
+    "Transfer Tax": {
+        "definition": "a tax",
+        "sub_definitions": {
+            "1": {
+                "1": "a tax (as a gift tax or estate tax) imposed on the transfer of property"
+            }
+        },
+        "references": {}
+    }
+}

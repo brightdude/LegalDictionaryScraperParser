@@ -1,0 +1,20 @@
+{
+    "Arrear": {
+        "definition": "the condition of being behind in one's duties or esp. financial obligations usually used in pl. [in s with the rent] b",
+        "origin": "[in s with the rent]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "the condition of being behind in one's duties or esp. financial obligations usually used in pl. [inwith the rent]",
+                "sub_terms": {
+                    "b": "the condition of being due at the end of a term rather than the beginning usually used in pl. [mortgage payments are made in]"
+                },
+                "s": "with the rent]"
+            },
+            "2": {
+                "definition": "an unpaid and overdue debt usually used in pl. [paying off theof the previous owners]",
+                "s": "of the previous owners]"
+            }
+        },
+        "references": {}
+    }
+}

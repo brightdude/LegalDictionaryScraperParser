@@ -1,0 +1,13 @@
+{
+    "Excise Tax": {
+        "definition": "excise",
+        "sub_definitions": {
+            "1": {
+                "1": "excise"
+            }
+        },
+        "references": {
+            "excise": "https://dictionary.findlaw.com/definition/excise.html"
+        }
+    }
+}

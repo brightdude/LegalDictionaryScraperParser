@@ -1,0 +1,20 @@
+{
+    "Assurance": {
+        "definition": "the act of assuring b",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "the act of assuring",
+                "sub_terms": {
+                    "b": ""
+                }
+            },
+            "2": {
+                "definition": "the act of conveying real propertythe document by which it is conveyed"
+            }
+        },
+        "references": {
+            "guarantee": "https://dictionary.findlaw.com/definition/guarantee.html",
+            "insurance": "https://dictionary.findlaw.com/definition/insurance.html"
+        }
+    }
+}

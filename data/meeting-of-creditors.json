@@ -1,0 +1,11 @@
+{
+    "Meeting Of Creditors": {
+        "definition": "a hearing held pursuant to section 341 of the Bankruptcy Code at which a bankrupt debtor is required to submit to examination under oath by creditors who may also elect a trustee if one has not already been appointed",
+        "sub_definitions": {
+            "1": {
+                "1": "a hearing held pursuant to section 341 of the Bankruptcy Code at which a bankrupt debtor is required to submit to examination under oath by creditors who may also elect a trustee if one has not already been appointed"
+            }
+        },
+        "references": {}
+    }
+}

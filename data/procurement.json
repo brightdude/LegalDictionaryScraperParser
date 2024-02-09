@@ -1,0 +1,14 @@
+{
+    "Procurement": {
+        "definition": "the act of procuring 2",
+        "sub_definitions": {
+            "1": {
+                "definition": "the act of procuring"
+            },
+            "2": {
+                "definition": "the purchasing, leasing, renting, or selling of materials, services, equipment, or construction"
+            }
+        },
+        "references": {}
+    }
+}

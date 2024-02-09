@@ -1,0 +1,20 @@
+{
+    "Citizenship": {
+        "definition": "the status of being a citizen 2",
+        "sub_definitions": {
+            "1": {
+                "definition": "the status of being a citizen"
+            },
+            "2": {
+                "definition": "the quality of an individual's behavior as a citizen"
+            },
+            "3": {
+                "definition": "used esp. in federal diversity cases see alsoat"
+            }
+        },
+        "references": {
+            "domicile": "https://dictionary.findlaw.com/definition/domicile.html",
+            "jurisdiction": "https://dictionary.findlaw.com/definition/jurisdiction.html"
+        }
+    }
+}

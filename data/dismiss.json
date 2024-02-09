@@ -1,0 +1,16 @@
+{
+    "Dismiss": {
+        "definition": "to remove from position or service [ ed the employee] 2",
+        "origin": "[ ed the employee]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to remove from position or service [the employee]",
+                "ed": "the employee]"
+            },
+            "2": {
+                "definition": "to bring about or order the dismissal of (an action) [the suit was]to bring about or order a dismissal [the plaintiff moved to ]"
+            }
+        },
+        "references": {}
+    }
+}

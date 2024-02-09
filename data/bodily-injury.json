@@ -1,0 +1,16 @@
+{
+    "Bodily Injury": {
+        "definition": "any damage to a person's physical condition including pain or illness called also bodily harm compare emotional distress",
+        "compare": "emotional distress",
+        "sub_definitions": {
+            "1": {
+                "1": "any damage to a person's physical condition including pain or illness called also",
+                "compares": "emotional distress"
+            }
+        },
+        "references": {
+            "emotional distress": "https://dictionary.findlaw.com/definition/emotional-distress.html",
+            "serious bodily injury": "https://dictionary.findlaw.com/definition/serious-bodily-injury.html"
+        }
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "Cestui": {
+        "definition": "beneficiary",
+        "origin": "[Anglo-French, originally oblique form of cest this person, this]",
+        "sub_definitions": {
+            "1": {
+                "1": "beneficiary"
+            }
+        },
+        "references": {
+            "beneficiary": "https://dictionary.findlaw.com/definition/beneficiary.html"
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "Duress": {
+        "definition": "wrongful and usually unlawful compulsion",
+        "origin": "[Anglo-French duresce , literally, hardness, harshness, from Old French, from Latin duritia , from durus hard]",
+        "compare": "coercion",
+        "sub_definitions": {
+            "1": {
+                "1": "wrongful and usually unlawful compulsion (as threats of physical violence) that induces a person to act against his or her will"
+            },
+            "2": {
+                "1": "coercion"
+            },
+            "3": {
+                "1": "the affirmative defense of having acted under duress see also",
+                "see also": "economic duress",
+                "compares": "necessity",
+                "note": " A person may be able to avoid the consequences of his or her acts under the law if they were performed while under duress. For example, a contract made under duress is voidable by the coerced party. Similarly, a will signed under duress is invalid. Duress may also be used to justify a criminal act. A threat to bring a lawsuit is not duress."
+            }
+        },
+        "references": {
+            "coercion": "https://dictionary.findlaw.com/definition/coercion.html",
+            "economic duress": "https://dictionary.findlaw.com/definition/economic-duress.html",
+            "necessity": "https://dictionary.findlaw.com/definition/necessity.html",
+            "undue influence": "https://dictionary.findlaw.com/definition/undue-influence.html"
+        }
+    }
+}

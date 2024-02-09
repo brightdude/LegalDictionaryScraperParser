@@ -1,0 +1,15 @@
+{
+    "Speculative Risk": {
+        "definition": "a risk that may result in either a loss or a gain compare pure risk",
+        "compare": "pure risk",
+        "sub_definitions": {
+            "1": {
+                "1": "a risk that may result in either a loss or a gain compare",
+                "compares": "pure risk"
+            }
+        },
+        "references": {
+            "pure risk": "https://dictionary.findlaw.com/definition/pure-risk.html"
+        }
+    }
+}

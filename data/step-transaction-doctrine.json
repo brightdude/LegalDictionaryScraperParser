@@ -1,0 +1,11 @@
+{
+    "Step Transaction Doctrine": {
+        "definition": "a doctrine in tax law",
+        "sub_definitions": {
+            "1": {
+                "1": "a doctrine in tax law: a series of separate but related transactions may be viewed as a single transaction and the tax liability may be based on that transaction rather than the individual transactions in the series"
+            }
+        },
+        "references": {}
+    }
+}

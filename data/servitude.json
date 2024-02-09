@@ -1,0 +1,39 @@
+{
+    "Servitude": {
+        "definition": "a condition in which an individual lacks liberty esp. to determine his or her course of action or way of life ;specif",
+        "origin": "[involuntary ]",
+        "sub_definitions": {
+            "1": {
+                "definition": "a condition in which an individual lacks liberty esp. to determine his or her course of action or way of lifethe state of being a slave [involuntary ] see alsoandto thein the back matter"
+            },
+            "2": {
+                "definition": "a right by which property owned by one person is subject to a specified use or enjoyment of another used chiefly in the civil law of Louisiana see alsoandatcompare",
+                "compares": "easement"
+            },
+            "apparent servitude": {
+                "definition": "a predial servitude whose existence is perceivable by exterior signs or works (as an aqueduct or road) on the property"
+            },
+            "legal servitude": {
+                "definition": "a predial servitude that is created by a limitation under the law on the use of the property"
+            },
+            "natural servitude": {
+                "definition": "a predial servitude that arises from the situation of the estates (as from one being situated downhill from another)"
+            },
+            "personal servitude": {
+                "definition": "a servitude that burdens property in favor of a specific named person see also,",
+                "see also": "right of use"
+            },
+            "predial servitude": {
+                "definition": "a servitude that burdens one item of immovable property (as a tract of land) in favor of another",
+                "note": " A predial servitude is transferred along with the ownership of the dominant estate, and the servient estate is always taken subject to the servitude. A predial servitude cannot be transferred separately from the dominant estate."
+            }
+        },
+        "references": {
+            "Constitution": "https://dictionary.findlaw.com/definition/constitution.html",
+            "estate": "https://dictionary.findlaw.com/definition/estate.html",
+            "easement": "https://dictionary.findlaw.com/definition/easement.html",
+            "right of use": "https://dictionary.findlaw.com/definition/right-of-use.html",
+            "usufruct": "https://dictionary.findlaw.com/definition/usufruct.html"
+        }
+    }
+}

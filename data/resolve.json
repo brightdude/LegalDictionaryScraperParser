@@ -1,0 +1,22 @@
+{
+    "Resolve": {
+        "definition": "to deal with successfully",
+        "origin": "[ a dispute]",
+        "sub_definitions": {
+            "1": {
+                "definition": "something that is resolved"
+            },
+            "2 a": {
+                "definition": "to declare or decide by formal resolution and vote",
+                "sub_terms": {
+                    "b": "to change by resolution or formal vote [the houseitself into a committee]to form a resolutionn"
+                },
+                "resolved": "itself into a committee]"
+            },
+            "2": {
+                "definition": "a legal or official determinationa legislative declaration"
+            }
+        },
+        "references": {}
+    }
+}

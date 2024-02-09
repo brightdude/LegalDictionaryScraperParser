@@ -1,0 +1,18 @@
+{
+    "Liquid": {
+        "definition": "consisting of cash or capable of ready conversion into cash [ assets] b",
+        "origin": "[ assets]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "consisting of cash or capable of ready conversion into cash [ assets]",
+                "sub_terms": {
+                    "b": "capable of covering current liabilities out of current assets esp. in a rapid manner [a insurer]"
+                }
+            },
+            "2": {
+                "definition": "of or relating to a security or commodity with enough shares or units outstanding to hinder significant price variation from large transactions"
+            }
+        },
+        "references": {}
+    }
+}

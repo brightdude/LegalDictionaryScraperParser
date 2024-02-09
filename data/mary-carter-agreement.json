@@ -1,0 +1,13 @@
+{
+    "Mary Carter Agreement": {
+        "definition": "a secret agreement between a plaintiff and one or more but not all codefendants which limits the liability of the defendants by giving them an interest in the recovery awarded to the plaintiff NOTE",
+        "origin": "[from Booth v. Mary Carter Paint Co. , 202 So. 2d 8 (1967), Florida appeals court case that popularized the agreement]",
+        "sub_definitions": {
+            "1": {
+                "1": "a secret agreement between a plaintiff and one or more but not all codefendants which limits the liability of the defendants by giving them an interest in the recovery awarded to the plaintiff",
+                "note": " In a Mary Carter agreement, the participating defendants agree to remain as parties to the lawsuit and guarantee payment to the plaintiff of a settled amount if no recovery is awarded against the other defendants. The plaintiff agrees to offset their liability by, or sometimes even to pay them from, a recovery awarded from the other defendants. Some states allow the admission of Mary Carter agreements into evidence. In other states they are illegal."
+            }
+        },
+        "references": {}
+    }
+}

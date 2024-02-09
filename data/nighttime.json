@@ -1,0 +1,14 @@
+{
+    "Nighttime": {
+        "definition": "the time from dusk to dawn 2",
+        "sub_definitions": {
+            "1": {
+                "definition": "the time from dusk to dawn"
+            },
+            "2": {
+                "definition": "a statutorily set period usually beginning shortly after dusk and ending shortly after dawn"
+            }
+        },
+        "references": {}
+    }
+}

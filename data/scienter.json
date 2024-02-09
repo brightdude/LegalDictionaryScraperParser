@@ -1,0 +1,16 @@
+{
+    "Scienter": {
+        "definition": "knowledge of the nature of one's act or omission or of the nature of something in one's possession that is often a necessary element of an offense [the element constitutionally required for an obscenity statute \" Wall Dist. v. Newport News",
+        "origin": "[Latin, knowingly, from scient- sciens , present participle of scire to know]",
+        "sub_definitions": {
+            "1": {
+                "definition": "knowledge of the nature of one's act or omission or of the nature of something in one's possession that is often a necessary element of an offense [the element constitutionally required for an obscenity statute \", 323 S.E.2d 75 (1984)\"]intent to engage in particular esp. criminal conduct [a few environmental statutes…do away altogether with the need to prove …requiring no proof of criminal intent whatsoever \"R. J. Kafin\"]",
+                "Wall Dist. v. Newport News": "323 S.E.2d 75 (1984)"
+            },
+            "2": {
+                "definition": "a mental state in fraud (as securities fraud) that is characterized by an intent to deceive, manipulate, or defraud"
+            }
+        },
+        "references": {}
+    }
+}

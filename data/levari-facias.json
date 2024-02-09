@@ -1,0 +1,16 @@
+{
+    "Levari Facias": {
+        "definition": "a common-law writ of execution for the satisfaction of a judgment debt from the goods and lands of the judgment debtor used chiefly in Delaware compare fieri facias",
+        "origin": "[New Latin, you should cause to be levied]",
+        "compare": "fieri facias",
+        "sub_definitions": {
+            "1": {
+                "1": "a common-law writ of execution for the satisfaction of a judgment debt from the goods and lands of the judgment debtor used chiefly in Delaware compare",
+                "compares": "fieri facias"
+            }
+        },
+        "references": {
+            "fieri facias": "https://dictionary.findlaw.com/definition/fieri-facias.html"
+        }
+    }
+}

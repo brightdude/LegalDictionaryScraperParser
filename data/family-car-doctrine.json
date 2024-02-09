@@ -1,0 +1,13 @@
+{
+    "Family Car Doctrine": {
+        "definition": "family purpose doctrine",
+        "sub_definitions": {
+            "1": {
+                "1": "family purpose doctrine"
+            }
+        },
+        "references": {
+            "family purpose doctrine": "https://dictionary.findlaw.com/definition/family-purpose-doctrine.html"
+        }
+    }
+}

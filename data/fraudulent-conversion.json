@@ -1,0 +1,11 @@
+{
+    "Fraudulent Conversion": {
+        "definition": "conversion committed with the intent of defrauding someone",
+        "sub_definitions": {
+            "1": {
+                "1": "conversion committed with the intent of defrauding someone"
+            }
+        },
+        "references": {}
+    }
+}

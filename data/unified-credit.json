@@ -1,0 +1,12 @@
+{
+    "Unified Credit": {
+        "definition": "a tax credit applied against the unified transfer tax that is a cumulative credit gradually reduced by the amount of credit allowed for gifts made in preceding calendar periods NOTE",
+        "sub_definitions": {
+            "1": {
+                "1": "a tax credit applied against the unified transfer tax that is a cumulative credit gradually reduced by the amount of credit allowed for gifts made in preceding calendar periods",
+                "note": " The total unified credit allowed as of 1987 is $192,800. The amount of the credit to be used in each period cannot exceed that period's tax liability, and so the credit may be gradually used up over a period of years. The unified credit is phased out once the amount of taxable gifts rises above a certain level."
+            }
+        },
+        "references": {}
+    }
+}

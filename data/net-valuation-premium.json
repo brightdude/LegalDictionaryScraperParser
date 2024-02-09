@@ -1,0 +1,11 @@
+{
+    "Net Valuation Premium": {
+        "definition": "a premium for a life insurance policy set after a determination of the amount needed to cover liabilities and maintain policy reserves",
+        "sub_definitions": {
+            "1": {
+                "1": "a premium for a life insurance policy set after a determination of the amount needed to cover liabilities and maintain policy reserves"
+            }
+        },
+        "references": {}
+    }
+}

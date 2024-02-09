@@ -1,0 +1,20 @@
+{
+    "Taking": {
+        "definition": "a seizure of private property or a substantial deprivation of the right to its free use or enjoyment that is caused by government action and esp. by the exercise of eminent domain and for which just compensation to the owner must be given according to the Fifth Amendment to the U.S. Constitution see also inverse condemnation",
+        "sub_definitions": {
+            "1": {
+                "definition": "a seizure of private property or a substantial deprivation of the right to its free use or enjoyment that is caused by government action and esp. by the exercise of eminent domain and for which just compensation to the owner must be given according to the Fifth Amendment to the U.S. Constitution see also,,",
+                "note": " A governmental action that results in a mere diminution in property value is less likely to be considered a taking than one that deprives the owner of economically viable use of the property.",
+                "see also": "inverse condemnation"
+            },
+            "2": {
+                "definition": "the wrongful acquisition of control over property (as in larceny) or a person"
+            }
+        },
+        "references": {
+            "inverse condemnation": "https://dictionary.findlaw.com/definition/inverse-condemnation.html",
+            "physical taking": "https://dictionary.findlaw.com/definition/physical-taking.html",
+            "regulatory taking": "https://dictionary.findlaw.com/definition/regulatory-taking.html"
+        }
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "Wrongful Death Action": {
+        "definition": "an action that is brought by and in the name of the personal representative",
+        "compare": "survival action",
+        "sub_definitions": {
+            "1": {
+                "1": "an action that is brought by and in the name of the personal representative (as a spouse or parent) of one who dies a wrongful death and that seeks damages for the benefit of the survivors or the estate of the decedent compare",
+                "compares": "survival action",
+                "note": " A wrongful death action is intended to compensate for injury to beneficiaries and not the injury to the decedent. The right to bring such an action is defined by statute."
+            }
+        },
+        "references": {
+            "survival action": "https://dictionary.findlaw.com/definition/survival-action.html"
+        }
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "Ignoramus": {
+        "definition": "no bill at bill",
+        "sub_definitions": {
+            "1": {
+                "1": "no bill"
+            }
+        },
+        "references": {
+            "no bill": "https://dictionary.findlaw.com/definition/no-bill.html",
+            "bill": "https://dictionary.findlaw.com/definition/bill.html"
+        }
+    }
+}

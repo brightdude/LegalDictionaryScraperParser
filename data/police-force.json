@@ -1,0 +1,11 @@
+{
+    "Police Force": {
+        "definition": "a body of trained officers entrusted by a government with maintenance of public peace and order",
+        "sub_definitions": {
+            "1": {
+                "1": "a body of trained officers entrusted by a government with maintenance of public peace and order, enforcement of laws, and prevention and detection of crime"
+            }
+        },
+        "references": {}
+    }
+}

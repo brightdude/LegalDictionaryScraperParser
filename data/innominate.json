@@ -1,0 +1,15 @@
+{
+    "Innominate": {
+        "definition": "having no special name or designation compare nominate",
+        "compare": "nominate",
+        "sub_definitions": {
+            "1": {
+                "1": "having no special name or designation compare",
+                "compares": "nominate"
+            }
+        },
+        "references": {
+            "nominate": "https://dictionary.findlaw.com/definition/nominate.html"
+        }
+    }
+}

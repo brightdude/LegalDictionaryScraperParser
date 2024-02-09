@@ -1,0 +1,21 @@
+{
+    "Injure": {
+        "definition": "to interfere with or violate the legally protected interests of",
+        "sub_definitions": {
+            "1": {
+                "definition": "to interfere with or violate the legally protected interests of",
+                "sub_terms": {
+                    "a": "to harm the physical, emotional, or mental well-being of",
+                    "b": "to cause (another) to suffer from damage to, deprivation of, or interference with property or a property interest",
+                    "c": "to violate the constitutionally or otherwise legally protected rights of"
+                }
+            },
+            "2": {
+                "definition": "to mar or impair the soundness or appearance of (as a building)"
+            }
+        },
+        "references": {
+            "deface": "https://dictionary.findlaw.com/definition/deface.html"
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "Proxy": {
+        "definition": "prox·ies [Middle English procucie",
+        "origin": "[Middle English procucie , contraction of procuracie , from Anglo-French, from Medieval Latin procuratia , alteration of Latin procuratio appointment of another as one's agent]",
+        "sub_definitions": {
+            "prox·ies": {
+                "definition": "[Middle English, contraction of, from Anglo-French, from Medieval Latin, alteration of Latinappointment of another as one's agent]"
+            },
+            "1": {
+                "definition": "the act or practice of a person serving as an authorized agent or substitute for another used esp. in the phrase"
+            },
+            "2 a": {
+                "definition": "authority or power to act for another",
+                "sub_terms": {
+                    "b": "a statement or document giving such authorizationan oral consent or written document (as a power of attorney) given by a stockholder to a specified person or persons to vote corporate stock"
+                }
+            },
+            "3 a": {
+                "definition": "a person authorized to act or make decisions for another [appointed a health-care ]",
+                "sub_terms": {
+                    "b": "something serving to replace or substitute for another thing"
+                }
+            }
+        },
+        "references": {}
+    }
+}

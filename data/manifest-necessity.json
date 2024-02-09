@@ -1,0 +1,12 @@
+{
+    "Manifest Necessity": {
+        "definition": "a circumstance",
+        "sub_definitions": {
+            "1": {
+                "1": "a circumstance (as an incurable pleading defect, the unavailability of an essential witness, juror misconduct, or illness of counsel) which is of such an overwhelming and unforeseeable nature that the conduct of trial or reaching of a fair result is impossible and which necessitates the declaration of a mistrial",
+                "note": " If there is a manifest necessity for the declaration of a mistrial, the defendant may be retried without violation of the prohibition on double jeopardy."
+            }
+        },
+        "references": {}
+    }
+}

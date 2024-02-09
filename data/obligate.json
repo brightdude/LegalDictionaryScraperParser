@@ -1,0 +1,16 @@
+{
+    "Obligate": {
+        "definition": "to bind legally or morally [was obligated to pay child support] 2",
+        "origin": "[was obligated to pay child support]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to bind legally or morally [wasto pay child support]",
+                "obligated": "to pay child support]"
+            },
+            "2": {
+                "definition": "to commit (as funds or property) to meet or provide security for an obligation"
+            }
+        },
+        "references": {}
+    }
+}

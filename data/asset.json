@@ -1,0 +1,61 @@
+{
+    "Asset": {
+        "definition": "the entire property of a person",
+        "origin": "[back-formation from assets , singular, sufficient property to pay debts and legacies, from Anglo-French asetz , from Old French asez enough]",
+        "sub_definitions": {
+            "1": {
+                "definition": "the excess of assets over liabilities called also"
+            },
+            "2": {
+                "definition": "admitted assets considered as a whole"
+            },
+            "admitted asset": {
+                "definition": "an asset allowed by law to be included in determining the financial condition of an insurance company comparein this entry",
+                "compares": "nonadmitted asset"
+            },
+            "appointive asset": {
+                "definition": "an asset in an estate that is to be distributed under a power of appointment"
+            },
+            "capital asset": {
+                "definition": "a tangible or intangible long-term asset esp. that is not regularly bought or sold as part of the owner's businessany asset classified as a capital asset by law (as section 1221 of the Internal Revenue Code)"
+            },
+            "cur·rent asset": {
+                "definition": "a short-term asset (as inventory, an account receivable, or a note) that can be quickly converted into cash"
+            },
+            "equitable asset": {
+                "definition": "an asset esp. in an estate that is subject to the payment of debts only in a court of equity"
+            },
+            "fixed asset": {
+                "definition": "a tangible asset (as a piece of equipment) that is of a permanent or long-term nature"
+            },
+            "intangible asset": {
+                "definition": "an asset (as goodwill or a patent) that does not have physical form"
+            },
+            "marital asset": {
+                "definition": "an asset acquired by either spouse or both spouses during a marriage",
+                "note": " Marital assets are generally subject to equitable distribution on divorce."
+            },
+            "net quick assets": {
+                "definition": "the excess of quick assets over current liabilities"
+            },
+            "non·ad·mit·ted asset": {
+                "definition": "an asset not allowed by law to be included in determining the financial condition of an insurance company because it cannot be quickly converted into cash without incurring a loss comparein this entry",
+                "compares": "admitted asset"
+            },
+            "quick assets": {
+                "definition": "cash, accounts receivable, and other current assets except inventories"
+            },
+            "tangible asset": {
+                "definition": "an asset that has physical form and is capable of being appraised at an actual or approximate value"
+            },
+            "wast·ing asset": {
+                "definition": "property (as a copyright or oil well) that will eventually expire or be used up and lose its value"
+            }
+        },
+        "references": {
+            "equity": "https://dictionary.findlaw.com/definition/equity.html",
+            "nonadmitted asset": "https://dictionary.findlaw.com/definition/nonadmitted-asset.html",
+            "admitted asset": "https://dictionary.findlaw.com/definition/admitted-asset.html"
+        }
+    }
+}

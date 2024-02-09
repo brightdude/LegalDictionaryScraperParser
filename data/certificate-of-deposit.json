@@ -1,0 +1,11 @@
+{
+    "Certificate Of Deposit": {
+        "definition": "a money-market bond of a preset face value",
+        "sub_definitions": {
+            "1": {
+                "1": "a money-market bond of a preset face value (as $10,000) paying fixed interest and redeemable without penalty only on maturity (as after two years)"
+            }
+        },
+        "references": {}
+    }
+}

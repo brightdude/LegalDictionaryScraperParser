@@ -1,0 +1,15 @@
+{
+    "Littoral": {
+        "definition": "of",
+        "compare": "riparian",
+        "sub_definitions": {
+            "1": {
+                "1": "of, relating to, or being property abutting an ocean, sea, lake, or pond compare",
+                "compares": "riparian"
+            }
+        },
+        "references": {
+            "riparian": "https://dictionary.findlaw.com/definition/riparian.html"
+        }
+    }
+}

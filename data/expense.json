@@ -1,0 +1,41 @@
+{
+    "Expense": {
+        "definition": "financial burden or outlay ;specif",
+        "compare": "capital expense",
+        "sub_definitions": {
+            "busi·ness expense": {
+                "definition": "an expense made in furtherance of one's business esp. as part of the cost of operating a business in the taxable year in which the expense is incurred compareandin this entry",
+                "note": " Business expenses are generally tax deductible in the year the expense is incurred.",
+                "compares": "capital expense"
+            },
+            "capital expense": {
+                "definition": "an expense made in a business that will provide a long-term benefit",
+                "note": " Capital expenses are not tax deductible as business expenses but may be used for depreciation or amortization."
+            },
+            "mov·ing expense": {
+                "definition": "an expense incurred in changing one's residence that is tax deductible if incurred for business reasons (as when one's job requires relocation)"
+            },
+            "or·di·nary and nec·es·sary expense": {
+                "definition": "an expense that is normal or customary and helpful and appropriate for the operation of a particular business or trade and that is made during the taxable year called also",
+                "note": " Ordinary and necessary expenses are tax deductible."
+            },
+            "per·son·al expense": {
+                "definition": "an expense incurred in the course of one's personal affairs as distinguished from the course of one's employment or the operation of a business comparein this entryvt",
+                "note": " Personal expenses are usually not tax deductible.",
+                "compares": "business expense"
+            },
+            "1": {
+                "definition": "to charge with expenses"
+            },
+            "2": {
+                "definition": "to write off as an expense"
+            }
+        },
+        "references": {
+            "capital expense": "https://dictionary.findlaw.com/definition/capital-expense.html",
+            "personal expense": "https://dictionary.findlaw.com/definition/personal-expense.html",
+            "capital expenditure": "https://dictionary.findlaw.com/definition/capital-expenditure.html",
+            "business expense": "https://dictionary.findlaw.com/definition/business-expense.html"
+        }
+    }
+}

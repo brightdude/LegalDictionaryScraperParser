@@ -1,0 +1,15 @@
+{
+    "Positive Law": {
+        "definition": "law established or recognized by governmental authority compare natural law",
+        "compare": "natural law",
+        "sub_definitions": {
+            "1": {
+                "1": "law established or recognized by governmental authority compare",
+                "compares": "natural law"
+            }
+        },
+        "references": {
+            "natural law": "https://dictionary.findlaw.com/definition/natural-law.html"
+        }
+    }
+}

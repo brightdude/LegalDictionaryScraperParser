@@ -1,0 +1,18 @@
+{
+    "Voting Rights": {
+        "definition": "rights of participation in esp. public elections see also Voting Rights Act in the Important Laws section 2",
+        "sub_definitions": {
+            "1": {
+                "definition": "rights of participation in esp. public elections see alsoin the Important Laws section",
+                "Voting Rights Act": "in the Important Laws section"
+            },
+            "2": {
+                "definition": "the rights of shareholders or directors to vote on corporate matters compareatat"
+            }
+        },
+        "references": {
+            "stock": "https://dictionary.findlaw.com/definition/stock.html",
+            "trust": "https://dictionary.findlaw.com/definition/trust.html"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "Vest": {
+        "definition": "to place in the possession",
+        "origin": "[Anglo-French vestir , literally, to clothe, from Old French, from Latin vestire ]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "to place in the possession, discretion, or province of some person or authority [all legislative powers herein granted shall bein a Congress of the United States \"art. I\"] [a timely notice of appealjurisdiction in the appeals court]to give to a person a fixed and immediate right of present or future enjoyment of (as an estate) [an interestin the beneficiary]",
+                "sub_terms": {
+                    "b": "to grant or endow with a particular authority, right, or property [ a judge with discretion]to become vestedto entitle one unconditionally to the payment of pension benefits upon termination or retirement [his pension interest will after ten years with the company] compare"
+                },
+                "compares": "mature",
+                "ed": "in the beneficiary]",
+                "U.S. Constitution": "art. I\"] [a timely notice of appeal",
+                "s": "jurisdiction in the appeals court]"
+            }
+        },
+        "references": {
+            "mature": "https://dictionary.findlaw.com/definition/mature.html"
+        }
+    }
+}

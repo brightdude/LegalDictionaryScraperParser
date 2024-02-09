@@ -1,0 +1,21 @@
+{
+    "Conservator": {
+        "definition": "a person",
+        "sub_definitions": {
+            "1": {
+                "definition": "a person, official, or institution appointed by a court to take over and manage the estate of an incompetent compare,,,,",
+                "compares": "committee"
+            },
+            "2": {
+                "definition": "a public official charged with the protection of something affecting public welfare and interestsan official placed in charge of a bank because its affairs are not in a satisfactory condition"
+            }
+        },
+        "references": {
+            "committee": "https://dictionary.findlaw.com/definition/committee.html",
+            "curator": "https://dictionary.findlaw.com/definition/curator.html",
+            "guardian": "https://dictionary.findlaw.com/definition/guardian.html",
+            "receiver": "https://dictionary.findlaw.com/definition/receiver.html",
+            "tutor": "https://dictionary.findlaw.com/definition/tutor.html"
+        }
+    }
+}

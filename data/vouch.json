@@ -1,0 +1,21 @@
+{
+    "Vouch": {
+        "definition": "to summon into court 2",
+        "origin": "[Anglo-French voucher to call, summon, summon to court as guarantor of a title, ultimately from Latin vocare to call, summon]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to become surety"
+            },
+            "2": {
+                "definition": "to verify (a business transaction) by examining documentary evidence"
+            },
+            "2 a": {
+                "definition": "to supply supporting evidence or testimony",
+                "sub_terms": {
+                    "b": "to give personal assurance"
+                }
+            }
+        },
+        "references": {}
+    }
+}

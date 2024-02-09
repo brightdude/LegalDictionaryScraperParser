@@ -1,0 +1,14 @@
+{
+    "Coinsurance": {
+        "definition": "joint assumption of risk",
+        "sub_definitions": {
+            "1": {
+                "definition": "joint assumption of risk (as by two underwriters) with another"
+            },
+            "2": {
+                "definition": "insurance (as fire insurance) in which the insured is obligated to maintain coverage on a risk at a stipulated percentage of its total value or in the event of loss to suffer a penalty in proportion to the deficiency"
+            }
+        },
+        "references": {}
+    }
+}

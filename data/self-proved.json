@@ -1,0 +1,13 @@
+{
+    "Self-Proved": {
+        "definition": "self-proving",
+        "sub_definitions": {
+            "1": {
+                "1": "self-proving"
+            }
+        },
+        "references": {
+            "self-proving": "https://dictionary.findlaw.com/definition/self-proving.html"
+        }
+    }
+}

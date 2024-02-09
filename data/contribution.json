@@ -1,0 +1,25 @@
+{
+    "Contribution": {
+        "definition": "payment of a share of an amount for which one is liable",
+        "sub_definitions": {
+            "1": {
+                "definition": "payment of a share of an amount for which one is liable",
+                "sub_terms": {
+                    "a": "shared payment of a judgment by joint tortfeasors esp. according to proportional fault compare",
+                    "b": "pro rata apportionment of loss among all the insurance policies covering the same person or property compare"
+                },
+                "compares": "indemnity"
+            },
+            "2": {
+                "definition": "the money paid by one responsible for a share"
+            },
+            "3": {
+                "definition": "payment to a common fund (as by an employer or employee to an insurance plan or retirement fund)"
+            }
+        },
+        "references": {
+            "apportion": "https://dictionary.findlaw.com/definition/apportion.html",
+            "indemnity": "https://dictionary.findlaw.com/definition/indemnity.html"
+        }
+    }
+}

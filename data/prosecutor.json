@@ -1,0 +1,14 @@
+{
+    "Prosecutor": {
+        "definition": "a person who institutes a prosecution",
+        "sub_definitions": {
+            "1": {
+                "definition": "a person who institutes a prosecution (as by making an affidavit or complaint charging the defendant)"
+            },
+            "2": {
+                "definition": "a government attorney who presents the state's case against the defendant in a criminal prosecution"
+            }
+        },
+        "references": {}
+    }
+}

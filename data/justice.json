@@ -1,0 +1,28 @@
+{
+    "Justice": {
+        "definition": "the quality of being just",
+        "origin": "[Old French, from Latin justitia , from justus just]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "the quality of being just, impartial, or fair [it is not the province of the court to decide upon the or injustice…of these laws \", 60 U.S. 393 (1857)\"]",
+                "sub_terms": {
+                    "b": "the principle or ideal of just dealingconformity to the principle or ideal of just dealing"
+                },
+                "Scott v. Sanford": "60 U.S. 393 (1857)"
+            },
+            "2 a": {
+                "definition": "the administration of law [a fugitive from ]the establishment or determination of rights according to law or equity [system of ]",
+                "sub_terms": {
+                    "b": "fair, just, or impartial legal process [courts or tribunals…for the administration of international \"G. R. Winters\"]"
+                }
+            },
+            "3": {
+                "definition": "a judge of an appellate court or court of last resort (as a supreme court) [insults to particularand threats of civil disobedience were bandied freely \"R. H. Bork\"]",
+                "s": "and threats of civil disobedience were bandied freely \"R. H. Bork\"]"
+            }
+        },
+        "references": {
+            "judge": "https://dictionary.findlaw.com/definition/judge.html"
+        }
+    }
+}

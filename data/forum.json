@@ -1,0 +1,18 @@
+{
+    "Forum": {
+        "definition": "public forum 2 a",
+        "origin": "[allowed the defendant in a state court action to choose the federal by removing the case \"M. H. Redish\"]",
+        "sub_definitions": {
+            "2 a": {
+                "definition": "a judicial body or assembly[allowed the defendant in a state court action to choose the federal by removing the case \"M. H. Redish\"]",
+                "sub_terms": {
+                    "b": "the territorial jurisdiction of a court [due process requires defendant to have minimum level of contacts with before personal jurisdiction may be exercised \"\"]"
+                }
+            }
+        },
+        "references": {
+            "public forum": "https://dictionary.findlaw.com/definition/public-forum.html",
+            "court": "https://dictionary.findlaw.com/definition/court.html"
+        }
+    }
+}

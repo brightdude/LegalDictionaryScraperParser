@@ -1,0 +1,13 @@
+{
+    "Log": {
+        "definition": "register",
+        "sub_definitions": {
+            "1": {
+                "1": "register"
+            }
+        },
+        "references": {
+            "register": "https://dictionary.findlaw.com/definition/register.html"
+        }
+    }
+}

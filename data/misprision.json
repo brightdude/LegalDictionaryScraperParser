@@ -1,0 +1,18 @@
+{
+    "Misprision": {
+        "definition": "neglectful or wrongful performance of an official duty 2",
+        "origin": "[Anglo-French, error, wrongdoing, from Old French, from mesprendre to make a mistake, from mes- wrongly + prendre to take, from Latin prehendere to seize]",
+        "sub_definitions": {
+            "1": {
+                "definition": "neglectful or wrongful performance of an official duty"
+            },
+            "2": {
+                "definition": "a clerical error in a legal proceeding that can be corrected in a summary proceeding"
+            },
+            "3": {
+                "definition": "the concealment of a treason or felony and failure to report it to the prosecuting authorities by a person who has not committed it [ of felony] [ of treason]"
+            }
+        },
+        "references": {}
+    }
+}

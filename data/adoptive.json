@@ -1,0 +1,19 @@
+{
+    "Adoptive": {
+        "definition": "having adopted [an parent] b",
+        "origin": "[an parent]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "having adopted [an parent]",
+                "sub_terms": {
+                    "b": "having been adopted [an child]"
+                }
+            },
+            "2": {
+                "definition": "made or acquired by accepting as one's own the words or actions of another [to constitute an admission…defendant must actually understand what was said and have an opportunity to deny it \", 766 F. Supp. 873 (1991)\"]",
+                "United States v. White": "766 F. Supp. 873 (1991)"
+            }
+        },
+        "references": {}
+    }
+}

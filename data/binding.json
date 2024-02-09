@@ -1,0 +1,15 @@
+{
+    "Binding": {
+        "definition": "imposing a legal obligation [the agreement is on the parties] 2",
+        "origin": "[the agreement is on the parties]",
+        "sub_definitions": {
+            "1": {
+                "definition": "imposing a legal obligation [the agreement is on the parties]"
+            },
+            "2": {
+                "definition": "requiring submission to a specified authority [the suppression order was on the Department of Transportation \"\"]"
+            }
+        },
+        "references": {}
+    }
+}

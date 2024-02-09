@@ -1,0 +1,18 @@
+{
+    "Overdraw": {
+        "definition": "to draw checks on",
+        "origin": "[-drü]",
+        "sub_definitions": {
+            "-drew": {
+                "definition": "[-drü]"
+            },
+            "-drawn": {
+                "definition": "[-drȯn]"
+            },
+            "-draw·ing": {
+                "definition": "to draw checks on (a bank account) for more than the balanceto make an overdraft"
+            }
+        },
+        "references": {}
+    }
+}

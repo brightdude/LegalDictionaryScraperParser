@@ -1,0 +1,18 @@
+{
+    "Office": {
+        "definition": "a special duty",
+        "origin": "[qualified to hold public ]",
+        "sub_definitions": {
+            "1": {
+                "definition": "a special duty, charge, or position conferred by governmental authority and for a public purpose [qualified to hold public ]a special duty or position of authority [hold an of trust]"
+            },
+            "2": {
+                "definition": "a place where business or administration is conducted or services are performed"
+            },
+            "3": {
+                "definition": "a special administrative department or unit [ of the district attorney]"
+            }
+        },
+        "references": {}
+    }
+}

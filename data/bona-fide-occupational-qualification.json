@@ -1,0 +1,19 @@
+{
+    "Bona Fide Occupational Qualification": {
+        "definition": "a requirement",
+        "compare": "Constitution",
+        "sub_definitions": {
+            "1": {
+                "1": "a requirement (as relating to sex, religion, national origin, or age) for a particular job that does not violate the constitutional bans on discrimination see also",
+                "Age Discrimination in Employment Act": "in the Important Laws section",
+                "equal employment opportunity commission": "in the Important Agencies section",
+                "compares": "disparate impact"
+            }
+        },
+        "references": {
+            "Constitution": "https://dictionary.findlaw.com/definition/constitution.html",
+            "disparate impact": "https://dictionary.findlaw.com/definition/disparate-impact.html",
+            "disparate treatment": "https://dictionary.findlaw.com/definition/disparate-treatment.html"
+        }
+    }
+}

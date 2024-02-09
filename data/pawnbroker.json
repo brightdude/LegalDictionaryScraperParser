@@ -1,0 +1,11 @@
+{
+    "Pawnbroker": {
+        "definition": "a person who lends money on the security of personal or movable property pledged in his or her keeping or who buys personal property and gives the seller an opportunity to buy back the property",
+        "sub_definitions": {
+            "1": {
+                "1": "a person who lends money on the security of personal or movable property pledged in his or her keeping or who buys personal property and gives the seller an opportunity to buy back the property"
+            }
+        },
+        "references": {}
+    }
+}

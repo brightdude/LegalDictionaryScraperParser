@@ -1,0 +1,20 @@
+{
+    "Grace": {
+        "definition": "a special favor",
+        "origin": "[considered by many authorities to be a matter of and not of right \" The Mentally Disabled and the Law \"]",
+        "sub_definitions": {
+            "1": {
+                "definition": "a special favor[considered by many authorities to be a matter of and not of right \"\"]"
+            },
+            "2 a": {
+                "definition": "a temporary exemption",
+                "sub_terms": {
+                    "b": "the prerogative of mercy exercised (as by a chief executive) or granted in the form of equitable relief"
+                }
+            }
+        },
+        "references": {
+            "privilege": "https://dictionary.findlaw.com/definition/privilege.html"
+        }
+    }
+}

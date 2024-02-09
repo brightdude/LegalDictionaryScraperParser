@@ -1,0 +1,15 @@
+{
+    "Friendly": {
+        "definition": "agreeable to those affected",
+        "origin": "[a takeover]",
+        "sub_definitions": {
+            "1": {
+                "1": "agreeable to those affected"
+            },
+            "2": {
+                "1": "not hostile [a takeover]"
+            }
+        },
+        "references": {}
+    }
+}

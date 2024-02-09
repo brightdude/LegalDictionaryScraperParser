@@ -1,0 +1,30 @@
+{
+    "Remit": {
+        "definition": "to release from the guilt or penalty of b",
+        "origin": "[Latin remittere to let go back, send back, give up, forgive, from re- back + mittere to let go, send]",
+        "sub_definitions": {
+            "re·mit·ting": {
+                "definition": "[Latinto let go back, send back, give up, forgive, fromback +to let go, send]"
+            },
+            "1 a": {
+                "definition": "to release from the guilt or penalty of",
+                "sub_terms": {
+                    "b": "to refrain from exacting [ a tax]",
+                    "c": "to cancel or refrain from inflicting [ the fine]"
+                }
+            },
+            "2": {
+                "definition": "to submit or refer for consideration, judgment, decision, or action"
+            },
+            "3": {
+                "definition": "to restore or consign to a former status or condition"
+            },
+            "4": {
+                "definition": "to send (money) to a person or place esp. in payment of a demand, account, or draftto send money (as in payment)"
+            }
+        },
+        "references": {
+            "remand": "https://dictionary.findlaw.com/definition/remand.html"
+        }
+    }
+}

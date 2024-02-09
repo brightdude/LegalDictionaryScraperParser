@@ -1,0 +1,11 @@
+{
+    "Probationer": {
+        "definition": "one",
+        "sub_definitions": {
+            "1": {
+                "1": "one (as an offender or employee) who is on probation"
+            }
+        },
+        "references": {}
+    }
+}

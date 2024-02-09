@@ -1,0 +1,21 @@
+{
+    "Secure": {
+        "definition": "to put beyond hazard of losing or not receiving [ the blessings of liberty \" U.S. Constitution preamble\"] 2 a",
+        "origin": "[ the blessings of liberty \" U.S. Constitution preamble\"]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to put beyond hazard of losing or not receiving [ the blessings of liberty \"preamble\"]"
+            },
+            "2 a": {
+                "definition": "to protect or make certain (as by lien) [make a just and equitable partition and the parties' respective interests \", 879 P.2d 607 (1994)\"]",
+                "sub_terms": {
+                    "b": "to give security for (as a loan) or otherwise assure the payment, performance, or execution of with security [the court imposed a lien on his property to the judgment]",
+                    "c": "to give or pledge security to (as a creditor)to cause to have security or a security interest [a creditorby a lien on real property]"
+                },
+                "Denton v. Lazenby": "879 P.2d 607 (1994)",
+                "secured": "by a lien on real property]"
+            }
+        },
+        "references": {}
+    }
+}

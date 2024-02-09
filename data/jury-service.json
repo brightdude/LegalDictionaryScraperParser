@@ -1,0 +1,13 @@
+{
+    "Jury Service": {
+        "definition": "jury duty",
+        "sub_definitions": {
+            "1": {
+                "1": "jury duty"
+            }
+        },
+        "references": {
+            "jury duty": "https://dictionary.findlaw.com/definition/jury-duty.html"
+        }
+    }
+}

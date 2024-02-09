@@ -1,0 +1,23 @@
+{
+    "Grant": {
+        "definition": "to permit as a right or privilege [ a new trial] [the Supreme Court ed certiorari] 2",
+        "origin": "[ a new trial]",
+        "sub_definitions": {
+            "1": {
+                "definition": "the act of granting"
+            },
+            "2": {
+                "definition": "something granteda gift (as of land or money) for a particular purpose"
+            },
+            "3 a": {
+                "definition": "a transfer of property by deed or writing",
+                "sub_terms": {
+                    "b": "the instrument by which such a transfer is madethe property so transferred"
+                }
+            }
+        },
+        "references": {
+            "convey": "https://dictionary.findlaw.com/definition/convey.html"
+        }
+    }
+}

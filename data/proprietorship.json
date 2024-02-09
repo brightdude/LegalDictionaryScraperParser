@@ -1,0 +1,19 @@
+{
+    "Proprietorship": {
+        "definition": "the fact or state of being a proprietor 2",
+        "sub_definitions": {
+            "1": {
+                "definition": "the fact or state of being a proprietor"
+            },
+            "2": {
+                "definition": "a business entity consisting of a single ownercompare,",
+                "compares": "corporation"
+            }
+        },
+        "references": {
+            "sole proprietorship": "https://dictionary.findlaw.com/definition/sole-proprietorship.html",
+            "corporation": "https://dictionary.findlaw.com/definition/corporation.html",
+            "partnership": "https://dictionary.findlaw.com/definition/partnership.html"
+        }
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "Promise": {
+        "definition": "a declaration or manifestation esp. in a contract of an intention to act or refrain from acting in a specified way that gives the party to whom it is made a right to expect its fulfillment aleatory promise",
+        "origin": "[an illusory promise depending solely on the will of the supposed promisor]",
+        "compare": "nudum pactum",
+        "sub_definitions": {
+            "aleatory promise": {
+                "definition": "a promise (as to compensate an insured individual for future loss) whose fulfillment is dependent on a fortuitous or uncertain event"
+            },
+            "collateral promise": {
+                "definition": "a promise usually to pay the debt of another that is ancillary to an original promise, is not made for the benefit of the party making it, and must be in writing to be enforceable"
+            },
+            "false promise": {
+                "definition": "a promise that is made with no intention of carrying it out and esp. with intent to deceive or defraud"
+            },
+            "gratuitous promise": {
+                "definition": "a promise that is made without consideration and is usually unenforceable called alsocompare",
+                "note": " A gratuitous promise may be enforceable under promissory estoppel.",
+                "compares": "nudum pactum"
+            },
+            "illusory promise": {
+                "definition": "a purported promise that does not actually bind the party making it to a particular performance [andepending solely on the will of the supposed promisor]",
+                "illusory promise": "depending solely on the will of the supposed promisor]"
+            },
+            "implied promise": {
+                "definition": "a promise that is considered to exist despite the lack of an agreement or express terms to that effect and the breach of which may be recognized as a cause of action [claimed a breach of anthat he would not be terminated at will] see alsoandin this entry",
+                "see also": "promise implied in fact",
+                "implied promise": "that he would not be terminated at will] see also"
+            },
+            "naked promise": {
+                "definition": "in this entry"
+            },
+            "original promise": {
+                "definition": "a promise (as in a suretyship) usually to pay the debt of another that is made primarily for the benefit of the party making it and need not be in writing to be enforceable comparein this entry",
+                "compares": "collateral promise"
+            },
+            "promise implied in fact": {
+                "definition": "an implied promise that exists by inference from specific facts, circumstances, or acts of the parties"
+            },
+            "promise implied in law": {
+                "definition": "an implied promise that exists on the basis of a legally enforceable duty and not on the basis of words or conduct which are promissory in form or support an inference of a promise [athat one will be compensated for services rendered and accepted]",
+                "promise implied in law": "that one will be compensated for services rendered and accepted]"
+            }
+        },
+        "references": {
+            "nudum pactum": "https://dictionary.findlaw.com/definition/nudum-pactum.html",
+            "promise implied in fact": "https://dictionary.findlaw.com/definition/promise-implied-in-fact.html",
+            "promise implied in law": "https://dictionary.findlaw.com/definition/promise-implied-in-law.html",
+            "gratuitous promise": "https://dictionary.findlaw.com/definition/gratuitous-promise.html",
+            "collateral promise": "https://dictionary.findlaw.com/definition/collateral-promise.html",
+            "main purpose rule": "https://dictionary.findlaw.com/definition/main-purpose-rule.html"
+        }
+    }
+}

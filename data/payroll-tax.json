@@ -1,0 +1,11 @@
+{
+    "Payroll Tax": {
+        "definition": "a tax that is levied as a percentage of an employee's pay and is usually paid by the employer",
+        "sub_definitions": {
+            "1": {
+                "1": "a tax that is levied as a percentage of an employee's pay and is usually paid by the employer"
+            }
+        },
+        "references": {}
+    }
+}

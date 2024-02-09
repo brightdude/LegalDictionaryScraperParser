@@ -1,0 +1,18 @@
+{
+    "Receiver": {
+        "definition": "an officer charged with receiving tax payments or returns and other related duties",
+        "sub_definitions": {
+            "1": {
+                "definition": "an officer charged with receiving tax payments or returns and other related duties (as the maintenance of tax rolls)"
+            },
+            "2": {
+                "definition": "a person appointed by the court to hold in trust and administer property in litigationone appointed to administer, conserve, rehabilitate, or liquidate the assets of an insolvent corporation for the protection or relief of creditors compare,",
+                "compares": "conservator"
+            }
+        },
+        "references": {
+            "conservator": "https://dictionary.findlaw.com/definition/conservator.html",
+            "liquidator": "https://dictionary.findlaw.com/definition/liquidator.html"
+        }
+    }
+}

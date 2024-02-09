@@ -1,0 +1,14 @@
+{
+    "Incapable": {
+        "definition": "lacking legal qualification or power",
+        "sub_definitions": {
+            "1": {
+                "1": "lacking legal qualification or power (as by reason of mental incompetence) see also",
+                "see also": "incapacity"
+            }
+        },
+        "references": {
+            "incapacity": "https://dictionary.findlaw.com/definition/incapacity.html"
+        }
+    }
+}

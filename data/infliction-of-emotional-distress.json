@@ -1,0 +1,14 @@
+{
+    "Infliction Of Emotional Distress": {
+        "definition": "the tort of intentionally or negligently causing emotional distress called also infliction of mental distress see also emotional distress",
+        "sub_definitions": {
+            "1": {
+                "1": "the tort of intentionally or negligently causing emotional distress called also",
+                "see also": "emotional distress"
+            }
+        },
+        "references": {
+            "emotional distress": "https://dictionary.findlaw.com/definition/emotional-distress.html"
+        }
+    }
+}

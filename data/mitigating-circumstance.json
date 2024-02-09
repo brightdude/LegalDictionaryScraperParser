@@ -1,0 +1,20 @@
+{
+    "Mitigating Circumstance": {
+        "definition": "a circumstance in the commission of an act that lessens the degree of criminal culpability [was convicted of manslaughter rather than murder because of mitigating circumstances ] ;also",
+        "origin": "[was convicted of manslaughter rather than murder because of mitigating circumstances ]",
+        "compare": "aggravating circumstance",
+        "sub_definitions": {
+            "1": {
+                "1": "a circumstance in the commission of an act that lessens the degree of criminal culpability [was convicted of manslaughter rather than murder because of"
+            },
+            "2": {
+                "1": "a circumstance or factor relating to an offense or defendant that does not bear on the question of culpability but that receives consideration by the court esp. in lessening the severity of a sentence [the",
+                "mitigating circumstance": "of the defendant's terminal illness] compare",
+                "compares": "aggravating circumstance"
+            }
+        },
+        "references": {
+            "aggravating circumstance": "https://dictionary.findlaw.com/definition/aggravating-circumstance.html"
+        }
+    }
+}

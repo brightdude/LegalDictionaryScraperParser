@@ -1,0 +1,11 @@
+{
+    "Useless Gesture Exception": {
+        "definition": "an exception to the knock and announce rule that excuses police from having to announce their purpose before entering a premises in execution of a warrant if facts known to the officers justify them in being virtually certain that the occupant already knows their purpose",
+        "sub_definitions": {
+            "1": {
+                "1": "an exception to the knock and announce rule that excuses police from having to announce their purpose before entering a premises in execution of a warrant if facts known to the officers justify them in being virtually certain that the occupant already knows their purpose"
+            }
+        },
+        "references": {}
+    }
+}

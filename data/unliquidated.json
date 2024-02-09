@@ -1,0 +1,15 @@
+{
+    "Unliquidated": {
+        "definition": "not liquidated ;esp",
+        "origin": "[an claim]",
+        "sub_definitions": {
+            "1": {
+                "1": "not liquidated"
+            },
+            "2": {
+                "1": "not calculated or established as a specific amount [an claim]"
+            }
+        },
+        "references": {}
+    }
+}

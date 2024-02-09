@@ -1,0 +1,16 @@
+{
+    "Expectation Of Privacy": {
+        "definition": "a belief in the existence of freedom from unwanted esp. governmental intrusion in some thing or place compare zone of privacy NOTE",
+        "compare": "zone of privacy",
+        "sub_definitions": {
+            "1": {
+                "1": "a belief in the existence of freedom from unwanted esp. governmental intrusion in some thing or place compare",
+                "compares": "zone of privacy",
+                "note": " In order to successfully challenge a search or seizure as a violation of the Fourth Amendment to the U.S. Constitution, a plaintiff must show that he or she had manifested a subjective expectation of privacy in the area of the search or the object seized and that the expectation is one that society is willing to recognize as reasonable or legitimate."
+            }
+        },
+        "references": {
+            "zone of privacy": "https://dictionary.findlaw.com/definition/zone-of-privacy.html"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "Lockup": {
+        "definition": "a cell or group of cells",
+        "sub_definitions": {
+            "1": {
+                "definition": "a cell or group of cells (as in a courthouse) or jail where persons are held prior to a court hearing compare,,,,",
+                "compares": "house of correction"
+            },
+            "2": {
+                "definition": "the tactic of arranging with a friendly party an option to buy a valuable portion of one's corporate assets in order to discourage a takeover by another party"
+            }
+        },
+        "references": {
+            "house of correction": "https://dictionary.findlaw.com/definition/house-of-correction.html",
+            "house of detention": "https://dictionary.findlaw.com/definition/house-of-detention.html",
+            "jail": "https://dictionary.findlaw.com/definition/jail.html",
+            "penitentiary": "https://dictionary.findlaw.com/definition/penitentiary.html",
+            "prison": "https://dictionary.findlaw.com/definition/prison.html"
+        }
+    }
+}

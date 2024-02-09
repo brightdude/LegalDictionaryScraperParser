@@ -1,0 +1,15 @@
+{
+    "King's Bench": {
+        "definition": "a division of the High Court of Justice of England and Wales that hears civil cases",
+        "compare": "queen's bench",
+        "sub_definitions": {
+            "1": {
+                "1": "a division of the High Court of Justice of England and Wales that hears civil cases (as commercial cases) and appeals of criminal cases used during the reign of a king compare",
+                "compares": "queen's bench"
+            }
+        },
+        "references": {
+            "queen's bench": "https://dictionary.findlaw.com/definition/queen-s-bench.html"
+        }
+    }
+}

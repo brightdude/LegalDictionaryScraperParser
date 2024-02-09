@@ -1,0 +1,13 @@
+{
+    "Public Statute": {
+        "definition": "public law",
+        "sub_definitions": {
+            "1": {
+                "1": "public law"
+            }
+        },
+        "references": {
+            "public law": "https://dictionary.findlaw.com/definition/public-law.html"
+        }
+    }
+}

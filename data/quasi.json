@@ -1,0 +1,27 @@
+{
+    "Quasi": {
+        "definition": "having such a resemblance to another thing as to fall within its general category [a quasi corporation] adv",
+        "origin": "[Latin, as if, as it were, from quam as + si if]",
+        "compare": "quasi-judicial",
+        "sub_definitions": {
+            "1": {
+                "1": "having such a resemblance to another thing as to fall within its general category [a",
+                "quasi": "corporation]"
+            },
+            "2": {
+                "1": "in some significant sense or degree often used in combination [",
+                "quasi-": "fiscal] see also",
+                "see also": "quasi-judicial"
+            },
+            "3": {
+                "1": "to establish or make (title) secure by means of an action that produces a final determination of the respective rights of parties who are in dispute over property compare",
+                "compares": "cloud on title"
+            }
+        },
+        "references": {
+            "quasi-judicial": "https://dictionary.findlaw.com/definition/quasi-judicial.html",
+            "quasi-legislative": "https://dictionary.findlaw.com/definition/quasi-legislative.html",
+            "cloud on title": "https://dictionary.findlaw.com/definition/cloud-on-title.html"
+        }
+    }
+}

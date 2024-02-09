@@ -1,0 +1,21 @@
+{
+    "Depose": {
+        "definition": "to testify to under oath or by sworn affidavit 2",
+        "origin": "[plaintiffs…were entitled to experts retained by the defendants \" National Law Journal \"]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to testify to under oath or by sworn affidavit"
+            },
+            "2": {
+                "definition": "to take testimony from esp. by deposition [plaintiffs…were entitled to experts retained by the defendants \"\"] compare[the plaintiffin person to many specific facts \"72 S.E.2d 38 (1952)\"]",
+                "compares": "examine",
+                "deposed": "in person to many specific facts \"",
+                "Mintz v. Atlantic Coast Line R. Co.,": "72 S.E.2d 38 (1952)\"]"
+            }
+        },
+        "references": {
+            "examine": "https://dictionary.findlaw.com/definition/examine.html",
+            "testify": "https://dictionary.findlaw.com/definition/testify.html"
+        }
+    }
+}

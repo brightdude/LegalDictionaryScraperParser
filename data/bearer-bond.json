@@ -1,0 +1,8 @@
+{
+    "Bearer Bond": {
+        "definition": "Bearer Bond",
+        "references": {
+            "bond": "https://dictionary.findlaw.com/definition/bond.html"
+        }
+    }
+}

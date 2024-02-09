@@ -1,0 +1,14 @@
+{
+    "Spontaneous Exclamation": {
+        "definition": "spontaneous declaration at declaration",
+        "sub_definitions": {
+            "1": {
+                "1": "spontaneous declaration"
+            }
+        },
+        "references": {
+            "spontaneous declaration": "https://dictionary.findlaw.com/definition/spontaneous-declaration.html",
+            "declaration": "https://dictionary.findlaw.com/definition/declaration.html"
+        }
+    }
+}

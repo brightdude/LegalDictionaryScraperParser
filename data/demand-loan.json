@@ -1,0 +1,8 @@
+{
+    "Demand Loan": {
+        "definition": "Demand Loan",
+        "references": {
+            "loan": "https://dictionary.findlaw.com/definition/loan.html"
+        }
+    }
+}

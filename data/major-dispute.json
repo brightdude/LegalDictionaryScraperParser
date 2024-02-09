@@ -1,0 +1,16 @@
+{
+    "Major Dispute": {
+        "definition": "a labor dispute that pursuant to the Railway Labor Act concerns the making or modification rather than the interpretation of a collective bargaining agreement called also new contract dispute; compare minor dispute NOTE",
+        "compare": "minor dispute",
+        "sub_definitions": {
+            "1": {
+                "1": "a labor dispute that pursuant to the Railway Labor Act concerns the making or modification rather than the interpretation of a collective bargaining agreement called also",
+                "compares": "minor dispute",
+                "note": " Under the Railway Labor Act, which is also referred to in airline cases, a major dispute must go to mediation or arbitration if necessary."
+            }
+        },
+        "references": {
+            "minor dispute": "https://dictionary.findlaw.com/definition/minor-dispute.html"
+        }
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "Special Tax": {
+        "definition": "a tax levied to fund a particular government project or program",
+        "sub_definitions": {
+            "1": {
+                "1": "a tax levied to fund a particular government project or program"
+            }
+        },
+        "references": {}
+    }
+}

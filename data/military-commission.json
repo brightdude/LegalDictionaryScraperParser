@@ -1,0 +1,11 @@
+{
+    "Military Commission": {
+        "definition": "a military court organized in time of war or suspension of the civil power to try offenses by persons",
+        "sub_definitions": {
+            "1": {
+                "1": "a military court organized in time of war or suspension of the civil power to try offenses by persons (as civilians) not subject to trial by a court-martial"
+            }
+        },
+        "references": {}
+    }
+}

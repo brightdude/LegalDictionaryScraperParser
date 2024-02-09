@@ -1,0 +1,15 @@
+{
+    "Chose": {
+        "definition": "a piece of personal property chose in action",
+        "origin": "[Anglo-French, literally, thing, from Old French, from Latin causa legal case, reason, cause]",
+        "sub_definitions": {
+            "chose in action": {
+                "definition": "a right to something (as payment of a debt or damages for injury) that can be recovered in a lawsuita document (as a check or stock certificate) embodying such a right"
+            },
+            "chose in possession": {
+                "definition": "something that is in one's actual possession or can be possessed"
+            }
+        },
+        "references": {}
+    }
+}

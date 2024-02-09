@@ -1,0 +1,15 @@
+{
+    "Escheat": {
+        "definition": "escheated property 2",
+        "origin": "[Anglo-French eschete reversion of property, from Old French escheoite accession, inheritance, from feminine past participle of escheoir to fall (to), befall, ultimately from Latin ex- out + cadere to fall]",
+        "sub_definitions": {
+            "1": {
+                "definition": "escheated property"
+            },
+            "2": {
+                "definition": "the reversion of property to the state upon the death of the owner when there are no heirsvtto cause to revert by escheatto revert by escheat"
+            }
+        },
+        "references": {}
+    }
+}

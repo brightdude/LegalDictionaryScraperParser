@@ -1,0 +1,12 @@
+{
+    "Check-Kiting": {
+        "definition": "the practice of drawing on uncollected funds during the time needed to clear a check deposited in a bank esp. if the check is worthless called also kiting NOTE",
+        "sub_definitions": {
+            "1": {
+                "1": "the practice of drawing on uncollected funds during the time needed to clear a check deposited in a bank esp. if the check is worthless called also",
+                "note": " Check-kiting typically works this way: a check drawn on insufficient funds in one bank is deposited in a second bank, and the funds represented by the check are immediately withdrawn from the second bank. The money is ultimately deposited in the first bank to cover the check before it clears, which usually takes several days."
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "Care": {
+        "definition": "watchful or protective attention",
+        "origin": "[a person has a duty to use in dealing with others, and failure to do so is negligence \"R. I. Mehr\"]",
+        "sub_definitions": {
+            "1": {
+                "definition": "watchful or protective attention, caution, concern, prudence, or regard usually towards an action or situation[a person has a duty to use in dealing with others, and failure to do so is negligence \"R. I. Mehr\"] see also,,",
+                "note": " Statute, case law, and custom often impose a duty of care. The degree or standard of care owed varies depending on the circumstances. For example, a landlord has to exercise greater care in relation to a tenant than to a trespasser.",
+                "see also": "due care"
+            },
+            "2 a": {
+                "definition": "personal supervision or responsibility",
+                "sub_terms": {
+                    "b": ""
+                }
+            }
+        },
+        "references": {
+            "due care": "https://dictionary.findlaw.com/definition/due-care.html",
+            "negligence": "https://dictionary.findlaw.com/definition/negligence.html",
+            "standard of care": "https://dictionary.findlaw.com/definition/standard-of-care.html",
+            "charge": "https://dictionary.findlaw.com/definition/charge.html",
+            "maintenance": "https://dictionary.findlaw.com/definition/maintenance.html"
+        }
+    }
+}

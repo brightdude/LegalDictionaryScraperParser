@@ -1,0 +1,9 @@
+{
+    "Gaol": {
+        "definition": "Gaol",
+        "references": {
+            "jail": "https://dictionary.findlaw.com/definition/jail.html",
+            "jailer": "https://dictionary.findlaw.com/definition/jailer.html"
+        }
+    }
+}

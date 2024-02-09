@@ -1,0 +1,11 @@
+{
+    "Municipality": {
+        "definition": "-ties",
+        "sub_definitions": {
+            "-ties": {
+                "definition": "a primarily urban municipal corporationthe governing body of a municipality"
+            }
+        },
+        "references": {}
+    }
+}

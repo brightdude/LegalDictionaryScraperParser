@@ -1,0 +1,16 @@
+{
+    "Imply": {
+        "definition": "to recognize as existing by inference or necessary consequence esp. on legal or equitable grounds [in ordinary circumstances…the law would that it was the duty of the hospital to use due care \" Haase v. Starnes",
+        "origin": "[in ordinary circumstances…the law would that it was the duty of the hospital to use due care \" Haase v. Starnes , 915 S.W.2d 675 (1996)\"]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to recognize as existing by inference or necessary consequence esp. on legal or equitable grounds [in ordinary circumstances…the law would that it was the duty of the hospital to use due care \", 915 S.W.2d 675 (1996)\"]",
+                "Haase v. Starnes": "915 S.W.2d 675 (1996)"
+            },
+            "2": {
+                "definition": "to make known indirectly"
+            }
+        },
+        "references": {}
+    }
+}

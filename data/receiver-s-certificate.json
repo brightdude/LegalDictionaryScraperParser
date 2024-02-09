@@ -1,0 +1,11 @@
+{
+    "Receiver's Certificate": {
+        "definition": "a debt instrument that is issued by the receiver of a corporation and that may have priority over other liens against the company",
+        "sub_definitions": {
+            "1": {
+                "1": "a debt instrument that is issued by the receiver of a corporation and that may have priority over other liens against the company"
+            }
+        },
+        "references": {}
+    }
+}

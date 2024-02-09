@@ -1,0 +1,17 @@
+{
+    "Special Exception": {
+        "definition": "a use of property that is allowed under a zoning ordinance under specified conditions",
+        "sub_definitions": {
+            "1": {
+                "1": "a use of property that is allowed under a zoning ordinance under specified conditions"
+            },
+            "2": {
+                "1": "conditional use"
+            }
+        },
+        "references": {
+            "conditional use": "https://dictionary.findlaw.com/definition/conditional-use.html",
+            "use": "https://dictionary.findlaw.com/definition/use.html"
+        }
+    }
+}

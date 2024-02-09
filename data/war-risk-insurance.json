@@ -1,0 +1,11 @@
+{
+    "War Risk Insurance": {
+        "definition": "insurance that protects against loss due to acts of war",
+        "sub_definitions": {
+            "1": {
+                "1": "insurance that protects against loss due to acts of war"
+            }
+        },
+        "references": {}
+    }
+}

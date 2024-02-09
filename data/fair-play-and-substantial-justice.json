@@ -1,0 +1,16 @@
+{
+    "Fair Play And Substantial Justice": {
+        "definition": "a requirement or standard of fairness which a court's assertion of personal jurisdiction over a nonresident defendant must meet in order to avoid a violation of the defendant's right to due process see also minimum contacts International Shoe Co. v. Washington in the Important Cases section NOTE",
+        "sub_definitions": {
+            "1": {
+                "1": "a requirement or standard of fairness which a court's assertion of personal jurisdiction over a nonresident defendant must meet in order to avoid a violation of the defendant's right to due process see also",
+                "see also": "minimum contacts",
+                "International Shoe Co. v. Washington": "in the Important Cases section",
+                "note": " InInternational Shoe Co. v. Washington, the Supreme Court held that in order for a state court to exercise jurisdiction over a defendant whose residence is elsewhere, the court must establish that the defendant has such minimum contacts with the state that the exercise of jurisdiction over the defendant does not offend traditional notions of fair play and substantial justice. Among the factors used to make this determination are the difficulty for the defendant of appearing in the court, the state's interest in deciding the case, and the plaintiff's interest in the convenience of the court and the effectiveness of the relief to be obtained there."
+            }
+        },
+        "references": {
+            "minimum contacts": "https://dictionary.findlaw.com/definition/minimum-contacts.html"
+        }
+    }
+}

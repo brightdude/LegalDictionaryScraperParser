@@ -1,0 +1,20 @@
+{
+    "Deputy": {
+        "definition": "-ties [Middle French deputé person appointed to exercise authority",
+        "origin": "[Middle French deputé person appointed to exercise authority, from past participle of deputer to appoint, depute]",
+        "sub_definitions": {
+            "-ties": {
+                "definition": "[Middle Frenchperson appointed to exercise authority, from past participle ofto appoint, depute]"
+            },
+            "1": {
+                "definition": "a person appointed as a substitute with power to act"
+            },
+            "2": {
+                "definition": "a second in command or assistant who usually takes charge when his or her superior is absent"
+            }
+        },
+        "references": {
+            "deputy sheriff": "https://dictionary.findlaw.com/definition/deputy-sheriff.html"
+        }
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "Elector": {
+        "definition": "a person who is qualified to vote 2",
+        "sub_definitions": {
+            "1": {
+                "definition": "a person who is qualified to vote"
+            },
+            "2": {
+                "definition": "a member of the electoral college in the U.S."
+            }
+        },
+        "references": {}
+    }
+}

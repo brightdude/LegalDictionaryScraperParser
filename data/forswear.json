@@ -1,0 +1,21 @@
+{
+    "Forswear": {
+        "definition": "to reject",
+        "origin": "[-swōr]",
+        "sub_definitions": {
+            "-swore": {
+                "definition": "[-swōr]"
+            },
+            "-sworn": {
+                "definition": "[-swōrn]"
+            },
+            "1": {
+                "definition": "to reject, renounce, or deny under oath"
+            },
+            "2": {
+                "definition": "to renounce earnestlyto swear falselycommit false swearing"
+            }
+        },
+        "references": {}
+    }
+}

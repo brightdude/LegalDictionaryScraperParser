@@ -1,0 +1,19 @@
+{
+    "Reason": {
+        "definition": "an underlying ground",
+        "origin": "[required to provide s for the termination in writing]",
+        "sub_definitions": {
+            "1": {
+                "definition": "an underlying ground, justification, purpose, motive, or inducement [required to providefor the termination in writing]",
+                "s": "for the termination in writing]"
+            },
+            "2 a": {
+                "definition": "the faculty of comprehending, inferring, or distinguishing esp. in a fair and orderly way",
+                "sub_terms": {
+                    "b": "the proper and sane exercise of the mind"
+                }
+            }
+        },
+        "references": {}
+    }
+}

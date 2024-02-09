@@ -1,0 +1,15 @@
+{
+    "Statutory Foreclosure": {
+        "definition": "a foreclosure in which a mortgagee or trustee executes a power of sale given in a mortgage or deed of trust and does so in accordance with statutory provisions compare strict foreclosure",
+        "compare": "strict foreclosure",
+        "sub_definitions": {
+            "1": {
+                "1": "a foreclosure in which a mortgagee or trustee executes a power of sale given in a mortgage or deed of trust and does so in accordance with statutory provisions compare",
+                "compares": "strict foreclosure"
+            }
+        },
+        "references": {
+            "strict foreclosure": "https://dictionary.findlaw.com/definition/strict-foreclosure.html"
+        }
+    }
+}

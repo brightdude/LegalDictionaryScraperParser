@@ -1,0 +1,13 @@
+{
+    "Full Bench": {
+        "definition": "full court",
+        "sub_definitions": {
+            "1": {
+                "1": "full court"
+            }
+        },
+        "references": {
+            "full court": "https://dictionary.findlaw.com/definition/full-court.html"
+        }
+    }
+}

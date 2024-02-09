@@ -1,0 +1,32 @@
+{
+    "Collateral": {
+        "definition": "accompanying as a secondary fact",
+        "origin": "[a evidentiary matter]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "accompanying as a secondary fact, activity, or agency but subordinate to a main consideration",
+                "sub_terms": {
+                    "b": "not directly relevant or material [a evidentiary matter] [a issue]"
+                }
+            },
+            "2": {
+                "definition": "property pledged by a borrower to protect the interests of the lender in the event of the borrower's defaultproperty subject to a security interest"
+            },
+            "3 a": {
+                "definition": "of, relating to, or being collateral used as a security (as for payment of a debt)",
+                "sub_terms": {
+                    "b": "secured by collateral [a loan]"
+                }
+            },
+            "col·lat·er·al·lyadj": {
+                "definition": "n"
+            },
+            "1": {
+                "definition": "a collateral relative"
+            }
+        },
+        "references": {
+            "lineal": "https://dictionary.findlaw.com/definition/lineal.html"
+        }
+    }
+}

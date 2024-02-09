@@ -1,0 +1,13 @@
+{
+    "Torrens System": {
+        "definition": "a title registration system used esp. in Massachusetts",
+        "origin": "[after Sir Robert Torrens (1814-1884), British pioneer in Australia]",
+        "sub_definitions": {
+            "1": {
+                "1": "a title registration system used esp. in Massachusetts, Hawaii, Illinois, and Minnesota",
+                "note": " When a certificate of title is first applied for in the Torrens system, the title is searched or examined, a court hearing is held (as in a land court), and a decree confirming title and ordering registration (as with the registrar of deeds) is issued. A certificate of title is then given to the owner, after which the property may be conveyed by executing deeds, delivering the certificate of title to be cancelled, and issuing a new certificate to the new owner. The title registered in a Torrens system is usually guaranteed and marketable, making title insurance unnecessary and greatly reducing the time spent researching the state of the title during subsequent conveyances."
+            }
+        },
+        "references": {}
+    }
+}

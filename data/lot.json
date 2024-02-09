@@ -1,0 +1,18 @@
+{
+    "Lot": {
+        "definition": "a portion of land ;specif",
+        "sub_definitions": {
+            "1": {
+                "definition": "a portion of landa measured parcel of contiguous land having fixed boundaries and recorded (as on a plat) with the appropriate authority or office (as a registry of deeds)"
+            },
+            "2": {
+                "definition": "a single article, a number of units of an article, or a parcel of articles offered as one item (as in an auction sale)a parcel or single article under the Uniform Commercial Code which is the subject matter of a separate sale, lease, or delivery whether or not it is sufficient to perform the contract see also,",
+                "see also": "odd lot"
+            }
+        },
+        "references": {
+            "odd lot": "https://dictionary.findlaw.com/definition/odd-lot.html",
+            "round lot": "https://dictionary.findlaw.com/definition/round-lot.html"
+        }
+    }
+}

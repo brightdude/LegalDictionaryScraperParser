@@ -1,0 +1,15 @@
+{
+    "Latent Ambiguity": {
+        "definition": "an uncertainty which does not appear on the face of a legal instrument",
+        "compare": "patent ambiguity",
+        "sub_definitions": {
+            "1": {
+                "1": "an uncertainty which does not appear on the face of a legal instrument (as a contract or will) but which arises from a consideration of extrinsic facts or evidence compare",
+                "compares": "patent ambiguity"
+            }
+        },
+        "references": {
+            "patent ambiguity": "https://dictionary.findlaw.com/definition/patent-ambiguity.html"
+        }
+    }
+}

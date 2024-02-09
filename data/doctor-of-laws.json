@@ -1,0 +1,17 @@
+{
+    "Doctor Of Laws": {
+        "definition": "an honorary law degree compare doctor of the science of law",
+        "compare": "doctor of the science of law",
+        "sub_definitions": {
+            "1": {
+                "1": "an honorary law degree compare",
+                "compares": "doctor of the science of law"
+            }
+        },
+        "references": {
+            "doctor of the science of law": "https://dictionary.findlaw.com/definition/doctor-of-the-science-of-law.html",
+            "juris doctor": "https://dictionary.findlaw.com/definition/juris-doctor.html",
+            "master of laws": "https://dictionary.findlaw.com/definition/master-of-laws.html"
+        }
+    }
+}

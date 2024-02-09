@@ -1,0 +1,11 @@
+{
+    "Title Insurance": {
+        "definition": "insurance that compensates for loss from title defects or encumbrances",
+        "sub_definitions": {
+            "1": {
+                "1": "insurance that compensates for loss from title defects or encumbrances (as liens) that were unknown but should have been discovered at the time the policy was issued"
+            }
+        },
+        "references": {}
+    }
+}

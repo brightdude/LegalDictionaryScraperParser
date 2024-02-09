@@ -1,0 +1,11 @@
+{
+    "Shareholder Control Agreement": {
+        "definition": "a written unanimous agreement of shareholders that transfers control of specified areas of corporate governance",
+        "sub_definitions": {
+            "1": {
+                "1": "a written unanimous agreement of shareholders that transfers control of specified areas of corporate governance (as election of directors and officers, issue of dividends, employment of shareholders, or arbitration of disputes) from directors and officers to the shareholders"
+            }
+        },
+        "references": {}
+    }
+}

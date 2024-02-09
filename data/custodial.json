@@ -1,0 +1,15 @@
+{
+    "Custodial": {
+        "definition": "occurring during or in connection with custody [a interrogation] 2",
+        "origin": "[a interrogation]",
+        "sub_definitions": {
+            "1": {
+                "definition": "occurring during or in connection with custody [a interrogation]"
+            },
+            "2": {
+                "definition": "having sole custody or custody a greater portion of the time [a parent]"
+            }
+        },
+        "references": {}
+    }
+}

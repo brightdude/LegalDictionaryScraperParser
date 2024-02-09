@@ -1,0 +1,16 @@
+{
+    "Closed-End": {
+        "definition": "having a fixed capitalization of shares that are traded on the market at prices determined by supply and demand [a investment company] compare open-end",
+        "origin": "[a investment company]",
+        "compare": "open-end",
+        "sub_definitions": {
+            "1": {
+                "1": "having a fixed capitalization of shares that are traded on the market at prices determined by supply and demand [a investment company] compare",
+                "compares": "open-end"
+            }
+        },
+        "references": {
+            "open-end": "https://dictionary.findlaw.com/definition/open-end.html"
+        }
+    }
+}

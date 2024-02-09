@@ -1,0 +1,33 @@
+{
+    "Representation": {
+        "definition": "one that represents",
+        "origin": "[the contract of sale contains a by the purchaser \" U.S. Code \"]",
+        "sub_definitions": {
+            "1": {
+                "definition": "one that represents",
+                "sub_terms": {
+                    "a": "a statement or account made to influence opinion or action compare",
+                    "b": "an incidental or collateral statement of fact on the faith of which a contract is entered into [the contract of sale contains a by the purchaser \"\"]a statement of fact made by an applicant to an insurer for the purpose of obtaining insurance"
+                },
+                "compares": "warranty"
+            },
+            "2": {
+                "definition": "the act or action of representing",
+                "sub_terms": {
+                    "a": "the action or fact of one person standing for another so as to have the rights and obligations of the person represented",
+                    "b": "the substitution of an individual or class in place of a person (as when a child or children take the share of an estate that would have fallen to a deceased parent) see also",
+                    "c": "the action of representing or the fact of being represented esp. in a legislative body",
+                    "d": "the act or action by a lawyer of providing legal advice to a client and appearing (as in court) to speak and act on the client's behalf"
+                },
+                "see also": "per stirpes"
+            },
+            "3": {
+                "definition": "the body of persons representing a constituency"
+            }
+        },
+        "references": {
+            "warranty": "https://dictionary.findlaw.com/definition/warranty.html",
+            "per stirpes": "https://dictionary.findlaw.com/definition/per-stirpes.html"
+        }
+    }
+}

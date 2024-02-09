@@ -1,0 +1,29 @@
+{
+    "Sound": {
+        "definition": "free from injury or disease",
+        "origin": "[a design]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "free from injury or diseaseexhibiting normal health",
+                "sub_terms": {
+                    "b": "free from flaw, defect, or decay [a design]"
+                }
+            },
+            "2 a": {
+                "definition": "free from error, fallacy, or misapprehension [based on judicial reasoning]",
+                "sub_terms": {
+                    "b": "legally valid [a title]"
+                }
+            },
+            "3": {
+                "definition": "showing good judgment or sense"
+            },
+            "of sound mind:having the mental capacity to make a will esp. as demonstrated by the ability to understand the nature of one's property, identify the natural objects of one's bounty, and understand the nature of the dispositions being made in the will": {
+                "definition": "vito be based or foundedhave a specified basis for an action used with[those remedies for rent whichin contract \"O. W. Holmes, Jr.\"] [in tort]",
+                "in": "[those remedies for rent which",
+                "ed": "in contract \"O. W. Holmes, Jr.\"] ["
+            }
+        },
+        "references": {}
+    }
+}

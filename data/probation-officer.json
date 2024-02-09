@@ -1,0 +1,11 @@
+{
+    "Probation Officer": {
+        "definition": "an officer appointed to investigate",
+        "sub_definitions": {
+            "1": {
+                "1": "an officer appointed to investigate, report on, and supervise the conduct of convicted offenders on probation"
+            }
+        },
+        "references": {}
+    }
+}

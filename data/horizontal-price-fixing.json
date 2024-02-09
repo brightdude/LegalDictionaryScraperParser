@@ -1,0 +1,15 @@
+{
+    "Horizontal Price-Fixing": {
+        "definition": "a generally illegal arrangement among competitors to charge the same price for an item compare vertical price-fixing",
+        "compare": "vertical price-fixing",
+        "sub_definitions": {
+            "1": {
+                "1": "a generally illegal arrangement among competitors to charge the same price for an item compare",
+                "compares": "vertical price-fixing"
+            }
+        },
+        "references": {
+            "vertical price-fixing": "https://dictionary.findlaw.com/definition/vertical-price-fixing.html"
+        }
+    }
+}

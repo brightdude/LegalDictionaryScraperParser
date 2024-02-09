@@ -1,0 +1,70 @@
+{
+    "Letter": {
+        "definition": "a direct written statement addressed to an individual or organization ;broadly",
+        "origin": "[-rō-gə-tȯr-ē]",
+        "sub_definitions": {
+            "1": {
+                "definition": "a direct written statement addressed to an individual or organizationan official communication see also",
+                "see also": "counterletter"
+            },
+            "determination letter": {
+                "definition": "a letter from an administrative agency (as the Internal Revenue Service) usually in response to a request in which a determination, decision, or ruling (as whether an organization qualifies as charitable) is made"
+            },
+            "information letter": {
+                "definition": "a letter from an administrative agency usually in response to a request that provides information and esp. that simply calls attention to an interpretation or principle of law"
+            },
+            "letter of intent": {
+                "definition": "a letter in which the intention to enter into a formal agreement (as a contract) or to take some specified action is stated"
+            },
+            "letter ro·ga·to·ry": {
+                "definition": "[-rō-gə-tȯr-ē][probably partial translation of Medieval Latinletter of request]a formal written request by a court to a court in a foreign jurisdiction to summon and examine a witness in accordance with that jurisdiction's procedures (as oral interrogatories) usually used in pl.",
+                "littera rogatoria": "letter of request]"
+            },
+            "90-day letter": {
+                "definition": "a letter from the Internal Revenue Service notifying a taxpayer of a determination of a deficiency",
+                "note": " A taxpayer has 90 days from the date of the mailing of the 90-day letter to petition for a redetermination of the deficiency in the U.S. Tax Court."
+            },
+            "no-action letter": {
+                "definition": "a letter from an attorney for the Securities and Exchange Commission recommending that the Commission take no prosecutorial action with regard to a suspected and investigated violation of SEC rules or regulations"
+            },
+            "opinion letter": {
+                "definition": "a letter in which an opinion (as of a court or attorney) is given"
+            },
+            "ruling letter": {
+                "definition": "in this entry"
+            },
+            "30-day letter": {
+                "definition": "a letter from the Internal Revenue Service to a taxpayer who has been audited and disputes the auditor's determination that sets out the taxpayer's right to appeal",
+                "note": " A taxpayer has 30 days from the time of the mailing of the 30-day letter to respond."
+            },
+            "2": {
+                "definition": "a written communication usually from a court containing a grant (as of a right) or an appointment usually used in pl. [of guardianship]",
+                "s": "of guardianship]"
+            },
+            "letter of marque": {
+                "definition": "[-mÄ rk][Anglo-Frenchright of retaliation, from Middle French, from Old ProvenÇal, fromto mark, seize as pledge]a letter from a government formerly used to grant a private person the power to seize the subjects of a foreign stateauthority granted to a private person to fit out an armed ship to plunder the enemy usually used in pl. often used in the phrase[the Congress shall have power…to declare war, grantand reprisal, and make rules concerning captures on land and water \"art. I\"]",
+                "mark, marque": "right of retaliation, from Middle French",
+                "marque": "from Old ProvenÇ",
+                "marcar": "to mark, seize as pledge]",
+                "letters of marque and reprisal": "[the Congress shall have power…to declare war, grant",
+                "letters of marque": "and reprisal, and make rules concerning captures on land and water \""
+            },
+            "letters of administration": {
+                "definition": "a letter from a probate court that appoints the addressee administrator of an estate"
+            },
+            "letters patent": {
+                "definition": "a letter (as from a government) that grants a designated person a right (as to property) and that is in a form open for public inspection"
+            },
+            "letters testamentary": {
+                "definition": "a letter from a probate court that appoints or confirms the addressee as executor of an estate"
+            }
+        },
+        "references": {
+            "counterletter": "https://dictionary.findlaw.com/definition/counterletter.html",
+            "determination letter": "https://dictionary.findlaw.com/definition/determination-letter.html",
+            "power of attorney": "https://dictionary.findlaw.com/definition/power-of-attorney.html",
+            "patent": "https://dictionary.findlaw.com/definition/patent.html",
+            "letter of credit": "https://dictionary.findlaw.com/definition/letter-of-credit.html"
+        }
+    }
+}

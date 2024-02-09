@@ -1,0 +1,15 @@
+{
+    "Charity": {
+        "definition": "-ties",
+        "sub_definitions": {
+            "-ties": {
+                "definition": "a gift for humanitarian, philanthropic, or other purposes beneficial to the public (as maintaining a public building)an institution (as a hospital or school) or organization founded by such a gift compare",
+                "note": " Statutory definitions of what institutions and organizations qualify as charities vary. Organizations that are primarily involved in political campaigns or lobbying do not qualify as charities for tax purposes, but trusts for them may be considered charitable. In addition to tax-exempt status, charities have also generally been granted immunity from tort suits.",
+                "compares": "private foundation"
+            }
+        },
+        "references": {
+            "private foundation": "https://dictionary.findlaw.com/definition/private-foundation.html"
+        }
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "Led": {
+        "definition": "Led",
+        "references": {
+            "lead": "https://dictionary.findlaw.com/definition/lead.html"
+        }
+    }
+}

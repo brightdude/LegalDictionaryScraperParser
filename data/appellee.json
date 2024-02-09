@@ -1,0 +1,15 @@
+{
+    "Appellee": {
+        "definition": "the party to an appeal arguing that the lower court's judgment was correct and should stand compare appellant",
+        "compare": "appellant",
+        "sub_definitions": {
+            "1": {
+                "1": "the party to an appeal arguing that the lower court's judgment was correct and should stand compare",
+                "compares": "appellant"
+            }
+        },
+        "references": {
+            "appellant": "https://dictionary.findlaw.com/definition/appellant.html"
+        }
+    }
+}

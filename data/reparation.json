@@ -1,0 +1,17 @@
+{
+    "Reparation": {
+        "definition": "the act of making amends",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "the act of making amends, offering expiation, or giving satisfaction for a wrong or injury",
+                "sub_terms": {
+                    "b": "something done or given as amends or satisfaction"
+                }
+            },
+            "2": {
+                "definition": "the payment of damagescompensation in money or materials payable by a defeated nation for damages to or expenditures sustained by another nation as a result of hostilities with the defeated nation usually used in pl."
+            }
+        },
+        "references": {}
+    }
+}

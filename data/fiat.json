@@ -1,0 +1,14 @@
+{
+    "Fiat": {
+        "definition": "decree 2",
+        "origin": "[a brazen act of judicial \"L. H. Tribe\"]",
+        "sub_definitions": {
+            "2": {
+                "definition": "an authoritative but arbitrary order [a brazen act of judicial \"L. H. Tribe\"]"
+            }
+        },
+        "references": {
+            "decree": "https://dictionary.findlaw.com/definition/decree.html"
+        }
+    }
+}

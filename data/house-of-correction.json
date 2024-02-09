@@ -1,0 +1,19 @@
+{
+    "House Of Correction": {
+        "definition": "an institution where persons who have committed minor offenses and who are considered capable of reformation are confined compare house of detention",
+        "compare": "house of detention",
+        "sub_definitions": {
+            "1": {
+                "1": "an institution where persons who have committed minor offenses and who are considered capable of reformation are confined compare",
+                "compares": "house of detention"
+            }
+        },
+        "references": {
+            "house of detention": "https://dictionary.findlaw.com/definition/house-of-detention.html",
+            "jail": "https://dictionary.findlaw.com/definition/jail.html",
+            "lockup": "https://dictionary.findlaw.com/definition/lockup.html",
+            "penitentiary": "https://dictionary.findlaw.com/definition/penitentiary.html",
+            "prison": "https://dictionary.findlaw.com/definition/prison.html"
+        }
+    }
+}

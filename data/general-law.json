@@ -1,0 +1,17 @@
+{
+    "General Law": {
+        "definition": "a law that is unrestricted as to time",
+        "compare": "local law",
+        "sub_definitions": {
+            "1": {
+                "1": "a law that is unrestricted as to time, is applicable throughout the entire territory subject to the power of the legislature that enacted it, and applies to all persons in the same class called also",
+                "compares": "local law"
+            }
+        },
+        "references": {
+            "local law": "https://dictionary.findlaw.com/definition/local-law.html",
+            "public law": "https://dictionary.findlaw.com/definition/public-law.html",
+            "special law": "https://dictionary.findlaw.com/definition/special-law.html"
+        }
+    }
+}

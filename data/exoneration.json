@@ -1,0 +1,17 @@
+{
+    "Exoneration": {
+        "definition": "the act of disburdening or discharging",
+        "sub_definitions": {
+            "1": {
+                "definition": "the act of disburdening or discharging (as from a charge, liability, obligation, duty, or responsibility)the state of being so freed"
+            },
+            "2 a": {
+                "definition": "the right of a person who has paid a debt for which he or she is only secondarily liable to be reimbursed by the person primarily liable",
+                "sub_terms": {
+                    "b": "the right of a surety to require a person or estate that is subject to a liability for which the surety is secondarily liable to discharge the liability thus relieving the suretythe equitable remedy by which the surety compels discharge of the liability"
+                }
+            }
+        },
+        "references": {}
+    }
+}

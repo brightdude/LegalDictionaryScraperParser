@@ -1,0 +1,11 @@
+{
+    "Special Employee": {
+        "definition": "an employee under workers' compensation law who is assigned by his or her employer to work for another employer",
+        "sub_definitions": {
+            "1": {
+                "1": "an employee under workers' compensation law who is assigned by his or her employer to work for another employer"
+            }
+        },
+        "references": {}
+    }
+}

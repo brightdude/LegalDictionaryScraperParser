@@ -1,0 +1,11 @@
+{
+    "Lienor": {
+        "definition": "one holding a lien against the property of another",
+        "sub_definitions": {
+            "1": {
+                "1": "one holding a lien against the property of another"
+            }
+        },
+        "references": {}
+    }
+}

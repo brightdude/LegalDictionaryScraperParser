@@ -1,0 +1,30 @@
+{
+    "Treaty": {
+        "definition": "treaties [Anglo-French treté",
+        "origin": "[Anglo-French treté , from Middle French traité , from Medieval Latin tractatus , from Latin, handling, treatment, from tractare to treat, handle]",
+        "sub_definitions": {
+            "1": {
+                "definition": "the action of treating and esp. of negotiating"
+            },
+            "2": {
+                "definition": "an agreement or arrangement made by negotiation",
+                "sub_terms": {
+                    "a": "",
+                    "b": "a contract in writing between two or more political authorities (as states or sovereigns) formally signed by representatives duly authorized and usually ratified by the lawmaking authority of the state [the president…shall have power, by and with the advice and consent of the Senate, to make\"art. II\"] compare"
+                },
+                "compares": "executive agreement",
+                "U.S. Constitution": "art. II\"] compare"
+            },
+            "3": {
+                "definition": "a document embodying a negotiated agreement or contract"
+            },
+            "4": {
+                "definition": "an agreement or contract (as between companies) providing for treaty reinsurance"
+            }
+        },
+        "references": {
+            "private treaty": "https://dictionary.findlaw.com/definition/private-treaty.html",
+            "executive agreement": "https://dictionary.findlaw.com/definition/executive-agreement.html"
+        }
+    }
+}

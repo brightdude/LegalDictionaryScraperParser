@@ -1,0 +1,21 @@
+{
+    "Substantive Crime": {
+        "definition": "a crime that does not have as an element the performance of some other crime",
+        "origin": "[indicted and convicted of conspiracy to attempt to enter the bank and the substantive crime of attempting to enter the bank \" United States v. Clay , 495 F.2d 700 (1974)\"]",
+        "compare": "accessory",
+        "sub_definitions": {
+            "1": {
+                "1": "a crime that does not have as an element the performance of some other crime"
+            },
+            "2": {
+                "1": "a crime that is not dependent on another [indicted and convicted of conspiracy to attempt to enter the bank and the",
+                "United States v. Clay": "495 F.2d 700 (1974)\"] called al",
+                "compares": "accessory"
+            }
+        },
+        "references": {
+            "accessory": "https://dictionary.findlaw.com/definition/accessory.html",
+            "conspiracy": "https://dictionary.findlaw.com/definition/conspiracy.html"
+        }
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "Illicit": {
+        "definition": "not permitted",
+        "origin": "[an motive to defeat or evade the taxes \" In re Haas , 48 F.3d 1153 (1995)\"]",
+        "sub_definitions": {
+            "1": {
+                "1": "not permitted"
+            },
+            "2": {
+                "1": "unlawful",
+                "In re Haas": "48 F.3d 1153 (1995)"
+            }
+        },
+        "references": {
+            "unlawful": "https://dictionary.findlaw.com/definition/unlawful.html"
+        }
+    }
+}

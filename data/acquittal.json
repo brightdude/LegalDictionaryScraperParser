@@ -1,0 +1,20 @@
+{
+    "Acquittal": {
+        "definition": "release or discharge from debt or other liability 2",
+        "sub_definitions": {
+            "1": {
+                "definition": "release or discharge from debt or other liability"
+            },
+            "2": {
+                "definition": "a setting free or deliverance from the charge of an offense by verdict of a jury, judgment of a court, or other legal process see alsoatcompare",
+                "compares": "conviction",
+                "see also": "implied acquittal"
+            }
+        },
+        "references": {
+            "implied acquittal": "https://dictionary.findlaw.com/definition/implied-acquittal.html",
+            "judgment": "https://dictionary.findlaw.com/definition/judgment.html",
+            "conviction": "https://dictionary.findlaw.com/definition/conviction.html"
+        }
+    }
+}

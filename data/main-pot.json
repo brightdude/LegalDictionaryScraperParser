@@ -1,0 +1,16 @@
+{
+    "Main Pot": {
+        "definition": "a step in calculating tax liability under Internal Revenue Code section 1231 in which all qualified transactions are netted to determine if the result is a loss or gain called also Big Pot Hodge Podge hotchpot; compare casualty pot NOTE",
+        "compare": "casualty pot",
+        "sub_definitions": {
+            "1": {
+                "1": "a step in calculating tax liability under Internal Revenue Code section 1231 in which all qualified transactions are netted to determine if the result is a loss or gain called also",
+                "compares": "casualty pot",
+                "note": " The transactions netted in the Main Pot are as follows: casualties in the Casualty Pot if they have netted a gain; sales, exchanges, or condemnations of depreciable or real property used in a business for more than one year; and condemnations of capital assets held for more than one year in connection with a trade or business or transaction entered into for profit. If the net result is a gain, then the transactions are treated as long-term capital gains and losses."
+            }
+        },
+        "references": {
+            "casualty pot": "https://dictionary.findlaw.com/definition/casualty-pot.html"
+        }
+    }
+}

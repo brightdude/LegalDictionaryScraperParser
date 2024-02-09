@@ -1,0 +1,49 @@
+{
+    "Law": {
+        "definition": "a rule of conduct or action prescribed or formally recognized as binding or enforced by a controlling authority",
+        "origin": "[Old English lagu , of Scandinavian origin]",
+        "sub_definitions": {
+            "1": {
+                "definition": "a rule of conduct or action prescribed or formally recognized as binding or enforced by a controlling authority",
+                "sub_terms": {
+                    "a": "a command or provision enacted by a legislature see also",
+                    "b": "something (as a judicial decision) authoritatively accorded binding or controlling effect in the administration of justice [that case is no longer the of this circuit]"
+                },
+                "see also": "statute"
+            },
+            "2 a": {
+                "definition": "a body of laws [the of a state]laws and justice considered as a general and established entity [the looks with disfavor on restraints on alienation]",
+                "sub_terms": {
+                    "b": "compare"
+                },
+                "compares": "equity"
+            },
+            "3 a": {
+                "definition": "the control or authority of the law [maintain and order]",
+                "sub_terms": {
+                    "b": "one or more agents or agencies involved in enforcing laws",
+                    "c": "the application of a law or laws as distinct from considerations of fact [an error of ] see alsoatatat"
+                }
+            },
+            "4": {
+                "definition": "the whole body of laws and doctrines relating to one subject [contract ] [the of attractive nuisance]"
+            },
+            "5 a": {
+                "definition": "the legal profession [practice ]",
+                "sub_terms": {
+                    "b": "the nature, use, and effects of laws and legal systems as an area of knowledge or society [the politics of ] compare"
+                },
+                "compares": "jurisprudence"
+            }
+        },
+        "references": {
+            "statute": "https://dictionary.findlaw.com/definition/statute.html",
+            "common law": "https://dictionary.findlaw.com/definition/common-law.html",
+            "equity": "https://dictionary.findlaw.com/definition/equity.html",
+            "issue": "https://dictionary.findlaw.com/definition/issue.html",
+            "matter": "https://dictionary.findlaw.com/definition/matter.html",
+            "question": "https://dictionary.findlaw.com/definition/question.html",
+            "jurisprudence": "https://dictionary.findlaw.com/definition/jurisprudence.html"
+        }
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "Minor Dispute": {
+        "definition": "a dispute between an employer and a union that under the Railway Labor Act can be resolved through interpretation of the existing collective bargaining agreement compare major dispute",
+        "compare": "major dispute",
+        "sub_definitions": {
+            "1": {
+                "1": "a dispute between an employer and a union that under the Railway Labor Act can be resolved through interpretation of the existing collective bargaining agreement compare",
+                "compares": "major dispute"
+            }
+        },
+        "references": {
+            "major dispute": "https://dictionary.findlaw.com/definition/major-dispute.html"
+        }
+    }
+}

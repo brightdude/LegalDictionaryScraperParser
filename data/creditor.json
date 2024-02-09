@@ -1,0 +1,31 @@
+{
+    "Creditor": {
+        "definition": "a person to whom a debt is owed ;esp",
+        "compare": "debtor",
+        "sub_definitions": {
+            "general creditor": {
+                "definition": "a creditor who is not secured by a lien or other security interest called also"
+            },
+            "judgment creditor": {
+                "definition": "a creditor who has a money judgment entered against the debtor and may enforce the judgment (as by attachment or writ of execution)"
+            },
+            "known creditor": {
+                "definition": "a creditor whose potential claim is known or should be known by a debtor and who is entitled to notice of a corporate dissolution or of a date at which claims will be barred (as in bankruptcy)"
+            },
+            "lien creditor": {
+                "definition": "a creditor who is secured by a lien (as by attachment)"
+            },
+            "secured creditor": {
+                "definition": "a creditor who has a security interest (as a mortgage)"
+            },
+            "unsecured creditor": {
+                "definition": "in this entry"
+            }
+        },
+        "references": {
+            "debtor": "https://dictionary.findlaw.com/definition/debtor.html",
+            "obligor": "https://dictionary.findlaw.com/definition/obligor.html",
+            "general creditor": "https://dictionary.findlaw.com/definition/general-creditor.html"
+        }
+    }
+}

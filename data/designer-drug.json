@@ -1,0 +1,11 @@
+{
+    "Designer Drug": {
+        "definition": "a synthetic version of a controlled substance",
+        "sub_definitions": {
+            "1": {
+                "1": "a synthetic version of a controlled substance (as heroin) that is produced with a slightly altered molecular structure to avoid having it classified as an illegal drug"
+            }
+        },
+        "references": {}
+    }
+}

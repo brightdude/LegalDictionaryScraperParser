@@ -1,0 +1,20 @@
+{
+    "Fornication": {
+        "definition": "consensual sexual intercourse between a man and esp. single woman who are not married to each other ;also",
+        "origin": "[Late Latin fornicatio , from fornicare to have intercourse with prostitutes, from Latin fornic - fornix arch, vault, brothel]",
+        "compare": "adultery",
+        "sub_definitions": {
+            "1": {
+                "1": "consensual sexual intercourse between a man and esp. single woman who are not married to each other"
+            },
+            "2": {
+                "1": "the crime of engaging in fornication compare",
+                "compares": "adultery",
+                "note": " Where still considered a crime, fornication is classified as a misdemeanor."
+            }
+        },
+        "references": {
+            "adultery": "https://dictionary.findlaw.com/definition/adultery.html"
+        }
+    }
+}

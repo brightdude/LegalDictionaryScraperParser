@@ -1,0 +1,13 @@
+{
+    "Direct Appeal": {
+        "definition": "an appeal from an order of a three-judge court granting or denying an interlocutory or permanent injunction that may be taken directly to the U.S. Supreme Court under title 28 section 1253 of the U.S. Code 2",
+        "sub_definitions": {
+            "1": {
+                "definition": "an appeal from an order of a three-judge court granting or denying an interlocutory or permanent injunction that may be taken directly to the U.S. Supreme Court under title 28 section 1253 of the U.S. Code"
+            }
+        },
+        "references": {
+            "direct review": "https://dictionary.findlaw.com/definition/direct-review.html"
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "Zipper Clause": {
+        "definition": "a clause in a labor contract indicating that the agreement is an exclusive and complete expression of consent NOTE",
+        "origin": "[from the comparison of such a clause to the closing action of a zipper]",
+        "sub_definitions": {
+            "1": {
+                "1": "a clause in a labor contract indicating that the agreement is an exclusive and complete expression of consent",
+                "note": " A zipper clause may constitute a waiver of the right to bargain over issues negotiated in or outside the terms of a contract until its expiration."
+            }
+        },
+        "references": {}
+    }
+}

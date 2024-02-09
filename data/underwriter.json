@@ -1,0 +1,20 @@
+{
+    "Underwriter": {
+        "definition": "a person",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "a person (as an individual or a company) who underwrites an insurance policy",
+                "sub_terms": {
+                    "b": "a person who assesses risks to be covered by an insurance policy"
+                }
+            },
+            "2": {
+                "definition": "a person (as an individual or company) who underwrites a security issue compare issuer",
+                "note": " The Securities Act of 1933 requires dealers, issuers, and underwriters to file registration statements for the securities that they sell."
+            }
+        },
+        "references": {
+            "insurer": "https://dictionary.findlaw.com/definition/insurer.html"
+        }
+    }
+}

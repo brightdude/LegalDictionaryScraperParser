@@ -1,0 +1,16 @@
+{
+    "Court Of Equity": {
+        "definition": "a court having jurisdiction over suits in equity and administering justice and providing remedies according to the rules and principles of equity compare court of law NOTE",
+        "compare": "court of law",
+        "sub_definitions": {
+            "1": {
+                "1": "a court having jurisdiction over suits in equity and administering justice and providing remedies according to the rules and principles of equity compare",
+                "compares": "court of law",
+                "note": " Rule 1 of the Federal Rules of Civil Procedure abolishes the distinction between law and equity, and therefore there are no longer courts of equity in the federal system."
+            }
+        },
+        "references": {
+            "court of law": "https://dictionary.findlaw.com/definition/court-of-law.html"
+        }
+    }
+}

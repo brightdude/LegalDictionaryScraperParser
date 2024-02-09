@@ -1,0 +1,17 @@
+{
+    "Earnings": {
+        "definition": "something",
+        "sub_definitions": {
+            "1": {
+                "definition": "something (as wages or dividends) earned as compensation for labor or the use of capital"
+            },
+            "2": {
+                "definition": "the balance of revenue for a specified period that remains after deducting related costs and expenses incurred compare",
+                "compares": "profit"
+            }
+        },
+        "references": {
+            "profit": "https://dictionary.findlaw.com/definition/profit.html"
+        }
+    }
+}

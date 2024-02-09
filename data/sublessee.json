@@ -1,0 +1,11 @@
+{
+    "Sublessee": {
+        "definition": "a lessee under a sublease",
+        "sub_definitions": {
+            "1": {
+                "1": "a lessee under a sublease"
+            }
+        },
+        "references": {}
+    }
+}

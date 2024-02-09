@@ -1,0 +1,14 @@
+{
+    "Institutionalize": {
+        "definition": "to put in the care of an institution compare commit",
+        "sub_definitions": {
+            "-iz·ing": {
+                "definition": "to put in the care of an institution compare",
+                "compares": "commit"
+            }
+        },
+        "references": {
+            "commit": "https://dictionary.findlaw.com/definition/commit.html"
+        }
+    }
+}

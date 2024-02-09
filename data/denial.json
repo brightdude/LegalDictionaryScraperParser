@@ -1,0 +1,29 @@
+{
+    "Denial": {
+        "definition": "refusal to grant or allow something [ of due process] [ of a motion] 2 a",
+        "origin": "[ of due process]",
+        "sub_definitions": {
+            "1": {
+                "definition": "in this entry"
+            },
+            "2 a": {
+                "definition": "an assertion that an allegation is false",
+                "sub_terms": {
+                    "b": "a defense asserting that an opposing party's allegations are false compareat,"
+                },
+                "note": " Under the Federal Rules of Civil Procedure, allegations that are not denied are taken as admitted, and a statement that a party has insufficient knowledge or information to form a belief as to the truth of an allegation is taken as a denial. A denial must sufficiently state which allegations or parts of allegations are being denied."
+            },
+            "ar·gu·men·ta·tive denial": {
+                "definition": "[Ä r-gyə-men-tə-tiv-]a denial that asserts facts inconsistent with an allegation made by an adverse party"
+            },
+            "2": {
+                "definition": "a denial of parts of an allegation in a complaint"
+            }
+        },
+        "references": {
+            "defense": "https://dictionary.findlaw.com/definition/defense.html",
+            "traverse": "https://dictionary.findlaw.com/definition/traverse.html",
+            "general denial": "https://dictionary.findlaw.com/definition/general-denial.html"
+        }
+    }
+}

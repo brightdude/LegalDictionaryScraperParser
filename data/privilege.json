@@ -1,0 +1,59 @@
+{
+    "Privilege": {
+        "definition": "a right",
+        "origin": "[Latin privilegium law affecting a specific person, special right, from privus private + leg- lex law]",
+        "sub_definitions": {
+            "1": {
+                "definition": "a right, license, or exemption from duty or liability granted as a special benefit, advantage, or favor",
+                "sub_terms": {
+                    "a": "an exemption from liability where an action is deemed to be justifiable (as in the case of self-defense) or because of the requirements of a position or officethe affirmative defense that an action is privileged compare"
+                },
+                "compares": "excuse"
+            },
+            "absolute privilege": {
+                "definition": "a privilege that exempts a person from liability esp. for defamation regardless of intent or motivea privilege that exempts high public officials (as legislators) from liability for statements made while acting in their official capacity without regard to intent or malice"
+            },
+            "qualified privilege": {
+                "definition": "a privilege esp. in the law of defamation that may be defeated esp. by a showing of actual malice called also",
+                "sub_terms": {
+                    "b": "an exemption from a requirement to disclose information (as for trial) that is granted because of a relationship or position that demands confidentiality [the attorney-client ] [the doctor-patient ] [the marital ] [the priest-penitent ] see also"
+                },
+                "see also": "confidential communication"
+            },
+            "deliberative process privilege": {
+                "definition": "a privilege exempting the government from disclosure (as in discovery) of government agency materials containing opinions, recommendations, and other communications that are part of the decision-making process within the agency"
+            },
+            "executive privilege": {
+                "definition": "a privilege exempting the executive branch of government from disclosing communications if such disclosure would adversely affect the functions and decision-making process of that branch see alsoin the Important Cases section",
+                "note": " Executive privilege is based on the separation of powers doctrine. InUnited States v. Nixon, the Supreme Court held that this privilege is not absolute and that without a claim of a need to protect military, diplomatic, or national security secrets, the need for evidence in a criminal trial will outweigh a general assertion of executive privilege.",
+                "United States v. Nixon": "in the Important Cases section"
+            },
+            "informant's privilege": {
+                "definition": "the privilege of the government to withhold the identity of an informant who has provided evidence for a criminal trial called also"
+            },
+            "jour·nal·ist's privilege": {
+                "definition": "in this entry"
+            },
+            "privilege against self-incrimination": {
+                "definition": "a privilege under the Fifth Amendment to the U.S. Constitution protecting a person from compulsion to make self-incriminating statements"
+            },
+            "re·port·er's privilege": {
+                "definition": "a privilege protecting a reporter from compulsion to reveal information acquired in the course of gathering news called also",
+                "sub_terms": {
+                    "c": "something specially permitted or granted as a matter of discretion that may be limited or taken away [right to…mooring permit is not necessarily created because discretionary state was generously granted in [the] past \"\"] compare",
+                    "d": "a right of a creditor conferred by the nature of a debt to have priority over the debtor's other creditors"
+                },
+                "compares": "right"
+            },
+            "2": {
+                "definition": "any of various fundamental or specially sacred rights considered as particularly guaranteed to all persons by a constitution and esp. by the privileges and immunities clause of the U.S. Constitution"
+            }
+        },
+        "references": {
+            "excuse": "https://dictionary.findlaw.com/definition/excuse.html",
+            "confidential communication": "https://dictionary.findlaw.com/definition/confidential-communication.html",
+            "reporter's privilege": "https://dictionary.findlaw.com/definition/reporter-s-privilege.html",
+            "right": "https://dictionary.findlaw.com/definition/right.html"
+        }
+    }
+}

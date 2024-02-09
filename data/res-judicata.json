@@ -1,0 +1,37 @@
+{
+    "Res Judicata": {
+        "definition": "a thing",
+        "origin": "[Latin, judged matter]",
+        "sub_definitions": {
+            "1": {
+                "definition": "a thing, matter, or determination that is adjudged or final",
+                "sub_terms": {
+                    "a": "a claim, issue, or cause of action that is settled by a judgment conclusive as to the rights, questions, and facts involved in the dispute",
+                    "b": "a judgment, decree, award, or other determination that is considered final and bars relitigation of the same matter [the trial court interpreted the earlier order as a dismissal with prejudice and thusas to the subsequent complaint \", 632 So. 2d 677 (1994)\"]the barring effect of such a determination"
+                },
+                "res judicata": "as to the subsequent complaint \"",
+                "Southeast Mortg. Co. v. Sinclair": "632 So. 2d 677 (1994)"
+            },
+            "2": {
+                "definition": "a principle or doctrine that generally bars relitigation or reconsideration of matters determined in adjudication [the doctrine ofprecludes the presentation of issues in a post-conviction petition which have previously been decided upon direct appeal \", 657 N.E.2d 194 (1995)\"]",
+                "sub_terms": {
+                    "a": "a broad doctrine in civil litigation that requires and includes the barring of relitigation of settled matters under merger, bar, collateral estoppel, and direct estoppelcompareat,",
+                    "b": "a specific doctrine that precludes relitigation of claims and issues arising from the same cause of action between the same parties and their privies after a final judgment on the merits by a competent tribunal or after some other final determination having the same effect [precludes only subsequent suits on the same cause of action; collateral estoppel may preclude relitigation of issues in later suits on any cause of action \"J. H. Friedenthal\"] called also"
+                },
+                "compares": "bar",
+                "res judicata": "precludes only subsequent suits on the same cause of action; collateral estoppel may preclude relitigation of issues in later suits on any cause of action \"J. H. Friedenthal",
+                "Stowers v. State": "657 N.E.2d 194 (1995)\"]: ",
+                "et al.": "\"] called also"
+            },
+            "3": {
+                "definition": "an affirmative defense based on res judicata"
+            }
+        },
+        "references": {
+            "former adjudication": "https://dictionary.findlaw.com/definition/former-adjudication.html",
+            "bar": "https://dictionary.findlaw.com/definition/bar.html",
+            "estoppel": "https://dictionary.findlaw.com/definition/estoppel.html",
+            "merger": "https://dictionary.findlaw.com/definition/merger.html"
+        }
+    }
+}

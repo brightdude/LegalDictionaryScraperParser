@@ -1,0 +1,15 @@
+{
+    "Ground Rent": {
+        "definition": "the rent paid by a lessee for the use of land esp. for building 2",
+        "sub_definitions": {
+            "1": {
+                "definition": "the rent paid by a lessee for the use of land esp. for building"
+            },
+            "2": {
+                "definition": "a rent charge reserved to himself or herself or his or her heirs by the grantor of land in fee simple, on perpetual lease, or on lease for a renewable term of years",
+                "note": "Ground rentin this sense is found chiefly in Pennsylvania and Maryland."
+            }
+        },
+        "references": {}
+    }
+}

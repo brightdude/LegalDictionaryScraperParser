@@ -1,0 +1,13 @@
+{
+    "Certificate Of Incorporation": {
+        "definition": "a certificate issued by a state's secretary of state that shows acceptance of a corporation's articles of incorporation 2",
+        "sub_definitions": {
+            "1": {
+                "definition": "a certificate issued by a state's secretary of state that shows acceptance of a corporation's articles of incorporation"
+            }
+        },
+        "references": {
+            "articles of incorporation": "https://dictionary.findlaw.com/definition/articles-of-incorporation.html"
+        }
+    }
+}

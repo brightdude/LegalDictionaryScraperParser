@@ -1,0 +1,17 @@
+{
+    "Open Court": {
+        "definition": "a recorded judicial proceeding that is presided over by a judge and attended by the parties and their attorneys and that is convened for the purpose of conducting official business compare in camera 2",
+        "sub_definitions": {
+            "1": {
+                "definition": "a recorded judicial proceeding that is presided over by a judge and attended by the parties and their attorneys and that is convened for the purpose of conducting official business compare",
+                "compares": "in camera"
+            },
+            "2": {
+                "definition": "a session of a court that is open to the public"
+            }
+        },
+        "references": {
+            "in camera": "https://dictionary.findlaw.com/definition/in-camera.html"
+        }
+    }
+}

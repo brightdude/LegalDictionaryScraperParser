@@ -1,0 +1,32 @@
+{
+    "Bargain": {
+        "definition": "an agreement between parties that settles what each gives or receives",
+        "origin": "[Old French bargaigne negotiation, haggling, from bargaignier to haggle]",
+        "sub_definitions": {
+            "1": {
+                "definition": "an agreement between parties that settles what each gives or receives (as a promise or performance) in a transaction between them compare",
+                "compares": "contract"
+            },
+            "2 a": {
+                "definition": "something acquired by or as if by bargaining",
+                "sub_terms": {
+                    "b": "something whose value considerably exceeds its cost [a purchase]vi"
+                }
+            },
+            "1 a": {
+                "definition": "to negotiate over the terms of an agreement (as a contract)",
+                "sub_terms": {
+                    "b": "to engage in collective bargaining [the employer must with the union]"
+                }
+            },
+            "2": {
+                "definition": "to agree to certain terms or conditionscome to terms [plaintiffwith the store for a lower price]to convey according to a bargain [does hereby grant, , sell, alien and confirm to the party of the second part, the following described property] often used within deeds to indicate that the conveyor is receiving consideration in exchange for the property",
+                "ed": "with the store for a lower price]",
+                "sell": "in deeds to indicate that the conveyor is receiving consideration in exchange for the property"
+            }
+        },
+        "references": {
+            "contract": "https://dictionary.findlaw.com/definition/contract.html"
+        }
+    }
+}

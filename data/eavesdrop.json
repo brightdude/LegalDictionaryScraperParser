@@ -1,0 +1,15 @@
+{
+    "Eavesdrop": {
+        "definition": "to listen secretly to what is being said in private without the consent of the speaker compare bug",
+        "sub_definitions": {
+            "eaves·drop·ping": {
+                "definition": "to listen secretly to what is being said in private without the consent of the speaker compare,",
+                "compares": "bug"
+            }
+        },
+        "references": {
+            "bug": "https://dictionary.findlaw.com/definition/bug.html",
+            "wiretap": "https://dictionary.findlaw.com/definition/wiretap.html"
+        }
+    }
+}

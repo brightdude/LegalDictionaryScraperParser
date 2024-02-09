@@ -1,0 +1,12 @@
+{
+    "Paid-Up": {
+        "definition": "requiring no further payments [a insurance policy]",
+        "origin": "[a insurance policy]",
+        "sub_definitions": {
+            "1": {
+                "1": "requiring no further payments [a insurance policy]"
+            }
+        },
+        "references": {}
+    }
+}

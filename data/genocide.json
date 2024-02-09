@@ -1,0 +1,14 @@
+{
+    "Genocide": {
+        "definition": "acts committed with intent to partially or wholly destroy a national",
+        "sub_definitions": {
+            "1": {
+                "1": "acts committed with intent to partially or wholly destroy a national, ethnic, racial, or religious group"
+            },
+            "2": {
+                "1": "the crime of committing such an act"
+            }
+        },
+        "references": {}
+    }
+}

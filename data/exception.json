@@ -1,0 +1,23 @@
+{
+    "Exception": {
+        "definition": "something that is excepted or excluded ;esp",
+        "origin": "[the supreme Court shall have appellate jurisdiction, both as to law and fact, with such s , and under such regulations as the Congress shall make \" U.S. Constitution art. III\"]",
+        "sub_definitions": {
+            "1": {
+                "definition": "something that is excepted or excludeda situation to which a rule does not apply [the supreme Court shall have appellate jurisdiction, both as to law and fact, with such, and under such regulations as the Congress shall make \"art. III\"]"
+            },
+            "2": {
+                "definition": "an act of exceptingexclusion of a section of real property from a conveyance compare",
+                "compares": "reservation"
+            },
+            "3": {
+                "definition": "a usually written objection esp. to a judge's ruling [demurrers, pleas, andfor insufficiency of a pleading shall not be used \"Rule 7(c)\"] used esp. in equity proceedings",
+                "s": "for insufficiency of a pleading shall not be used \"",
+                "Federal Rules of Civil Procedure": "Rule 7(c)\"] used esp. in equity proceedings"
+            }
+        },
+        "references": {
+            "reservation": "https://dictionary.findlaw.com/definition/reservation.html"
+        }
+    }
+}

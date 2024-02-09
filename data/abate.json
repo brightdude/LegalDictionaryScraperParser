@@ -1,0 +1,28 @@
+{
+    "Abate": {
+        "definition": "to put an end to or do away with [ a nuisance] b",
+        "origin": "[Old French abattre , literally, to knock down, from a -, prefix stressing result + battre to beat]",
+        "sub_definitions": {
+            "abat·ing": {
+                "definition": "[Old French, literally, to knock down, from-, prefix stressing result +to beat]"
+            },
+            "1 a": {
+                "definition": "to put an end to or do away with [ a nuisance]",
+                "sub_terms": {
+                    "b": "make void[ an action]"
+                }
+            },
+            "2": {
+                "definition": "to decrease in amount or value [the legaciesproportionately]",
+                "note": " A problem arises in estate law when the amount of the bequests and devises made in a will exceeds the assets available in the estate. In such a case, some or all of the bequests and devises may have to be abated to make up the deficit. Under the Uniform Probate Code, property in the estate that is not specifically given under the will abates first, residuary devises abate second, general devises abate third, and specific devises abate last.",
+                "abated": "proportionately]"
+            },
+            "1": {
+                "definition": "to become defeated or become null or void [when a public officer is a party to an appeal…in an official capacity and during its pendency dies…the action does not \"Rule 43\"]"
+            }
+        },
+        "references": {
+            "nullify": "https://dictionary.findlaw.com/definition/nullify.html"
+        }
+    }
+}

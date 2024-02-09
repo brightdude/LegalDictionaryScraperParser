@@ -1,0 +1,21 @@
+{
+    "Artificial": {
+        "definition": "made by humans [ accessions] compare natural b",
+        "origin": "[ accessions]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "made by humans [ accessions] compare",
+                "sub_terms": {
+                    "b": "caused or produced by a human and esp. social or political agency [an price advantage]"
+                },
+                "compares": "natural"
+            },
+            "2": {
+                "definition": "arising through operation of law"
+            }
+        },
+        "references": {
+            "natural": "https://dictionary.findlaw.com/definition/natural.html"
+        }
+    }
+}

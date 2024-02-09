@@ -1,0 +1,11 @@
+{
+    "Business Records Exception": {
+        "definition": "an exception to the hearsay rule that allows admission into evidence of records",
+        "sub_definitions": {
+            "1": {
+                "1": "an exception to the hearsay rule that allows admission into evidence of records, reports, compilations of data, or memoranda of an event, act, condition, opinion, or diagnosis that are made at or near the time of the event by a person with knowledge or from information transmitted by a person with knowledge and that are made as a regular practice of the business"
+            }
+        },
+        "references": {}
+    }
+}

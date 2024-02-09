@@ -1,0 +1,18 @@
+{
+    "Constitutional Court": {
+        "definition": "a court established by a constitution ;esp",
+        "compare": "legislative court",
+        "sub_definitions": {
+            "1": {
+                "1": "a court established by a constitution"
+            },
+            "2": {
+                "1": "the federal courts established by Article III of the U.S. Constitution compare",
+                "compares": "legislative court"
+            }
+        },
+        "references": {
+            "legislative court": "https://dictionary.findlaw.com/definition/legislative-court.html"
+        }
+    }
+}

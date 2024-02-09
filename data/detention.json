@@ -1,0 +1,17 @@
+{
+    "Detention": {
+        "definition": "the act or fact of detaining or holding back ;esp",
+        "sub_definitions": {
+            "1": {
+                "definition": "the act or fact of detaining or holding backa holding in custody"
+            },
+            "2": {
+                "definition": "the state of being detaineda period of temporary custody prior to a trial or hearing see also",
+                "see also": "preventive detention"
+            }
+        },
+        "references": {
+            "preventive detention": "https://dictionary.findlaw.com/definition/preventive-detention.html"
+        }
+    }
+}

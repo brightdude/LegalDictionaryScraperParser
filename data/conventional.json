@@ -1,0 +1,19 @@
+{
+    "Conventional": {
+        "definition": "based on",
+        "sub_definitions": {
+            "1": {
+                "definition": "based on, settled by, or formed by agreementcompare,",
+                "compares": "judicial"
+            },
+            "2": {
+                "definition": "of, like, or relating to a convention or public meeting"
+            }
+        },
+        "references": {
+            "contractual": "https://dictionary.findlaw.com/definition/contractual.html",
+            "judicial": "https://dictionary.findlaw.com/definition/judicial.html",
+            "legal": "https://dictionary.findlaw.com/definition/legal.html"
+        }
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "Expectancy Interest": {
+        "definition": "expectation interest at interest",
+        "sub_definitions": {
+            "1": {
+                "1": "expectation interest"
+            }
+        },
+        "references": {
+            "expectation interest": "https://dictionary.findlaw.com/definition/expectation-interest.html",
+            "interest": "https://dictionary.findlaw.com/definition/interest.html"
+        }
+    }
+}

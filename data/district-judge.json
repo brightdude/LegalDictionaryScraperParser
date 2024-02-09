@@ -1,0 +1,11 @@
+{
+    "District Judge": {
+        "definition": "the judge of a district court",
+        "sub_definitions": {
+            "1": {
+                "1": "the judge of a district court"
+            }
+        },
+        "references": {}
+    }
+}

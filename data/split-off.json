@@ -1,0 +1,22 @@
+{
+    "Split-Off": {
+        "definition": "a transfer of corporate assets to a subsidiary involving the surrender of a part of the stock owned by the corporation's shareholders in exchange for controlling stock of the subsidiary",
+        "compare": "spin-off",
+        "sub_definitions": {
+            "1": {
+                "1": "a transfer of corporate assets to a subsidiary involving the surrender of a part of the stock owned by the corporation's shareholders in exchange for controlling stock of the subsidiary"
+            },
+            "2": {
+                "1": "a D reorganization involving a distribution of part but not all of a corporation's stock for a subsidiary's stock"
+            },
+            "3": {
+                "1": "a new company created by such a distribution compare",
+                "compares": "spin-off"
+            }
+        },
+        "references": {
+            "spin-off": "https://dictionary.findlaw.com/definition/spin-off.html",
+            "split-up": "https://dictionary.findlaw.com/definition/split-up.html"
+        }
+    }
+}

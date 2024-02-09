@@ -1,0 +1,14 @@
+{
+    "Fixed Period Option": {
+        "definition": "installments-for-a-fixed-period option at option",
+        "sub_definitions": {
+            "1": {
+                "1": "installments-for-a-fixed-period option"
+            }
+        },
+        "references": {
+            "installments-for-a-fixed-period option": "https://dictionary.findlaw.com/definition/installments-for-a-fixed-period-option.html",
+            "option": "https://dictionary.findlaw.com/definition/option.html"
+        }
+    }
+}

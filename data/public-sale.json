@@ -1,0 +1,8 @@
+{
+    "Public Sale": {
+        "definition": "Public Sale",
+        "references": {
+            "sale": "https://dictionary.findlaw.com/definition/sale.html"
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "Responsible": {
+        "definition": "liable to be called on to answer b",
+        "origin": "[awarded the contract to the lowest bidder]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "liable to be called on to answer",
+                "sub_terms": {
+                    "b": "liable to be called to account as the primary cause, motive, or agent",
+                    "c": "liable to legal review or in case of fault to penalties"
+                }
+            },
+            "2": {
+                "definition": "characterized by trustworthiness, integrity, and requisite abilities and resources [awarded the contract to the lowest bidder]"
+            },
+            "3": {
+                "definition": "able to choose for oneself between right and wrong"
+            },
+            "4": {
+                "definition": "marked by or involving accountability [a office]"
+            }
+        },
+        "references": {}
+    }
+}

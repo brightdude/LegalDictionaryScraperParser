@@ -1,0 +1,13 @@
+{
+    "Heritable": {
+        "definition": "inheritable",
+        "sub_definitions": {
+            "1": {
+                "1": "inheritable"
+            }
+        },
+        "references": {
+            "inheritable": "https://dictionary.findlaw.com/definition/inheritable.html"
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "Use Value": {
+        "definition": "value of property based on its use rather than on the market [ use value of agricultural land]",
+        "origin": "[ use value of agricultural land]",
+        "sub_definitions": {
+            "1": {
+                "1": "value of property based on its use rather than on the market [",
+                "use value": "of agricultural land]"
+            }
+        },
+        "references": {}
+    }
+}

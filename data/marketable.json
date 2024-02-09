@@ -1,0 +1,15 @@
+{
+    "Marketable": {
+        "definition": "fit to be offered for sale",
+        "origin": "[ goods]",
+        "sub_definitions": {
+            "1": {
+                "definition": "fit to be offered for salebeing such as may be justly or lawfully sold or bought [ goods]"
+            },
+            "2": {
+                "definition": "wanted by buyers [ securities]"
+            }
+        },
+        "references": {}
+    }
+}

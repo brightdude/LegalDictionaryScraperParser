@@ -1,0 +1,11 @@
+{
+    "Covenantee": {
+        "definition": "a person to whom or an entity to which a promise in the form of a covenant is made",
+        "sub_definitions": {
+            "1": {
+                "1": "a person to whom or an entity to which a promise in the form of a covenant is made"
+            }
+        },
+        "references": {}
+    }
+}

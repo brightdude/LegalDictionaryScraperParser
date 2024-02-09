@@ -1,0 +1,35 @@
+{
+    "Maintenance": {
+        "definition": "the act of providing basic and necessary support b",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "the act of providing basic and necessary support",
+                "sub_terms": {
+                    "b": "the state of having such support"
+                }
+            },
+            "2": {
+                "definition": "a financial means of providing necessary assistance",
+                "sub_terms": {
+                    "a": "",
+                    "b": ""
+                }
+            },
+            "3": {
+                "definition": "the necessities of life provided for by payment of maintenance"
+            },
+            "4": {
+                "definition": "the upkeep of property or equipment"
+            },
+            "5": {
+                "definition": "unsought and unnecessary meddling in a lawsuit by assisting either party with means to carry it on compare",
+                "compares": "champerty"
+            }
+        },
+        "references": {
+            "alimony": "https://dictionary.findlaw.com/definition/alimony.html",
+            "support": "https://dictionary.findlaw.com/definition/support.html",
+            "champerty": "https://dictionary.findlaw.com/definition/champerty.html"
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "Indictment": {
+        "definition": "the action or the legal process of indicting 2 a",
+        "sub_definitions": {
+            "1": {
+                "definition": "the action or the legal process of indicting"
+            },
+            "2 a": {
+                "definition": "a formal written statement framed by a prosecuting authority and found by a grand jury that charges a person or persons with an offense compare,",
+                "sub_terms": {
+                    "b": "at"
+                },
+                "compares": "complaint"
+            }
+        },
+        "references": {
+            "complaint": "https://dictionary.findlaw.com/definition/complaint.html",
+            "information": "https://dictionary.findlaw.com/definition/information.html",
+            "bill of indictment": "https://dictionary.findlaw.com/definition/bill-of-indictment.html",
+            "bill": "https://dictionary.findlaw.com/definition/bill.html"
+        }
+    }
+}

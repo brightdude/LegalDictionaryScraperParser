@@ -1,0 +1,22 @@
+{
+    "Terminate": {
+        "definition": "to come to an end in time or effect vt 1",
+        "origin": "[ a contract]",
+        "sub_definitions": {
+            "-nat·ing": {
+                "definition": "to come to an end in time or effect"
+            },
+            "1": {
+                "definition": "to bring to a definite end esp. before a natural conclusion [ a contract] compare,",
+                "compares": "cancel"
+            },
+            "2": {
+                "definition": "to discontinue the employment of"
+            }
+        },
+        "references": {
+            "cancel": "https://dictionary.findlaw.com/definition/cancel.html",
+            "rescind": "https://dictionary.findlaw.com/definition/rescind.html"
+        }
+    }
+}

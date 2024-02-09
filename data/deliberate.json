@@ -1,0 +1,21 @@
+{
+    "Deliberate": {
+        "definition": "to think about and weigh or discuss issues and decisions carefully [the jury retired to ] vt",
+        "origin": "[the jury retired to ]",
+        "sub_definitions": {
+            "-at·ing": {
+                "definition": "to think about and weigh or discuss issues and decisions carefully [the jury retired to ]to think about or evaluate[di-li-bə-rət] adj"
+            },
+            "1": {
+                "definition": "characterized by or resulting from careful considerationcharacterized by or resulting from evaluation done in a cool state of blood and with a fixed purpose [ murder] compare",
+                "compares": "premeditated"
+            },
+            "2": {
+                "definition": "characterized by an understanding of the nature of a thing or act and its consequences [ falsehoods]"
+            }
+        },
+        "references": {
+            "premeditated": "https://dictionary.findlaw.com/definition/premeditated.html"
+        }
+    }
+}

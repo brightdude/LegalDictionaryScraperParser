@@ -1,0 +1,17 @@
+{
+    "Direct Examination": {
+        "definition": "the first examination of a witness by the party calling the witness compare cross-examination",
+        "compare": "cross-examination",
+        "sub_definitions": {
+            "1": {
+                "1": "the first examination of a witness by the party calling the witness compare",
+                "compares": "cross-examination",
+                "note": " Leading questions are not allowed on direct examination unless the witness is shown to be hostile."
+            }
+        },
+        "references": {
+            "cross-examination": "https://dictionary.findlaw.com/definition/cross-examination.html",
+            "redirect examination": "https://dictionary.findlaw.com/definition/redirect-examination.html"
+        }
+    }
+}

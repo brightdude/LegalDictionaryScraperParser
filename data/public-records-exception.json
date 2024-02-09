@@ -1,0 +1,11 @@
+{
+    "Public Records Exception": {
+        "definition": "an exception to the hearsay rule allowing admission into evidence of records",
+        "sub_definitions": {
+            "1": {
+                "1": "an exception to the hearsay rule allowing admission into evidence of records, reports, statements, or data compilations made by public offices or agencies that set forth activities of the office or agency, matters observed pursuant to a duty under law that are required to be reported, or factual findings resulting from an investigation made pursuant to lawful authority that are to be used in civil actions or proceedings or in criminal actions against the government"
+            }
+        },
+        "references": {}
+    }
+}

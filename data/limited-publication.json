@@ -1,0 +1,15 @@
+{
+    "Limited Publication": {
+        "definition": "the communication of a work",
+        "compare": "general publication",
+        "sub_definitions": {
+            "1": {
+                "1": "the communication of a work (as a text) to a selected group with the express or implied exclusion of the public and with common-law copyright thus preserved compare",
+                "compares": "general publication"
+            }
+        },
+        "references": {
+            "general publication": "https://dictionary.findlaw.com/definition/general-publication.html"
+        }
+    }
+}

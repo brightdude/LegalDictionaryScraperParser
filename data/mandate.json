@@ -1,0 +1,30 @@
+{
+    "Mandate": {
+        "definition": "a formal communication from a reviewing court notifying the court below of its judgment and directing the lower court to act accordingly b",
+        "origin": "[Latin mandatum , from neuter of mandatus , past participle of mandare to entrust, enjoin, probably irregularly from manus hand + -dere to put]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "a formal communication from a reviewing court notifying the court below of its judgment and directing the lower court to act accordingly",
+                "sub_terms": {
+                    "b": ""
+                }
+            },
+            "2": {
+                "definition": "an act by which a person gives another person the power to transact for him or her one or several affairs"
+            },
+            "3 a": {
+                "definition": "an authoritative commanda clear authorization or direction [the of the full faith and credit clause \"\"]",
+                "sub_terms": {
+                    "b": "the authorization to act given by a constituency to its elected representativevt"
+                }
+            },
+            "man·dat·ing": {
+                "definition": "to make mandatory or required [the Pennsylvania Constitutiona criminal defendant's right to confrontation \"\"]",
+                "s": "a criminal defendant's right to confrontation \""
+            }
+        },
+        "references": {
+            "mandamus": "https://dictionary.findlaw.com/definition/mandamus.html"
+        }
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "Venireman": {
+        "definition": "-men [ venire",
+        "origin": "[ venire ( facias ) + man ]",
+        "sub_definitions": {
+            "-men": {
+                "definition": "[() +]"
+            }
+        },
+        "references": {
+            "venireperson": "https://dictionary.findlaw.com/definition/venireperson.html"
+        }
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "Deportation": {
+        "definition": "an act or instance of deporting ;specif",
+        "compare": "exclusion",
+        "sub_definitions": {
+            "1": {
+                "1": "an act or instance of deporting"
+            },
+            "2": {
+                "1": "the removal from a country of an alien whose presence is illegal or detrimental to the public welfare compare",
+                "compares": "exclusion"
+            }
+        },
+        "references": {
+            "exclusion": "https://dictionary.findlaw.com/definition/exclusion.html"
+        }
+    }
+}

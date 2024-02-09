@@ -1,0 +1,21 @@
+{
+    "Dangerous": {
+        "definition": "creating a risk of bodily injury [a condition of a public building] 2",
+        "origin": "[a condition of a public building]",
+        "sub_definitions": {
+            "1": {
+                "definition": "creating a risk of bodily injury [a condition of a public building]"
+            },
+            "2": {
+                "definition": "able or likely to inflict esp. serious bodily injury [a criminal with no regard for human life] [a animal]"
+            },
+            "3": {
+                "definition": "likely to engage in repeated criminal activity [a offender]",
+                "note": " The activity that an offender is likely to engage in need not involve violence in order for the offender to be deemed dangerous."
+            }
+        },
+        "references": {
+            "deadly": "https://dictionary.findlaw.com/definition/deadly.html"
+        }
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "Charge": {
+        "definition": "something required",
+        "origin": "[put the child in his ]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "to impose a task or responsibility on [waswith protecting civil rights]",
+                "sub_terms": {
+                    "b": "to command or instruct with authorityto give a charge to (a jury) [the jury should have beenon common-law negligence \"\"]"
+                },
+                "charged": "on common-law negligence \""
+            },
+            "2": {
+                "definition": "an authoritative instruction or commandinstruction in points of law given by a judge to a jury [conviction…reversed, because of trial court's \"W. R. LaFave and A. W. Scott, Jr.\"]"
+            },
+            "3 a": {
+                "definition": "to impose a financial liability on [ the estate]",
+                "sub_terms": {
+                    "b": "to impose or record as a financial burden or liability [ the debts to the estate] [the loss against earnings]"
+                },
+                "charging": "the loss against earnings]"
+            },
+            "4": {
+                "definition": "a formal allegation of an offense or wrongdoing [based on a that was dismissed \"\"] see also,,vt",
+                "see also": "complaint",
+                "National Law Journal": "\"] see also"
+            },
+            "2 a": {
+                "definition": "to make an accusation against esp. in order to bring to trial [her with attempted robbery] see also,",
+                "sub_terms": {
+                    "b": "to allege esp. as an accusation [crimesin the indictment]"
+                },
+                "see also": "accuse",
+                "charging": "her with attempted robbery] see also",
+                "charged": "in the indictment]"
+            },
+            "4 a": {
+                "definition": "to fix or ask as a fee or payment [ $4 for parking]",
+                "sub_terms": {
+                    "b": "to ask payment of (an individual or organization) [ a client for expenses]"
+                }
+            }
+        },
+        "references": {
+            "obligation": "https://dictionary.findlaw.com/definition/obligation.html",
+            "complaint": "https://dictionary.findlaw.com/definition/complaint.html",
+            "indictment": "https://dictionary.findlaw.com/definition/indictment.html",
+            "information": "https://dictionary.findlaw.com/definition/information.html",
+            "accuse": "https://dictionary.findlaw.com/definition/accuse.html",
+            "indict": "https://dictionary.findlaw.com/definition/indict.html"
+        }
+    }
+}

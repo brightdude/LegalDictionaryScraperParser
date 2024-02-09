@@ -1,0 +1,8 @@
+{
+    "General Creditor": {
+        "definition": "General Creditor",
+        "references": {
+            "creditor": "https://dictionary.findlaw.com/definition/creditor.html"
+        }
+    }
+}

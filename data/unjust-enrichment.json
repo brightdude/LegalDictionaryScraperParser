@@ -1,0 +1,16 @@
+{
+    "Unjust Enrichment": {
+        "definition": "the retaining of a benefit",
+        "sub_definitions": {
+            "1": {
+                "definition": "the retaining of a benefit (as money) conferred by another when principles of equity and justice call for restitution to the other partythe retaining of property acquired esp. by fraud from another in circumstances that demand the judicial imposition of a constructive trust on behalf of those who in equity ought to receive it see alsoat"
+            },
+            "2": {
+                "definition": "a doctrine that requires an equitable remedy on behalf of one who has been injured by the unjust enrichment of another"
+            }
+        },
+        "references": {
+            "contract": "https://dictionary.findlaw.com/definition/contract.html"
+        }
+    }
+}

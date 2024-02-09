@@ -1,0 +1,14 @@
+{
+    "Unmarketable": {
+        "definition": "not marketable ;esp",
+        "sub_definitions": {
+            "1": {
+                "1": "not marketable"
+            },
+            "2": {
+                "1": "being or relating to title that a reasonably prudent person would not accept in the ordinary course of business or that is reasonably likely to be the subject of litigation"
+            }
+        },
+        "references": {}
+    }
+}

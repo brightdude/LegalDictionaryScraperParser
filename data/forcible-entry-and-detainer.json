@@ -1,0 +1,14 @@
+{
+    "Forcible Entry And Detainer": {
+        "definition": "the forcible entry upon and keeping of real property without authority of law 2",
+        "sub_definitions": {
+            "1": {
+                "definition": "the forcible entry upon and keeping of real property without authority of law"
+            },
+            "2": {
+                "definition": "the statutory proceeding to regain possession of real property taken through a forcible entry and detainer"
+            }
+        },
+        "references": {}
+    }
+}

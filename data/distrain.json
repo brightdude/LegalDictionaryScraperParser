@@ -1,0 +1,18 @@
+{
+    "Distrain": {
+        "definition": "to force or compel to satisfy an obligation by means of a distress 2",
+        "origin": "[Anglo-French destreindre , literally, to constrict, force, from Old French, from Late Latin distringere to hinder, punish, from Latin, to pull in different directions, distract, from dis - apart + stringere to draw tight]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to force or compel to satisfy an obligation by means of a distress"
+            },
+            "2": {
+                "definition": "to seize by distress compareto levy a distress",
+                "compares": "enter"
+            }
+        },
+        "references": {
+            "enter": "https://dictionary.findlaw.com/definition/enter.html"
+        }
+    }
+}

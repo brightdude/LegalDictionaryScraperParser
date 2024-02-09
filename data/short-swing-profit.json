@@ -1,0 +1,12 @@
+{
+    "Short-Swing Profit": {
+        "definition": "a profit made by a corporate insider who purchases stock and sells it or sells stock and purchases it within a prescribed period NOTE",
+        "sub_definitions": {
+            "1": {
+                "1": "a profit made by a corporate insider who purchases stock and sells it or sells stock and purchases it within a prescribed period",
+                "note": " Section 16(b) of the Securities Exchange Act of 1934 provides that a corporation may recover short-swing profits realized by an insider within six months."
+            }
+        },
+        "references": {}
+    }
+}

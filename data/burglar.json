@@ -1,0 +1,11 @@
+{
+    "Burglar": {
+        "definition": "a person who commits a burglary",
+        "sub_definitions": {
+            "1": {
+                "1": "a person who commits a burglary"
+            }
+        },
+        "references": {}
+    }
+}

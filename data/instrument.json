@@ -1,0 +1,18 @@
+{
+    "Instrument": {
+        "definition": "a means or implement by which something is achieved",
+        "origin": "[an of crime]",
+        "sub_definitions": {
+            "1": {
+                "definition": "a means or implement by which something is achieved, performed, or furthered [an of crime]"
+            },
+            "2": {
+                "definition": "a document (as a deed, will, bond, note, certificate of deposit, insurance policy, warrant, or writ) evidencing rights or duties esp. of one party to another under the law [no person is liable on an unless his signature appears thereon \"\"] [an indictment is a form of charging ]",
+                "Uniform Commercial Code": "\"] [an indictment is a form of charging ]"
+            }
+        },
+        "references": {
+            "negotiable instrument": "https://dictionary.findlaw.com/definition/negotiable-instrument.html"
+        }
+    }
+}

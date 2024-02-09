@@ -1,0 +1,21 @@
+{
+    "Execution": {
+        "definition": "the act or process of executing [witnessed the of the will] 2",
+        "origin": "[witnessed the of the will]",
+        "sub_definitions": {
+            "1": {
+                "definition": "the act or process of executing [witnessed the of the will]"
+            },
+            "2": {
+                "definition": "a putting to death as fulfillment of a judicial death sentence"
+            },
+            "3": {
+                "definition": "the process of enforcing a judgment (as against a debtor)a judicial writ (as fieri facias) by which an officer is empowered to carry a judgment into effect see also",
+                "see also": "levy"
+            }
+        },
+        "references": {
+            "levy": "https://dictionary.findlaw.com/definition/levy.html"
+        }
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "Fiscal Year": {
+        "definition": "an accounting period of 12 months",
+        "sub_definitions": {
+            "1": {
+                "1": "an accounting period of 12 months"
+            }
+        },
+        "references": {}
+    }
+}

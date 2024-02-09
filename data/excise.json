@@ -1,0 +1,21 @@
+{
+    "Excise": {
+        "definition": "a tax levied on the manufacture",
+        "sub_definitions": {
+            "1": {
+                "definition": "a tax levied on the manufacture, sale, or consumption of a commodity compare,",
+                "compares": "income tax"
+            },
+            "2": {
+                "definition": "any of various taxes on privileges often assessed in the form of a license or other fee see alsoof thein the back matter compare",
+                "compares": "direct tax"
+            }
+        },
+        "references": {
+            "income tax": "https://dictionary.findlaw.com/definition/income-tax.html",
+            "property tax": "https://dictionary.findlaw.com/definition/property-tax.html",
+            "Constitution": "https://dictionary.findlaw.com/definition/constitution.html",
+            "direct tax": "https://dictionary.findlaw.com/definition/direct-tax.html"
+        }
+    }
+}

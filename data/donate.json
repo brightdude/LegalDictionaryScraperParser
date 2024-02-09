@@ -1,0 +1,15 @@
+{
+    "Donate": {
+        "definition": "to transfer by a gift or donation vi",
+        "sub_definitions": {
+            "do·nat·ing": {
+                "definition": "to transfer by a gift or donationto make a donation compare,",
+                "compares": "give"
+            }
+        },
+        "references": {
+            "give": "https://dictionary.findlaw.com/definition/give.html",
+            "sell": "https://dictionary.findlaw.com/definition/sell.html"
+        }
+    }
+}

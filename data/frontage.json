@@ -1,0 +1,17 @@
+{
+    "Frontage": {
+        "definition": "a piece of land that lies adjacent",
+        "sub_definitions": {
+            "1": {
+                "definition": "a piece of land that lies adjacent (as to a street or the ocean)"
+            },
+            "2": {
+                "definition": "the land between the front of a building and the street"
+            },
+            "3": {
+                "definition": "the length of a frontage"
+            }
+        },
+        "references": {}
+    }
+}

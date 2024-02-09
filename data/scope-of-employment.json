@@ -1,0 +1,16 @@
+{
+    "Scope Of Employment": {
+        "definition": "the range of conduct and activity within which an employee can reasonably be considered to be carrying out the business of his or her employer [workers' compensation for injuries arising out of the course and scope of employment ] see also respondeat superior NOTE",
+        "origin": "[workers' compensation for injuries arising out of the course and scope of employment ]",
+        "sub_definitions": {
+            "1": {
+                "1": "the range of conduct and activity within which an employee can reasonably be considered to be carrying out the business of his or her employer [workers' compensation for injuries arising out of the course and",
+                "see also": "respondeat superior",
+                "note": " The liability of an employer for an act committed by an employee depends on whether the act falls within the scope of employment."
+            }
+        },
+        "references": {
+            "respondeat superior": "https://dictionary.findlaw.com/definition/respondeat-superior.html"
+        }
+    }
+}

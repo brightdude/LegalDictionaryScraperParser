@@ -1,0 +1,22 @@
+{
+    "Custom": {
+        "definition": "a practice common to many or to a particular place or institution ;esp",
+        "sub_definitions": {
+            "1": {
+                "definition": "a practice common to many or to a particular place or institutiona long-established practice that is generally recognized as having the force of law see alsocompare",
+                "compares": "usage",
+                "see also": "section 1983"
+            },
+            "2": {
+                "sub_terms": {
+                    "a": "duties, tolls, or imposts imposed by the law of a country on imports or exports",
+                    "b": "the agency, establishment, or procedure for collecting such customs"
+                }
+            }
+        },
+        "references": {
+            "section 1983": "https://dictionary.findlaw.com/definition/section-",
+            "usage": "https://dictionary.findlaw.com/definition/usage.html"
+        }
+    }
+}

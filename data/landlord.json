@@ -1,0 +1,11 @@
+{
+    "Landlord": {
+        "definition": "the owner of property",
+        "sub_definitions": {
+            "1": {
+                "1": "the owner of property (as houses, apartments, or land) that is leased or rented to another"
+            }
+        },
+        "references": {}
+    }
+}

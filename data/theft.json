@@ -1,0 +1,22 @@
+{
+    "Theft": {
+        "definition": "larceny ;broadly",
+        "origin": "[Old English thiefth ]",
+        "sub_definitions": {
+            "grand theft": {
+                "definition": "theft of property or services whose value exceeds a specified amount or of a specified kind of property (as an automobile)",
+                "note": " Grand theft is a felony."
+            },
+            "identity theft": {
+                "definition": "the unauthorized use of another's means of identification (as name or social security number) for the purpose of commiting theft or another crime"
+            },
+            "petty theft": {
+                "definition": "theft of property or services whose value is below a specified amount called also",
+                "note": " Petty theft is a misdemeanor but may be aggravated by prior convictions."
+            }
+        },
+        "references": {
+            "larceny": "https://dictionary.findlaw.com/definition/larceny.html"
+        }
+    }
+}

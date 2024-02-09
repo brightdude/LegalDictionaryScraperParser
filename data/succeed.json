@@ -1,0 +1,22 @@
+{
+    "Succeed": {
+        "definition": "to come next after another in office or position 2 a",
+        "origin": "[ ed to his mother's estate]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to follow in sequence and esp. immediately"
+            },
+            "2 a": {
+                "definition": "to take something by succession [to his mother's estate]",
+                "sub_terms": {
+                    "b": "to acquire the rights, obligations, and charges of a decedent in property comprising an estate [the heir, who accepts, is considered as havingto the deceased from the moment of his death \"\"]"
+                },
+                "ed": "to the deceased from the moment of his death \""
+            },
+            "2": {
+                "definition": "to come after as heir or successor"
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "In Camera": {
+        "definition": "in private ;esp",
+        "origin": "[New Latin, literally, in a chamber]",
+        "compare": "open court",
+        "sub_definitions": {
+            "1": {
+                "1": "in private"
+            },
+            "2": {
+                "1": "in a judge's chambers [the judge reviewed the sensitive material",
+                "in camera": "proceeding] compare",
+                "compares": "open court"
+            }
+        },
+        "references": {
+            "open court": "https://dictionary.findlaw.com/definition/open-court.html"
+        }
+    }
+}

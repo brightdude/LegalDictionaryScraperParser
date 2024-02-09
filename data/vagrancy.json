@@ -1,0 +1,16 @@
+{
+    "Vagrancy": {
+        "definition": "-cies 1",
+        "origin": "[the court struck down the law as unconstitutionally vague]",
+        "sub_definitions": {
+            "1": {
+                "definition": "the act or practice of wandering about from place to place"
+            },
+            "2": {
+                "definition": "the crime of wandering about without employment or identifiable means of support [the court struck down the law as unconstitutionally vague]",
+                "note": " Most vagrancy laws have been abolished."
+            }
+        },
+        "references": {}
+    }
+}

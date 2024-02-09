@@ -1,0 +1,16 @@
+{
+    "Plaintiff In Error": {
+        "definition": "a party who proceeds by writ of error",
+        "sub_definitions": {
+            "1": {
+                "1": "a party who proceeds by writ of error"
+            },
+            "2": {
+                "1": "appellant"
+            }
+        },
+        "references": {
+            "appellant": "https://dictionary.findlaw.com/definition/appellant.html"
+        }
+    }
+}

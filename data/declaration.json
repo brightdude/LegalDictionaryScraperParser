@@ -1,0 +1,78 @@
+{
+    "Declaration": {
+        "definition": "the act of declaring [ of dividends] [ of war] 2 a",
+        "origin": "[ of dividends]",
+        "sub_definitions": {
+            "1": {
+                "definition": "the act of declaring [ of dividends] [ of war]"
+            },
+            "2 a": {
+                "definition": "the first pleading in a common-law action compare,",
+                "sub_terms": {
+                    "b": "a statement usually not under oath made by a party to a legal transaction [the attorney must later sign an affidavit or stating that he has informed the debtor \"J. H. Williamson\"]",
+                    "c": "a statement not under oath being offered as evidence"
+                },
+                "compares": "complaint"
+            },
+            "declaration against interest": {
+                "definition": "a statement made by someone unavailable as a witness that is against that person's own interests (as pecuniary or property interests) or may subject that person to liability compare,,",
+                "note": " A declaration against interest is an exception to the hearsay rule. A statement that is offered to clear the accused is not admissible without corroborating circumstances under the Federal Rules of Evidence.",
+                "compares": "admission"
+            },
+            "dy·ing declaration": {
+                "definition": "a statement that is made by a person who firmly believes that he or she is about to die and has no hope of recovery and that concerns the circumstances or cause of the presumed death compare,",
+                "note": " Dying declarations are an exception to the hearsay rule and can be admitted as evidence only if the declarant is unavailable as a witness.",
+                "compares": "excited utterance"
+            },
+            "self-serving declaration": {
+                "definition": "a statement made out of court that is in the declarant's own interest"
+            },
+            "spon·ta·ne·ous declaration": {
+                "definition": "[spÄ n-tā-nē-əs-]an excited utterance that is made without time for fabrication called alsocompare",
+                "note": " Spontaneous declarations are exceptions to the hearsay rule under the excited utterance exception.",
+                "compares": "res gestae"
+            },
+            "3": {
+                "definition": "something that is declared",
+                "sub_terms": {
+                    "a": "a statement proclaiming the principles, aims, or policies of a group or government [ of rights] compare,",
+                    "b": "a statement of the value of property that is subject to a tax (as a duty)a statement of the amount of tax estimated to be due (as on property or income) see alsocompare",
+                    "c": "a statement of information (as year, make, and model) regarding the subject (as a car) and coverage of an insurance policy"
+                },
+                "compares": "return",
+                "see also": "estimated tax"
+            },
+            "4": {
+                "definition": "a statement creating or giving notice of the creation of a legal entity, relationship, or statusthe instrument embodying such a statement"
+            },
+            "declaration of condominium": {
+                "definition": "a declaration of the creation of a condominium that includes a description of the common and individual interests and obligations compareat"
+            },
+            "declaration of homestead": {
+                "definition": "a declaration by a qualified property owner by which the protection of a homestead exemption is effectuated"
+            },
+            "declaration of trust": {
+                "definition": "a declaration by one holding or taking title to property in which he or she acknowledges that the property is held in trust for another"
+            },
+            "5": {
+                "definition": "at"
+            }
+        },
+        "references": {
+            "complaint": "https://dictionary.findlaw.com/definition/complaint.html",
+            "indictment": "https://dictionary.findlaw.com/definition/indictment.html",
+            "admission": "https://dictionary.findlaw.com/definition/admission.html",
+            "confession": "https://dictionary.findlaw.com/definition/confession.html",
+            "self-incrimination": "https://dictionary.findlaw.com/definition/self-incrimination.html",
+            "excited utterance": "https://dictionary.findlaw.com/definition/excited-utterance.html",
+            "res gestae": "https://dictionary.findlaw.com/definition/res-gestae.html",
+            "constitution": "https://dictionary.findlaw.com/definition/constitution.html",
+            "proclamation": "https://dictionary.findlaw.com/definition/proclamation.html",
+            "estimated tax": "https://dictionary.findlaw.com/definition/estimated-tax.html",
+            "return": "https://dictionary.findlaw.com/definition/return.html",
+            "deed": "https://dictionary.findlaw.com/definition/deed.html",
+            "declaratory judgment": "https://dictionary.findlaw.com/definition/declaratory-judgment.html",
+            "judgment": "https://dictionary.findlaw.com/definition/judgment.html"
+        }
+    }
+}

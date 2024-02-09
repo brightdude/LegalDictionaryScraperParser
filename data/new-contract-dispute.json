@@ -1,0 +1,13 @@
+{
+    "New Contract Dispute": {
+        "definition": "major dispute",
+        "sub_definitions": {
+            "1": {
+                "1": "major dispute"
+            }
+        },
+        "references": {
+            "major dispute": "https://dictionary.findlaw.com/definition/major-dispute.html"
+        }
+    }
+}

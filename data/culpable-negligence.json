@@ -1,0 +1,14 @@
+{
+    "Culpable Negligence": {
+        "definition": "criminal negligence at negligence",
+        "sub_definitions": {
+            "1": {
+                "1": "criminal negligence"
+            }
+        },
+        "references": {
+            "criminal negligence": "https://dictionary.findlaw.com/definition/criminal-negligence.html",
+            "negligence": "https://dictionary.findlaw.com/definition/negligence.html"
+        }
+    }
+}

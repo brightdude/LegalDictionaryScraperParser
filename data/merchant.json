@@ -1,0 +1,12 @@
+{
+    "Merchant": {
+        "definition": "a person who trades in goods esp. of a certain kind and possesses expertise in the area of the goods and the practices of trading in them or who employs others with such expertise [a warranty that the goods shall be merchantable is implied in a contract for their sale if the seller is a with respect to goods of that kind \" Uniform Commercial Code \"]",
+        "origin": "[a warranty that the goods shall be merchantable is implied in a contract for their sale if the seller is a with respect to goods of that kind \" Uniform Commercial Code \"]",
+        "sub_definitions": {
+            "1": {
+                "1": "a person who trades in goods esp. of a certain kind and possesses expertise in the area of the goods and the practices of trading in them or who employs others with such expertise [a warranty that the goods shall be merchantable is implied in a contract for their sale if the seller is a with respect to goods of that kind \""
+            }
+        },
+        "references": {}
+    }
+}

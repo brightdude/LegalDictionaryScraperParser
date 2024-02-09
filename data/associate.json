@@ -1,0 +1,15 @@
+{
+    "Associate": {
+        "definition": "a lawyer employed by a law firm compare partner",
+        "compare": "partner",
+        "sub_definitions": {
+            "1": {
+                "1": "a lawyer employed by a law firm compare",
+                "compares": "partner"
+            }
+        },
+        "references": {
+            "partner": "https://dictionary.findlaw.com/definition/partner.html"
+        }
+    }
+}

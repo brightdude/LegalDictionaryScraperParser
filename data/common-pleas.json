@@ -1,0 +1,13 @@
+{
+    "Common Pleas": {
+        "definition": "court of common pleas",
+        "sub_definitions": {
+            "1": {
+                "1": "court of common pleas"
+            }
+        },
+        "references": {
+            "court of common pleas": "https://dictionary.findlaw.com/definition/court-of-common-pleas.html"
+        }
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "Citator": {
+        "definition": "a published list of cases",
+        "sub_definitions": {
+            "1": {
+                "1": "a published list of cases, statutes, and other sources of law showing their subsequent history (as of being cited in other cases) and status (as in having been overruled by another case) see also",
+                "see also": "shepardize"
+            }
+        },
+        "references": {
+            "shepardize": "https://dictionary.findlaw.com/definition/shepardize.html"
+        }
+    }
+}

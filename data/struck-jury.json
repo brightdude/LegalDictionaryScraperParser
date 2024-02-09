@@ -1,0 +1,13 @@
+{
+    "Struck Jury": {
+        "definition": "a jury that is selected from a venire of usually forty people from which potential jurors are struck by attorneys for each side alternately until a specified number",
+        "sub_definitions": {
+            "1": {
+                "definition": "a jury that is selected from a venire of usually forty people from which potential jurors are struck by attorneys for each side alternately until a specified number (as twelve) of jurors are left"
+            }
+        },
+        "references": {
+            "special jury": "https://dictionary.findlaw.com/definition/special-jury.html"
+        }
+    }
+}

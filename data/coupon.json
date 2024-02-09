@@ -1,0 +1,15 @@
+{
+    "Coupon": {
+        "definition": "a statement of due interest to be cut from a debt instrument and esp. a bearer bond when payable and presented for payment ;also",
+        "origin": "[French, from Old French, piece, from couper to cut]",
+        "sub_definitions": {
+            "1": {
+                "1": "a statement of due interest to be cut from a debt instrument and esp. a bearer bond when payable and presented for payment"
+            },
+            "2": {
+                "1": "the interest rate of a coupon"
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "Preemptive Right": {
+        "definition": "right of first refusal 2",
+        "sub_definitions": {
+            "2": {
+                "definition": "the right of a shareholder to buy shares of newly issued stock in proportion to existing holdings before a public offering is made in order to prevent dilution of ownership interest or seizure of majority control by management"
+            }
+        },
+        "references": {
+            "right of first refusal": "https://dictionary.findlaw.com/definition/right-of-first-refusal.html"
+        }
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "True Value": {
+        "definition": "fair market value called also true cash value 2",
+        "sub_definitions": {
+            "1": {
+                "definition": "called also"
+            },
+            "2": {
+                "definition": "the depreciated book value of personal property for purposes of taxation of such property used in business"
+            }
+        },
+        "references": {
+            "fair market value": "https://dictionary.findlaw.com/definition/fair-market-value.html"
+        }
+    }
+}

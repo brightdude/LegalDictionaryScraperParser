@@ -1,0 +1,16 @@
+{
+    "Panderer": {
+        "definition": "one who engages in pandering compare pimp",
+        "compare": "pimp",
+        "sub_definitions": {
+            "1": {
+                "1": "one who engages in pandering compare",
+                "compares": "pimp"
+            }
+        },
+        "references": {
+            "pimp": "https://dictionary.findlaw.com/definition/pimp.html",
+            "prostitute": "https://dictionary.findlaw.com/definition/prostitute.html"
+        }
+    }
+}

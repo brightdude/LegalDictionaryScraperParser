@@ -1,0 +1,15 @@
+{
+    "Executor": {
+        "definition": "a person named by a testator to execute or carry out the instructions in a will compare administrator",
+        "compare": "administrator",
+        "sub_definitions": {
+            "1": {
+                "1": "a person named by a testator to execute or carry out the instructions in a will compare",
+                "compares": "administrator"
+            }
+        },
+        "references": {
+            "administrator": "https://dictionary.findlaw.com/definition/administrator.html"
+        }
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "Actus Reus": {
+        "definition": "the wrongful act that makes up the physical action of a crime see also crime compare mens rea",
+        "origin": "[New Latin, guilty deed]",
+        "compare": "crime",
+        "sub_definitions": {
+            "1": {
+                "1": "the wrongful act that makes up the physical action of a crime see also",
+                "see also": "crime",
+                "compares": "mens rea"
+            }
+        },
+        "references": {
+            "crime": "https://dictionary.findlaw.com/definition/crime.html",
+            "mens rea": "https://dictionary.findlaw.com/definition/mens-rea.html"
+        }
+    }
+}

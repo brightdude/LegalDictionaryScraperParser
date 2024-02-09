@@ -1,0 +1,16 @@
+{
+    "Cognizable": {
+        "definition": "capable of being known ;specif",
+        "origin": "[a claim]",
+        "sub_definitions": {
+            "1": {
+                "definition": "capable of being knowncapable of being recognized as a group because of a common characteristic (as race or gender)",
+                "note": " Systematic exclusion of members of a cognizable group from a jury violates the Sixth Amendment to the Constitution, which requires that jurors be selected from jury pools that represent a fair cross section of the community."
+            },
+            "2": {
+                "definition": "capable of being judicially heard and determined [a claim]"
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "Special Use Permit": {
+        "definition": "an authorization from an appropriate government body",
+        "sub_definitions": {
+            "1": {
+                "1": "an authorization from an appropriate government body (as a zoning board) for a use of property that is a special exception"
+            },
+            "2": {
+                "1": "lawful approval for a special exception"
+            }
+        },
+        "references": {}
+    }
+}

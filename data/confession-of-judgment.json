@@ -1,0 +1,14 @@
+{
+    "Confession Of Judgment": {
+        "definition": "acknowledgment by a debtor of a claim and consent that a judgment may be entered usu. without notice or hearing for the amount of the claim when it is due and unpaid compare cognovit note at note",
+        "compare": "note",
+        "sub_definitions": {
+            "1": {
+                "1": "acknowledgment by a debtor of a claim and consent that a judgment may be entered usu. without notice or hearing for the amount of the claim when it is due and unpaid compare"
+            }
+        },
+        "references": {
+            "note": "https://dictionary.findlaw.com/definition/note.html"
+        }
+    }
+}

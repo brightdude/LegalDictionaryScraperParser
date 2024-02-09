@@ -1,0 +1,15 @@
+{
+    "Last In, First Out": {
+        "definition": "being or relating to a method of valuing inventories by which items from the last lot received are assumed to be sold first and all requisitions are priced at the cost per item of the lot last stocked compare first in",
+        "compare": "first in, first out",
+        "sub_definitions": {
+            "1": {
+                "1": "being or relating to a method of valuing inventories by which items from the last lot received are assumed to be sold first and all requisitions are priced at the cost per item of the lot last stocked compare",
+                "compares": "first in, first out"
+            }
+        },
+        "references": {
+            "first in, first out": "https://dictionary.findlaw.com/definition/first-in-first-out.html"
+        }
+    }
+}

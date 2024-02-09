@@ -1,0 +1,67 @@
+{
+    "Verdict": {
+        "definition": "the usually unanimous finding or decision of a jury on one or more matters",
+        "origin": "[alteration (partly conformed to Medieval Latin veredictum ) of Anglo-French veirdit statement, finding, verdict, from Old French veir true (from Latin verus ) + dit saying, from Latin dictum ]",
+        "sub_definitions": {
+            "1": {
+                "definition": "a verdict in which a jury does not find all of the defendants in a trial to be guilty"
+            },
+            "compromise verdict": {
+                "definition": "a verdict produced not by sincere unanimous agreement on guilt or liability but by an improper surrender of individual convictionsan impermissible verdict by a jury that is unable to agree on liability and so compromises on an award of damages that is less than what it should be if the plaintiff has a right of recovery free from any doubts"
+            },
+            "2": {
+                "definition": "an amount awarded in a verdict [reduced the ]"
+            },
+            "directed verdict of acquittal": {
+                "definition": "in this entry"
+            },
+            "excessive verdict": {
+                "definition": "a verdict that awards damages grossly disproportionate to injury and shocks the court's sense of justice and that may be remedied by a lessening of damages or a new trial see also",
+                "see also": "remittitur"
+            },
+            "general verdict": {
+                "definition": "a verdict that is either for the plaintiff or for the defendant and is often returned with answers to interrogatories on questions of fact [where there exists a conflict between theand the interrogatories, the trial court may determine that the answers to the interrogatories prevail \", 559 N.E.2d 1301 (1990)\"] see also,comparein this entry",
+                "compares": "special verdict",
+                "see also": "interrogatory",
+                "general verdict": "and the interrogatories, the trial court may determine that the answers to the interrogatories prevail \"",
+                "Berk v. Matthews": "559 N.E.2d 1301 (1990)\"] see al"
+            },
+            "in·struct·ed verdict": {
+                "definition": "in this entry"
+            },
+            "2 a": {
+                "definition": "a verdict that finds a defendant guilty on some counts and not guilty on others",
+                "sub_terms": {
+                    "b": "a verdict in which a jury is unable to reach or has not yet reached agreement on all of the offenses under consideration"
+                },
+                "note": " The acceptance of partial verdicts before a jury is finished with deliberations may interfere with the deliberative process; having a jury achieve unanimity on a higher charge first discourages compromise verdicts on lesser included offenses. In some jurisdictions it has been considered proper to afford the jury the opportunity to render a partial verdict of acquittal on a higher charge to avoid declaring a mistrial because of a hopeless deadlock only on a lesser included offense; such a verdict would prevent double jeopardy on the higher charge."
+            },
+            "quo·tient verdict": {
+                "definition": "[kwō-shənt-]a usually impermissible verdict that is based on a numerical average of the amounts written down by jurors (as percentages of fault in a comparative negligence case)a verdict that awards damages based on the average of the sums written down by the jurors under an agreement that all will be bound by the average figure [are invalid and constitute grounds for a mistrial \", 892 P.2d 703 (1995)\"]",
+                "quotient verdicts": "are invalid and constitute grounds for a mistrial \"",
+                "Faverty v. McDonald's Restaurants of Oregon, Inc.": "892 P.2d 703 (1995)"
+            },
+            "repugnant verdict": {
+                "definition": "an impermissible verdict that contradicts itself since the defendant is convicted and acquitted of different crimes having identical elements in the same transaction used chiefly in New York"
+            },
+            "re·spon·sive verdict": {
+                "definition": "[ri-spÄ n-siv-]a verdict that responds to the indictment and accords with statutorily prescribed findings for a particular charge that include guilty, not guilty, and guilty of a prescribed lesser included offense used in Louisiana",
+                "note": " A responsive verdict of guilty on a lesser included offense must be supported by the evidence."
+            },
+            "special verdict": {
+                "definition": "a verdict that consists of specific findings of fact (as of liability) in response to interrogatories, that often includes determinations of damages, and that is used by the court in the formation of a judgment comparein this entry",
+                "compares": "general verdict"
+            }
+        },
+        "references": {
+            "judgment": "https://dictionary.findlaw.com/definition/judgment.html",
+            "judgment of acquittal": "https://dictionary.findlaw.com/definition/judgment-of-acquittal.html",
+            "directed verdict": "https://dictionary.findlaw.com/definition/directed-verdict.html",
+            "remittitur": "https://dictionary.findlaw.com/definition/remittitur.html",
+            "interrogatory": "https://dictionary.findlaw.com/definition/interrogatory.html",
+            "special interrogatory": "https://dictionary.findlaw.com/definition/special-interrogatory.html",
+            "special verdict": "https://dictionary.findlaw.com/definition/special-verdict.html",
+            "general verdict": "https://dictionary.findlaw.com/definition/general-verdict.html"
+        }
+    }
+}

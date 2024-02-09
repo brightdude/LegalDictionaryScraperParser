@@ -1,0 +1,11 @@
+{
+    "Housing Court": {
+        "definition": "a court having limited jurisdiction over certain property and housing cases",
+        "sub_definitions": {
+            "1": {
+                "1": "a court having limited jurisdiction over certain property and housing cases (as landlord and tenant disputes)"
+            }
+        },
+        "references": {}
+    }
+}

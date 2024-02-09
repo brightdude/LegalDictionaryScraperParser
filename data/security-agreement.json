@@ -1,0 +1,16 @@
+{
+    "Security Agreement": {
+        "definition": "an agreement which creates or provides for a security interest [perfect a security interest in collateral described in a security agreement ] compare secured transaction",
+        "origin": "[perfect a security interest in collateral described in a security agreement ]",
+        "compare": "secured transaction",
+        "sub_definitions": {
+            "1": {
+                "1": "an agreement which creates or provides for a security interest [perfect a security interest in collateral described in a",
+                "compares": "secured transaction"
+            }
+        },
+        "references": {
+            "secured transaction": "https://dictionary.findlaw.com/definition/secured-transaction.html"
+        }
+    }
+}

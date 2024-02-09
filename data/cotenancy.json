@@ -1,0 +1,14 @@
+{
+    "Cotenancy": {
+        "definition": "-cies",
+        "sub_definitions": {
+            "-cies": {
+                "definition": "at"
+            }
+        },
+        "references": {
+            "joint tenancy": "https://dictionary.findlaw.com/definition/joint-tenancy.html",
+            "tenancy": "https://dictionary.findlaw.com/definition/tenancy.html"
+        }
+    }
+}

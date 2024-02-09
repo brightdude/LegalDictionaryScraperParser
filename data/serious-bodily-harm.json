@@ -1,0 +1,13 @@
+{
+    "Serious Bodily Harm": {
+        "definition": "serious bodily injury",
+        "sub_definitions": {
+            "1": {
+                "1": "serious bodily injury"
+            }
+        },
+        "references": {
+            "serious bodily injury": "https://dictionary.findlaw.com/definition/serious-bodily-injury.html"
+        }
+    }
+}

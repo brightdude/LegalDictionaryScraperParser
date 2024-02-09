@@ -1,0 +1,8 @@
+{
+    "Actual Possession": {
+        "definition": "Actual Possession",
+        "references": {
+            "possession": "https://dictionary.findlaw.com/definition/possession.html"
+        }
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "Search": {
+        "definition": "an exploratory investigation",
+        "origin": "[warrantless es are invalid unless they fall within narrowly drawn exceptions \" State v. Mahone , 701 P.2d 171 (1985)\"]",
+        "sub_definitions": {
+            "1": {
+                "definition": "an exploratory investigation (as of an area or person) by a government agent that intrudes on an individual's reasonable expectation of privacy and is conducted usually for the purpose of finding evidence of unlawful activity or guilt or to locate a person [warrantlessare invalid unless they fall within narrowly drawn exceptions \", 701 P.2d 171 (1985)\"] see also,at,atcompare",
+                "note": " The Fourth Amendment to the U.S. Constitution prohibits unreasonable searches and requires that a warrant may issue only upon probable cause and that the warrant must particularly describe the place to be searched. Some searches, such as a search incident to an arrest, have been held to be valid without a warrant.",
+                "compares": "seizure",
+                "see also": "exigent circumstances",
+                "State v. Mahone": "701 P.2d 171 (1985)\"] see al"
+            },
+            "administrative search": {
+                "definition": "an inspection or search carried out under a regulatory or statutory scheme esp. in public or commercial premises and usually to enforce compliance with regulations or laws pertaining to health, safety, or security [one of the fundamental principles ofis that the government may not use an administrative inspection scheme as a pretext to search for evidence of criminal violations \", 520 N.E.2d 374 (1988)\"] called alsosee alsoat",
+                "note": " The U.S. Supreme Court held inCamara v. Municipal Court, 387 U.S. 523 (1967), that a reasonable administrative search may be conducted upon a showing of probable cause which is less stringent than that required for a search incident to a criminal investigation. The Court stated that the reasonableness of the search can only be determined by “balancing the need to search against the invasion which the search entails.” Cases followingCamarahave stated that the probable cause requirement is fulfilled by showing that the search meets reasonable administrative standards established in a nonarbitrary regulatory scheme.",
+                "administrative searches": "is that the government may not use an administrative inspection scheme as a pretext to search for evidence of criminal violations \"",
+                "People v. Madison": "520 N.E.2d 374 (1988)\"] called al"
+            },
+            "bor·der search": {
+                "definition": "a search made of a person upon crossing into the U.S. at a border or its equivalent (as the airport at which the person arrives in the U.S.)",
+                "note": " Probable cause is not required for a border search."
+            },
+            "consent search": {
+                "definition": "a warrantless search conducted upon the voluntarily given consent of a person having authority over the place or things to be searched"
+            },
+            "inventory search": {
+                "definition": "a warrantless search (as of an impounded automobile) conducted for the purpose of placing personal property in safekeeping to prevent loss of the property and claims against police for such loss"
+            },
+            "protective search": {
+                "definition": "a search (as a frisk) conducted by a law enforcement officer for the purpose of ensuring against threats to safety (as from a concealed weapon) or sometimes to prevent the destruction of evidence"
+            },
+            "regulatory search": {
+                "definition": "in this entry"
+            },
+            "shake·down search": {
+                "definition": "[shāk-dan-]a search for illicit or contraband material (as weapons or drugs) in prisoners' cells that is usually random and warrantless",
+                "note": " InHudson v. Palmer, 468 U.S. 517 (1984), the U.S. Supreme Court held that Fourth Amendment protections do not extend to searches of prisoners' cells."
+            },
+            "strip search": {
+                "definition": "a search for something concealed on a person conducted after removal of the person's clothing"
+            },
+            "2": {
+                "definition": "an act of boarding and inspecting a ship on the high seas in exercise of the right to do so under international law (as in time of war)"
+            },
+            "3": {
+                "definition": "an examination of a public record or registry see alsovtto conduct a search of [ a premises] [ a person] [ a title]to conduct a search [ for drugs in a school locker]",
+                "see also": "title search"
+            }
+        },
+        "references": {
+            "exigent circumstances": "https://dictionary.findlaw.com/definition/exigent-circumstances.html",
+            "plain view": "https://dictionary.findlaw.com/definition/plain-view.html",
+            "cause": "https://dictionary.findlaw.com/definition/cause.html",
+            "reasonable suspicion": "https://dictionary.findlaw.com/definition/reasonable-suspicion.html",
+            "warrant": "https://dictionary.findlaw.com/definition/warrant.html",
+            "seizure": "https://dictionary.findlaw.com/definition/seizure.html",
+            "administrative search": "https://dictionary.findlaw.com/definition/administrative-search.html",
+            "title search": "https://dictionary.findlaw.com/definition/title-search.html"
+        }
+    }
+}

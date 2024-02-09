@@ -1,0 +1,13 @@
+{
+    "Lienholder": {
+        "definition": "lienor",
+        "sub_definitions": {
+            "1": {
+                "1": "lienor"
+            }
+        },
+        "references": {
+            "lienor": "https://dictionary.findlaw.com/definition/lienor.html"
+        }
+    }
+}

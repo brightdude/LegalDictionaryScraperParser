@@ -1,0 +1,11 @@
+{
+    "Debt Service": {
+        "definition": "the amount of interest and principal payments due annually on long-term debt",
+        "sub_definitions": {
+            "1": {
+                "1": "the amount of interest and principal payments due annually on long-term debt"
+            }
+        },
+        "references": {}
+    }
+}

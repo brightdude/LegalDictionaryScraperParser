@@ -1,0 +1,17 @@
+{
+    "Particeps Criminis": {
+        "definition": "one who takes part in a crime",
+        "origin": "[Latin]",
+        "sub_definitions": {
+            "1": {
+                "1": "one who takes part in a crime"
+            },
+            "2": {
+                "1": "accomplice"
+            }
+        },
+        "references": {
+            "accomplice": "https://dictionary.findlaw.com/definition/accomplice.html"
+        }
+    }
+}

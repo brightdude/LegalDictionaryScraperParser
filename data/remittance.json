@@ -1,0 +1,17 @@
+{
+    "Remittance": {
+        "definition": "a sum of money remitted b",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "a sum of money remitted",
+                "sub_terms": {
+                    "b": "an instrument by which money is remitted"
+                }
+            },
+            "2": {
+                "definition": "transmittal of money (as to a distant place)"
+            }
+        },
+        "references": {}
+    }
+}

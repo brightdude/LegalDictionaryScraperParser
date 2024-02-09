@@ -1,0 +1,24 @@
+{
+    "Necessity": {
+        "definition": "-ties 1 a",
+        "origin": "[obligated to provide the necessities of food, clothing, and shelter]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "the presence or pressure of circumstances that justify or compel a certain course of actiona need to respond or react to a dangerous situation by committing a criminal act",
+                "sub_terms": {
+                    "b": "an affirmative defense originating in common law that the defendant had to commit a criminal act because of the pressure of a situation that threatened a harm greater than that resulting from the act see alsoatcompare,"
+                },
+                "compares": "duress"
+            },
+            "2": {
+                "definition": "something that is necessary esp. to subsistence [obligated to provide theof food, clothing, and shelter]",
+                "necessities": "of food, clothing, and shelter]"
+            }
+        },
+        "references": {
+            "defense": "https://dictionary.findlaw.com/definition/defense.html",
+            "duress": "https://dictionary.findlaw.com/definition/duress.html",
+            "undue influence": "https://dictionary.findlaw.com/definition/undue-influence.html"
+        }
+    }
+}

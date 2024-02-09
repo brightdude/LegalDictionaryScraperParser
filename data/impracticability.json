@@ -1,0 +1,22 @@
+{
+    "Impracticability": {
+        "definition": "the state of being impracticable 2",
+        "sub_definitions": {
+            "1": {
+                "definition": "the state of being impracticable"
+            },
+            "2": {
+                "definition": "a doctrine in contract law: relief from obligations under a contract may be granted when performance has been rendered excessively difficult, expensive, or harmful by an unforeseen contingencya defense to breach of contract on the ground that it has been rendered impracticable called alsocompareat",
+                "note": " Under section 2-615 of the Uniform Commercial Code, the impracticability must arise “by the occurrence of contingency the non-occurrence of which was a basic assumption on which the contract was made” or by compliance with the law.",
+                "compares": "frustration"
+            },
+            "3": {
+                "definition": "excessive difficulty in carrying out a procedure (as joinder)"
+            }
+        },
+        "references": {
+            "frustration": "https://dictionary.findlaw.com/definition/frustration.html",
+            "impossibility": "https://dictionary.findlaw.com/definition/impossibility.html"
+        }
+    }
+}

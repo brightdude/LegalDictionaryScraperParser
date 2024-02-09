@@ -1,0 +1,25 @@
+{
+    "Abstention": {
+        "definition": "the staying of the exercise of federal jurisdiction in a case that involves a question of state law or policy which the federal court prefers to have resolved by a state court or agency Bur·ford abstention [bər-fərd-]",
+        "origin": "[bər-fərd-]",
+        "sub_definitions": {
+            "Bur·ford abstention": {
+                "definition": "[bər-fərd-]an abstention grounded on the involvement in the federal case of a challenge to the exercise of a usually complex state administrative function"
+            },
+            "Col·o·ra·do Riv·er abstention": {
+                "definition": "[kÄ -lə-ra-dō-, -rÄ -]an abstention grounded esp. on the involvement in the federal case of questions of state concern that are also at issue in a parallel case in state court"
+            },
+            "Pull·man abstention": {
+                "definition": "[pl-mən-]an abstention grounded on the involvement in the federal case of the interpretation of an ambiguously worded state law whose constitutionality would have to be determined by the federal court",
+                "note": " A party to a case subjected to a Pullman abstention may reserve the right to return to federal court once the state court has resolved the state law question. Pullman abstentions are the most common type of abstention."
+            },
+            "Thi·bo·daux abstention": {
+                "definition": "[tē-bə-dō-]an abstention grounded on the involvement in the federal case of an issue that greatly affects and concerns a state"
+            },
+            "Youn·ger abstention": {
+                "definition": "[yə-gər-]an abstention grounded on the plaintiff's invocation of federal jurisdiction for the purpose of restraining an ongoing usually criminal state proceeding that has been brought in good faith and not for harassment"
+            }
+        },
+        "references": {}
+    }
+}

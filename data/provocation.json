@@ -1,0 +1,14 @@
+{
+    "Provocation": {
+        "definition": "the act of provoking 2",
+        "sub_definitions": {
+            "1": {
+                "definition": "the act of provoking"
+            },
+            "2": {
+                "definition": "something that provokes, arouses, or stimulates"
+            }
+        },
+        "references": {}
+    }
+}

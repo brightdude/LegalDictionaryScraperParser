@@ -1,0 +1,21 @@
+{
+    "Point": {
+        "definition": "a particular detail",
+        "sub_definitions": {
+            "1": {
+                "definition": "a particular detail, proposition, or issue of law"
+            },
+            "2": {
+                "definition": "any of various incremental units used in measuring, fixing, or calculating something",
+                "sub_terms": {
+                    "a": "a unit used in calculating a sentence by various factors (as aggravating or mitigating circumstances)",
+                    "b": "a unit used in the pricing of securities and valuation of markets",
+                    "c": "a charge to a borrower (as a mortgagor) that is equal to one percent of the principal and that is made at closing"
+                }
+            }
+        },
+        "references": {
+            "point of error": "https://dictionary.findlaw.com/definition/point-of-error.html"
+        }
+    }
+}

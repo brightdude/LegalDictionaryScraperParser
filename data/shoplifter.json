@@ -1,0 +1,11 @@
+{
+    "Shoplifter": {
+        "definition": "one who shoplifts",
+        "sub_definitions": {
+            "1": {
+                "1": "one who shoplifts"
+            }
+        },
+        "references": {}
+    }
+}

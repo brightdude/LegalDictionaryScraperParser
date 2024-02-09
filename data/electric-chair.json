@@ -1,0 +1,14 @@
+{
+    "Electric Chair": {
+        "definition": "a chair used in performing a legal electrocution 2",
+        "sub_definitions": {
+            "1": {
+                "definition": "a chair used in performing a legal electrocution"
+            },
+            "2": {
+                "definition": "the penalty of death by electrocution"
+            }
+        },
+        "references": {}
+    }
+}

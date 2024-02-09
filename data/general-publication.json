@@ -1,0 +1,15 @@
+{
+    "General Publication": {
+        "definition": "communication or dissemination of a copyrightable work that implies a dedication of the work to the public or an abandonment of the copyright compare limited publication",
+        "compare": "limited publication",
+        "sub_definitions": {
+            "1": {
+                "1": "communication or dissemination of a copyrightable work that implies a dedication of the work to the public or an abandonment of the copyright compare",
+                "compares": "limited publication"
+            }
+        },
+        "references": {
+            "limited publication": "https://dictionary.findlaw.com/definition/limited-publication.html"
+        }
+    }
+}

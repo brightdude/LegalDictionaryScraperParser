@@ -1,0 +1,11 @@
+{
+    "Standard Mortgage Clause": {
+        "definition": "a mortgage clause that is usually considered to form a separate contract between the insurer and mortgagee under which the mortgagee can collect payment even if the policy is void or voidable with regard to the insured",
+        "sub_definitions": {
+            "1": {
+                "1": "a mortgage clause that is usually considered to form a separate contract between the insurer and mortgagee under which the mortgagee can collect payment even if the policy is void or voidable with regard to the insured (as because of fraud or nonpayment) called also"
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "Passion": {
+        "definition": "intense",
+        "sub_definitions": {
+            "1": {
+                "1": "intense, driving, or overpowering feeling or emotion"
+            },
+            "2": {
+                "1": "any violent or intense emotion that prevents reflection see also",
+                "see also": "heat of passion"
+            }
+        },
+        "references": {
+            "heat of passion": "https://dictionary.findlaw.com/definition/heat-of-passion.html"
+        }
+    }
+}

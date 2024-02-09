@@ -1,0 +1,13 @@
+{
+    "Wrongful Death": {
+        "definition": "a death caused by the negligent",
+        "origin": "[sought damages for the wrongful death of their murdered daughter]",
+        "sub_definitions": {
+            "1": {
+                "1": "a death caused by the negligent, willful, or wrongful act, neglect, omission, or default of another [sought damages for the",
+                "wrongful death": "of their murdered daughter]"
+            }
+        },
+        "references": {}
+    }
+}

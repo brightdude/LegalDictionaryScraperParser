@@ -1,0 +1,13 @@
+{
+    "Interinsurance": {
+        "definition": "reciprocal insurance",
+        "sub_definitions": {
+            "1": {
+                "1": "reciprocal insurance"
+            }
+        },
+        "references": {
+            "reciprocal insurance": "https://dictionary.findlaw.com/definition/reciprocal-insurance.html"
+        }
+    }
+}

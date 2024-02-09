@@ -1,0 +1,17 @@
+{
+    "Filiate": {
+        "definition": "to declare",
+        "origin": "[has not been filiated by the initiative of the parent \" Louisiana Civil Code \"]",
+        "sub_definitions": {
+            "-at·ing": {
+                "definition": "to declare (a child) the descendant of a particular parent and esp. a father [has not beenby the initiative of the parent \"\"] compare,",
+                "note": " A child may be illegitimate but filiated. Both legitimation and acknowledgment filiate an illegitimate child. Adopted children are filiated by the adoption proceeding.",
+                "compares": "acknowledge"
+            }
+        },
+        "references": {
+            "acknowledge": "https://dictionary.findlaw.com/definition/acknowledge.html",
+            "legitimate": "https://dictionary.findlaw.com/definition/legitimate.html"
+        }
+    }
+}

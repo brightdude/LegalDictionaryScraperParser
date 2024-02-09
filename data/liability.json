@@ -1,0 +1,99 @@
+{
+    "Liability": {
+        "definition": "-ties 1",
+        "origin": "[tax ]",
+        "sub_definitions": {
+            "1": {
+                "definition": "in this entry"
+            },
+            "2": {
+                "definition": "liability (as of a guarantor) that arises from a legal obligation owed to an injured party to pay damages for another's failure to perform or negligent act"
+            },
+            "contingent liability": {
+                "definition": "an amount that may or may not be owed depending on the outcome of a contingency (as a cosigner's default on a loan)"
+            },
+            "fixed liability": {
+                "definition": "a liability (as a bond or mortgage) that does not mature for at least one year from the date incurred or from a given date",
+                "sub_terms": {
+                    "b": "accountability and responsibility to another enforceable by civil remedies or criminal sanctions [ for injuries caused by their product]"
+                }
+            },
+            "absolute liability": {
+                "definition": "in this entry"
+            },
+            "alternative liability": {
+                "definition": "joint liability imposed on multiple tortfeasors when there are simultaneous tortious acts (as defective manufacture of parts of a wheel by different manufacturers) and uncertainty as to which act was the proximate cause of an injury compare",
+                "compares": "concert of action"
+            },
+            "civil liability": {
+                "definition": "liability imposed under civil laws and civil process as distinguished from criminal lawsthe state of being subject to civil sanctions (as restitution or damages) [the acquittal does not relieve the corporation offor its fraud] see also",
+                "note": " Civil liability is created by a legal theory or principle that places a duty or obligation (as to use due care) on the defendant.",
+                "see also": "tort",
+                "civil liability": "for its fraud] see also"
+            },
+            "corporate liability": {
+                "definition": "liability of a corporation that is enforced by sanctions imposed against the corporation itself see also",
+                "see also": "pierce"
+            },
+            "criminal liability": {
+                "definition": "liability imposed under criminal laws and by means of criminal prosecutionthe state of being subject to criminal sanctions [theof an accomplice]",
+                "criminal liability": "of an accomplice]"
+            },
+            "enterprise liability": {
+                "definition": "liability imposed on a business enterprise esp. for on-the-job injuries to employeesliability imposed on defendants who are all members of an industry that has produced a defective product when the specific manufacturer cannot be identified"
+            },
+            "joint and several liability": {
+                "definition": "joint liability imposed on joint tortfeasors that allows enforcement of the entire judgment against any one of the tortfeasors",
+                "note": " In some jurisdictions, joint and several liability remains despite adoption of comparative fault, and in others it has been eliminated by comparative fault."
+            },
+            "joint liability": {
+                "definition": "liability that is shared (as by co-owners)liability for a tort that is imposed on joint tortfeasors when they have acted in concert, owe the same duty to the plaintiff, have a legal relationship, or otherwise together have caused an injury to the plaintiff and that allows contribution or indemnity between the joint tortfeasors"
+            },
+            "liability in sol·i·do": {
+                "definition": "in this entry"
+            },
+            "liability without fault": {
+                "definition": "in this entry"
+            },
+            "personal liability": {
+                "definition": "liability imposed against an individual esp. for injuries that occur on the individual's property or as a result of the individual's activities"
+            },
+            "premises liability": {
+                "definition": "liability arising from injuries or losses occurring on one's premises"
+            },
+            "primary liability": {
+                "definition": "liability imposed directly on a person because of his or her own negligence, default, or legal undertaking"
+            },
+            "prod·ucts liability": {
+                "definition": "liability imposed on a manufacturer or seller for a defective and unreasonably dangerous productstrict liability for a defective product that does not require the plaintiff to have privity of contract with the seller or manufacturer called also",
+                "note": " A plaintiff usually must show that a defective product was the proximate cause of injuries, was defective at the time of purchase, and was used for its intended purpose in order to establish a products liability claim."
+            },
+            "several liability": {
+                "definition": "liability assumed or imposed on an individual separate from others"
+            },
+            "solidary liability": {
+                "definition": "liability that is shared by obligors and that makes any one obligor liable for the entire obligation to the obligee but also apportions the liability among the obligors so that contribution is allowedsuch liability for a tort that is imposed on joint tortfeasors see alsoat"
+            },
+            "strict liability": {
+                "definition": "liability that is imposed without a finding of fault (as negligence or intent)"
+            },
+            "vicarious liability": {
+                "definition": "liability that is imposed for another's acts because of imputed or constructive fault (as negligence) see also",
+                "see also": "respondeat superior"
+            }
+        },
+        "references": {
+            "debt": "https://dictionary.findlaw.com/definition/debt.html",
+            "asset": "https://dictionary.findlaw.com/definition/asset.html",
+            "strict liability": "https://dictionary.findlaw.com/definition/strict-liability.html",
+            "concert of action": "https://dictionary.findlaw.com/definition/concert-of-action.html",
+            "tort": "https://dictionary.findlaw.com/definition/tort.html",
+            "pierce": "https://dictionary.findlaw.com/definition/pierce.html",
+            "solidary liability": "https://dictionary.findlaw.com/definition/solidary-liability.html",
+            "vicarious liability": "https://dictionary.findlaw.com/definition/vicarious-liability.html",
+            "obligation": "https://dictionary.findlaw.com/definition/obligation.html",
+            "respondeat superior": "https://dictionary.findlaw.com/definition/respondeat-superior.html",
+            "liability insurance": "https://dictionary.findlaw.com/definition/liability-insurance.html"
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "Ex-Rights": {
+        "definition": "without rights NOTE",
+        "sub_definitions": {
+            "1": {
+                "1": "without rights",
+                "note": " The purchaser of stock traded ex-rights does not acquire the right to purchase new securities at a discount prior to their public issuance because such right was retained by the seller."
+            }
+        },
+        "references": {}
+    }
+}

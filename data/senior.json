@@ -1,0 +1,15 @@
+{
+    "Senior": {
+        "definition": "having higher rank or priority [a lienholder] ;specif",
+        "origin": "[a lienholder]",
+        "sub_definitions": {
+            "1": {
+                "1": "having higher rank or priority [a lienholder]"
+            },
+            "2": {
+                "1": "having a claim on corporate assets and income prior to other securities"
+            }
+        },
+        "references": {}
+    }
+}

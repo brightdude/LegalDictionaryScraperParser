@@ -1,0 +1,13 @@
+{
+    "Merit Shop": {
+        "definition": "open shop",
+        "sub_definitions": {
+            "1": {
+                "1": "open shop"
+            }
+        },
+        "references": {
+            "open shop": "https://dictionary.findlaw.com/definition/open-shop.html"
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "Court Of Last Resort": {
+        "definition": "a court of final appeal in a jurisdiction see also court of appeals",
+        "sub_definitions": {
+            "1": {
+                "1": "a court of final appeal in a jurisdiction see also",
+                "see also": "court of appeals"
+            }
+        },
+        "references": {
+            "court of appeals": "https://dictionary.findlaw.com/definition/court-of-appeals.html",
+            "supreme court": "https://dictionary.findlaw.com/definition/supreme-court.html",
+            "supreme court of appeals": "https://dictionary.findlaw.com/definition/supreme-court-of-appeals.html",
+            "supreme judicial court": "https://dictionary.findlaw.com/definition/supreme-judicial-court.html"
+        }
+    }
+}

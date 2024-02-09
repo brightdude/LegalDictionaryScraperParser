@@ -1,0 +1,28 @@
+{
+    "Seisin": {
+        "definition": "the possession of land or chattels",
+        "origin": "[sēz-n]",
+        "sub_definitions": {
+            "orsei·zin[sēz-n]": {
+                "definition": "[Anglo-French, from Old Frenchact of taking possession, fromto seize, of Germanic origin]",
+                "seisine": "from Old Fren",
+                "saisine": "act of taking possession, from",
+                "saisir": "to seize, of Germanic origin]"
+            },
+            "1": {
+                "definition": "the possession of land or chattels",
+                "sub_terms": {
+                    "a": "the possession of land arising from livery of seisin see also",
+                    "b": "the possession of a freehold estate in land by one having title thereto"
+                },
+                "see also": "livery of seisin"
+            },
+            "2": {
+                "definition": "the right to immediate possession of an estate or to immediate succession [ of an heir upon death of the testator]"
+            }
+        },
+        "references": {
+            "livery of seisin": "https://dictionary.findlaw.com/definition/livery-of-seisin.html"
+        }
+    }
+}

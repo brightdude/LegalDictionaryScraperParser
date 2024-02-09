@@ -1,0 +1,13 @@
+{
+    "Purloin": {
+        "definition": "steal",
+        "sub_definitions": {
+            "1": {
+                "1": "steal"
+            }
+        },
+        "references": {
+            "steal": "https://dictionary.findlaw.com/definition/steal.html"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "Alien": {
+        "definition": "relating",
+        "origin": "[Latin alienus not one's own, foreign]",
+        "sub_definitions": {
+            "1": {
+                "1": "relating, belonging, or owing allegiance to another country or government"
+            },
+            "2": {
+                "1": "a foreign-born resident who has not been naturalized and is still a subject or citizen of a foreign country [illegal",
+                "s": "] [an admitted to the United States for permanent residence \""
+            },
+            "3": {
+                "1": "alienate"
+            }
+        },
+        "references": {
+            "alienate": "https://dictionary.findlaw.com/definition/alienate.html"
+        }
+    }
+}

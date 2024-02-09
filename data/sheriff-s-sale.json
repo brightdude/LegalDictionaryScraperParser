@@ -1,0 +1,8 @@
+{
+    "Sheriff's Sale": {
+        "definition": "Sheriff's Sale",
+        "references": {
+            "sale": "https://dictionary.findlaw.com/definition/sale.html"
+        }
+    }
+}

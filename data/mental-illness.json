@@ -1,0 +1,13 @@
+{
+    "Mental Illness": {
+        "definition": "mental disease 2",
+        "sub_definitions": {
+            "2": {
+                "definition": "a mental condition marked primarily by sufficient disorganization of personality, mind, and emotions to seriously impair the normal psychological and often social functioning of the individual called also"
+            }
+        },
+        "references": {
+            "mental disease": "https://dictionary.findlaw.com/definition/mental-disease.html"
+        }
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "Sovran": {
+        "definition": "Sovran",
+        "references": {
+            "sovereign": "https://dictionary.findlaw.com/definition/sovereign.html",
+            "sovereignty": "https://dictionary.findlaw.com/definition/sovereignty.html"
+        }
+    }
+}

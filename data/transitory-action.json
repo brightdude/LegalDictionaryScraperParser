@@ -1,0 +1,15 @@
+{
+    "Transitory Action": {
+        "definition": "an action that may be brought in any venue where there is personal jurisdiction over the defendant compare local action",
+        "compare": "local action",
+        "sub_definitions": {
+            "1": {
+                "1": "an action that may be brought in any venue where there is personal jurisdiction over the defendant compare",
+                "compares": "local action"
+            }
+        },
+        "references": {
+            "local action": "https://dictionary.findlaw.com/definition/local-action.html"
+        }
+    }
+}

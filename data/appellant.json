@@ -1,0 +1,15 @@
+{
+    "Appellant": {
+        "definition": "a person or party who appeals a court's judgment compare appellee",
+        "compare": "appellee",
+        "sub_definitions": {
+            "1": {
+                "1": "a person or party who appeals a court's judgment compare",
+                "compares": "appellee"
+            }
+        },
+        "references": {
+            "appellee": "https://dictionary.findlaw.com/definition/appellee.html"
+        }
+    }
+}

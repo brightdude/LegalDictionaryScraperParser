@@ -1,0 +1,8 @@
+{
+    "Sale In Gross": {
+        "definition": "Sale In Gross",
+        "references": {
+            "sale": "https://dictionary.findlaw.com/definition/sale.html"
+        }
+    }
+}

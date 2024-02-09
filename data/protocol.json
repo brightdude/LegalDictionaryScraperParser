@@ -1,0 +1,17 @@
+{
+    "Protocol": {
+        "definition": "an original draft",
+        "sub_definitions": {
+            "1": {
+                "definition": "an original draft, minute, or record of a document or transaction"
+            },
+            "2 a": {
+                "definition": "a preliminary memorandum often formulated and signed by diplomatic negotiators as a basis for a final convention or treaty",
+                "sub_terms": {
+                    "b": "the records or minutes of a diplomatic conference or congress that show officially the agreements arrived at by the negotiators"
+                }
+            }
+        },
+        "references": {}
+    }
+}

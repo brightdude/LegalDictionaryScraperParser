@@ -1,0 +1,19 @@
+{
+    "Proprietor": {
+        "definition": "one who has legal right or exclusive title to something",
+        "sub_definitions": {
+            "1": {
+                "1": "one who has legal right or exclusive title to something"
+            },
+            "2": {
+                "1": "owner"
+            },
+            "3": {
+                "1": "one (as a lessee) having an interest (as control or present use) less than absolute or exclusive right"
+            }
+        },
+        "references": {
+            "owner": "https://dictionary.findlaw.com/definition/owner.html"
+        }
+    }
+}

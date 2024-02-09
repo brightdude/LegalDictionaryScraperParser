@@ -1,0 +1,20 @@
+{
+    "Reference": {
+        "definition": "an act of referring ;specif",
+        "origin": "[a municipality may adopt by all or a part of this title \" Alaska Statutes \"]",
+        "sub_definitions": {
+            "1": {
+                "definition": "an act of referringmention or citation of one document (as a statute) in another [a municipality may adopt by all or a part of this title \"\"] see also",
+                "see also": "incorporate",
+                "Alaska Statutes": "\"] see also"
+            },
+            "2": {
+                "definition": "a referral esp. to a legislative committee or masteran order referring a matter to a master [evidence upon all matters embraced in the \"Rule 53(c)\"]",
+                "Federal Rules of Civil Procedure": "Rule 53(c)\"]"
+            }
+        },
+        "references": {
+            "incorporate": "https://dictionary.findlaw.com/definition/incorporate.html"
+        }
+    }
+}

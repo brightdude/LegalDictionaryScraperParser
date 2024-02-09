@@ -1,0 +1,12 @@
+{
+    "City Attorney": {
+        "definition": "an attorney holding a public office whose function is to advise and represent the city in legal matters NOTE",
+        "sub_definitions": {
+            "1": {
+                "1": "an attorney holding a public office whose function is to advise and represent the city in legal matters",
+                "note": " The office of the city attorney has many different titles. In some places the city attorney is calledcity solicitororcity counselor. At the town level, the title used is oftentown counsel. In Boston, the titlecorporation counselis used. In Cleveland, it isdirector of law."
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "Exigency": {
+        "definition": "-cies 1",
+        "sub_definitions": {
+            "1": {
+                "definition": "that which is required in a particular situation usually used in pl."
+            },
+            "2 a": {
+                "definition": "the quality or state of being exigent",
+                "sub_terms": {
+                    "b": "a state of affairs that makes urgent demands"
+                }
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "Boilerplate": {
+        "definition": "standardized text in documents",
+        "sub_definitions": {
+            "1": {
+                "1": "standardized text in documents (as contracts)"
+            }
+        },
+        "references": {}
+    }
+}

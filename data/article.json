@@ -1,0 +1,21 @@
+{
+    "Article": {
+        "definition": "a separate and usually numbered or otherwise marked section",
+        "origin": "[ s of merger]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "a separate and usually numbered or otherwise marked section (as of a statute, indictment, will, or other writing)",
+                "sub_terms": {
+                    "b": "a separate point, charge, count, or clause",
+                    "c": "a condition or stipulation in a document (as a contract)"
+                }
+            },
+            "2": {
+                "definition": "a document setting forth the terms of an agreement usually used in pl. [of merger]"
+            }
+        },
+        "references": {
+            "articles of incorporation": "https://dictionary.findlaw.com/definition/articles-of-incorporation.html"
+        }
+    }
+}

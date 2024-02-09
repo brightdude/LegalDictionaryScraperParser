@@ -1,0 +1,16 @@
+{
+    "Negotiable Instrument": {
+        "definition": "a transferable instrument",
+        "origin": "[was determined to be a holder in due course of a negotiable instrument ]",
+        "sub_definitions": {
+            "1": {
+                "1": "a transferable instrument (as a note, check, or draft) containing an unconditional promise or order to pay to a holder or to the order of a holder upon issue, possession, demand, or at a specified time [was determined to be a holder in due course of a",
+                "see also": "bearer"
+            }
+        },
+        "references": {
+            "bearer": "https://dictionary.findlaw.com/definition/bearer.html",
+            "holder in due course": "https://dictionary.findlaw.com/definition/holder-in-due-course.html"
+        }
+    }
+}

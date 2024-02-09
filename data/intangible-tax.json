@@ -1,0 +1,11 @@
+{
+    "Intangible Tax": {
+        "definition": "a tax imposed on the privilege of owning",
+        "sub_definitions": {
+            "1": {
+                "1": "a tax imposed on the privilege of owning, transferring, devising, profiting by, or otherwise dealing with or benefiting from intangibles"
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "Future Contract": {
+        "definition": "futures contract at contract",
+        "sub_definitions": {
+            "1": {
+                "1": "futures contract"
+            }
+        },
+        "references": {
+            "futures contract": "https://dictionary.findlaw.com/definition/futures-contract.html",
+            "contract": "https://dictionary.findlaw.com/definition/contract.html"
+        }
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "Straddle": {
+        "definition": "the purchase of an equal number of put options and call options on the same underlying securities with the same price and maturity date",
+        "sub_definitions": {
+            "1": {
+                "1": "the purchase of an equal number of put options and call options on the same underlying securities with the same price and maturity date"
+            }
+        },
+        "references": {}
+    }
+}

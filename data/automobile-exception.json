@@ -1,0 +1,11 @@
+{
+    "Automobile Exception": {
+        "definition": "an exception to the prohibition on warrantless searches that allows a police officer to search an automobile without a search warrant in cases where the officer has probable cause to believe that the automobile contains evidence of a crime and that the evidence would be disposed of if the officer were to leave to obtain a warrant",
+        "sub_definitions": {
+            "1": {
+                "1": "an exception to the prohibition on warrantless searches that allows a police officer to search an automobile without a search warrant in cases where the officer has probable cause to believe that the automobile contains evidence of a crime and that the evidence would be disposed of if the officer were to leave to obtain a warrant"
+            }
+        },
+        "references": {}
+    }
+}

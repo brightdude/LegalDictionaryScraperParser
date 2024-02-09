@@ -1,0 +1,11 @@
+{
+    "Home Invasion": {
+        "definition": "the crime of entering a dwelling and committing or with intent to commit a crime",
+        "sub_definitions": {
+            "1": {
+                "1": "the crime of entering a dwelling and committing or with intent to commit a crime (as assault) while armed and while another is lawfully present"
+            }
+        },
+        "references": {}
+    }
+}

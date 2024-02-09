@@ -1,0 +1,18 @@
+{
+    "Probative": {
+        "definition": "serving or tending to prove [evidence of the use of an alias by a defendant is often of nothing \" Case & Comment \"] compare prejudicial 2",
+        "origin": "[evidence of the use of an alias by a defendant is often of nothing \" Case & Comment \"]",
+        "sub_definitions": {
+            "1": {
+                "definition": "serving or tending to prove [evidence of the use of an alias by a defendant is often of nothing \"\"] compare",
+                "compares": "prejudicial"
+            },
+            "2": {
+                "definition": "of or relating to proof [evidence with value]"
+            }
+        },
+        "references": {
+            "prejudicial": "https://dictionary.findlaw.com/definition/prejudicial.html"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "Reach": {
+        "definition": "to extend application to 2",
+        "origin": "[unable to all the assets of the debtor]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to extend application to"
+            },
+            "2": {
+                "definition": "to obtain an interest in or possession of [unable to all the assets of the debtor]"
+            },
+            "3 a": {
+                "definition": "to arrive at and consider [the justices did not that issue]",
+                "sub_terms": {
+                    "b": "to amount to [did not a due process violation]"
+                }
+            }
+        },
+        "references": {}
+    }
+}

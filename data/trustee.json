@@ -1,0 +1,33 @@
+{
+    "Trustee": {
+        "definition": "one to whom something is entrusted",
+        "sub_definitions": {
+            "1": {
+                "definition": "one to whom something is entrustedone trusted to keep or administer something",
+                "sub_terms": {
+                    "a": "a member of a board entrusted with administering the funds and directing the policy of an institution or organization",
+                    "b": "a country charged with the supervision of a trust territory"
+                }
+            },
+            "2 a": {
+                "definition": "a natural or legal person to whom property is committed to be administered for the benefit of a beneficiary (as a person or charitable organization)the holder of legal title to property placed in a trust compare,",
+                "sub_terms": {
+                    "b": "one (as a corporate director) occupying a position of trust and performing functions comparable to those of a trustee",
+                    "c": ""
+                },
+                "compares": "cestui que trust"
+            },
+            "trust·ee·shipn": {
+                "definition": "vb"
+            },
+            "trust·ee·ing": {
+                "definition": "to commit to the care of a trusteeto serve as trustee"
+            }
+        },
+        "references": {
+            "cestui que trust": "https://dictionary.findlaw.com/definition/cestui-que-trust.html",
+            "settlor": "https://dictionary.findlaw.com/definition/settlor.html",
+            "trustee in bankruptcy": "https://dictionary.findlaw.com/definition/trustee-in-bankruptcy.html"
+        }
+    }
+}

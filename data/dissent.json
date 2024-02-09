@@ -1,0 +1,28 @@
+{
+    "Dissent": {
+        "definition": "to withhold assent or approval [unfair squeezeout transactions—the kind to which public shareholders seem most likely to \"R. C. Clark\"] see also appraisal NOTE",
+        "origin": "[unfair squeezeout transactions—the kind to which public shareholders seem most likely to \"R. C. Clark\"]",
+        "sub_definitions": {
+            "1": {
+                "definition": "difference of opiniona judge's disagreement with the decision of the majority"
+            },
+            "2": {
+                "definition": "at"
+            },
+            "dis··sent·ern": {
+                "definition": "n"
+            },
+            "3": {
+                "definition": "the judge or group of judges that dissent compare",
+                "compares": "majority"
+            }
+        },
+        "references": {
+            "appraisal": "https://dictionary.findlaw.com/definition/appraisal.html",
+            "concur": "https://dictionary.findlaw.com/definition/concur.html",
+            "dissenting opinion": "https://dictionary.findlaw.com/definition/dissenting-opinion.html",
+            "opinion": "https://dictionary.findlaw.com/definition/opinion.html",
+            "majority": "https://dictionary.findlaw.com/definition/majority.html"
+        }
+    }
+}

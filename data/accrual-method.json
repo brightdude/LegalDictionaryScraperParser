@@ -1,0 +1,14 @@
+{
+    "Accrual Method": {
+        "definition": "accrual basis at basis",
+        "sub_definitions": {
+            "1": {
+                "1": "accrual basis"
+            }
+        },
+        "references": {
+            "accrual basis": "https://dictionary.findlaw.com/definition/accrual-basis.html",
+            "basis": "https://dictionary.findlaw.com/definition/basis.html"
+        }
+    }
+}

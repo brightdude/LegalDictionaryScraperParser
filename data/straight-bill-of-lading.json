@@ -1,0 +1,8 @@
+{
+    "Straight Bill Of Lading": {
+        "definition": "Straight Bill Of Lading",
+        "references": {
+            "bill of lading": "https://dictionary.findlaw.com/definition/bill-of-lading.html"
+        }
+    }
+}

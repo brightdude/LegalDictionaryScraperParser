@@ -1,0 +1,11 @@
+{
+    "Public Land": {
+        "definition": "land owned by a government",
+        "sub_definitions": {
+            "1": {
+                "1": "land owned by a government"
+            }
+        },
+        "references": {}
+    }
+}

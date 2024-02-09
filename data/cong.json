@@ -1,0 +1,14 @@
+{
+    "Cong": {
+        "definition": "Cong",
+        "sub_definitions": {
+            "1": {
+                "definition": "congress"
+            },
+            "2": {
+                "definition": "congressional"
+            }
+        },
+        "references": {}
+    }
+}

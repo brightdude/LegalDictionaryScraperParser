@@ -1,0 +1,16 @@
+{
+    "Wrongful Life": {
+        "definition": "a malpractice claim brought by or on behalf of a child born with a birth defect alleging that he or she would never have been born if not for the negligent advice or treatment provided to the parents by a physician or health-care provider ;also",
+        "origin": "[recovery for wrongful life ]",
+        "sub_definitions": {
+            "1": {
+                "1": "a malpractice claim brought by or on behalf of a child born with a birth defect alleging that he or she would never have been born if not for the negligent advice or treatment provided to the parents by a physician or health-care provider"
+            },
+            "2": {
+                "1": "the life or injury at issue in such a claim [recovery for",
+                "note": " Wrongful life claims have usually been rejected by the courts. The injury is not the birth defect, but the life itself, and courts are reluctant to declare life an injury. A specific calculation of damages for wrongful life would entail affixing a monetary value to the difference between life in an impaired state and nonexistence. There is no legally established right not to be born."
+            }
+        },
+        "references": {}
+    }
+}

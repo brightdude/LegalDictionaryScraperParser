@@ -1,0 +1,12 @@
+{
+    "Third-Party Recordkeeper": {
+        "definition": "a party",
+        "sub_definitions": {
+            "1": {
+                "1": "a party (as an accountant or bank) summoned to produce records pertaining to a tax investigation of another party",
+                "note": " The original party is entitled to receive notice of and to challenge the issuance of a summons to a third-party recordkeeper."
+            }
+        },
+        "references": {}
+    }
+}

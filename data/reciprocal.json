@@ -1,0 +1,24 @@
+{
+    "Reciprocal": {
+        "definition": "mutual b",
+        "origin": "[a contract]",
+        "sub_definitions": {
+            "1 a": {
+                "sub_terms": {
+                    "b": "[a contract]"
+                }
+            },
+            "2": {
+                "definition": "characterized by correspondence or equivalence esp. in return or response with another of the same category [was prevented from obtaining discovery of the names of the State's alibi rebuttal witnesses \", 652 N.E.2d 869 (1995)\"]marked by such correspondence or equivalence between its own components [a arrangement]",
+                "Mauricio v. State": "652 N.E.2d 869 (1995)"
+            },
+            "3": {
+                "definition": "marked by reciprocity between states"
+            }
+        },
+        "references": {
+            "mutual": "https://dictionary.findlaw.com/definition/mutual.html",
+            "bilateral": "https://dictionary.findlaw.com/definition/bilateral.html"
+        }
+    }
+}

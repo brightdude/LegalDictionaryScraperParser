@@ -1,0 +1,17 @@
+{
+    "Implication": {
+        "definition": "the act of implicating",
+        "sub_definitions": {
+            "1": {
+                "definition": "the act of implicatingthe state of being implicated"
+            },
+            "2": {
+                "definition": "the act of implyingthe state of being implied"
+            },
+            "3": {
+                "definition": "something implied"
+            }
+        },
+        "references": {}
+    }
+}

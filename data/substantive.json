@@ -1,0 +1,22 @@
+{
+    "Substantive": {
+        "definition": "of or relating to a matter of substance as opposed to form or procedure [a issue] [the instructions to the jury] [was dismissed on procedural and grounds] compare procedural 2",
+        "origin": "[a issue]",
+        "sub_definitions": {
+            "1": {
+                "definition": "of or relating to a matter of substance as opposed to form or procedure [a issue] [the instructions to the jury] [was dismissed on procedural and grounds] compare",
+                "compares": "procedural"
+            },
+            "2": {
+                "definition": "affecting rights, duties, or causes of actions [a statutory change] [a rule of law]"
+            },
+            "3": {
+                "definition": "existing in its own rightof or relating to a substantive crime [the object of a RICO conspiracy is to violate a RICO provision \", 571 F.2d 880 (1978)\"]",
+                "United States v. Elliot": "571 F.2d 880 (1978)"
+            }
+        },
+        "references": {
+            "procedural": "https://dictionary.findlaw.com/definition/procedural.html"
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "Criminal Forfeiture": {
+        "definition": "the forfeiture of property used in committing a crime see also seize compare confiscate",
+        "compare": "seize",
+        "sub_definitions": {
+            "1": {
+                "1": "the forfeiture of property used in committing a crime see also",
+                "see also": "seize",
+                "compares": "confiscate"
+            }
+        },
+        "references": {
+            "seize": "https://dictionary.findlaw.com/definition/seize.html",
+            "confiscate": "https://dictionary.findlaw.com/definition/confiscate.html"
+        }
+    }
+}

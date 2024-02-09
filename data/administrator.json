@@ -1,0 +1,51 @@
+{
+    "Administrator": {
+        "definition": "a person appointed by a probate court to manage the distribution of the assets in the estate of a person who has died without leaving a valid will or leaving a will that does not name an executor able or willing to perform see also administratrix letters of administration at letter compare executor",
+        "origin": "[-dē-bō-nis-nÄ n, -dā-bō-nis-nōn]",
+        "sub_definitions": {
+            "1": {
+                "definition": "an administrator appointed to administer only a designated part of the deceased person's estate"
+            },
+            "administrator ad litem": {
+                "definition": "an administrator appointed to represent an estate that is a necessary party to a lawsuit"
+            },
+            "administrator cum testamento annexo": {
+                "definition": "in this entry"
+            },
+            "administrator de bo·nis non": {
+                "definition": "[-dē-bō-nis-nÄ n, -dā-bō-nis-nōn]an administrator appointed to administer the remaining assets in the estate when the preceding administrator or executor can or will no longer perform"
+            },
+            "administrator pen·den·te li·te": {
+                "definition": "[-pen-den-tē-lī-tē, -pen-den-tā-lē-tā]in this entry"
+            },
+            "administrator with the will annexed": {
+                "definition": "an administrator appointed to administer an estate where the will names no executor or where the named executor is incapable of performing or unwilling to perform called also"
+            },
+            "ancillary administrator": {
+                "definition": "a subordinate administrator appointed to administer the assets of an estate that are located in a different jurisdiction from the one where the deceased was domiciled and where the primary administration of the estate is taking place"
+            },
+            "foreign administrator": {
+                "definition": "an administrator appointed in another state"
+            },
+            "general administrator": {
+                "definition": "an administrator appointed to administer the entire estate of a deceased person in accordance with the laws of intestacy or in accordance with the will if there is one comparein this entry",
+                "compares": "special administrator"
+            },
+            "independent administrator": {
+                "definition": "an administrator whose administration of the estate is entirely or mostly unsupervised by the probate court"
+            },
+            "2": {
+                "definition": "a person that administersthe head of a government agency"
+            }
+        },
+        "references": {
+            "administratrix": "https://dictionary.findlaw.com/definition/administratrix.html",
+            "letter": "https://dictionary.findlaw.com/definition/letter.html",
+            "executor": "https://dictionary.findlaw.com/definition/executor.html",
+            "personal representative": "https://dictionary.findlaw.com/definition/personal-representative.html",
+            "administrator with the will annexed": "https://dictionary.findlaw.com/definition/administrator-with-the-will-annexed.html",
+            "special administrator": "https://dictionary.findlaw.com/definition/special-administrator.html",
+            "general administrator": "https://dictionary.findlaw.com/definition/general-administrator.html"
+        }
+    }
+}

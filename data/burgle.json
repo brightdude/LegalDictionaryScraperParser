@@ -1,0 +1,9 @@
+{
+    "Burgle": {
+        "definition": "burglarize",
+        "sub_definitions": {},
+        "references": {
+            "burglarize": "https://dictionary.findlaw.com/definition/burglarize.html"
+        }
+    }
+}

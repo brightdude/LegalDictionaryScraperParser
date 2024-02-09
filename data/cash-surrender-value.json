@@ -1,0 +1,11 @@
+{
+    "Cash Surrender Value": {
+        "definition": "the amount of money an insurer will pay the insured upon surrender of a life insurance policy usually calculated as the reserve held by the insurer against the policy less a charge for surrender and any outstanding indebtedness",
+        "sub_definitions": {
+            "1": {
+                "1": "the amount of money an insurer will pay the insured upon surrender of a life insurance policy usually calculated as the reserve held by the insurer against the policy less a charge for surrender and any outstanding indebtedness"
+            }
+        },
+        "references": {}
+    }
+}

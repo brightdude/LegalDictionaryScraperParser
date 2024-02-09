@@ -1,0 +1,16 @@
+{
+    "Summary Court-Martial": {
+        "definition": "a court-martial consisting of one commissioned officer and having authority to impose no sentence in excess of one month's confinement or forfeiture of two-thirds of one month's pay compare general court-martial",
+        "compare": "general court-martial",
+        "sub_definitions": {
+            "1": {
+                "1": "a court-martial consisting of one commissioned officer and having authority to impose no sentence in excess of one month's confinement or forfeiture of two-thirds of one month's pay compare",
+                "compares": "general court-martial"
+            }
+        },
+        "references": {
+            "general court-martial": "https://dictionary.findlaw.com/definition/general-court-martial.html",
+            "special court-martial": "https://dictionary.findlaw.com/definition/special-court-martial.html"
+        }
+    }
+}

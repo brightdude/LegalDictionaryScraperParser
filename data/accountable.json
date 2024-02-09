@@ -1,0 +1,17 @@
+{
+    "Accountable": {
+        "definition": "liable [ for the burglary] 2",
+        "origin": "[ for the burglary]",
+        "sub_definitions": {
+            "1": {
+                "definition": "[ for the burglary]"
+            },
+            "2": {
+                "definition": "obliged to accept responsibility [the bank for payment of the check]"
+            }
+        },
+        "references": {
+            "liable": "https://dictionary.findlaw.com/definition/liable.html"
+        }
+    }
+}

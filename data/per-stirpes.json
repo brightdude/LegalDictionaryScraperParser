@@ -1,0 +1,18 @@
+{
+    "Per Stirpes": {
+        "definition": "by right of representation [the estate was divided per stirpes ] used of a method of distributing an esp. intestate estate compare per capita NOTE",
+        "origin": "[Latin, by familial stocks]",
+        "compare": "per capita",
+        "sub_definitions": {
+            "1": {
+                "1": "by right of representation [the estate was divided",
+                "per stirpes": "] used of a method of distributing an esp. intestate estate compare",
+                "compares": "per capita",
+                "note": " Per stirpes distribution provides for division of an estate equally among the members of the group of descendants having a particular degree of kinship (as children), with the issue (that is, the offspring) of a deceased member of that group representing the deceased member, taking the deceased member's share, and dividing it equally among themselves. For example, if a decedent had three children, one of whom had already died leaving issue, the estate would be divided into thirds, with each living child receiving a one-third share, and the issue of the deceased child dividing a one-third share equally amongst themselves."
+            }
+        },
+        "references": {
+            "per capita": "https://dictionary.findlaw.com/definition/per-capita.html"
+        }
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "Injunction Bond": {
+        "definition": "Injunction Bond",
+        "references": {
+            "bond": "https://dictionary.findlaw.com/definition/bond.html"
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "Prosecute": {
+        "definition": "to institute and carry forward legal action against for redress or esp. punishment of a crime 2",
+        "origin": "[Latin prosecutus , past participle of prosequi to pursue]",
+        "sub_definitions": {
+            "-cut·ing": {
+                "definition": "[Latin, past participle ofto pursue]"
+            },
+            "1": {
+                "definition": "to institute and carry forward legal action against for redress or esp. punishment of a crime"
+            },
+            "2": {
+                "definition": "to institute and carry on a lawsuit with reference to [every action shall bein the name of the real party in interest \"Rule 17(a)\"]to institute and carry on a civil or criminal action",
+                "prosecuted": "in the name of the real party in interest \"",
+                "Federal Rules of Civil Procedure": "Rule 17(a)\"]"
+            }
+        },
+        "references": {}
+    }
+}

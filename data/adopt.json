@@ -1,0 +1,23 @@
+{
+    "Adopt": {
+        "definition": "to take voluntarily",
+        "origin": "[[the company]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to take voluntarily (a child of other parents) as one's own child esp. in compliance with formal legal procedures see also",
+                "see also": "equitable adoption"
+            },
+            "2": {
+                "definition": "to take or accept as if one's own [[the company]the signature on the financing statement \", 816 F.2d 1267 (1987)\"]",
+                "ed": "the signature on the financing statement \"",
+                "Barber-Greene Co. v. Nat'l City Bank of Minneapolis": "816 F.2d 1267 (1987)"
+            },
+            "3": {
+                "definition": "to accept formally and put into effect [ a constitutional amendment]"
+            }
+        },
+        "references": {
+            "equitable adoption": "https://dictionary.findlaw.com/definition/equitable-adoption.html"
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "Identity": {
+        "definition": "-ties 1",
+        "origin": "[collateral estoppel requires of the issues and the parties]",
+        "sub_definitions": {
+            "1": {
+                "definition": "sameness of essential character or aspect [collateral estoppel requires of the issues and the parties]"
+            },
+            "2 a": {
+                "definition": "separate or distinct existence [when movables lose their or become an integral part of the immovable \"\"]",
+                "sub_terms": {
+                    "b": "distinguishing character of a personinformation (as a name or address) that distinguishes a person [is required to reveal the of an informer] [but for a mistake concerning the of the proper party \"Rule 15(c)\"]"
+                },
+                "Federal Rules of Civil Procedure": "Rule 15(c)\"]"
+            },
+            "3": {
+                "definition": "the condition of being the same as a thing or person described, claimed, or accused [character evidence of a suspect's past crimes may be admitted to prove the of a crime's perpetrator]"
+            }
+        },
+        "references": {}
+    }
+}

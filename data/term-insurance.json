@@ -1,0 +1,17 @@
+{
+    "Term Insurance": {
+        "definition": "insurance in effect for a set term ;specif",
+        "sub_definitions": {
+            "1": {
+                "1": "insurance in effect for a set term"
+            },
+            "2": {
+                "1": "term life insurance"
+            }
+        },
+        "references": {
+            "term life insurance": "https://dictionary.findlaw.com/definition/term-life-insurance.html",
+            "life insurance": "https://dictionary.findlaw.com/definition/life-insurance.html"
+        }
+    }
+}

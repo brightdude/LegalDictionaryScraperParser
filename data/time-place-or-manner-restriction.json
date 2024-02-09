@@ -1,0 +1,13 @@
+{
+    "Time, Place, Or Manner Restriction": {
+        "definition": "a restriction on the time",
+        "origin": "[an injunction excluding demonstrators from the front of the building was held to be a reasonable time, place, or manner restriction ]",
+        "sub_definitions": {
+            "1": {
+                "1": "a restriction on the time, place, or manner of expression that is justified when it is neutral as to content and serves a significant government interest and leaves open ample alternative channels of communication [an injunction excluding demonstrators from the front of the building was held to be a reasonable",
+                "time, place, or manner restriction": "] called also"
+            }
+        },
+        "references": {}
+    }
+}

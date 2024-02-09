@@ -1,0 +1,22 @@
+{
+    "Acquit": {
+        "definition": "to discharge completely",
+        "origin": "[Old French acquiter to pay off, absolve, acquit, from a- , prefix marking causation + quite free (of an obligation)]",
+        "sub_definitions": {
+            "ac·quit·ting": {
+                "definition": "[Old Frenchto pay off, absolve, acquit, from, prefix marking causation +free (of an obligation)]to discharge completely",
+                "sub_terms": {
+                    "a": "to release from liability for a debt or other obligation usually used in agreements [forever release, , and discharge each other]",
+                    "b": "to absolve (a criminal defendant) of a charge by judicial process",
+                    "c": "to clear of wrongdoing [the fact…does not them of misrepresentation \", 694 P.2d 540 (1985)\"]to absolve a defendant of criminal liability [must if any reasonable doubt existed \", 638 N.E.2d 20 (1994)\"] compare"
+                },
+                "compares": "convict",
+                "In re Hiller": "694 P.2d 540 (1985)",
+                "Commonwealth v. Gagliardi": "638 N.E.2d 20 (1994)\"] compa"
+            }
+        },
+        "references": {
+            "convict": "https://dictionary.findlaw.com/definition/convict.html"
+        }
+    }
+}

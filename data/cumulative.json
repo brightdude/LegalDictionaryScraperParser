@@ -1,0 +1,18 @@
+{
+    "Cumulative": {
+        "definition": "increasing by successive additions 2",
+        "origin": "[ testimony]",
+        "sub_definitions": {
+            "1": {
+                "definition": "increasing by successive additions"
+            },
+            "2": {
+                "definition": "tending to prove the same point [ testimony]"
+            },
+            "3": {
+                "definition": "following in time"
+            }
+        },
+        "references": {}
+    }
+}

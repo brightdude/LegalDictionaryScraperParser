@@ -1,0 +1,15 @@
+{
+    "Private Law": {
+        "definition": "a branch of law concerned with private persons",
+        "compare": "public law",
+        "sub_definitions": {
+            "1": {
+                "1": "a branch of law concerned with private persons, property, and relationships compare",
+                "compares": "public law"
+            }
+        },
+        "references": {
+            "public law": "https://dictionary.findlaw.com/definition/public-law.html"
+        }
+    }
+}

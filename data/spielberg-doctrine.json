@@ -1,0 +1,16 @@
+{
+    "Spielberg Doctrine": {
+        "definition": "a doctrine in labor law",
+        "origin": "[after the Spielberg Manufacturing Company, subject of an unfair labor practice complaint that prompted the formation of the doctrine]",
+        "compare": "collyer doctrine",
+        "sub_definitions": {
+            "1": {
+                "1": "a doctrine in labor law: the National Labor Relations Board will defer to an arbitrator's decision regarding a contract dispute if the arbitrator's decision was not repugnant to the National Labor Relations Act, the arbitration proceedings provided a hearing as fair as would have been provided before the NLRB, and the contract required binding arbitration compare",
+                "compares": "collyer doctrine"
+            }
+        },
+        "references": {
+            "collyer doctrine": "https://dictionary.findlaw.com/definition/collyer-doctrine.html"
+        }
+    }
+}

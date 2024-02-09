@@ -1,0 +1,14 @@
+{
+    "Petit Theft": {
+        "definition": "petty theft at theft",
+        "sub_definitions": {
+            "1": {
+                "1": "petty theft"
+            }
+        },
+        "references": {
+            "petty theft": "https://dictionary.findlaw.com/definition/petty-theft.html",
+            "theft": "https://dictionary.findlaw.com/definition/theft.html"
+        }
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "Proceeding": {
+        "definition": "a particular step or series of steps in the enforcement",
+        "origin": "[a collateral proceeding on a motion to have the judge in a pending trial disqualified]",
+        "sub_definitions": {
+            "1": {
+                "definition": "a particular step or series of steps in the enforcement, adjudication, or administration of rights, remedies, laws, or regulations",
+                "sub_terms": {
+                    "a": "an action, hearing, trial, or application before the court"
+                }
+            },
+            "collateral proceeding": {
+                "definition": "a proceeding that concerns an order, motion, petition, or writ deriving from or sought in relation to another proceeding (as a trial) [aon a motion to have the judge in a pending trial disqualified]one in which a collateral attack on a judgment is made [sought to avoid the effect of the judgment in aafter denial of a direct appeal]",
+                "collateral proceeding": "after denial of a direct appeal]"
+            },
+            "core proceeding": {
+                "definition": "a proceeding (as one instituted by a debtor against a creditor) that is integral to the administration of a bankruptcy estate and so falls under the jurisdiction of the bankruptcy court"
+            },
+            "non-core proceeding": {
+                "definition": "a proceeding involving a matter that relates to a bankruptcy case but that does not arise under bankruptcy laws, that could be adjudicated in a state court, and over which a bankruptcy court has limited authority"
+            },
+            "special proceeding": {
+                "definition": "a proceeding (as for condemnation or disbarment) that may be commenced independently of a pending action by petition or motion and from which a final order affecting a substantial right may be immediately appealed [created exclusively by statute where a special procedure is appropriate and warranted \", 897 S.W.2d 556 (1995)\"]",
+                "special proceedings": "created exclusively by statute where a special procedure is appropriate and warranted \"",
+                "Sosebee v. County Line Sch. Dist.": "897 S.W.2d 556 (1995)"
+            },
+            "summary proceeding": {
+                "definition": "a civil or criminal proceeding in the nature of a trial that is conducted without formalities (as indictment, pleadings, and usually a jury) for the speedy and peremptory disposition of a matter"
+            },
+            "supplementary proceeding": {
+                "definition": "a proceeding to discover the assets of a judgment debtora proceeding that in some way supplements another",
+                "sub_terms": {
+                    "b": "a hearing conducted by an administrative body",
+                    "c": "a criminal prosecution or investigation"
+                }
+            },
+            "2": {
+                "definition": "an official record of things done or said"
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "Public Law": {
+        "definition": "an enactment of a legislature that affects the public at large throughout the entire territory",
+        "sub_definitions": {
+            "1": {
+                "definition": "an enactment of a legislature that affects the public at large throughout the entire territory (as a state or nation) which is subject to the jurisdiction of the legislature or within a particular subdivision of its jurisdictioncalled alsocompare",
+                "compares": "local law"
+            },
+            "2 a": {
+                "definition": "the area of law that deals with the relations of individuals with the state and regulates the organization and conduct of government compare",
+                "sub_terms": {
+                    "b": "international law regulating the relations among sovereign states or nations as distinguished from private international law"
+                },
+                "compares": "private law"
+            }
+        },
+        "references": {
+            "general law": "https://dictionary.findlaw.com/definition/general-law.html",
+            "local law": "https://dictionary.findlaw.com/definition/local-law.html",
+            "private law": "https://dictionary.findlaw.com/definition/private-law.html"
+        }
+    }
+}

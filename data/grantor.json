@@ -1,0 +1,8 @@
+{
+    "Grantor": {
+        "definition": "one that makes a grant",
+        "references": {
+            "settlor": "https://dictionary.findlaw.com/definition/settlor.html"
+        }
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "Assistance Of Counsel": {
+        "definition": "the help of a lawyer which a defendant in a criminal prosecution is guaranteed by the Sixth Amendment to the U.S. Constitution see also ineffective assistance of counsel Powell v. Alabama in the Important Cases section NOTE",
+        "sub_definitions": {
+            "1": {
+                "1": "the help of a lawyer which a defendant in a criminal prosecution is guaranteed by the Sixth Amendment to the U.S. Constitution see also",
+                "see also": "ineffective assistance of counsel",
+                "Powell v. Alabama": "in the Important Cases section",
+                "note": " The Supreme Court held inPowell v. Alabamathat the Sixth Amendment requires the state to provide a lawyer to a defendant too poor to hire one."
+            }
+        },
+        "references": {
+            "ineffective assistance of counsel": "https://dictionary.findlaw.com/definition/ineffective-assistance-of-counsel.html"
+        }
+    }
+}

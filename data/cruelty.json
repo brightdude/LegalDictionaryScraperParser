@@ -1,0 +1,23 @@
+{
+    "Cruelty": {
+        "definition": "-ties 1 a",
+        "origin": "[ to animals]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "an intentional or criminally negligent act that causes pain and suffering [ to animals] [ to children]",
+                "sub_terms": {
+                    "b": "mistreatment or neglect that causes pain and suffering compare"
+                },
+                "note": " Cruelty is an aggravating circumstance to a crime (as murder).",
+                "compares": "abuse"
+            },
+            "2": {
+                "definition": "a spouse's conduct that endangers life or health or causes mental suffering or fear called also",
+                "note": " Cruelty is a ground for divorce."
+            }
+        },
+        "references": {
+            "abuse": "https://dictionary.findlaw.com/definition/abuse.html"
+        }
+    }
+}

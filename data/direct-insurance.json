@@ -1,0 +1,15 @@
+{
+    "Direct Insurance": {
+        "definition": "an insurance contract in which the insurer agrees to pay the insured for a designated loss compare reinsurance",
+        "compare": "reinsurance",
+        "sub_definitions": {
+            "1": {
+                "1": "an insurance contract in which the insurer agrees to pay the insured for a designated loss compare",
+                "compares": "reinsurance"
+            }
+        },
+        "references": {
+            "reinsurance": "https://dictionary.findlaw.com/definition/reinsurance.html"
+        }
+    }
+}

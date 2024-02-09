@@ -1,0 +1,15 @@
+{
+    "Uncounseled": {
+        "definition": "not provided with counsel",
+        "origin": "[an defendant]",
+        "sub_definitions": {
+            "1": {
+                "1": "not provided with counsel"
+            },
+            "2": {
+                "1": "not receiving the advice of counsel [an defendant]"
+            }
+        },
+        "references": {}
+    }
+}

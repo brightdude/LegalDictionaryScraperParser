@@ -1,0 +1,21 @@
+{
+    "Capacity": {
+        "definition": "-ties 1",
+        "sub_definitions": {
+            "1": {
+                "definition": "a qualification, power, or ability (as to give consent or make a testament) created by operation of law"
+            },
+            "2": {
+                "definition": "an individual's ability or aptitudemental ability as it relates to responsibility for the commission of a crime (as murder) see alsocompare,,",
+                "compares": "competency",
+                "see also": "diminished capacity"
+            }
+        },
+        "references": {
+            "diminished capacity": "https://dictionary.findlaw.com/definition/diminished-capacity.html",
+            "competency": "https://dictionary.findlaw.com/definition/competency.html",
+            "incapacity": "https://dictionary.findlaw.com/definition/incapacity.html",
+            "insanity": "https://dictionary.findlaw.com/definition/insanity.html"
+        }
+    }
+}

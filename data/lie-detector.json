@@ -1,0 +1,15 @@
+{
+    "Lie Detector": {
+        "definition": "an instrument for detecting physiological evidence of the tension that accompanies lying compare polygraph",
+        "compare": "polygraph",
+        "sub_definitions": {
+            "1": {
+                "1": "an instrument for detecting physiological evidence of the tension that accompanies lying compare",
+                "compares": "polygraph"
+            }
+        },
+        "references": {
+            "polygraph": "https://dictionary.findlaw.com/definition/polygraph.html"
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "Mental Suffering": {
+        "definition": "emotional distress",
+        "sub_definitions": {
+            "1": {
+                "1": "emotional distress"
+            }
+        },
+        "references": {
+            "emotional distress": "https://dictionary.findlaw.com/definition/emotional-distress.html"
+        }
+    }
+}

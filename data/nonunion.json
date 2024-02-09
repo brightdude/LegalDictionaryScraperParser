@@ -1,0 +1,18 @@
+{
+    "Nonunion": {
+        "definition": "not belonging to or connected with a labor union [ carpenters] 2",
+        "origin": "[ carpenters]",
+        "sub_definitions": {
+            "1": {
+                "definition": "not belonging to or connected with a labor union [ carpenters]"
+            },
+            "2": {
+                "definition": "not recognizing or favoring labor unions or their members"
+            },
+            "3": {
+                "definition": "not produced or worked on by members of a labor union [ lettuce]"
+            }
+        },
+        "references": {}
+    }
+}

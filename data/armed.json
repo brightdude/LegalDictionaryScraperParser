@@ -1,0 +1,15 @@
+{
+    "Armed": {
+        "definition": "having a weapon [an assailant] 2",
+        "origin": "[an assailant]",
+        "sub_definitions": {
+            "1": {
+                "definition": "having a weapon [an assailant]"
+            },
+            "2": {
+                "definition": "involving the use of a weapon [an attack]"
+            }
+        },
+        "references": {}
+    }
+}

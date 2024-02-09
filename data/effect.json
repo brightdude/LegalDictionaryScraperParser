@@ -1,0 +1,21 @@
+{
+    "Effect": {
+        "definition": "something that is produced by an agent or cause 2 pl",
+        "origin": "[the right of the people to be secure in their persons, houses, papers, and s , against unreasonable searches and seizures \" U.S. Constitution amend. IV\"]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to cause to come into being"
+            },
+            "2": {
+                "definition": "to bring about often by surmounting obstacles [ a settlement of the dispute]"
+            },
+            "3": {
+                "definition": "to put into operation [the duty of the legislature to the will of the citizens]"
+            }
+        },
+        "references": {
+            "personal property": "https://dictionary.findlaw.com/definition/personal-property.html",
+            "property": "https://dictionary.findlaw.com/definition/property.html"
+        }
+    }
+}

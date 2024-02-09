@@ -1,0 +1,23 @@
+{
+    "Statute Of Frauds": {
+        "definition": "a state law modeled on the English Statute of Frauds or dealing with the enforcement and requirements of agreements in particular circumstances see also Statute of Frauds in the Important Laws section compare main purpose rule part performance at performance NOTE",
+        "sub_definitions": {
+            "1": {
+                "sub_terms": {
+                    "a": "a state law modeled on the English Statute of Frauds or dealing with the enforcement and requirements of agreements in particular circumstances see alsoin the Important Laws section compareat",
+                    "b": "a provision in the Uniform Commercial Code under which a contract for the sale of goods for $500 or more is not enforceable unless signed by the party sought to be held to it or by an authorized agent"
+                },
+                "note": " There are many statutes of frauds, but use of the term often implies a single entity. This is at least partially due to the great stature of the original law, which represents the general principle that a contract must be in writing to be enforceable.",
+                "compares": "main purpose rule",
+                "Statute of Frauds": "in the Important Laws section compare"
+            },
+            "2": {
+                "definition": "a defense employing a statute of frauds (as in the denial of an enforceable agreement)"
+            }
+        },
+        "references": {
+            "main purpose rule": "https://dictionary.findlaw.com/definition/main-purpose-rule.html",
+            "performance": "https://dictionary.findlaw.com/definition/performance.html"
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "Next Of Kin": {
+        "definition": "one or more living persons in the nearest degree of relationship to a particular individual 2",
+        "sub_definitions": {
+            "1": {
+                "definition": "one or more living persons in the nearest degree of relationship to a particular individual"
+            },
+            "2": {
+                "definition": "those persons entitled by statute to receive the property in an intestate's estate compare",
+                "compares": "heir"
+            }
+        },
+        "references": {
+            "heir": "https://dictionary.findlaw.com/definition/heir.html"
+        }
+    }
+}

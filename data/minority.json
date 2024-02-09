@@ -1,0 +1,31 @@
+{
+    "Minority": {
+        "definition": "-ties 1 a",
+        "origin": "[an effort to hire more minorities ]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "the period before attainment of majority",
+                "sub_terms": {
+                    "b": "the state of being a minor"
+                }
+            },
+            "2": {
+                "definition": "the smaller of two groups constituting a whole",
+                "sub_terms": {
+                    "a": "a group (as in a legislative body) having less than the number of votes necessary for control",
+                    "b": "a group of judges among those hearing an appeal who disagree with the majority's judgment",
+                    "c": "a group of jurisdictions taking a less widespread approach to or view of a legal question, issue, or problem"
+                }
+            },
+            "3 a": {
+                "definition": "a part of a population differing esp. from the dominant group in some characteristics (as race, sex, or national origin) and often subject to differential treatment",
+                "sub_terms": {
+                    "b": "a member of a minority [an effort to hire more]"
+                }
+            }
+        },
+        "references": {
+            "dissent": "https://dictionary.findlaw.com/definition/dissent.html"
+        }
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "City Court": {
+        "definition": "a court having jurisdiction over local civil matters and often petty criminal matters",
+        "sub_definitions": {
+            "1": {
+                "1": "a court having jurisdiction over local civil matters and often petty criminal matters (as violations of city ordinances)"
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "Jus In Re": {
+        "definition": "a right of property ownership that is enforced by an action in rem compare jus ad rem",
+        "origin": "[Medieval Latin, right in a thing]",
+        "compare": "jus ad rem",
+        "sub_definitions": {
+            "1": {
+                "1": "a right of property ownership that is enforced by an action in rem compare",
+                "compares": "jus ad rem"
+            }
+        },
+        "references": {
+            "jus ad rem": "https://dictionary.findlaw.com/definition/jus-ad-rem.html"
+        }
+    }
+}

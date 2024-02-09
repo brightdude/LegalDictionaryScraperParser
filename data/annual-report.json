@@ -1,0 +1,11 @@
+{
+    "Annual Report": {
+        "definition": "a written report distributed to shareholders each year by a corporation that sets forth financial information",
+        "sub_definitions": {
+            "1": {
+                "1": "a written report distributed to shareholders each year by a corporation that sets forth financial information (as an auditor's report, the selling prices of the corporation's stock, and the yearly profit) as well as statements by the corporation's management"
+            }
+        },
+        "references": {}
+    }
+}

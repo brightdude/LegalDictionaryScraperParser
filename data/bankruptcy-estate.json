@@ -1,0 +1,8 @@
+{
+    "Bankruptcy Estate": {
+        "definition": "Bankruptcy Estate",
+        "references": {
+            "estate": "https://dictionary.findlaw.com/definition/estate.html"
+        }
+    }
+}

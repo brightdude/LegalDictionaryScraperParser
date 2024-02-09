@@ -1,0 +1,12 @@
+{
+    "Special Hazard Rule": {
+        "definition": "an exception to the going and coming rule that allows an employee to recover from an employer for injuries sustained while going to or coming from work NOTE",
+        "sub_definitions": {
+            "1": {
+                "1": "an exception to the going and coming rule that allows an employee to recover from an employer for injuries sustained while going to or coming from work",
+                "note": " The special hazard rule applies when the place at which the injury occurred was along the only available route or when the employee would not have been there if not for the employment and usually the risks associated with the location are distinctive or greater than the risk common to the public."
+            }
+        },
+        "references": {}
+    }
+}

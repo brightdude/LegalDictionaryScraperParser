@@ -1,0 +1,17 @@
+{
+    "Pure Speech": {
+        "definition": "the communication of ideas through spoken or written words or through conduct limited in form to that necessary to convey the idea compare commercial speech",
+        "compare": "commercial speech",
+        "sub_definitions": {
+            "1": {
+                "1": "the communication of ideas through spoken or written words or through conduct limited in form to that necessary to convey the idea compare",
+                "compares": "commercial speech",
+                "note": " Pure speech is accorded the highest degree of protection under the First Amendment to the U.S. Constitution."
+            }
+        },
+        "references": {
+            "commercial speech": "https://dictionary.findlaw.com/definition/commercial-speech.html",
+            "symbolic speech": "https://dictionary.findlaw.com/definition/symbolic-speech.html"
+        }
+    }
+}

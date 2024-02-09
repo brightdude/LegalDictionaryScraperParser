@@ -1,0 +1,14 @@
+{
+    "Binder": {
+        "definition": "a temporary insurance contract that provides coverage until the policy is issued 2",
+        "sub_definitions": {
+            "1": {
+                "definition": "a temporary insurance contract that provides coverage until the policy is issued"
+            },
+            "2": {
+                "definition": "a receipt for money paid to the owner of real estate or to the owner's agent to secure the right to purchase the real estate upon agreed termsthe money itself"
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "Obligation": {
+        "definition": "a promise",
+        "origin": "[held that the amendment did not unconstitutionally impair the s of contracts \" Davis v. American Family Mut. Ins. Co. , 521 N.W.2d 366 (1994)\"]",
+        "sub_definitions": {
+            "1": {
+                "definition": "any of the obligations binding different obligors to separate performances for one obligee"
+            },
+            "2": {
+                "definition": "any of the obligations binding an obligor to separate performances for different obligees"
+            },
+            "3": {
+                "definition": "what one is obligated to do, satisfy, or fulfill",
+                "sub_terms": {
+                    "a": "a commitment to pay a particular amount of money [does not create a debt, liability, or other , legal or moral \", 650 So. 2d 14 (1995)\"]an amount owed in such a commitment",
+                    "b": "a duty arising from law, contract, or morality [had a legal as an employer] [a contractual ]"
+                },
+                "State v. Florida Dev. Fin. Corp.": "650 So. 2d 14 (1995)"
+            },
+            "4": {
+                "definition": "a relationship that binds one party to a performance (as a payment or transfer) or nonperformance for another party see also,,",
+                "note": " An obligation under civil law may arise by operation of law, naturally, or by contract or other declaration of will. The elements of an obligation are: the parties, an object, the relationship by virtue of which one party is bound to perform for the other's benefit, and, in the case of conventional obligations, a cause.",
+                "see also": "contract"
+            },
+            "conditional obligation": {
+                "definition": "an obligation that is dependent on an uncertain event"
+            },
+            "conventional obligation": {
+                "definition": "an obligation taking the form of a contract"
+            },
+            "heritable obligation": {
+                "definition": "an obligation that may be enforced by the successor of the obligee or against the successor of the obligor"
+            },
+            "natural obligation": {
+                "definition": "an obligation arising from moral duty that is implied but not enforceable by the law"
+            },
+            "solidary obligation": {
+                "definition": "an obligation under which any of two or more obligors can be held liable for the entire performance (as payment of a debt)",
+                "note": " Solidary obligation is similar to joint and several liability in common law."
+            }
+        },
+        "references": {
+            "collateralized mortgage obligation": "https://dictionary.findlaw.com/definition/collateralized-mortgage-obligation.html",
+            "contract": "https://dictionary.findlaw.com/definition/contract.html",
+            "offense": "https://dictionary.findlaw.com/definition/offense.html",
+            "quasi-offense": "https://dictionary.findlaw.com/definition/quasi-offense.html"
+        }
+    }
+}

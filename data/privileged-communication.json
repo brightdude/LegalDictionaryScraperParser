@@ -1,0 +1,16 @@
+{
+    "Privileged Communication": {
+        "definition": "confidential communication 2 a",
+        "sub_definitions": {
+            "2 a": {
+                "definition": "a defamatory communication that does not expose the party making it to the liability that would follow from it if not privileged called also",
+                "sub_terms": {
+                    "b": "a defamatory statement made by one person to another who is in a confidential relation (as that of a prospective employer) or who has an interest therein that may upon proof of bad faith or actual malice be deprived of its privileged character called also"
+                }
+            }
+        },
+        "references": {
+            "confidential communication": "https://dictionary.findlaw.com/definition/confidential-communication.html"
+        }
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "Trust Fund": {
+        "definition": "Trust Fund",
+        "references": {
+            "fund": "https://dictionary.findlaw.com/definition/fund.html"
+        }
+    }
+}

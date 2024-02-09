@@ -1,0 +1,15 @@
+{
+    "Presumptive": {
+        "definition": "based on presumption",
+        "origin": "[a violation of law]",
+        "sub_definitions": {
+            "1": {
+                "definition": "based on presumptionpresumed to have occurred [a violation of law]"
+            },
+            "2": {
+                "definition": "giving grounds for reasonable opinion or belief"
+            }
+        },
+        "references": {}
+    }
+}

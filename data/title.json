@@ -1,0 +1,96 @@
+{
+    "Title": {
+        "definition": "the means or right by which one owns or possesses property ;broadly",
+        "origin": "[Anglo-French, inscription, legal right, from Old French, from Latin titulum inscription, chapter heading, part of the law that sanctions an action]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "the means or right by which one owns or possesses propertythe quality of ownership as determined by a body of facts and events"
+            },
+            "after-acquired title": {
+                "definition": "title that vests automatically in a grantee when acquired by a grantor who purported to sell the property before acquiring titlea doctrine that requires such vesting compareat",
+                "note": " The doctrine of after-acquired title generally does not apply when the grantor receives title by quitclaim deed; to vest title in the grantee the deed must include words expressing such an intention."
+            },
+            "clear title": {
+                "definition": "title that exists free of claims or encumbrances on the property [hadto the farm]in this entry",
+                "clear title": "to the farm]"
+            },
+            "equitable title": {
+                "definition": "title vested in one who is considered by the application of equitable principles to be the owner of property even though legal title is vested in another [the purchaser under a contract for sale hadto and an insurable interest in the property]the right to receive legal title upon performance of an obligation",
+                "equitable title": "to and an insurable interest in the property]"
+            },
+            "good title": {
+                "definition": "title to property (as a negotiable instrument or real property) that is valid in fact or law or beyond a reasonable doubt [a holder in due course acquiresto the item]in this entry",
+                "good title": "to the item]"
+            },
+            "In·di·an title": {
+                "definition": "title held by American Indians that consists of the right to occupy certain land with the permission of the United States government [appears to be no question that Congress may limit or extinguish, and any rights appurtenant to the title, without obtaining the consent of the Indian peoples \", 753 P.2d 76 (1988)\"] compare",
+                "compares": "reservation",
+                "Indian title": "and any rights appurtenant to the title, without obtaining the consent of the Indian peoples",
+                "In re Rights to Use Water in Big Horn River Sys.": "753 P.2d 76 (1988)\"] compa"
+            },
+            "just title": {
+                "definition": "a juridical act (as a sale or donation) sufficient to transfer ownership or a real rightthe title that derives from such an act [have a]",
+                "note": " For the purposes of acquisitive prescription, the requirement of just title is satisfied by an act that would have been sufficient to transfer ownership if it had been executed by the true owner."
+            },
+            "legal title": {
+                "definition": "title that is determined or recognized as constituting formal or valid ownership (as by virtue of an instrument) even if not accompanied by possession or use [the trustee heldto the property] [retainedto the goods until the debt was paid] compareat",
+                "legal title": "to the goods until the debt was paid] compare"
+            },
+            "lu·cra·tive title": {
+                "definition": "[lü-krə-tiv-]title to property acquired by gift, succession, or inheritance [the property acquired byremained the separate property of the spouse]",
+                "lucrative title": "remained the separate property of the spouse]"
+            },
+            "marketable title": {
+                "definition": "title that is subject to no reasonable doubt as to its validity or freedom from encumbrance and that can be reasonably sold, purchased, or mortgaged [seller warrants that seller hasto the property]title of such quality that a purchaser under contract should be compelled to accept it called also",
+                "note": "Clear titleandgood titleare commonly used to indicate marketable title.",
+                "marketable title": "to the property]"
+            },
+            "1": {
+                "definition": "title that depends on the giving of consideration for the property"
+            },
+            "2": {
+                "definition": "title to property that is acquired through the labor or skill of a spouse and is included in community property"
+            },
+            "paper title": {
+                "definition": "title shown on a document [had an equitable interest in the property thoughwas held by her husband]",
+                "paper title": "was held by her husband]"
+            },
+            "par·a·mount title": {
+                "definition": "[par-ə-mant-]title that renders inferior any other title to the property [warranted that the purchaser would have quiet enjoyment free from disturbance by one holding]"
+            },
+            "particular title": {
+                "definition": "title by which one possesses or owns particular property received (as by purchase, gift, or legacy) before or after the death of an ancestor [a successor bydoes not continue the possession of his ancestor \"A. N. Yiannopoulos\"] see alsoatcomparein this entry",
+                "compares": "universal title",
+                "particular title": "does not continue the possession of his ancestor \"A. N. Yiannopoulos\"] see also"
+            },
+            "record title": {
+                "definition": "title shown on the public record"
+            },
+            "tax title": {
+                "definition": "title obtained by the purchaser of property at a tax saletitle held by a governmental body to property seized because of tax delinquency"
+            },
+            "universal title": {
+                "definition": "title acquired by the conveyance causa mortis of a specified proportion (as one-fourth) of all of the conveyor's property interests or all of a specified type of the conveyor's property interests esp. so that upon the conveyor's death the recipient stands as a universal successor [was a legatee under]",
+                "sub_terms": {
+                    "b": "an instrument (as a deed) that is evidence of ownership",
+                    "c": "[paid tax and fees]"
+                }
+            },
+            "2 a": {
+                "definition": "the name or heading of something (as a proceeding, statute, or book)",
+                "sub_terms": {
+                    "b": "a division of a statutory or regulatory code or of an act [IX]"
+                }
+            }
+        },
+        "references": {
+            "estoppel": "https://dictionary.findlaw.com/definition/estoppel.html",
+            "marketable title": "https://dictionary.findlaw.com/definition/marketable-title.html",
+            "reservation": "https://dictionary.findlaw.com/definition/reservation.html",
+            "interest": "https://dictionary.findlaw.com/definition/interest.html",
+            "legacy": "https://dictionary.findlaw.com/definition/legacy.html",
+            "universal title": "https://dictionary.findlaw.com/definition/universal-title.html",
+            "certificate of title": "https://dictionary.findlaw.com/definition/certificate-of-title.html"
+        }
+    }
+}

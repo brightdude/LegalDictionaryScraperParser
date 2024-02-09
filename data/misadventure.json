@@ -1,0 +1,11 @@
+{
+    "Misadventure": {
+        "definition": "an accident that causes serious injury or death to a person and that does not involve negligence",
+        "sub_definitions": {
+            "1": {
+                "1": "an accident that causes serious injury or death to a person and that does not involve negligence, wrongful purpose, or unlawful conduct"
+            }
+        },
+        "references": {}
+    }
+}

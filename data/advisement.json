@@ -1,0 +1,17 @@
+{
+    "Advisement": {
+        "definition": "careful consideration",
+        "origin": "[take the matter under ]",
+        "sub_definitions": {
+            "1": {
+                "definition": "careful consideration[take the matter under ]"
+            },
+            "2": {
+                "definition": "the act or process of advising [ of the debtor on matters relating to…his debts \"J. H. Williamson\"]"
+            }
+        },
+        "references": {
+            "deliberation": "https://dictionary.findlaw.com/definition/deliberation.html"
+        }
+    }
+}

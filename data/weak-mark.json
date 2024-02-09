@@ -1,0 +1,15 @@
+{
+    "Weak Mark": {
+        "definition": "a trademark or service mark that is descriptive or suggestive of the product or service and entitled to a lesser degree of protection than a strong mark compare strong mark",
+        "compare": "strong mark",
+        "sub_definitions": {
+            "1": {
+                "1": "a trademark or service mark that is descriptive or suggestive of the product or service and entitled to a lesser degree of protection than a strong mark compare",
+                "compares": "strong mark"
+            }
+        },
+        "references": {
+            "strong mark": "https://dictionary.findlaw.com/definition/strong-mark.html"
+        }
+    }
+}

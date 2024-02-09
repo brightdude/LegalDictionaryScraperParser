@@ -1,0 +1,11 @@
+{
+    "Cross-Collateral": {
+        "definition": "collateral given to secure preexisting unsecured debt in return for new loans",
+        "sub_definitions": {
+            "1": {
+                "1": "collateral given to secure preexisting unsecured debt in return for new loans"
+            }
+        },
+        "references": {}
+    }
+}

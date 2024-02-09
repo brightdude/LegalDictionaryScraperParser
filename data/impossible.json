@@ -1,0 +1,15 @@
+{
+    "Impossible": {
+        "definition": "not possible",
+        "origin": "[a party's performance is in part]",
+        "sub_definitions": {
+            "1": {
+                "1": "not possible"
+            },
+            "2": {
+                "1": "incapable of being done, attained, or fulfilled [a party's performance is in part]"
+            }
+        },
+        "references": {}
+    }
+}

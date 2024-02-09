@@ -1,0 +1,8 @@
+{
+    "Demand Deposit": {
+        "definition": "Demand Deposit",
+        "references": {
+            "deposit": "https://dictionary.findlaw.com/definition/deposit.html"
+        }
+    }
+}

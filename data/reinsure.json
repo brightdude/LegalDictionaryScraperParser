@@ -1,0 +1,15 @@
+{
+    "Reinsure": {
+        "definition": "to insure again",
+        "origin": "[frequently part of their exposure \"R. I. Mehr\"]",
+        "sub_definitions": {
+            "1": {
+                "1": "to insure again"
+            },
+            "2": {
+                "1": "transfer or assume (liability) through reinsurance [frequently part of their exposure \"R. I. Mehr\"]"
+            }
+        },
+        "references": {}
+    }
+}

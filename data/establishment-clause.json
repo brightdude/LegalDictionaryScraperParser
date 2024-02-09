@@ -1,0 +1,16 @@
+{
+    "Establishment Clause": {
+        "definition": "a clause in the U.S. Constitution forbidding Congress from establishing a state religion see also Amendment I to the Constitution in the back matter compare free exercise clause",
+        "compare": "Constitution",
+        "sub_definitions": {
+            "1": {
+                "1": "a clause in the U.S. Constitution forbidding Congress from establishing a state religion see also",
+                "compares": "free exercise clause"
+            }
+        },
+        "references": {
+            "Constitution": "https://dictionary.findlaw.com/definition/constitution.html",
+            "free exercise clause": "https://dictionary.findlaw.com/definition/free-exercise-clause.html"
+        }
+    }
+}

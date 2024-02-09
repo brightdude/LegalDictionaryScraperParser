@@ -1,0 +1,15 @@
+{
+    "Abuse Of Process": {
+        "definition": "the tort of bringing and following through with a civil or criminal action for a purpose known to be different from the purpose for which the action was designed compare malicious prosecution",
+        "compare": "malicious prosecution",
+        "sub_definitions": {
+            "1": {
+                "1": "the tort of bringing and following through with a civil or criminal action for a purpose known to be different from the purpose for which the action was designed compare",
+                "compares": "malicious prosecution"
+            }
+        },
+        "references": {
+            "malicious prosecution": "https://dictionary.findlaw.com/definition/malicious-prosecution.html"
+        }
+    }
+}

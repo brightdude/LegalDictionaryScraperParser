@@ -1,0 +1,11 @@
+{
+    "Phantom Stock Plan": {
+        "definition": "a form of executive compensation in which an employee is granted units representing shares of stock which are redeemable at a specified future date for the market value of an equivalent number of corporate shares but which in the interval are nontransferable",
+        "sub_definitions": {
+            "1": {
+                "1": "a form of executive compensation in which an employee is granted units representing shares of stock which are redeemable at a specified future date for the market value of an equivalent number of corporate shares but which in the interval are nontransferable, have no cash value, and confer none of the noneconomic rights (as voting) conferred by ordinary stock"
+            }
+        },
+        "references": {}
+    }
+}

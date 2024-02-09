@@ -1,0 +1,25 @@
+{
+    "Toll": {
+        "definition": "a charge for the use of a transportation route or facility ;broadly",
+        "origin": "[Old English, tax or fee paid for a liberty or privilege, ultimately from Late Latin telonium custom house, from Greek tolōnion , from telōnēs collector of tolls, from telos tax, toll]",
+        "compare": "suspend",
+        "sub_definitions": {
+            "1": {
+                "definition": "to take away (as a right)"
+            },
+            "2 a": {
+                "definition": "to remove the effect of [the court did not the statute of repose after the statutory period had expired]",
+                "sub_terms": {
+                    "b": "[ the running of the statute of limitations] compareto be suspended [statute of limitationsfor a period of seventy-five days following the notice \", 823 S.W.2d 359 (1991)\"]na suspension of effect [the court extended the statute of limitations ]"
+                },
+                "compares": "run",
+                "s": "for a period of seventy-five days following the notice \"",
+                "Parker v. Yen": "823 S.W.2d 359 (1991)"
+            }
+        },
+        "references": {
+            "suspend": "https://dictionary.findlaw.com/definition/suspend.html",
+            "run": "https://dictionary.findlaw.com/definition/run.html"
+        }
+    }
+}

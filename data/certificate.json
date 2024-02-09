@@ -1,0 +1,27 @@
+{
+    "Certificate": {
+        "definition": "a document containing a certified statement esp. as to the truth of something [a birth ] b",
+        "origin": "[a birth ]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "a document containing a certified statement esp. as to the truth of something [a birth ]",
+                "sub_terms": {
+                    "b": "a document certifying that a person has fulfilled the requirements of and may practice in a specified field [a teaching ]"
+                }
+            },
+            "2": {
+                "definition": "[the signature…constitutes a that the attorney or party has read the document \"\"]"
+            },
+            "3": {
+                "definition": "a document that is proof of ownership or indebtedness [stock] [gold][sər-ti-fi-kāt] vt"
+            },
+            "-cat·ing": {
+                "definition": "to testify or authorize by a certificateto recognize as having met special qualifications (as of a governmental agency or professional board) within a field see alsoat"
+            }
+        },
+        "references": {
+            "certification": "https://dictionary.findlaw.com/definition/certification.html",
+            "security": "https://dictionary.findlaw.com/definition/security.html"
+        }
+    }
+}

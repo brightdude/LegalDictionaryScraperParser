@@ -1,0 +1,16 @@
+{
+    "Belief": {
+        "definition": "a degree of conviction of the truth of something esp. based on a consideration or examination of the evidence compare knowledge",
+        "compare": "knowledge",
+        "sub_definitions": {
+            "1": {
+                "1": "a degree of conviction of the truth of something esp. based on a consideration or examination of the evidence compare",
+                "compares": "knowledge"
+            }
+        },
+        "references": {
+            "knowledge": "https://dictionary.findlaw.com/definition/knowledge.html",
+            "suspicion": "https://dictionary.findlaw.com/definition/suspicion.html"
+        }
+    }
+}

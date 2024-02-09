@@ -1,0 +1,30 @@
+{
+    "Render": {
+        "definition": "to transmit to another",
+        "origin": "[ a judgment]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to transmit to another"
+            },
+            "2": {
+                "definition": "to furnish for consideration, approval, or information",
+                "sub_terms": {
+                    "a": "[ a judgment]",
+                    "b": "to agree on and report (a verdict) compare"
+                },
+                "compares": "enter"
+            },
+            "3": {
+                "definition": "to give in acknowledgment of dependence or obligationmake payment of"
+            },
+            "4": {
+                "definition": "to direct the execution of [ justice]"
+            }
+        },
+        "references": {
+            "deliver": "https://dictionary.findlaw.com/definition/deliver.html",
+            "hand down": "https://dictionary.findlaw.com/definition/hand-down.html",
+            "enter": "https://dictionary.findlaw.com/definition/enter.html"
+        }
+    }
+}

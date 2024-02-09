@@ -1,0 +1,18 @@
+{
+    "Monopoly": {
+        "definition": "-lies 1",
+        "sub_definitions": {
+            "1": {
+                "definition": "exclusive control of a particular market that is marked by the power to control prices and exclude competition and that esp. is developed willfully rather than as the result of superior products or skill see alsoin the Important Laws section",
+                "see also": "antitrust",
+                "Sherman Antitrust Act": "in the Important Laws section"
+            },
+            "2": {
+                "definition": "one that has a monopoly"
+            }
+        },
+        "references": {
+            "antitrust": "https://dictionary.findlaw.com/definition/antitrust.html"
+        }
+    }
+}

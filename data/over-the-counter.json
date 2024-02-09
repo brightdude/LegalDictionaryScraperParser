@@ -1,0 +1,15 @@
+{
+    "Over-The-Counter": {
+        "definition": "not traded or effected on an organized securities exchange [ transactions] [ securities] 2",
+        "origin": "[ transactions]",
+        "sub_definitions": {
+            "1": {
+                "definition": "not traded or effected on an organized securities exchange [ transactions] [ securities]"
+            },
+            "2": {
+                "definition": "sold lawfully without a prescription [ drugs]"
+            }
+        },
+        "references": {}
+    }
+}

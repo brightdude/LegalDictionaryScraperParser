@@ -1,0 +1,16 @@
+{
+    "Counsel": {
+        "definition": "counsel [Old French conseil advice",
+        "origin": "[Old French conseil advice, from Latin consilium discussion, advice, council, from consulere to consult]",
+        "sub_definitions": {
+            "of counsel1:assisting another lawyer in a case [was attorneyof counsel]2:employed on a part-time basis [a tax attorney will move also and becomeof counsel\"National Law Journal\"]": {
+                "definition": "vt"
+            }
+        },
+        "references": {
+            "lawyer": "https://dictionary.findlaw.com/definition/lawyer.html",
+            "attorney": "https://dictionary.findlaw.com/definition/attorney.html",
+            "advise": "https://dictionary.findlaw.com/definition/advise.html"
+        }
+    }
+}

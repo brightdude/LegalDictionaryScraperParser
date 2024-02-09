@@ -1,0 +1,16 @@
+{
+    "Full Court": {
+        "definition": "a court with all or the required number of the judges present called also full bench compare en banc",
+        "compare": "en banc",
+        "sub_definitions": {
+            "1": {
+                "1": "a court with all or the required number of the judges present called also",
+                "compares": "en banc"
+            }
+        },
+        "references": {
+            "en banc": "https://dictionary.findlaw.com/definition/en-banc.html",
+            "panel": "https://dictionary.findlaw.com/definition/panel.html"
+        }
+    }
+}

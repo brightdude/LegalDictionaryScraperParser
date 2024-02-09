@@ -1,0 +1,11 @@
+{
+    "Habitual Criminal": {
+        "definition": "one convicted of a crime who has a certain number of prior convictions for offenses of a specified kind",
+        "sub_definitions": {
+            "1": {
+                "1": "one convicted of a crime who has a certain number of prior convictions for offenses of a specified kind (as felonies) and is thereby under some statutes subject to an increased penalty (as life imprisonment)"
+            }
+        },
+        "references": {}
+    }
+}

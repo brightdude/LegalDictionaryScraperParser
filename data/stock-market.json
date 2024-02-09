@@ -1,0 +1,16 @@
+{
+    "Stock Market": {
+        "definition": "stock exchange 2",
+        "sub_definitions": {
+            "2": {
+                "definition": "a market for particular stocks"
+            },
+            "3": {
+                "definition": "the market for stocks throughout a country"
+            }
+        },
+        "references": {
+            "stock exchange": "https://dictionary.findlaw.com/definition/stock-exchange.html"
+        }
+    }
+}

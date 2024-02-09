@@ -1,0 +1,18 @@
+{
+    "Interference": {
+        "definition": "the act or an instance of interfering [ with contract] b",
+        "origin": "[ with contract]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "the act or an instance of interfering [ with contract]",
+                "sub_terms": {
+                    "b": "something that interferes"
+                }
+            },
+            "2": {
+                "definition": "a hearing to determine the priority of invention at issue in a patent dispute"
+            }
+        },
+        "references": {}
+    }
+}

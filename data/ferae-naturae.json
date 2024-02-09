@@ -1,0 +1,16 @@
+{
+    "Ferae Naturae": {
+        "definition": "wild by nature",
+        "origin": "[New Latin, literally, of a wild nature]",
+        "sub_definitions": {
+            "1": {
+                "1": "wild by nature"
+            },
+            "2": {
+                "1": "not usually tamed",
+                "note": " Animals like wild ducks or bees are considered ferae naturae. At common law they cannot be claimed as one's property except under certain circumstances, as when captured."
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "Habitation": {
+        "definition": "the act of occupying or inhabiting b in the civil law of Louisiana",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "the act of occupying or inhabiting",
+                "sub_terms": {
+                    "b": "the right of a person to dwell in the house of another"
+                }
+            },
+            "2": {
+                "definition": "a dwelling place"
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "Reliction": {
+        "definition": "the gradual recession of water leaving land permanently uncovered 2",
+        "origin": "[Latin relictio act of leaving behind, from relinquere to leave behind]",
+        "sub_definitions": {
+            "1": {
+                "definition": "the gradual recession of water leaving land permanently uncovered"
+            },
+            "2": {
+                "definition": "land uncovered by reliction compare",
+                "compares": "accretion"
+            }
+        },
+        "references": {
+            "accretion": "https://dictionary.findlaw.com/definition/accretion.html"
+        }
+    }
+}

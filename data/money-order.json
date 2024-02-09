@@ -1,0 +1,11 @@
+{
+    "Money Order": {
+        "definition": "an order issued by a post office",
+        "sub_definitions": {
+            "1": {
+                "1": "an order issued by a post office, bank, or telegraph office for payment of a specified sum of money usually at any branch of the issuing organization"
+            }
+        },
+        "references": {}
+    }
+}

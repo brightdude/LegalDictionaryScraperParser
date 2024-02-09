@@ -1,0 +1,12 @@
+{
+    "Adequate Protection": {
+        "definition": "such action as is judicially determined to protect a secured creditor's interest in property that is part of a bankrupt estate NOTE",
+        "sub_definitions": {
+            "1": {
+                "1": "such action as is judicially determined to protect a secured creditor's interest in property that is part of a bankrupt estate",
+                "note": " The U.S. Bankruptcy Code offers a list of examples of actions that are predetermined to provide adequate protection. When a court finds that a secured creditor is not adequately protected, the creditor may obtain relief from the automatic stay from creditors' collection attempts that is effected by the debtor's filing for bankruptcy."
+            }
+        },
+        "references": {}
+    }
+}

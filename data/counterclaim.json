@@ -1,0 +1,14 @@
+{
+    "Counterclaim": {
+        "definition": "a claim for relief that is asserted against an opposing party after an original claim has been made compare affirmative defense at defense",
+        "compare": "defense",
+        "references": {
+            "defense": "https://dictionary.findlaw.com/definition/defense.html",
+            "cross-action": "https://dictionary.findlaw.com/definition/cross-action.html",
+            "cross-appeal": "https://dictionary.findlaw.com/definition/cross-appeal.html",
+            "cross-claim": "https://dictionary.findlaw.com/definition/cross-claim.html",
+            "interpleader": "https://dictionary.findlaw.com/definition/interpleader.html",
+            "third-party claim": "https://dictionary.findlaw.com/definition/third-party-claim.html"
+        }
+    }
+}

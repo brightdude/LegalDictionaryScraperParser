@@ -1,0 +1,11 @@
+{
+    "Morgue": {
+        "definition": "a place where the bodies of persons found dead are kept until identified and claimed by relatives or released for burial or autopsy",
+        "sub_definitions": {
+            "1": {
+                "1": "a place where the bodies of persons found dead are kept until identified and claimed by relatives or released for burial or autopsy"
+            }
+        },
+        "references": {}
+    }
+}

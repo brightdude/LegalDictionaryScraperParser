@@ -1,0 +1,11 @@
+{
+    "Sales Tax": {
+        "definition": "a tax levied on the sale of goods and services that is usually calculated as a percentage of the purchase price and collected by the seller",
+        "sub_definitions": {
+            "1": {
+                "1": "a tax levied on the sale of goods and services that is usually calculated as a percentage of the purchase price and collected by the seller"
+            }
+        },
+        "references": {}
+    }
+}

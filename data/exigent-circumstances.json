@@ -1,0 +1,16 @@
+{
+    "Exigent Circumstances": {
+        "definition": "circumstances that are of such urgency as to justify a warrantless entry",
+        "compare": "knock and announce rule",
+        "sub_definitions": {
+            "1": {
+                "1": "circumstances that are of such urgency as to justify a warrantless entry, search, or seizure by police when a warrant would ordinarily be required compare",
+                "compares": "knock and announce rule"
+            }
+        },
+        "references": {
+            "knock and announce rule": "https://dictionary.findlaw.com/definition/knock-and-announce-rule.html",
+            "warrant": "https://dictionary.findlaw.com/definition/warrant.html"
+        }
+    }
+}

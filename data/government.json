@@ -1,0 +1,34 @@
+{
+    "Government": {
+        "definition": "the act or process of governing ;specif",
+        "origin": "[the failed to prove guilt beyond a reasonable doubt]",
+        "sub_definitions": {
+            "1": {
+                "definition": "the act or process of governingauthoritative direction or control"
+            },
+            "2": {
+                "definition": "the office, authority, or function of governing"
+            },
+            "3": {
+                "definition": "the continuous exercise of authority over and the performance of functions for a political unit"
+            },
+            "4 a": {
+                "definition": "the organization, machinery, or agency through which a political unit exercises authority and performs functions and which is usually classified according to the distribution of power within it",
+                "sub_terms": {
+                    "b": "the complex of political institutions, laws, and customs through which the function of governing is carried out"
+                }
+            },
+            "5": {
+                "definition": "the body of persons that constitutes the governing authority of a political unit or organization",
+                "sub_terms": {
+                    "a": "the officials comprising the governing body of a political unit and constituting the organization as an active agency",
+                    "b": "the executive branch of the U.S. federal government",
+                    "c": "the prosecution in a criminal case in its capacity as agents of the political unit [the failed to prove guilt beyond a reasonable doubt]"
+                }
+            }
+        },
+        "references": {
+            "rule": "https://dictionary.findlaw.com/definition/rule.html"
+        }
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "Purchase Money Mortgage": {
+        "definition": "Purchase Money Mortgage",
+        "references": {
+            "mortgage": "https://dictionary.findlaw.com/definition/mortgage.html"
+        }
+    }
+}

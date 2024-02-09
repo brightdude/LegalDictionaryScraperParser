@@ -1,0 +1,14 @@
+{
+    "Power Appurtenant": {
+        "definition": "power appendant at power",
+        "sub_definitions": {
+            "1": {
+                "1": "power appendant"
+            }
+        },
+        "references": {
+            "power appendant": "https://dictionary.findlaw.com/definition/power-appendant.html",
+            "power": "https://dictionary.findlaw.com/definition/power.html"
+        }
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "Banker's Acceptance": {
+        "definition": "a short-term credit instrument issued by an importer's bank that guarantees payment of an exporter's invoice",
+        "sub_definitions": {
+            "1": {
+                "1": "a short-term credit instrument issued by an importer's bank that guarantees payment of an exporter's invoice"
+            }
+        },
+        "references": {}
+    }
+}

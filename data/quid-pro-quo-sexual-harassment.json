@@ -1,0 +1,15 @@
+{
+    "Quid Pro Quo Sexual Harassment": {
+        "definition": "sexual harassment in which the satisfaction of sexual demands is made the condition of job benefits or continued employment or is used as the basis for employment decisions regarding the individual compare hostile environment sexual harassment",
+        "compare": "hostile environment sexual harassment",
+        "sub_definitions": {
+            "1": {
+                "1": "sexual harassment in which the satisfaction of sexual demands is made the condition of job benefits or continued employment or is used as the basis for employment decisions regarding the individual compare",
+                "compares": "hostile environment sexual harassment"
+            }
+        },
+        "references": {
+            "hostile environment sexual harassment": "https://dictionary.findlaw.com/definition/hostile-environment-sexual-harassment.html"
+        }
+    }
+}

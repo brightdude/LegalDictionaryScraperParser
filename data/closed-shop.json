@@ -1,0 +1,18 @@
+{
+    "Closed Shop": {
+        "definition": "a business in which the employer by agreement hires and retains only union members see also Labor Management Relations Act in the Important Laws section compare open shop",
+        "compare": "open shop",
+        "sub_definitions": {
+            "1": {
+                "1": "a business in which the employer by agreement hires and retains only union members see also",
+                "Labor Management Relations Act": "in the Important Laws section compare",
+                "compares": "open shop",
+                "note": " Closed shops are illegal under the Labor Management Relations Act."
+            }
+        },
+        "references": {
+            "open shop": "https://dictionary.findlaw.com/definition/open-shop.html",
+            "union shop": "https://dictionary.findlaw.com/definition/union-shop.html"
+        }
+    }
+}

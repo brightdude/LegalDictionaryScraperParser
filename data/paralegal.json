@@ -1,0 +1,9 @@
+{
+    "Paralegal": {
+        "definition": "of",
+        "compare": "clerk",
+        "references": {
+            "clerk": "https://dictionary.findlaw.com/definition/clerk.html"
+        }
+    }
+}

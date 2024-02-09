@@ -1,0 +1,13 @@
+{
+    "Constructive Service": {
+        "definition": "substituted service",
+        "sub_definitions": {
+            "1": {
+                "1": "substituted service"
+            }
+        },
+        "references": {
+            "substituted service": "https://dictionary.findlaw.com/definition/substituted-service.html"
+        }
+    }
+}

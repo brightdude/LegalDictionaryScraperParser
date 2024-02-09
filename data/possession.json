@@ -1,0 +1,38 @@
+{
+    "Possession": {
+        "definition": "the act",
+        "origin": "[had actual possession of the land despite a lack of legal title]",
+        "sub_definitions": {
+            "1": {
+                "definition": "possession that exists by virtue of a right (as by title) rather than direct occupancy or control"
+            },
+            "2": {
+                "definition": "something controlled, occupied, or owned [personal]"
+            },
+            "adverse possession": {
+                "definition": "actual possession of another's real property that is open, hostile, exclusive, continuous, adverse to the claim of the owner, often under a claim of right or color of title, and that may give rise to title in the possessor if carried out for a specified statutory period (as ten years)the method of acquiring title by such possession see alsoandin this entry compare",
+                "compares": "prescription",
+                "see also": "hostile possession"
+            },
+            "civil possession": {
+                "definition": "possession that exists by virtue of an intent to be the owner of a property even though one no longer occupies or has physical control of it"
+            },
+            "hostile possession": {
+                "definition": "possession (as in adverse possession) that is antagonistic to the claims of all others (as a record owner) and that is carried out with the intention to possess the property exclusively"
+            },
+            "notorious possession": {
+                "definition": "possession (as in adverse possession) that is so conspicuous that it is generally known by people in the vicinity of the property and so gives rise to a presumption that the owner has notice of it"
+            },
+            "precarious possession": {
+                "definition": "possession of property that is exercised by another (as a lessee) with the permission of or on behalf of the owner see alsoat"
+            }
+        },
+        "references": {
+            "actual possession": "https://dictionary.findlaw.com/definition/actual-possession.html",
+            "constructive possession": "https://dictionary.findlaw.com/definition/constructive-possession.html",
+            "hostile possession": "https://dictionary.findlaw.com/definition/hostile-possession.html",
+            "notorious possession": "https://dictionary.findlaw.com/definition/notorious-possession.html",
+            "prescription": "https://dictionary.findlaw.com/definition/prescription.html"
+        }
+    }
+}

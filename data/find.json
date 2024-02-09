@@ -1,0 +1,21 @@
+{
+    "Find": {
+        "definition": "to come upon accidentally or through effort [ found a valuable antique in the old desk] [ found a buyer for the property] 2",
+        "origin": "[ found a valuable antique in the old desk]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to come upon accidentally or through effort [a valuable antique in the old desk] [a buyer for the property]",
+                "found": "a buyer for the property]"
+            },
+            "2": {
+                "definition": "to make a judicial determination regarding [the testimony not credible] [the defendant guilty] compare,to make a judicial determination [the juryin favor of the plaintiff]",
+                "compares": "decide",
+                "found": "in favor of the plaintiff]"
+            }
+        },
+        "references": {
+            "decide": "https://dictionary.findlaw.com/definition/decide.html",
+            "hold": "https://dictionary.findlaw.com/definition/hold.html"
+        }
+    }
+}

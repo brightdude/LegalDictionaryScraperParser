@@ -1,0 +1,32 @@
+{
+    "Gain": {
+        "definition": "an increase in value",
+        "sub_definitions": {
+            "1": {
+                "definition": "an increase in value, capital, or amount compare",
+                "compares": "loss"
+            },
+            "capital gain": {
+                "definition": "a gain realized on the sale or exchange of a capital asset (as a stock or real estate)"
+            },
+            "ca·su·al·ty gain": {
+                "definition": "a gain realized by an insured because property insurance benefits paid for a loss from a casualty or theft are greater than the adjusted value of the insured asset"
+            },
+            "long-term capital gain": {
+                "definition": "a capital gain realized on the sale or exchange of an asset held for more than a specified period (as a year)"
+            },
+            "ordinary gain": {
+                "definition": "a gain from the exchange or sale of an asset that is not capital"
+            },
+            "short-term capital gain": {
+                "definition": "a capital gain realized on the sale or exchange of an asset held for less than a specified period (as a year) that is treated as ordinary income under federal income tax laws"
+            },
+            "2": {
+                "definition": "a class of community property that reflects the increase in property value contributed by the common skill or labor of the spouses"
+            }
+        },
+        "references": {
+            "loss": "https://dictionary.findlaw.com/definition/loss.html"
+        }
+    }
+}

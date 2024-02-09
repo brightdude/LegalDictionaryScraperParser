@@ -1,0 +1,11 @@
+{
+    "Nonarbitrary": {
+        "definition": "not arbitrary",
+        "sub_definitions": {
+            "1": {
+                "1": "not arbitrary"
+            }
+        },
+        "references": {}
+    }
+}

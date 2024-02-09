@@ -1,0 +1,18 @@
+{
+    "Grand Jury": {
+        "definition": "a jury that examines accusations against persons charged with crime and if the evidence warrants makes formal charges on which the accused persons are later tried see also no bill and true bill at bill",
+        "compare": "bill",
+        "sub_definitions": {
+            "1": {
+                "1": "a jury that examines accusations against persons charged with crime and if the evidence warrants makes formal charges on which the accused persons are later tried see also",
+                "compares": "petit jury"
+            }
+        },
+        "references": {
+            "bill": "https://dictionary.findlaw.com/definition/bill.html",
+            "indictment": "https://dictionary.findlaw.com/definition/indictment.html",
+            "petit jury": "https://dictionary.findlaw.com/definition/petit-jury.html",
+            "special grand jury": "https://dictionary.findlaw.com/definition/special-grand-jury.html"
+        }
+    }
+}

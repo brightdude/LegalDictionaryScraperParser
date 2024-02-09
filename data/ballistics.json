@@ -1,0 +1,17 @@
+{
+    "Ballistics": {
+        "definition": "the science of the motion of projectiles",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "the science of the motion of projectiles (as bullets) in flight",
+                "sub_terms": {
+                    "b": "the flight characteristics of a projectile (as a bullet)"
+                }
+            },
+            "2": {
+                "definition": "the study of the processes within a firearm as it is fired"
+            }
+        },
+        "references": {}
+    }
+}

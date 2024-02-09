@@ -1,0 +1,13 @@
+{
+    "Bankruptcy Trustee": {
+        "definition": "trustee in bankruptcy",
+        "sub_definitions": {
+            "1": {
+                "1": "trustee in bankruptcy"
+            }
+        },
+        "references": {
+            "trustee in bankruptcy": "https://dictionary.findlaw.com/definition/trustee-in-bankruptcy.html"
+        }
+    }
+}

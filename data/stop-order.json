@@ -1,0 +1,8 @@
+{
+    "Stop Order": {
+        "definition": "Stop Order",
+        "references": {
+            "order": "https://dictionary.findlaw.com/definition/order.html"
+        }
+    }
+}

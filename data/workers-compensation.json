@@ -1,0 +1,14 @@
+{
+    "Workers' Compensation": {
+        "definition": "compensation for injury to an employee arising out of and in the course of employment that is paid to the worker or dependents by an employer whose strict liability for such compensation is established by statute NOTE",
+        "sub_definitions": {
+            "1": {
+                "definition": "compensation for injury to an employee arising out of and in the course of employment that is paid to the worker or dependents by an employer whose strict liability for such compensation is established by statute",
+                "note": " Where established by statute, workers' compensation is generally the exclusive remedy for injuries arising from employment, with some exceptions. Workers' compensation statutes commonly include explicit exclusions for injury caused intentionally, by willful misconduct, and by voluntary intoxication from alcohol or illegal drugs."
+            }
+        },
+        "references": {
+            "workers' compensation insurance": "https://dictionary.findlaw.com/definition/workers-compensation-insurance.html"
+        }
+    }
+}

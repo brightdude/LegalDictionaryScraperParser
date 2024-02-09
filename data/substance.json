@@ -1,0 +1,19 @@
+{
+    "Substance": {
+        "definition": "substantive law [was a question of and not process] compare procedure 2",
+        "origin": "[was a question of and not process]",
+        "sub_definitions": {
+            "1": {
+                "definition": "[was a question of and not process] compare",
+                "compares": "procedure"
+            },
+            "2": {
+                "definition": "something (as language) essential esp. to establishing a valid right, claim, or charge [a title defective in form, not ]"
+            }
+        },
+        "references": {
+            "substantive law": "https://dictionary.findlaw.com/definition/substantive-law.html",
+            "procedure": "https://dictionary.findlaw.com/definition/procedure.html"
+        }
+    }
+}

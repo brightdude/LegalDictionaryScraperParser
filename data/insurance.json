@@ -1,0 +1,21 @@
+{
+    "Insurance": {
+        "definition": "the action",
+        "sub_definitions": {
+            "1": {
+                "definition": "the action, process, or means of insuring or the state of being insured usually against loss or damage by a contingent event (as death, fire, accident, or sickness)"
+            },
+            "2 a": {
+                "definition": "the business of insuring persons or property",
+                "sub_terms": {
+                    "b": "coverage by contract whereby for an agreed payment one party agrees to indemnify or guarantee another against loss by a specified contingency or peril",
+                    "c": "the principles and practice of the business of insuring"
+                }
+            },
+            "3": {
+                "definition": "the sum for which something is insured"
+            }
+        },
+        "references": {}
+    }
+}

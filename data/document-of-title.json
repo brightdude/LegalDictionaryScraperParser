@@ -1,0 +1,11 @@
+{
+    "Document Of Title": {
+        "definition": "a document",
+        "sub_definitions": {
+            "1": {
+                "1": "a document (as a warehouse receipt) which is issued by or addressed to a bailee and which in the ordinary course of business is considered to show that the person in possession of it is entitled to receive, hold, and dispose of the bailed goods covered by it"
+            }
+        },
+        "references": {}
+    }
+}

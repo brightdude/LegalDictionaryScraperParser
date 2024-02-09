@@ -1,0 +1,8 @@
+{
+    "Home Equity Loan": {
+        "definition": "Home Equity Loan",
+        "references": {
+            "loan": "https://dictionary.findlaw.com/definition/loan.html"
+        }
+    }
+}

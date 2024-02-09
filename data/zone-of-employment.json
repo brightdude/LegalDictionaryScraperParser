@@ -1,0 +1,12 @@
+{
+    "Zone Of Employment": {
+        "definition": "the area in and around a place of employment that is under the control of the employer NOTE",
+        "sub_definitions": {
+            "1": {
+                "1": "the area in and around a place of employment that is under the control of the employer",
+                "note": " For workers' compensation purposes, an injury to an employee going to or coming from work in the zone of employment is sometimes considered to have occurred in the course of employment."
+            }
+        },
+        "references": {}
+    }
+}

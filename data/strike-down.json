@@ -1,0 +1,20 @@
+{
+    "Strike Down": {
+        "definition": "annul nullify [the trustee…can strike down transfers \"J. J. White and R. S. Summers\"] ;esp",
+        "origin": "[the trustee…can strike down transfers \"J. J. White and R. S. Summers\"]",
+        "sub_definitions": {
+            "1": {
+                "1": "annul",
+                "strike down": "transfers \"J. J. White and R. S. Summers\"]"
+            },
+            "2": {
+                "1": "to declare (a law) illegal and unenforceable [the court",
+                "struck down": "death penalty provisions \"L. H. Tribe\"]"
+            }
+        },
+        "references": {
+            "annul": "https://dictionary.findlaw.com/definition/annul.html",
+            "nullify": "https://dictionary.findlaw.com/definition/nullify.html"
+        }
+    }
+}

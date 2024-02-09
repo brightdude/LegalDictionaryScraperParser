@@ -1,0 +1,11 @@
+{
+    "Legal Tender": {
+        "definition": "money that is legally valid for the payment of debts and that must be accepted for that purpose when offered",
+        "sub_definitions": {
+            "1": {
+                "1": "money that is legally valid for the payment of debts and that must be accepted for that purpose when offered"
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "Forfeiture": {
+        "definition": "the loss of a right",
+        "sub_definitions": {
+            "1": {
+                "definition": "the loss of a right, money, or esp. property because of one's criminal act, default, or failure or neglect to perform a duty compare",
+                "compares": "waiver"
+            },
+            "2": {
+                "definition": "something (as money or property) that is forfeited as a penalty"
+            }
+        },
+        "references": {
+            "waiver": "https://dictionary.findlaw.com/definition/waiver.html"
+        }
+    }
+}

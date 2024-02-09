@@ -1,0 +1,14 @@
+{
+    "Severability Clause": {
+        "definition": "a clause",
+        "sub_definitions": {
+            "1": {
+                "1": "a clause (as in a contract) which states that provisions are severable"
+            },
+            "2": {
+                "1": "a clause in a statute that makes the statute's parts or provisions severable so that one part can be invalidated without invalidating the whole called also"
+            }
+        },
+        "references": {}
+    }
+}

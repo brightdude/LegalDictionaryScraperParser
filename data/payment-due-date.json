@@ -1,0 +1,6 @@
+{
+    "Payment Due Date": {
+        "definition": "Contract language specifying when payments are due on money borrowed. The due date is always indicated and means that the payment must be received on or before the specified date. Grace periods prior to assessing a late fee or additional interest do not eliminate the responsibility of making payments on time.",
+        "references": {}
+    }
+}

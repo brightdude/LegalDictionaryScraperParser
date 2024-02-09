@@ -1,0 +1,14 @@
+{
+    "Loaned Servant": {
+        "definition": "an employee of one employer who is temporarily under the control of another called also loaned employee 2",
+        "sub_definitions": {
+            "1": {
+                "definition": "an employee of one employer who is temporarily under the control of another called also"
+            },
+            "2": {
+                "definition": "a doctrine under which a loaned servant is considered an employee of the borrowing employer who is thus liable for negligence or workers' compensation"
+            }
+        },
+        "references": {}
+    }
+}

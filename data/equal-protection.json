@@ -1,0 +1,18 @@
+{
+    "Equal Protection": {
+        "definition": "a guarantee under the Fourteenth Amendment to the U.S. Constitution that a state must treat an individual or class of individuals the same as it treats other individuals or classes in like circumstances called also equal protection of the law see also rational basis test",
+        "sub_definitions": {
+            "1": {
+                "1": "a guarantee under the Fourteenth Amendment to the U.S. Constitution that a state must treat an individual or class of individuals the same as it treats other individuals or classes in like circumstances called also",
+                "see also": "rational basis test",
+                "note": " The equal protection requirement of the Constitution protects against legislation that affects individuals differently without a rational basis for doing so. In reviewing claims of denial of equal protection, a court will uphold legislation that has a rational basis unless the legislation affects a fundamental right or involves a suspect classification, such as race. In such a case, the court will use a strict scrutiny standard of review and will strike down legislation that does not show a compelling need for discriminating."
+            }
+        },
+        "references": {
+            "rational basis test": "https://dictionary.findlaw.com/definition/rational-basis-test.html",
+            "strict scrutiny": "https://dictionary.findlaw.com/definition/strict-scrutiny.html",
+            "suspect classification": "https://dictionary.findlaw.com/definition/suspect-classification.html",
+            "Constitution": "https://dictionary.findlaw.com/definition/constitution.html"
+        }
+    }
+}

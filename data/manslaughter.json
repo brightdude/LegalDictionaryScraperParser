@@ -1,0 +1,23 @@
+{
+    "Manslaughter": {
+        "definition": "the unlawful killing of a human being without malice compare homicide",
+        "compare": "homicide",
+        "sub_definitions": {
+            "involuntary manslaughter": {
+                "definition": "manslaughter resulting from the failure to perform a legal duty expressly required to safeguard human life, from the commission of an unlawful act not amounting to a felony, or from the commission of a lawful act involving a risk of injury or death that is done in an unlawful, reckless, or grossly negligent manner see alsoat",
+                "note": " The exact formulation of the elements of involuntary manslaughter vary from state to state esp. with regard to the level of negligence required. In states that grade manslaughter by degrees, involuntary manslaughter is usually graded as a second- or third-degree offense."
+            },
+            "misdemeanor-manslaughter": {
+                "definition": "involuntary manslaughter occurring during the commission of a misdemeanor compareat"
+            },
+            "voluntary manslaughter": {
+                "definition": "manslaughter resulting from an intentional act done without malice or premeditation and while in the heat of passion or on sudden provocation",
+                "note": " In states that grade manslaughter by degrees, voluntary manslaughter is usually a first-degree offense."
+            }
+        },
+        "references": {
+            "homicide": "https://dictionary.findlaw.com/definition/homicide.html",
+            "murder": "https://dictionary.findlaw.com/definition/murder.html"
+        }
+    }
+}

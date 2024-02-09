@@ -1,0 +1,15 @@
+{
+    "Overriding Royalty": {
+        "definition": "an interest in and royalty on the oil",
+        "compare": "royalty",
+        "sub_definitions": {
+            "1": {
+                "1": "an interest in and royalty on the oil, gas, or minerals extracted from another's land that is carved out of the producer's working interest and is not tied to production costs compare",
+                "compares": "royalty"
+            }
+        },
+        "references": {
+            "royalty": "https://dictionary.findlaw.com/definition/royalty.html"
+        }
+    }
+}

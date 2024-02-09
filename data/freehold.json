@@ -1,0 +1,11 @@
+{
+    "Freehold": {
+        "definition": "a tenure of real property the duration of which cannot be determined and by which an estate in fee simple or fee tail or for life is held ;also",
+        "origin": "[translation of Anglo-French frank tenement freehold estate]",
+        "compare": "leasehold",
+        "sub_definitions": {},
+        "references": {
+            "leasehold": "https://dictionary.findlaw.com/definition/leasehold.html"
+        }
+    }
+}

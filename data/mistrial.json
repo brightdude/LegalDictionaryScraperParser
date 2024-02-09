@@ -1,0 +1,18 @@
+{
+    "Mistrial": {
+        "definition": "a trial that terminates without a verdict because of error",
+        "compare": "manifest necessity",
+        "sub_definitions": {
+            "1": {
+                "1": "a trial that terminates without a verdict because of error, necessity, prejudicial misconduct, or a hung jury see also",
+                "see also": "manifest necessity",
+                "compares": "dismissal"
+            }
+        },
+        "references": {
+            "manifest necessity": "https://dictionary.findlaw.com/definition/manifest-necessity.html",
+            "dismissal": "https://dictionary.findlaw.com/definition/dismissal.html",
+            "trial de novo": "https://dictionary.findlaw.com/definition/trial-de-novo.html"
+        }
+    }
+}

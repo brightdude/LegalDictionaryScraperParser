@@ -1,0 +1,15 @@
+{
+    "Latent": {
+        "definition": "existing in hidden or dormant form but usually capable of being brought to light compare patent",
+        "compare": "patent",
+        "sub_definitions": {
+            "1": {
+                "1": "existing in hidden or dormant form but usually capable of being brought to light compare",
+                "compares": "patent"
+            }
+        },
+        "references": {
+            "patent": "https://dictionary.findlaw.com/definition/patent.html"
+        }
+    }
+}

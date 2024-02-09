@@ -1,0 +1,15 @@
+{
+    "Strict Scrutiny": {
+        "definition": "the highest level of judicial scrutiny that is applied esp. to a law that allegedly violates equal protection in order to determine if it is narrowly tailored to serve a compelling state interest see also intermediate",
+        "sub_definitions": {
+            "1": {
+                "1": "the highest level of judicial scrutiny that is applied esp. to a law that allegedly violates equal protection in order to determine if it is narrowly tailored to serve a compelling state interest see also",
+                "see also": "intermediate"
+            }
+        },
+        "references": {
+            "intermediate": "https://dictionary.findlaw.com/definition/intermediate.html",
+            "rational basis test": "https://dictionary.findlaw.com/definition/rational-basis-test.html"
+        }
+    }
+}

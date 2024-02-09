@@ -1,0 +1,15 @@
+{
+    "Emergency": {
+        "definition": "-cies 1",
+        "origin": "[a state of ]",
+        "sub_definitions": {
+            "1": {
+                "definition": "an unforeseen combination of circumstances or the resulting state that calls for immediate action"
+            },
+            "2": {
+                "definition": "an urgent need for assistance or relief [a state of ]"
+            }
+        },
+        "references": {}
+    }
+}

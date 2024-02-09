@@ -1,0 +1,11 @@
+{
+    "Freezee": {
+        "definition": "one subject to a freezeout",
+        "sub_definitions": {
+            "1": {
+                "1": "one subject to a freezeout"
+            }
+        },
+        "references": {}
+    }
+}

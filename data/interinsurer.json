@@ -1,0 +1,11 @@
+{
+    "Interinsurer": {
+        "definition": "an underwriter of reciprocal insurance",
+        "sub_definitions": {
+            "1": {
+                "1": "an underwriter of reciprocal insurance"
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "Moratorium": {
+        "definition": "-riums or",
+        "origin": "[New Latin, from Late Latin, neuter of moratorius dilatory, from morari to delay, from mora delay]",
+        "sub_definitions": {
+            "-ria": {
+                "definition": "[New Latin, from Late Latin, neuter ofdilatory, fromto delay, fromdelay]"
+            },
+            "1 a": {
+                "definition": "an authorized period of delay in the performance of an obligation (as the paying of a debt)",
+                "sub_terms": {
+                    "b": "a waiting period set by an authority"
+                }
+            },
+            "2": {
+                "definition": "a suspension of activity"
+            }
+        },
+        "references": {}
+    }
+}

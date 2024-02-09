@@ -1,0 +1,11 @@
+{
+    "Unpatentable": {
+        "definition": "not patentable",
+        "sub_definitions": {
+            "1": {
+                "1": "not patentable"
+            }
+        },
+        "references": {}
+    }
+}

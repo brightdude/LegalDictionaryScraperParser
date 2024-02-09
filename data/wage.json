@@ -1,0 +1,14 @@
+{
+    "Wage": {
+        "definition": "a payment usually of money for labor or services usually according to a contract and on an hourly",
+        "sub_definitions": {
+            "1": {
+                "definition": "a payment usually of money for labor or services usually according to a contract and on an hourly, daily, or piecework basis often used in pl."
+            },
+            "2": {
+                "definition": "the share of the national product attributable to labor as a factor in production"
+            }
+        },
+        "references": {}
+    }
+}

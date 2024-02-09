@@ -1,0 +1,13 @@
+{
+    "Judicial Notice": {
+        "definition": "recognition by the court of a fact that is not reasonably disputable and without the introduction of supporting evidence [took judicial notice that January 1 is a legal holiday] [a motion for judicial notice of a fact]",
+        "origin": "[took judicial notice that January 1 is a legal holiday]",
+        "sub_definitions": {
+            "1": {
+                "1": "recognition by the court of a fact that is not reasonably disputable and without the introduction of supporting evidence [took",
+                "judicial notice": "that January 1 is a legal holiday] [a motion for"
+            }
+        },
+        "references": {}
+    }
+}

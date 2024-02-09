@@ -1,0 +1,42 @@
+{
+    "Free": {
+        "definition": "having the legal and political rights of a citizen [representatives…shall be determined by adding to the whole number of persons \" U.S. Constitution art. I\"] b",
+        "origin": "[representatives…shall be determined by adding to the whole number of persons \" U.S. Constitution art. I\"]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "having the legal and political rights of a citizen [representatives…shall be determined by adding to the whole number of persons \"art. I\"]",
+                "sub_terms": {
+                    "b": "enjoying civil and political liberty [a people]",
+                    "c": "enjoying political independence or freedom from outside domination [these united colonies are, and of right ought to be and independent States \"\"]",
+                    "d": "not subject to the control or domination of another"
+                }
+            },
+            "2": {
+                "definition": "to relieve or rid of what constrains, confines, restricts, or burdens"
+            },
+            "3": {
+                "definition": "relieved from or lacking a burden (as a lien or other encumbrance on title) [a buyer in ordinary course of business…takes of a security interest created by his seller \"\"]"
+            },
+            "4": {
+                "definition": "not bound, confined, or detained by force [ on bail]"
+            },
+            "5 a": {
+                "definition": "having no trade restrictions",
+                "sub_terms": {
+                    "b": "not subject to government regulation",
+                    "c": "not subject to restriction or official control"
+                }
+            },
+            "6": {
+                "definition": "not costing or charging anything"
+            },
+            "for free:without charge": {
+                "definition": "vt"
+            },
+            "1": {
+                "definition": "to cause to be free"
+            }
+        },
+        "references": {}
+    }
+}

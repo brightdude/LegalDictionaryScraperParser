@@ -1,0 +1,22 @@
+{
+    "Respondeat Superior": {
+        "definition": "a doctrine in tort law that makes a master liable for the wrong of a servant ;specif",
+        "origin": "[Medieval Latin, let the superior give answer]",
+        "compare": "scope of employment",
+        "sub_definitions": {
+            "1": {
+                "1": "a doctrine in tort law that makes a master liable for the wrong of a servant"
+            },
+            "2": {
+                "1": "the doctrine making an employer or principal liable for the wrong of an employee or agent if it was committed within the scope of employment or agency [to recover…upon a theory of",
+                "respondeat superior": "it is incumbent upon plaintiff to prove that the collision occurred while the driver was within the scope of his employment",
+                "Perdue v. Mitchell": "373 So. 2d 650 (1979)\"] compa",
+                "compares": "scope of employment"
+            }
+        },
+        "references": {
+            "scope of employment": "https://dictionary.findlaw.com/definition/scope-of-employment.html",
+            "liability": "https://dictionary.findlaw.com/definition/liability.html"
+        }
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "Salvage": {
+        "definition": "compensation paid for saving a ship or its cargo from the perils of the sea or for recovering it from an actual loss",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "compensation paid for saving a ship or its cargo from the perils of the sea or for recovering it from an actual loss (as in a shipwreck)",
+                "sub_terms": {
+                    "b": "the act of saving or rescuing a ship or its cargo",
+                    "c": "the act of saving or rescuing property in danger (as from fire)"
+                }
+            },
+            "2 a": {
+                "definition": "property saved from destruction (as in a wreck or fire)",
+                "sub_terms": {
+                    "b": "damaged property acquired by an insurer after payment for the loss compare"
+                },
+                "compares": "abandonment"
+            }
+        },
+        "references": {
+            "abandonment": "https://dictionary.findlaw.com/definition/abandonment.html"
+        }
+    }
+}

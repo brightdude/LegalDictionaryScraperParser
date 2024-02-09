@@ -1,0 +1,13 @@
+{
+    "Short Term": {
+        "definition": "short rate",
+        "sub_definitions": {
+            "1": {
+                "1": "short rate"
+            }
+        },
+        "references": {
+            "short rate": "https://dictionary.findlaw.com/definition/short-rate.html"
+        }
+    }
+}

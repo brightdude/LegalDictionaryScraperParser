@@ -1,0 +1,12 @@
+{
+    "Anticipation": {
+        "definition": "the knowledge or use of an invention in the U.S. or the patenting or describing of the invention in a publication in the U.S. or a foreign country before the discovery by a patent applicant NOTE",
+        "sub_definitions": {
+            "1": {
+                "1": "the knowledge or use of an invention in the U.S. or the patenting or describing of the invention in a publication in the U.S. or a foreign country before the discovery by a patent applicant",
+                "note": " Case law has established that every claim or element of a claim has to be disclosed in the prior art in order for a patent application to be barred by anticipation. If an application is amended to consist of claims not disclosed in the prior art, invalidation by anticipation can be avoided."
+            }
+        },
+        "references": {}
+    }
+}

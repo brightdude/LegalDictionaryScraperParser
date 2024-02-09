@@ -1,0 +1,15 @@
+{
+    "Probata": {
+        "definition": "things conclusively established or proved compare allegata",
+        "compare": "allegata",
+        "sub_definitions": {
+            "1": {
+                "1": "things conclusively established or proved compare",
+                "compares": "allegata"
+            }
+        },
+        "references": {
+            "allegata": "https://dictionary.findlaw.com/definition/allegata.html"
+        }
+    }
+}

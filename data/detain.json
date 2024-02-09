@@ -1,0 +1,17 @@
+{
+    "Detain": {
+        "definition": "to hold or keep in custody or possession [property wrongfully ed ] [a juvenile ed in a care facility] 2",
+        "origin": "[property wrongfully ed ]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to hold or keep in custody or possession [property wrongfully] [a juvenilein a care facility]",
+                "ed": "in a care facility]"
+            },
+            "2": {
+                "definition": "to restrain from proceeding [the driver and asked to see his license]",
+                "ed": "the driver and asked to see his license]"
+            }
+        },
+        "references": {}
+    }
+}

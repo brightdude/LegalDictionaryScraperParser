@@ -1,0 +1,30 @@
+{
+    "State": {
+        "definition": "a politically organized body of people usually occupying a definite territory ;esp",
+        "origin": "[a police ]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "a politically organized body of people usually occupying a definite territoryone that is sovereign",
+                "sub_terms": {
+                    "b": "the political organization that has supreme civil authority and political power and serves as the basis of government see alsoat,",
+                    "c": "a government or politically organized society having a particular character [a police ]"
+                }
+            },
+            "2": {
+                "definition": "the operations or concerns of the government of a countrythe sphere of administration and supreme political power of a country (as in international relations) [secrets of ] [affairs of ]"
+            },
+            "3 a": {
+                "definition": "one of the constituent units of a nation having a federal governmentone of the fifty such units comprising the great part of the U.S. see also",
+                "sub_terms": {
+                    "b": "the territory of a state"
+                },
+                "see also": "state law"
+            }
+        },
+        "references": {
+            "interest": "https://dictionary.findlaw.com/definition/interest.html",
+            "separation of church and state": "https://dictionary.findlaw.com/definition/separation-of-church-and-state.html",
+            "state law": "https://dictionary.findlaw.com/definition/state-law.html"
+        }
+    }
+}

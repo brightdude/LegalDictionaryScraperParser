@@ -1,0 +1,13 @@
+{
+    "Jailhouse": {
+        "definition": "jail",
+        "sub_definitions": {
+            "1": {
+                "1": "jail"
+            }
+        },
+        "references": {
+            "jail": "https://dictionary.findlaw.com/definition/jail.html"
+        }
+    }
+}

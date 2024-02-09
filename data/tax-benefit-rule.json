@@ -1,0 +1,12 @@
+{
+    "Tax Benefit Rule": {
+        "definition": "a tax rule requiring that if an amount",
+        "sub_definitions": {
+            "1": {
+                "1": "a tax rule requiring that if an amount (as of a loss) used as a deduction in a prior taxable year is recovered in a later year it must be included in the gross income for the later year to the extent of the original deduction",
+                "note": " If the amount of the loss was not taken as a deduction in the year the loss occurred, the recovered amount is not counted as income."
+            }
+        },
+        "references": {}
+    }
+}

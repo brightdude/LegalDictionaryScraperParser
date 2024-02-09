@@ -1,0 +1,20 @@
+{
+    "Class Action": {
+        "definition": "an action in which a representative plaintiff sues or a representative defendant is sued on behalf of a class of plaintiffs or defendants who have the same interests in the litigation as their representative and whose rights or liabilities can be more efficiently determined as a group than in a series of individual suits called also class action suit class suit see also certification compare consolidate",
+        "compare": "certification",
+        "sub_definitions": {
+            "1": {
+                "1": "an action in which a representative plaintiff sues or a representative defendant is sued on behalf of a class of plaintiffs or defendants who have the same interests in the litigation as their representative and whose rights or liabilities can be more efficiently determined as a group than in a series of individual suits called also",
+                "see also": "certification",
+                "compares": "consolidate",
+                "note": " Rule 23 of the Federal Rules of Civil Procedure sets out the prerequisites for having an action certified as a class action in federal court. Section (a) permits a class action if “(1) the class is so numerous that joinder of all members is impracticable, (2) there are questions of law or fact common to the class, (3) the claims or defenses of the representative parties are typical of the claims or defenses of the class, and (4) the representative parties will fairly and adequately protect the interests of the class.” If the action satisfies these requirements, it must then fit into one of three categories: (1) where individual litigation would have varying results requiring the opposing party to act inconsistently toward the class members or would affect the interests of class members who are not parties to the individual action; (2) where the opposing party has acted or refused to act on grounds that are applicable to the class members as a whole and therefore injunctive or declaratory relief with respect to the class members as a whole is appropriate; or, (3) where the questions of law or fact common to the class members outweigh questions that apply to only particular individuals so that a class action is the best method to determine respective rights and liabilities. Using these guidelines, the judge will decide if an action should be certified as a class action."
+            }
+        },
+        "references": {
+            "certification": "https://dictionary.findlaw.com/definition/certification.html",
+            "consolidate": "https://dictionary.findlaw.com/definition/consolidate.html",
+            "joinder": "https://dictionary.findlaw.com/definition/joinder.html",
+            "case": "https://dictionary.findlaw.com/definition/case.html"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "Assumpsit": {
+        "definition": "an express or implied promise or contract or quasi contract the breach of which may be grounds for a suit ;also",
+        "origin": "[Medieval Latin, he/she undertook]",
+        "compare": "covenant",
+        "sub_definitions": {
+            "1": {
+                "1": "an express or implied promise or contract or quasi contract the breach of which may be grounds for a suit"
+            },
+            "2": {
+                "1": "a common-law action that may be brought for such a breach compare",
+                "compares": "covenant",
+                "note": " The action of assumpsit developed in early English law and is still available in the U.S. in some jurisdictions."
+            }
+        },
+        "references": {
+            "covenant": "https://dictionary.findlaw.com/definition/covenant.html",
+            "debt": "https://dictionary.findlaw.com/definition/debt.html"
+        }
+    }
+}

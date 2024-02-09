@@ -1,0 +1,18 @@
+{
+    "Prior Restraint": {
+        "definition": "governmental prohibition on expression",
+        "compare": "censorship",
+        "sub_definitions": {
+            "1": {
+                "1": "governmental prohibition on expression (esp. by publication) before the expression actually takes place see also",
+                "New York Times Co. v. United States": "in the Important Cases section compare",
+                "compares": "censorship",
+                "note": " InNew York Times Co. v. United States, the U.S. Supreme Court restated its position that “any system of prior restraints” bears “a heavy presumption against constitutional validity” and that the government “carries a heavy burden of showing justification for the imposition of such a restraint.”"
+            }
+        },
+        "references": {
+            "censorship": "https://dictionary.findlaw.com/definition/censorship.html",
+            "freedom of speech": "https://dictionary.findlaw.com/definition/freedom-of-speech.html"
+        }
+    }
+}

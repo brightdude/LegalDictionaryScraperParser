@@ -1,0 +1,12 @@
+{
+    "Irregularity": {
+        "definition": "-ties",
+        "origin": "[an in the proceeding]",
+        "sub_definitions": {
+            "-ties": {
+                "definition": "something that is irregular [an in the proceeding]"
+            }
+        },
+        "references": {}
+    }
+}

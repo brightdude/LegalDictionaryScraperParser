@@ -1,0 +1,18 @@
+{
+    "Parliament": {
+        "definition": "an assemblage of the nobility",
+        "origin": "[Anglo-French parlement conference, council, parliament, from parler to speak]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "an assemblage of the nobility, clergy, and commons called together by the British sovereign as the supreme legislative body in the United Kingdom",
+                "sub_terms": {
+                    "b": "a similar assemblage in another nation or state"
+                }
+            },
+            "2": {
+                "definition": "the supreme legislative body of a usually major political unit that is a continuing institution comprising a series of individual assemblages"
+            }
+        },
+        "references": {}
+    }
+}

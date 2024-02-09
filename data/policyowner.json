@@ -1,0 +1,13 @@
+{
+    "Policyowner": {
+        "definition": "policyholder",
+        "sub_definitions": {
+            "1": {
+                "1": "policyholder"
+            }
+        },
+        "references": {
+            "policyholder": "https://dictionary.findlaw.com/definition/policyholder.html"
+        }
+    }
+}

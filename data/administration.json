@@ -1,0 +1,32 @@
+{
+    "Administration": {
+        "definition": "the act or process of administering [the of justice] 2 a",
+        "origin": "[the of justice]",
+        "sub_definitions": {
+            "1": {
+                "definition": "the act or process of administering [the of justice]"
+            },
+            "2 a": {
+                "definition": "the management and disposal under court authority of the estate of a deceased person by an executor or an administrator",
+                "sub_terms": {
+                    "b": "the management of an estate (as of a minor) by a trustee or guardian appointed to take charge of it",
+                    "c": "the management of assets held in a trust"
+                }
+            },
+            "3": {
+                "definition": "the execution of public affairs as distinguished from policy-making"
+            },
+            "4 a": {
+                "definition": "a body of persons (as of an organization) who administer",
+                "sub_terms": {
+                    "b": "a group that makes up the executive branch of a presidential government",
+                    "c": "a governmental agency or board"
+                }
+            },
+            "5": {
+                "definition": "the term of office of an administrative officer or body"
+            }
+        },
+        "references": {}
+    }
+}

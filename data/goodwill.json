@@ -1,0 +1,18 @@
+{
+    "Goodwill": {
+        "definition": "an intangible asset that is made up of the favor or prestige which a business has acquired beyond the mere value of what it sells due to the personality or experience of those conducting it",
+        "sub_definitions": {
+            "1": {
+                "definition": "an intangible asset that is made up of the favor or prestige which a business has acquired beyond the mere value of what it sells due to the personality or experience of those conducting it, their reputation for skill or dependability, the business's location, or any other circumstance incidental to the business that tends to draw and retain customers"
+            },
+            "2 a": {
+                "definition": "the value of projected increases in the earnings of a business esp. as part of its purchase price",
+                "sub_terms": {
+                    "b": "the excess of the purchase price of a business above the value assigned for tax purposes to its other net assets"
+                },
+                "note": " The Internal Revenue Code requires the purchaser of a business to allocate the purchase price among the various types of assets. Frequently the purchase price is greater than the sum of the values of the individual assets. The excess is labeledgoodwill. Because of its indefinite life, goodwill is not amortizable as an asset. The purchaser will therefore usually try to keep the allocation to goodwill as small as possible."
+            }
+        },
+        "references": {}
+    }
+}

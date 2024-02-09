@@ -1,0 +1,15 @@
+{
+    "Secured Transaction": {
+        "definition": "a transaction that is intended to create a security interest in personal property",
+        "compare": "security agreement",
+        "sub_definitions": {
+            "1": {
+                "1": "a transaction that is intended to create a security interest in personal property (as goods) or fixtures and that is governed by Article 9 of the Uniform Commercial Code compare",
+                "compares": "security agreement"
+            }
+        },
+        "references": {
+            "security agreement": "https://dictionary.findlaw.com/definition/security-agreement.html"
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "Remedial": {
+        "definition": "intended as or providing a remedy b",
+        "origin": "[ treatment of an inmate to improve behavior]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "intended as or providing a remedy",
+                "sub_terms": {
+                    "b": "concerned with the correction, removal, or abatement of an evil, defect, or disease [ treatment of an inmate to improve behavior] [a workers' compensation claimant who received attention from a doctor] [ a statute correcting the previous law]"
+                }
+            },
+            "2": {
+                "definition": "of, relating to, or being a law enacted for the purpose of providing a method of enforcing an already existing substantive right"
+            }
+        },
+        "references": {
+            "procedural": "https://dictionary.findlaw.com/definition/procedural.html"
+        }
+    }
+}

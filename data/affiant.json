@@ -1,0 +1,17 @@
+{
+    "Affiant": {
+        "definition": "a person who swears to an affidavit compare deponent",
+        "origin": "[Middle French, from present participle of affier to pledge faith, swear, from Medieval Latin affidare , ultimately from Latin ad to + fidere to trust]",
+        "compare": "deponent",
+        "sub_definitions": {
+            "1": {
+                "1": "a person who swears to an affidavit compare",
+                "compares": "deponent"
+            }
+        },
+        "references": {
+            "deponent": "https://dictionary.findlaw.com/definition/deponent.html",
+            "witness": "https://dictionary.findlaw.com/definition/witness.html"
+        }
+    }
+}

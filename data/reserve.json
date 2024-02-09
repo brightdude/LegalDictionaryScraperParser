@@ -1,0 +1,39 @@
+{
+    "Reserve": {
+        "definition": "to keep back or set apart",
+        "origin": "[all rights reserved ]",
+        "sub_definitions": {
+            "re·serv·ing": {
+                "definition": "to keep back or set apart",
+                "sub_terms": {
+                    "a": "to keep (a right, power, or interest) esp. by express declaration [all rights] compare",
+                    "b": "to defer a determination of (a question of law) [the justicesthe question because it was not an issue in the case]n"
+                },
+                "compares": "waive",
+                "reserved": "the question because it was not an issue in the case]"
+            },
+            "1": {
+                "definition": "a reserve allocated by a bank for the purpose of absorbing losses [a loan]"
+            },
+            "2": {
+                "definition": "an insurance company's reserve representing the discounted value of future payments to be made on losses which may have already occurred"
+            },
+            "3": {
+                "definition": "money kept in a separate account to meet future liabilities"
+            },
+            "legal reserve": {
+                "definition": "the minimum amount as determined by government standards of the deposits held by a bank or of the assets of a life insurance company required by law to be kept as reserves"
+            },
+            "policy reserve": {
+                "definition": "an insurance company's reserve representing the difference in value between the net premiums and assumed claims for a given year in life insurance"
+            },
+            "unearned premium reserve": {
+                "definition": "a reserve of funds which represents premiums paid to an insurance company but not yet applied to policy coverage and from which a policyholder is paid a refund in the event of cancellation prior to the period for which premiums have been paid"
+            }
+        },
+        "references": {
+            "waive": "https://dictionary.findlaw.com/definition/waive.html",
+            "reserve price": "https://dictionary.findlaw.com/definition/reserve-price.html"
+        }
+    }
+}

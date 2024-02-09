@@ -1,0 +1,27 @@
+{
+    "Rental": {
+        "definition": "an amount paid or collected as rent 2",
+        "origin": "[ property]",
+        "sub_definitions": {
+            "1": {
+                "definition": "an amount paid or collected as rent"
+            },
+            "2": {
+                "definition": "dealing in rental property [a agency]"
+            },
+            "3": {
+                "definition": "an act of renting"
+            },
+            "4": {
+                "definition": "a business that rents somethingadj"
+            },
+            "1 a": {
+                "definition": "of or relating to rent",
+                "sub_terms": {
+                    "b": "available for rent [ property]"
+                }
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "D'oench Doctrine": {
+        "definition": "a doctrine in banking law",
+        "origin": "[from D'Oench, Duhme & Co., Inc. v. Federal Deposit Insurance Company, 315 U.S. 447 (1942), the Supreme Court case establishing the doctrine]",
+        "sub_definitions": {
+            "1": {
+                "1": "a doctrine in banking law: a party (as a borrower or guarantor) cannot assert an unrecorded agreement with a failed bank against attempts by the federal insurer (as the Federal Deposit Insurance Corporation) or its assigns to collect on a promissory note (as a loan) called also"
+            }
+        },
+        "references": {}
+    }
+}

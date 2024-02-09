@@ -1,0 +1,38 @@
+{
+    "Life Insurance": {
+        "definition": "insurance providing for the payment of money to a designated beneficiary upon the death of the insured see also endowment insurance ordinary life insurance",
+        "compare": "endowment insurance",
+        "sub_definitions": {
+            "ordinary life insurance": {
+                "definition": "in this entry"
+            },
+            "straight life insurance": {
+                "definition": "in this entry"
+            },
+            "term life insurance": {
+                "definition": "life insurance that provides coverage for a set term and does not accumulate cash surrender value"
+            },
+            "universal life insurance": {
+                "definition": "life insurance characterized by flexible premiums, benefits, and payment schedules, by the indexing of cash value to money market interest rates, and by the periodic reporting of current value and company costs charged to the account"
+            },
+            "universal variable life insurance": {
+                "definition": "in this entry"
+            },
+            "variable life insurance": {
+                "definition": "life insurance in which all or part of the cash value of the policy is located in a tax-deferred investment portfolio with risk assumed by the insured for investment losses compareat"
+            },
+            "variable universal life insurance": {
+                "definition": "universal life insurance that includes the investment component of variable life insurance called also"
+            },
+            "whole life insurance": {
+                "definition": "life insurance that provides coverage over the life of the insured and that can be sold for surrender value or used as the basis of low-interest loans called also"
+            }
+        },
+        "references": {
+            "endowment insurance": "https://dictionary.findlaw.com/definition/endowment-insurance.html",
+            "whole life insurance": "https://dictionary.findlaw.com/definition/whole-life-insurance.html",
+            "variable universal life insurance": "https://dictionary.findlaw.com/definition/variable-universal-life-insurance.html",
+            "annuity": "https://dictionary.findlaw.com/definition/annuity.html"
+        }
+    }
+}

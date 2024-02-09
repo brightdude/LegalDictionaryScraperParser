@@ -1,0 +1,11 @@
+{
+    "Jailer": {
+        "definition": "a keeper of a jail",
+        "sub_definitions": {
+            "1": {
+                "1": "a keeper of a jail"
+            }
+        },
+        "references": {}
+    }
+}

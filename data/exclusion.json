@@ -1,0 +1,28 @@
+{
+    "Exclusion": {
+        "definition": "the act of excluding or state of being excluded ;specif",
+        "origin": "[review of deportation and orders]",
+        "sub_definitions": {
+            "1": {
+                "definition": "the act of excluding or state of being excludedrefusal of entry into the U.S. by immigration officials [review of deportation and orders] compare",
+                "compares": "deportation"
+            },
+            "2": {
+                "definition": "something that excludes or is excluded",
+                "sub_terms": {
+                    "a": "a part of an insurance contract that excludes specified risks from coverage compare,",
+                    "b": "an amount that is excluded from tax liability [a $10,000 annual per donee for gifts \"W. M. McGovern, Jr.\"] compare,,"
+                },
+                "compares": "credit"
+            }
+        },
+        "references": {
+            "deportation": "https://dictionary.findlaw.com/definition/deportation.html",
+            "condition": "https://dictionary.findlaw.com/definition/condition.html",
+            "declaration": "https://dictionary.findlaw.com/definition/declaration.html",
+            "credit": "https://dictionary.findlaw.com/definition/credit.html",
+            "deduction": "https://dictionary.findlaw.com/definition/deduction.html",
+            "exemption": "https://dictionary.findlaw.com/definition/exemption.html"
+        }
+    }
+}

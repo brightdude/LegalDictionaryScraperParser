@@ -1,0 +1,14 @@
+{
+    "Forward": {
+        "definition": "forward contract at contract",
+        "sub_definitions": {
+            "1": {
+                "1": "forward contract"
+            }
+        },
+        "references": {
+            "forward contract": "https://dictionary.findlaw.com/definition/forward-contract.html",
+            "contract": "https://dictionary.findlaw.com/definition/contract.html"
+        }
+    }
+}

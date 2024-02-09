@@ -1,0 +1,16 @@
+{
+    "Derivative Action": {
+        "definition": "a suit brought by a shareholder on behalf of a corporation or by a member on behalf of an association to assert a cause of action usually against an officer which the corporation or association has itself failed to assert for its injuries called also derivative suit shareholder's derivative suit compare direct action NOTE",
+        "compare": "direct action",
+        "sub_definitions": {
+            "1": {
+                "1": "a suit brought by a shareholder on behalf of a corporation or by a member on behalf of an association to assert a cause of action usually against an officer which the corporation or association has itself failed to assert for its injuries called also",
+                "compares": "direct action",
+                "note": " A shareholder or member bringing a derivative action must describe in the complaint attempts to obtain action from the corporate directors or association authorities, or from other shareholders or members, and the reasons these attempts failed. The plaintiff must fairly and adequately represent the other similarly situated shareholders or members, and the action may not be collusive. Federal Rule of Civil Procedure 23.1 governs derivative actions brought in federal court."
+            }
+        },
+        "references": {
+            "direct action": "https://dictionary.findlaw.com/definition/direct-action.html"
+        }
+    }
+}

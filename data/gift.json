@@ -1,0 +1,62 @@
+{
+    "Gift": {
+        "definition": "an intentional and gratuitous transfer of real or personal property by a donor with legal capacity who actually or constructively delivers the property to the donee with the intent of giving up dominion over the property and investing it in the donee who accepts it ;broadly",
+        "origin": "[-kȯ-zə-mȯr-tis, -ka-sÄ -mȯr-tēs]",
+        "sub_definitions": {
+            "1": {
+                "definition": "an intentional and gratuitous transfer of real or personal property by a donor with legal capacity who actually or constructively delivers the property to the donee with the intent of giving up dominion over the property and investing it in the donee who accepts ita voluntary transfer of property without compensation see alsocompare,",
+                "compares": "donation",
+                "see also": "delivery"
+            },
+            "class gift": {
+                "definition": "a usually testamentary gift of a sum to a group of unspecified persons whose number and identity and share of the gift will be determined sometime in the future (as at the death of the donor)"
+            },
+            "com·plet·ed gift": {
+                "definition": "a gift in which the dominion and control of the property is placed beyond the donor's reach"
+            },
+            "gift cau·sa mor·tis": {
+                "definition": "[-kȯ-zə-mȯr-tis, -ka-sÄ -mȯr-tēs]"
+            },
+            "gifts causa mortis": {
+                "definition": "a gift of esp. personal property made in contemplation of impending death that is delivered with the intent that the gift take effect only in the event of the donor's death and that it be revoked in the event of survival compareandat,andin this entry"
+            },
+            "gift in·ter vi·vos": {
+                "definition": "[-in-tər-vī-vōs; -in-ter-vē-vōs, -wē-wōs]"
+            },
+            "gifts inter vivos": {
+                "definition": "a gift made during the lifetime of the donor and delivered with the intent of surrendering immediately and irrevocably dominion and control over the property compareat,andin this entry"
+            },
+            "gifts over": {
+                "definition": "a gift esp. by will of property that takes effect upon the termination or failure of a preceding estate (as a life estate) in the property"
+            },
+            "manual gift": {
+                "definition": "a gift esp. under the civil law of Louisiana made of a movable corporeal object by actual delivery and involving no formalities"
+            },
+            "split gift": {
+                "definition": "a gift made by a spouse to a third person that for purposes of gift tax may be considered as given one-half by each spouse to take advantage of tax avoidance devices (as the annual exclusion)"
+            },
+            "sub·sti·tu·tion·al gift": {
+                "definition": "[səb-stə-tü-shə-nəl-, -tyü-]a gift to a legatee or devisee in substitution for another devisee or legatee who cannot take under the will (as because of death) called also"
+            },
+            "testamentary gift": {
+                "definition": "a gift that does not become effective until the death of the donora gift made in a will compareandin this entry",
+                "compares": "gift causa mortis"
+            },
+            "2": {
+                "definition": "something voluntarily transferred without compensation"
+            },
+            "3": {
+                "definition": "a transfer of property for less than adequate consideration other than in the ordinary course of business used in the law of gift tax",
+                "note": " The amount by which the value of property so transferred exceeds the consideration paid is included in the total amount of taxable gifts made during a calendar year."
+            }
+        },
+        "references": {
+            "delivery": "https://dictionary.findlaw.com/definition/delivery.html",
+            "donation": "https://dictionary.findlaw.com/definition/donation.html",
+            "sale": "https://dictionary.findlaw.com/definition/sale.html",
+            "gift inter vivos": "https://dictionary.findlaw.com/definition/gift-inter-vivos.html",
+            "testamentary gift": "https://dictionary.findlaw.com/definition/testamentary-gift.html",
+            "gift causa mortis": "https://dictionary.findlaw.com/definition/gift-causa-mortis.html"
+        }
+    }
+}

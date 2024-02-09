@@ -1,0 +1,12 @@
+{
+    "Perils Of The Sea": {
+        "definition": "perils that are peculiar to the sea but are of such an extraordinary nature and power that one cannot guard against them using ordinary skill and prudence [the insurance company denied that such waves in that region were perils of the sea ]",
+        "origin": "[the insurance company denied that such waves in that region were perils of the sea ]",
+        "sub_definitions": {
+            "1": {
+                "1": "perils that are peculiar to the sea but are of such an extraordinary nature and power that one cannot guard against them using ordinary skill and prudence [the insurance company denied that such waves in that region were"
+            }
+        },
+        "references": {}
+    }
+}

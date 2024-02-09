@@ -1,0 +1,14 @@
+{
+    "Liability Insurance": {
+        "definition": "insurance against loss resulting from civil liability for injury or damage to the persons or property of others see also comprehensive general liability insurance",
+        "sub_definitions": {
+            "1": {
+                "1": "insurance against loss resulting from civil liability for injury or damage to the persons or property of others see also",
+                "see also": "comprehensive general liability insurance"
+            }
+        },
+        "references": {
+            "comprehensive general liability insurance": "https://dictionary.findlaw.com/definition/comprehensive-general-liability-insurance.html"
+        }
+    }
+}

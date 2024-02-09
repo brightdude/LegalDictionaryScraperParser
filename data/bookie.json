@@ -1,0 +1,13 @@
+{
+    "Bookie": {
+        "definition": "bookmaker",
+        "sub_definitions": {
+            "1": {
+                "1": "bookmaker"
+            }
+        },
+        "references": {
+            "bookmaker": "https://dictionary.findlaw.com/definition/bookmaker.html"
+        }
+    }
+}

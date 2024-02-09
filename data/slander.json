@@ -1,0 +1,25 @@
+{
+    "Slander": {
+        "definition": "to utter slander against slan·der·er n n  [Anglo-French esclandre",
+        "origin": "[Anglo-French esclandre , from Old French escandle esclandre scandal, from Late Latin scandalum moral stumbling block, disgrace, from Greek skandalon , literally, snare, trap]",
+        "compare": "defamation",
+        "sub_definitions": {
+            "slan·der·ern": {
+                "definition": "n  [Anglo-French, from Old Frenchscandal, from Late Latinmoral stumbling block, disgrace, from Greek, literally, snare, trap]"
+            },
+            "1": {
+                "definition": "defamation of a person by unprivileged oral communication made to a third partydefamatory oral statements"
+            },
+            "2": {
+                "definition": "the tort of oral defamation [sued his former employer for ] compare,,",
+                "note": " An action for slander may be brought without alleging and proving special damages if the statements in question have a plainly harmful character, as by imputing to the plaintiff criminal guilt, serious sexual misconduct, or conduct or a characteristic affecting his or her business or profession.",
+                "compares": "defamation"
+            }
+        },
+        "references": {
+            "defamation": "https://dictionary.findlaw.com/definition/defamation.html",
+            "false light": "https://dictionary.findlaw.com/definition/false-light.html",
+            "libel": "https://dictionary.findlaw.com/definition/libel.html"
+        }
+    }
+}

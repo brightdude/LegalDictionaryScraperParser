@@ -1,0 +1,8 @@
+{
+    "Business Expense": {
+        "definition": "Business Expense",
+        "references": {
+            "expense": "https://dictionary.findlaw.com/definition/expense.html"
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "Hud-1 Settlement Statement": {
+        "definition": "a form signed at closing that sets out expenses",
+        "origin": "[Department of H ousing and U rban D evelopment (which publishes the form) + 1 (indicating its place in a sequence of such forms)]",
+        "sub_definitions": {
+            "1": {
+                "1": "a form signed at closing that sets out expenses, disbursements, and adjustments relating to the purchase of real property"
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "Fence": {
+        "definition": "a barrier intended to prevent escape or intrusion or to mark a boundary 2 a",
+        "sub_definitions": {
+            "1": {
+                "definition": "a barrier intended to prevent escape or intrusion or to mark a boundary"
+            },
+            "2 a": {
+                "definition": "a receiver of stolen goods",
+                "sub_terms": {
+                    "b": "a place where stolen goods are boughtvt"
+                }
+            },
+            "1 a": {
+                "definition": "to enclose with a fence",
+                "sub_terms": {
+                    "b": "to keep in or out with a fence"
+                }
+            },
+            "2": {
+                "definition": "to sell (stolen property) to a fence"
+            }
+        },
+        "references": {}
+    }
+}

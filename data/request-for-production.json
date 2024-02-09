@@ -1,0 +1,11 @@
+{
+    "Request For Production": {
+        "definition": "a discovery request served by one party to an action on another",
+        "sub_definitions": {
+            "1": {
+                "1": "a discovery request served by one party to an action on another (as under Federal Rule of Civil Procedure 34) for the presentation for inspection of specified documents or tangible things or for permission to enter upon and inspect land or property in the other party's possession"
+            }
+        },
+        "references": {}
+    }
+}

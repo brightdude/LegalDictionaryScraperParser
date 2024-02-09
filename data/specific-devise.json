@@ -1,0 +1,8 @@
+{
+    "Specific Devise": {
+        "definition": "Specific Devise",
+        "references": {
+            "devise": "https://dictionary.findlaw.com/definition/devise.html"
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "Attack": {
+        "definition": "an attempt to prove something invalid or incorrect esp. through judicial procedures [made an on the will as not properly witnessed] ;specif",
+        "origin": "[made an on the will as not properly witnessed]",
+        "sub_definitions": {
+            "collateral attack": {
+                "definition": "an attack on a judgment made during or by a proceeding brought for a different purpose see alsoat"
+            },
+            "direct attack": {
+                "definition": "an attack on a judgment made in a proceeding (as an appeal) brought for the specific purpose of having the judgment corrected or overturned"
+            }
+        },
+        "references": {
+            "habeas corpus": "https://dictionary.findlaw.com/definition/habeas-corpus.html"
+        }
+    }
+}

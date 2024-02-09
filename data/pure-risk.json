@@ -1,0 +1,15 @@
+{
+    "Pure Risk": {
+        "definition": "a risk that can only result in loss compare speculative risk",
+        "compare": "speculative risk",
+        "sub_definitions": {
+            "1": {
+                "1": "a risk that can only result in loss compare",
+                "compares": "speculative risk"
+            }
+        },
+        "references": {
+            "speculative risk": "https://dictionary.findlaw.com/definition/speculative-risk.html"
+        }
+    }
+}

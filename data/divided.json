@@ -1,0 +1,19 @@
+{
+    "Divided": {
+        "definition": "separated into parts",
+        "origin": "[ coverage]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "separated into parts, classes, or portions [ coverage] [ custody]",
+                "sub_terms": {
+                    "b": "separately owned, possessed, or heldno longer held in indivision [owner of a part or of the entire estate following partition \"\"] [granted in portions]"
+                },
+                "Louisiana Civil Code": "\"] [granted in portions]"
+            },
+            "2": {
+                "definition": "not unitedfailing to agree [a Court]"
+            }
+        },
+        "references": {}
+    }
+}

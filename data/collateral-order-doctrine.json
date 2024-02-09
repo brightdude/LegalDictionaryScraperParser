@@ -1,0 +1,11 @@
+{
+    "Collateral Order Doctrine": {
+        "definition": "an exception to the final judgment rule that allows review of orders conclusively determining a disputed question when the question is independent and separable from the rest of the case for purposes of review and is too important to be denied review until the rest of the case is adjudicated",
+        "sub_definitions": {
+            "1": {
+                "1": "an exception to the final judgment rule that allows review of orders conclusively determining a disputed question when the question is independent and separable from the rest of the case for purposes of review and is too important to be denied review until the rest of the case is adjudicated"
+            }
+        },
+        "references": {}
+    }
+}

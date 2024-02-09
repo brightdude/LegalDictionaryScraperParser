@@ -1,0 +1,15 @@
+{
+    "Out-Of-Court": {
+        "definition": "not made under oath or affirmation as part of a judicial proceeding",
+        "origin": "[an statement]",
+        "sub_definitions": {
+            "1": {
+                "definition": "not made under oath or affirmation as part of a judicial proceeding (as a trial or deposition) [an statement]"
+            },
+            "2": {
+                "definition": "not made or done as part of a judicial proceeding [an settlement]"
+            }
+        },
+        "references": {}
+    }
+}

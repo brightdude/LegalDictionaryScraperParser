@@ -1,0 +1,17 @@
+{
+    "Direct Action": {
+        "definition": "an action in which the plaintiff sues a person's insurer without first obtaining a judgment against the insured or joining the insured 2",
+        "sub_definitions": {
+            "1": {
+                "definition": "an action in which the plaintiff sues a person's insurer without first obtaining a judgment against the insured or joining the insured"
+            },
+            "2": {
+                "definition": "a suit by a shareholder for an injury to himself or herself independent from any injury to the corporation called alsocompare",
+                "compares": "derivative action"
+            }
+        },
+        "references": {
+            "derivative action": "https://dictionary.findlaw.com/definition/derivative-action.html"
+        }
+    }
+}

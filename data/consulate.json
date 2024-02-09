@@ -1,0 +1,14 @@
+{
+    "Consulate": {
+        "definition": "the office",
+        "sub_definitions": {
+            "1": {
+                "definition": "the office, term of office, or jurisdiction of a consul"
+            },
+            "2": {
+                "definition": "the residence or official premises of a consul"
+            }
+        },
+        "references": {}
+    }
+}

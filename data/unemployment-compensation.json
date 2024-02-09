@@ -1,0 +1,12 @@
+{
+    "Unemployment Compensation": {
+        "definition": "compensation paid at regular intervals",
+        "sub_definitions": {
+            "1": {
+                "1": "compensation paid at regular intervals (as by a state agency) to an unemployed worker and esp. one who has been laid off called also",
+                "note": " Unemployment compensation is usually a fixed percentage of the former wages of an unemployed worker."
+            }
+        },
+        "references": {}
+    }
+}

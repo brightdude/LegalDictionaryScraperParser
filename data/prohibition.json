@@ -1,0 +1,21 @@
+{
+    "Prohibition": {
+        "definition": "an extraordinary writ issued by a higher court commanding an inferior court to keep within its proper jurisdiction",
+        "origin": "[prō-hi-bə-tiv]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "an extraordinary writ issued by a higher court commanding an inferior court to keep within its proper jurisdiction (as by ceasing a prosecution)",
+                "sub_terms": {
+                    "b": "an order to refrain or stop"
+                }
+            },
+            "2 a": {
+                "definition": "something (as a law) that prohibits a certain act or procedure",
+                "sub_terms": {
+                    "b": "the period from 1920 to 1933 in the U.S. when the manufacture, transportation, and sale of alcoholic liquors was prohibited by the Eighteenth Amendment to the U.S. Constitution"
+                }
+            }
+        },
+        "references": {}
+    }
+}

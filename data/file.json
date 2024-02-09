@@ -1,0 +1,31 @@
+{
+    "File": {
+        "definition": "to submit",
+        "origin": "[ filed a tax return]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "to submit (a legal document) to the proper office (as the office of a clerk of court) for keeping on file among the records esp. as a procedural step in a legal transaction or proceeding [a tax return] [a financing statementwith the Secretary of State] [a notice of appeal][a mortgage in the Registry of Deeds]",
+                "sub_terms": {
+                    "b": "to place (as a document) on file among the records of an office esp. by formally receiving and endorsing [a complaintby the clerk despite the absence of the filing fee]"
+                },
+                "note": " In nearly all cases, a document is deemed to be filed when it is actually received by the office to which it is directed. A few cases, however, have held that a document is filed upon the mailing of it.",
+                "filed": "by the clerk despite the absence of the filing fee]",
+                "filing": "a notice of appeal]"
+            },
+            "2": {
+                "definition": "to place items in a filena collection of papers or publications usually arranged or classifiedthe papers that make up the record of a case"
+            },
+            "3": {
+                "definition": "to initiate (a judicial or administrative proceeding) by submitting the proper documents or following proper procedure[threatened to charges] [two separate actions wereby representatives of the estates \"J. H. Friedenthal\"]",
+                "filed": "by representatives of the estates \"J. H. Friedenthal"
+            },
+            "1": {
+                "definition": "to register as a candidate esp. in a primary election"
+            }
+        },
+        "references": {
+            "record": "https://dictionary.findlaw.com/definition/record.html",
+            "bring": "https://dictionary.findlaw.com/definition/bring.html"
+        }
+    }
+}

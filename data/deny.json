@@ -1,0 +1,20 @@
+{
+    "Deny": {
+        "definition": "to declare untrue [a party…shall admit or the averments \" Federal Rules of Civil Procedure Rule 8",
+        "origin": "[a party…shall admit or the averments \" Federal Rules of Civil Procedure Rule 8(b)\"]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to declare untrue [a party…shall admit or the averments \"Rule 8(b)\"] compare",
+                "compares": "avoid",
+                "Federal Rules of Civil Procedure": "Rule 8(b)\"] compare"
+            },
+            "2": {
+                "definition": "to refuse to grant [the motion for a new trial]",
+                "denied": "the motion for a new trial]"
+            }
+        },
+        "references": {
+            "avoid": "https://dictionary.findlaw.com/definition/avoid.html"
+        }
+    }
+}

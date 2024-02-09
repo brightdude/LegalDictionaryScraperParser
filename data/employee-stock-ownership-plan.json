@@ -1,0 +1,13 @@
+{
+    "Employee Stock Ownership Plan": {
+        "definition": "esop",
+        "sub_definitions": {
+            "1": {
+                "1": "esop"
+            }
+        },
+        "references": {
+            "esop": "https://dictionary.findlaw.com/definition/esop.html"
+        }
+    }
+}

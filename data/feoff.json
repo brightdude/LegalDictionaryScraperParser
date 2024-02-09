@@ -1,0 +1,14 @@
+{
+    "Feoff": {
+        "definition": "enfeoff",
+        "origin": "[Anglo-French feoffer , from fie fief fief]",
+        "sub_definitions": {
+            "1": {
+                "1": "enfeoff"
+            }
+        },
+        "references": {
+            "enfeoff": "https://dictionary.findlaw.com/definition/enfeoff.html"
+        }
+    }
+}

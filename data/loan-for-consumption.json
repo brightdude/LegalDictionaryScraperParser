@@ -1,0 +1,8 @@
+{
+    "Loan For Consumption": {
+        "definition": "Loan For Consumption",
+        "references": {
+            "loan": "https://dictionary.findlaw.com/definition/loan.html"
+        }
+    }
+}

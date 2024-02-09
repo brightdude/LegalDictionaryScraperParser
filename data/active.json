@@ -1,0 +1,18 @@
+{
+    "Active": {
+        "definition": "characterized or accomplished by action or effort [ concealment] compare passive 2",
+        "origin": "[ concealment]",
+        "sub_definitions": {
+            "1": {
+                "definition": "characterized or accomplished by action or effort [ concealment] compare",
+                "compares": "passive"
+            },
+            "2": {
+                "definition": "engaged or participating in action or activity [paying child support but not otherwise an parent]"
+            }
+        },
+        "references": {
+            "passive": "https://dictionary.findlaw.com/definition/passive.html"
+        }
+    }
+}

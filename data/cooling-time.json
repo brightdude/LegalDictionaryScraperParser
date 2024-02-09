@@ -1,0 +1,16 @@
+{
+    "Cooling Time": {
+        "definition": "time in which to become calm following provocation compare heat of passion NOTE",
+        "compare": "heat of passion",
+        "sub_definitions": {
+            "1": {
+                "1": "time in which to become calm following provocation compare",
+                "compares": "heat of passion",
+                "note": " If a court finds that the cooling time was sufficient or reasonable, a defendant may not use provocation to reduce a murder charge to involuntary manslaughter."
+            }
+        },
+        "references": {
+            "heat of passion": "https://dictionary.findlaw.com/definition/heat-of-passion.html"
+        }
+    }
+}

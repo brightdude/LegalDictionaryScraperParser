@@ -1,0 +1,18 @@
+{
+    "Durham Rule": {
+        "definition": "a rule of criminal law used in some states that holds that in order to find a defendant not guilty by reason of insanity the defendant's criminal act must be the product of a mental disease or defect compare irresistible impulse test",
+        "origin": "[from Durham v. United States , 214 F.2d 862 (1954), a case heard by the District of Columbia Court of Appeals that established the rule]",
+        "compare": "irresistible impulse test",
+        "sub_definitions": {
+            "1": {
+                "1": "a rule of criminal law used in some states that holds that in order to find a defendant not guilty by reason of insanity the defendant's criminal act must be the product of a mental disease or defect compare",
+                "compares": "irresistible impulse test"
+            }
+        },
+        "references": {
+            "irresistible impulse test": "https://dictionary.findlaw.com/definition/irresistible-impulse-test.html",
+            "m'naghten test": "https://dictionary.findlaw.com/definition/m-naghten-test.html",
+            "substantial capacity test": "https://dictionary.findlaw.com/definition/substantial-capacity-test.html"
+        }
+    }
+}

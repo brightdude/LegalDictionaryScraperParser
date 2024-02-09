@@ -1,0 +1,15 @@
+{
+    "Intra-": {
+        "definition": "within [ intra state] 2",
+        "origin": "[ intra state]",
+        "sub_definitions": {
+            "1": {
+                "definition": "within [state]"
+            },
+            "2": {
+                "definition": "during [day]"
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "Legislative Court": {
+        "definition": "a court",
+        "compare": "article iii court",
+        "sub_definitions": {
+            "1": {
+                "1": "a court (as the United States Tax Court and the territorial courts) created by Congress under Article I of the U.S. Constitution whose judges are subject to removal from office and salary reduction called also",
+                "compares": "article iii court"
+            }
+        },
+        "references": {
+            "article iii court": "https://dictionary.findlaw.com/definition/article-iii-court.html"
+        }
+    }
+}

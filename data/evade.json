@@ -1,0 +1,18 @@
+{
+    "Evade": {
+        "definition": "to unlawfully fail to pay",
+        "origin": "[trying to the question]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to unlawfully fail to pay (taxes) through fraudulent or deceptive means compare",
+                "compares": "avoid"
+            },
+            "2": {
+                "definition": "to avoid answering directly [trying to the question]"
+            }
+        },
+        "references": {
+            "avoid": "https://dictionary.findlaw.com/definition/avoid.html"
+        }
+    }
+}

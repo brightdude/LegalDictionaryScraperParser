@@ -1,0 +1,15 @@
+{
+    "Moiety": {
+        "definition": "-ties",
+        "origin": "[an interest exceeding a ]",
+        "sub_definitions": {
+            "-ties": {
+                "definition": "half of something (as an estate) [an interest exceeding a ] compare",
+                "compares": "entirety"
+            }
+        },
+        "references": {
+            "entirety": "https://dictionary.findlaw.com/definition/entirety.html"
+        }
+    }
+}

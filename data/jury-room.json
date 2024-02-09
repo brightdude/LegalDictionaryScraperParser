@@ -1,0 +1,11 @@
+{
+    "Jury Room": {
+        "definition": "the room where a jury deliberates",
+        "sub_definitions": {
+            "1": {
+                "1": "the room where a jury deliberates"
+            }
+        },
+        "references": {}
+    }
+}

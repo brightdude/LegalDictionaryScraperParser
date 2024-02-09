@@ -1,0 +1,12 @@
+{
+    "Rule 10b-5": {
+        "definition": "a rule adopted by the Securities and Exchange Commission in furtherance of the Securities Exchange Act that outlaws fraud",
+        "origin": "[ 10b-5 from the section of the Securities Exchange Act of 1934 pursuant to which the rule was formulated]",
+        "sub_definitions": {
+            "1": {
+                "1": "a rule adopted by the Securities and Exchange Commission in furtherance of the Securities Exchange Act that outlaws fraud, deceit, misrepresentation, and manipulation in securities dealing in broad terms"
+            }
+        },
+        "references": {}
+    }
+}

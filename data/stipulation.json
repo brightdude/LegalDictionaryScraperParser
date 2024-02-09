@@ -1,0 +1,21 @@
+{
+    "Stipulation": {
+        "definition": "an act of stipulating 2",
+        "origin": "[a of facts]",
+        "sub_definitions": {
+            "1": {
+                "definition": "an act of stipulating"
+            },
+            "2": {
+                "definition": "something stipulated",
+                "sub_terms": {
+                    "a": "an agreement between parties regarding some aspect of a legal proceeding [a of facts] [admitted the charges in a prehearing \"\"]",
+                    "b": "a condition, requirement, or item specified in a legal instrument"
+                }
+            }
+        },
+        "references": {
+            "stipulation pour autrui": "https://dictionary.findlaw.com/definition/stipulation-pour-autrui.html"
+        }
+    }
+}

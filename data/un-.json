@@ -1,0 +1,16 @@
+{
+    "Un-": {
+        "definition": "not [ un counseled] 2",
+        "origin": "[ un counseled]",
+        "sub_definitions": {
+            "1": {
+                "definition": "not [counseled]"
+            },
+            "2": {
+                "definition": "contrary to [constitutional]",
+                "un": "constitutional]"
+            }
+        },
+        "references": {}
+    }
+}

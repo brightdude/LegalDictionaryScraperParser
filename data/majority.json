@@ -1,0 +1,32 @@
+{
+    "Majority": {
+        "definition": "-ties 1 a",
+        "sub_definitions": {
+            "1 a": {
+                "sub_terms": {
+                    "b": "the status of one who has reached legal age"
+                }
+            },
+            "2 a": {
+                "definition": "a number or quantity greater than half of a total compare",
+                "sub_terms": {
+                    "b": "the excess of a majority over the remainder of the total"
+                },
+                "compares": "plurality"
+            },
+            "3 a": {
+                "definition": "the group or political party whose votes predominate",
+                "sub_terms": {
+                    "b": "the judges voting in a particular case who together determine the prevailing decision see alsoatcompare"
+                },
+                "compares": "dissent"
+            }
+        },
+        "references": {
+            "legal age": "https://dictionary.findlaw.com/definition/legal-age.html",
+            "plurality": "https://dictionary.findlaw.com/definition/plurality.html",
+            "opinion": "https://dictionary.findlaw.com/definition/opinion.html",
+            "dissent": "https://dictionary.findlaw.com/definition/dissent.html"
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "Sequestration": {
+        "definition": "the act of sequestering",
+        "sub_definitions": {
+            "1": {
+                "definition": "the act of sequesteringthe state of being sequestered"
+            },
+            "2 a": {
+                "definition": "a writ authorizing an official (as a sheriff) to take into custody the property of a defendant usually to enforce a court order, to exercise quasi in rem jurisdiction, or to preserve the property until judgment is rendered",
+                "sub_terms": {
+                    "b": "a deposit in which a neutral person agrees to hold property in dispute and to restore it to the party to whom it is determined to belong"
+                }
+            },
+            "3": {
+                "definition": "the cancellation of funds for expenditure or obligation in order to enforce federal budget limitations set by law"
+            }
+        },
+        "references": {}
+    }
+}

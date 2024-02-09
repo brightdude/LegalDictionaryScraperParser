@@ -1,0 +1,15 @@
+{
+    "Retainer": {
+        "definition": "the act of a client by which the services of a lawyer are engaged 2",
+        "origin": "[Anglo-French retener act of engaging or employing, from retener retenir to engage, retain]",
+        "sub_definitions": {
+            "1": {
+                "definition": "the act of a client by which the services of a lawyer are engaged"
+            },
+            "2": {
+                "definition": "a fee paid to a lawyer for advice or services or for a claim on services when needed"
+            }
+        },
+        "references": {}
+    }
+}

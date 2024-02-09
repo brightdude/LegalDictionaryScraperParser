@@ -1,0 +1,11 @@
+{
+    "Reserve Price": {
+        "definition": "a price announced at an auction as the lowest that will be considered",
+        "sub_definitions": {
+            "1": {
+                "1": "a price announced at an auction as the lowest that will be considered"
+            }
+        },
+        "references": {}
+    }
+}

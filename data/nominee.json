@@ -1,0 +1,21 @@
+{
+    "Nominee": {
+        "definition": "a person named as the recipient of a grant",
+        "sub_definitions": {
+            "1": {
+                "definition": "a person named as the recipient of a grant, conveyance, or annuity"
+            },
+            "2": {
+                "definition": "a person named or proposed for an office, duty, or position",
+                "sub_terms": {
+                    "a": "a person named to act as another's agent or representative",
+                    "b": "a candidate selected to represent a party in an election"
+                }
+            },
+            "3": {
+                "definition": "a person in whose name a stock or registered bond certificate is registered but who is not the actual owner"
+            }
+        },
+        "references": {}
+    }
+}

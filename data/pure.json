@@ -1,0 +1,18 @@
+{
+    "Pure": {
+        "definition": "unmixed with any other matter b",
+        "origin": "[a no-fault compensation system]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "unmixed with any other matter",
+                "sub_terms": {
+                    "b": "free from dirt or taint"
+                }
+            },
+            "2": {
+                "definition": "being thus and nothing other [a no-fault compensation system]"
+            }
+        },
+        "references": {}
+    }
+}

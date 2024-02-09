@@ -1,0 +1,20 @@
+{
+    "Inter Vivos": {
+        "definition": "between living persons [an inter vivos transfer] see also donation inter vivos at donation gift inter vivos at gift inter vivos trust at trust compare causa mortis",
+        "origin": "[Late Latin]",
+        "compare": "donation",
+        "sub_definitions": {
+            "1": {
+                "1": "between living persons [an",
+                "inter vivos": "transfer] see also",
+                "compares": "causa mortis"
+            }
+        },
+        "references": {
+            "donation": "https://dictionary.findlaw.com/definition/donation.html",
+            "gift": "https://dictionary.findlaw.com/definition/gift.html",
+            "trust": "https://dictionary.findlaw.com/definition/trust.html",
+            "causa mortis": "https://dictionary.findlaw.com/definition/causa-mortis.html"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "Waiver": {
+        "definition": "the act of intentionally or knowingly relinquishing or abandoning a known right",
+        "origin": "[Anglo-French, from waiver to waive]",
+        "compare": "estoppel",
+        "sub_definitions": {
+            "1": {
+                "1": "the act of intentionally or knowingly relinquishing or abandoning a known right, claim, or privilege"
+            },
+            "2": {
+                "1": "the legal instrument evidencing such an act compare",
+                "compares": "estoppel",
+                "note": " Acts or statements made while forming or carrying out a contract may constitute a waiver and prevent a party from enforcing a contractual right (as when an insurer is barred from disclaiming liability because of facts known to it when it issued the insurance policy). Varying standards are applied by courts to determine if there has been a waiver of various constitutional rights (such as the right to counsel) in criminal cases."
+            }
+        },
+        "references": {
+            "estoppel": "https://dictionary.findlaw.com/definition/estoppel.html",
+            "forfeiture": "https://dictionary.findlaw.com/definition/forfeiture.html"
+        }
+    }
+}

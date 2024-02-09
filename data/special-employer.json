@@ -1,0 +1,11 @@
+{
+    "Special Employer": {
+        "definition": "an employer under workers' compensation law that borrows an employee from another employer",
+        "sub_definitions": {
+            "1": {
+                "1": "an employer under workers' compensation law that borrows an employee from another employer"
+            }
+        },
+        "references": {}
+    }
+}

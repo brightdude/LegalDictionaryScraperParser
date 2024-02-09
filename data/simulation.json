@@ -1,0 +1,19 @@
+{
+    "Simulation": {
+        "definition": "the act of simulating 2",
+        "sub_definitions": {
+            "1": {
+                "definition": "the act of simulating"
+            },
+            "2": {
+                "definition": "a contract that by mutual agreement does not express the true intent of the parties see alsocompareat",
+                "note": " Although a simulation does not have effect as between the parties, its lack of effect may not be asserted against third parties, such as creditors or bona fide purchasers, to avoid liability.",
+                "see also": "counterletter"
+            }
+        },
+        "references": {
+            "counterletter": "https://dictionary.findlaw.com/definition/counterletter.html",
+            "donation": "https://dictionary.findlaw.com/definition/donation.html"
+        }
+    }
+}

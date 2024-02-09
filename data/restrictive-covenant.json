@@ -1,0 +1,20 @@
+{
+    "Restrictive Covenant": {
+        "definition": "a covenant acknowledged in a deed or lease that restricts the free use or occupancy of property",
+        "origin": "[one who purchases for value and without notice takes the land free from the restrictive covenant \" American Jurisprudence 2d\"]",
+        "sub_definitions": {
+            "1": {
+                "definition": "a covenant acknowledged in a deed or lease that restricts the free use or occupancy of property (as by forbidding commercial use or types of structures) [one who purchases for value and without notice takes the land free from the\"2d\"]",
+                "note": " For a restrictive covenant to run with the land it must be intended to do so by the original parties to it, it must directly concern the land itself and be enforceable, and there must be privity between the original parties and between the original and subsequent grantee."
+            },
+            "2": {
+                "definition": "[unenforceable upon physicians \"\"]",
+                "note": " A restrictive covenant in a work contract must be reasonable to be enforceable, which means that it must be reasonably necessary to protect the legitimate interests of the employer or partnership, must not impose undue hardship on the individual concerned, and must not harm the public interest (as by causing undue restraint of trade).",
+                "restrictive covenants": "unenforceable upon physicians \""
+            }
+        },
+        "references": {
+            "covenant not to compete": "https://dictionary.findlaw.com/definition/covenant-not-to-compete.html"
+        }
+    }
+}

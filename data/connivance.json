@@ -1,0 +1,18 @@
+{
+    "Connivance": {
+        "definition": "the act of conniving esp. with regard to a spouse's marital misconduct",
+        "compare": "condonation",
+        "sub_definitions": {
+            "1": {
+                "1": "the act of conniving esp. with regard to a spouse's marital misconduct (as adultery)"
+            },
+            "2": {
+                "1": "a defense to a charge of marital misconduct in a divorce proceeding compare",
+                "compares": "condonation"
+            }
+        },
+        "references": {
+            "condonation": "https://dictionary.findlaw.com/definition/condonation.html"
+        }
+    }
+}

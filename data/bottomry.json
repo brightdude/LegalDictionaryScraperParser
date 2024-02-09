@@ -1,0 +1,16 @@
+{
+    "Bottomry": {
+        "definition": "a contract under which the owner of a ship pledges the ship as collateral for a loan to finance a journey [money lent on for…equipping the vessel \" Louisiana Civil Code \"] compare respondentia",
+        "origin": "[alteration of earlier bottomary , modification of Dutch bodemerij , from bodem bottom, hull, ship]",
+        "compare": "respondentia",
+        "sub_definitions": {
+            "1": {
+                "1": "a contract under which the owner of a ship pledges the ship as collateral for a loan to finance a journey [money lent on for…equipping the vessel \"",
+                "compares": "respondentia"
+            }
+        },
+        "references": {
+            "respondentia": "https://dictionary.findlaw.com/definition/respondentia.html"
+        }
+    }
+}

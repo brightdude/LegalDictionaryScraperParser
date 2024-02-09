@@ -1,0 +1,16 @@
+{
+    "Mature": {
+        "definition": "to bring to maturity [a policy matured by the death of the insured] vi",
+        "origin": "[a policy matured by the death of the insured]",
+        "sub_definitions": {
+            "ma·tur·ing": {
+                "definition": "to bring to maturity [a policyby the death of the insured]to become due, payable, or enforceableto entitle one to immediate enjoyment of benefits [her pension rightupon retirement] compare",
+                "compares": "vest",
+                "matured": "upon retirement] compare"
+            }
+        },
+        "references": {
+            "vest": "https://dictionary.findlaw.com/definition/vest.html"
+        }
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "Imprescriptible": {
+        "definition": "not subject to prescription",
+        "sub_definitions": {
+            "1": {
+                "1": "not subject to prescription"
+            },
+            "2": {
+                "1": "inalienable"
+            }
+        },
+        "references": {
+            "inalienable": "https://dictionary.findlaw.com/definition/inalienable.html"
+        }
+    }
+}

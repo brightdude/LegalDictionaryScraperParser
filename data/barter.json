@@ -1,0 +1,26 @@
+{
+    "Barter": {
+        "definition": "to trade by exchanging one commodity or service for another vt",
+        "compare": "sell",
+        "sub_definitions": {
+            "1": {
+                "1": "to trade by exchanging one commodity or service for another"
+            },
+            "2": {
+                "1": "to trade or exchange by or as if by bartering compare",
+                "compares": "sell"
+            },
+            "3": {
+                "1": "the art or practice of carrying on trade or exchange by or as if by bartering"
+            },
+            "4": {
+                "1": "exchange of one commodity or service for another compare",
+                "compares": "sale"
+            }
+        },
+        "references": {
+            "sell": "https://dictionary.findlaw.com/definition/sell.html",
+            "sale": "https://dictionary.findlaw.com/definition/sale.html"
+        }
+    }
+}

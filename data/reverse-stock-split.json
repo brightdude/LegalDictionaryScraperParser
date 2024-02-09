@@ -1,0 +1,15 @@
+{
+    "Reverse Stock Split": {
+        "definition": "a method of increasing the value of shares of corporate stock by calling in all outstanding shares and reissuing fewer shares having greater value compare stock split",
+        "compare": "stock split",
+        "sub_definitions": {
+            "1": {
+                "1": "a method of increasing the value of shares of corporate stock by calling in all outstanding shares and reissuing fewer shares having greater value compare",
+                "compares": "stock split"
+            }
+        },
+        "references": {
+            "stock split": "https://dictionary.findlaw.com/definition/stock-split.html"
+        }
+    }
+}

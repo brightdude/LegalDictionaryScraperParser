@@ -1,0 +1,8 @@
+{
+    "Forced Sale": {
+        "definition": "Forced Sale",
+        "references": {
+            "sale": "https://dictionary.findlaw.com/definition/sale.html"
+        }
+    }
+}

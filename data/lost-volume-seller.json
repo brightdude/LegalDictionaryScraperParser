@@ -1,0 +1,11 @@
+{
+    "Lost Volume Seller": {
+        "definition": "a seller who sells to a buyer after a previous buyer has breached a contract for sale but who would have been able to make a sale to the second buyer even if the first buyer had not breached called also lost volume dealer",
+        "sub_definitions": {
+            "1": {
+                "1": "a seller who sells to a buyer after a previous buyer has breached a contract for sale but who would have been able to make a sale to the second buyer even if the first buyer had not breached called also"
+            }
+        },
+        "references": {}
+    }
+}

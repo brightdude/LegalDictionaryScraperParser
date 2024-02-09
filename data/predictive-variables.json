@@ -1,0 +1,6 @@
+{
+    "Predictive Variables": {
+        "definition": "The variables that are part of the formula comprising elements of a credit-scoring model. These variables are used to predict a borrower's future credit performance.",
+        "references": {}
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "Indorse": {
+        "definition": "Indorse",
+        "references": {
+            "endorse": "https://dictionary.findlaw.com/definition/endorse.html",
+            "endorsee": "https://dictionary.findlaw.com/definition/endorsee.html",
+            "endorsement": "https://dictionary.findlaw.com/definition/endorsement.html",
+            "endorser": "https://dictionary.findlaw.com/definition/endorser.html"
+        }
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "Informal Rulemaking": {
+        "definition": "rulemaking by a government agency in accordance with the provisions of section 553 of the Administrative Procedure Act called also notice-and-comment rulemaking compare formal rulemaking NOTE",
+        "compare": "formal rulemaking",
+        "sub_definitions": {
+            "1": {
+                "1": "rulemaking by a government agency in accordance with the provisions of section 553 of the Administrative Procedure Act called also",
+                "compares": "formal rulemaking",
+                "note": " Section 553 requires that prior to the promulgation of a proposed rule notice of the rule or of the issues involved must be published in the Federal Register, followed by a period during which interested persons may submit data, views, comments, or arguments."
+            }
+        },
+        "references": {
+            "formal rulemaking": "https://dictionary.findlaw.com/definition/formal-rulemaking.html"
+        }
+    }
+}

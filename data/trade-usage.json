@@ -1,0 +1,13 @@
+{
+    "Trade Usage": {
+        "definition": "usage of trade",
+        "sub_definitions": {
+            "1": {
+                "1": "usage of trade"
+            }
+        },
+        "references": {
+            "usage of trade": "https://dictionary.findlaw.com/definition/usage-of-trade.html"
+        }
+    }
+}

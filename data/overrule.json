@@ -1,0 +1,27 @@
+{
+    "Overrule": {
+        "definition": "to rule against [the objection was overruled ] compare sustain 2 a",
+        "origin": "[the objection was overruled ]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to rule against [the objection was] compare",
+                "compares": "sustain"
+            },
+            "2 a": {
+                "definition": "to rule against upon review by virtue of a higher authority[the appeals courtthe trial court's decision]",
+                "sub_terms": {
+                    "b": "to set aside as a precedent or guide [did not intend toprior jurisprudence in that area] [refused tothe landmark case] compare"
+                },
+                "compares": "follow",
+                "overruled": "the trial court's decision]",
+                "overrule": "the landmark case] compare"
+            }
+        },
+        "references": {
+            "sustain": "https://dictionary.findlaw.com/definition/sustain.html",
+            "set aside": "https://dictionary.findlaw.com/definition/set-aside.html",
+            "reverse": "https://dictionary.findlaw.com/definition/reverse.html",
+            "follow": "https://dictionary.findlaw.com/definition/follow.html"
+        }
+    }
+}

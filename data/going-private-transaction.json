@@ -1,0 +1,11 @@
+{
+    "Going Private Transaction": {
+        "definition": "a corporate action",
+        "sub_definitions": {
+            "1": {
+                "1": "a corporate action (as a recapitalization, share repurchase, or tender offer) taken as part of going private"
+            }
+        },
+        "references": {}
+    }
+}

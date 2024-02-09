@@ -1,0 +1,11 @@
+{
+    "Controlled Substance": {
+        "definition": "a substance",
+        "sub_definitions": {
+            "1": {
+                "1": "a substance (as a drug) whose use and possession is regulated by law (as title 21, chapter 13 of the U.S. Code)"
+            }
+        },
+        "references": {}
+    }
+}

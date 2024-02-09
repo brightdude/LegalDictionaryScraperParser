@@ -1,0 +1,19 @@
+{
+    "Direct Skip": {
+        "definition": "a generation-skipping transfer of an interest in property to a skip person",
+        "compare": "taxable distribution",
+        "sub_definitions": {
+            "1": {
+                "1": "a generation-skipping transfer of an interest in property to a skip person"
+            },
+            "2": {
+                "1": "a transfer that is to a person two or more generations below the person making the transfer or to a trust in which all interest is held by such persons and that is subject to generation-skipping transfer taxes compare",
+                "compares": "taxable distribution"
+            }
+        },
+        "references": {
+            "taxable distribution": "https://dictionary.findlaw.com/definition/taxable-distribution.html",
+            "taxable termination": "https://dictionary.findlaw.com/definition/taxable-termination.html"
+        }
+    }
+}

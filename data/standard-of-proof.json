@@ -1,0 +1,23 @@
+{
+    "Standard Of Proof": {
+        "definition": "the level of certainty and the degree of evidence necessary to establish proof in a criminal or civil proceeding [the standard of proof to convict is proof beyond a reasonable doubt] see also clear and convincing",
+        "origin": "[the standard of proof to convict is proof beyond a reasonable doubt]",
+        "compare": "clear and convincing",
+        "sub_definitions": {
+            "1": {
+                "1": "the level of certainty and the degree of evidence necessary to establish proof in a criminal or civil proceeding [the",
+                "standard of proof": "to convict is proof beyond a reasonable doubt] see also",
+                "see also": "clear and convincing",
+                "compares": "burden of proof",
+                "note": " Preponderance of the evidence is the least demanding standard of proof and is used for most civil actions and some criminal defenses (as insanity). Clear and convincing proof is a more demanding standard of proof and is used in certain civil actions (as a civil fraud suit). Proof beyond a reasonable doubt is the most demanding standard and the one that must be met for a criminal conviction."
+            }
+        },
+        "references": {
+            "clear and convincing": "https://dictionary.findlaw.com/definition/clear-and-convincing.html",
+            "preponderance of the evidence": "https://dictionary.findlaw.com/definition/preponderance-of-the-evidence.html",
+            "burden of proof": "https://dictionary.findlaw.com/definition/burden-of-proof.html",
+            "evidence": "https://dictionary.findlaw.com/definition/evidence.html",
+            "reasonable doubt": "https://dictionary.findlaw.com/definition/reasonable-doubt.html"
+        }
+    }
+}

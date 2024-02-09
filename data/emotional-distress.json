@@ -1,0 +1,16 @@
+{
+    "Emotional Distress": {
+        "definition": "a highly unpleasant emotional reaction",
+        "sub_definitions": {
+            "1": {
+                "1": "a highly unpleasant emotional reaction (as anguish, humiliation, or fury) which results from another's conduct and for which damages may be sought called also",
+                "see also": "outrage",
+                "note": " Damages may be recoverable for emotional distress that is caused intentionally or negligently. Recovery for negligent infliction of emotional distress often requires that the plaintiff suffer a physical injury as well."
+            }
+        },
+        "references": {
+            "outrage": "https://dictionary.findlaw.com/definition/outrage.html",
+            "zone of danger": "https://dictionary.findlaw.com/definition/zone-of-danger.html"
+        }
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "Cost Of Living": {
+        "definition": "the cost of purchasing those goods and services which are included in an accepted standard level of consumption",
+        "sub_definitions": {
+            "1": {
+                "1": "the cost of purchasing those goods and services which are included in an accepted standard level of consumption"
+            }
+        },
+        "references": {}
+    }
+}

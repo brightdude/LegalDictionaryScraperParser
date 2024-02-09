@@ -1,0 +1,14 @@
+{
+    "High Crime": {
+        "definition": "a crime of infamous nature contrary to public morality but not technically constituting a felony ;specif",
+        "sub_definitions": {
+            "1": {
+                "1": "a crime of infamous nature contrary to public morality but not technically constituting a felony"
+            },
+            "2": {
+                "1": "an offense that the U.S. Senate deems to constitute an adequate ground for removal of the president, vice president, or any civil officer as a person unfit to hold public office and deserving of impeachment"
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "Unlawful": {
+        "definition": "not lawful",
+        "origin": "[an possessor]",
+        "sub_definitions": {
+            "1": {
+                "definition": "not lawfulnot authorized or justified by law"
+            },
+            "2": {
+                "definition": "acting contrary to or in defiance of the law [an possessor]"
+            }
+        },
+        "references": {}
+    }
+}

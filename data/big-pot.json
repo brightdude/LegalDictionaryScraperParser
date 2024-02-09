@@ -1,0 +1,13 @@
+{
+    "Big Pot": {
+        "definition": "main pot",
+        "sub_definitions": {
+            "1": {
+                "1": "main pot"
+            }
+        },
+        "references": {
+            "main pot": "https://dictionary.findlaw.com/definition/main-pot.html"
+        }
+    }
+}

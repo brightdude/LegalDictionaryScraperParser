@@ -1,0 +1,11 @@
+{
+    "Administrative Crime": {
+        "definition": "violation of a regulation of a government agency that is punishable as a crime",
+        "sub_definitions": {
+            "1": {
+                "1": "violation of a regulation of a government agency that is punishable as a crime"
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "Age Of Majority": {
+        "definition": "the age at which a person is granted by law the rights",
+        "compare": "emancipate",
+        "sub_definitions": {
+            "1": {
+                "1": "the age at which a person is granted by law the rights (as ability to sue) and responsibilities (as liability under contract) of an adult compare",
+                "compares": "emancipate",
+                "note": " At common law, the age of majority was 21. Age of majority is now set by statute, in most states at 18. The age at which a person may perform various acts, as legally drink alcoholic beverages, make a binding contract, or make a valid will, does not necessarily correspond with the age of majority."
+            }
+        },
+        "references": {
+            "emancipate": "https://dictionary.findlaw.com/definition/emancipate.html"
+        }
+    }
+}

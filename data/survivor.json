@@ -1,0 +1,13 @@
+{
+    "Survivor": {
+        "definition": "one",
+        "sub_definitions": {
+            "1": {
+                "1": "one (as a joint tenant or a child) who is recognized as outliving another and is commonly entitled to insurance benefits (as under social security) or property upon the death of the decedent see also"
+            }
+        },
+        "references": {
+            "annuity": "https://dictionary.findlaw.com/definition/annuity.html"
+        }
+    }
+}

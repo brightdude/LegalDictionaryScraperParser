@@ -1,0 +1,14 @@
+{
+    "Mining Lease": {
+        "definition": "mineral lease at lease",
+        "sub_definitions": {
+            "1": {
+                "1": "mineral lease"
+            }
+        },
+        "references": {
+            "mineral lease": "https://dictionary.findlaw.com/definition/mineral-lease.html",
+            "lease": "https://dictionary.findlaw.com/definition/lease.html"
+        }
+    }
+}

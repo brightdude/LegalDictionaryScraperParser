@@ -1,0 +1,13 @@
+{
+    "Mental Disorder": {
+        "definition": "mental illness",
+        "sub_definitions": {
+            "1": {
+                "1": "mental illness"
+            }
+        },
+        "references": {
+            "mental illness": "https://dictionary.findlaw.com/definition/mental-illness.html"
+        }
+    }
+}

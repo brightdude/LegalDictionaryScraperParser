@@ -1,0 +1,12 @@
+{
+    "Shareholder": {
+        "definition": "one that owns a share in a fund",
+        "sub_definitions": {},
+        "references": {
+            "stockholder": "https://dictionary.findlaw.com/definition/stockholder.html",
+            "derivative action": "https://dictionary.findlaw.com/definition/derivative-action.html",
+            "equity": "https://dictionary.findlaw.com/definition/equity.html",
+            "proxy contest": "https://dictionary.findlaw.com/definition/proxy-contest.html"
+        }
+    }
+}

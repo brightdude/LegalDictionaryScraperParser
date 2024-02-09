@@ -1,0 +1,20 @@
+{
+    "Bequest": {
+        "definition": "an act of bequeathing ;also",
+        "origin": "[di-mÄ n-strə-tiv-]",
+        "sub_definitions": {
+            "de·mon·stra·tive bequest": {
+                "definition": "[di-mÄ n-strə-tiv-]a bequest of a particular amount of money or property to be distributed first from one source in the estate and then from other sources to the extent that the first is insufficient"
+            },
+            "general bequest": {
+                "definition": "a bequest that is to be distributed from the general assets of the estate and that is not a particular thing"
+            },
+            "spe·ci·fic bequest": {
+                "definition": "[spə-si-fik-]a bequest of a particular item or part of an estate or that is payable only from a specified source in the estate and not from the general assets"
+            }
+        },
+        "references": {
+            "legacy": "https://dictionary.findlaw.com/definition/legacy.html"
+        }
+    }
+}

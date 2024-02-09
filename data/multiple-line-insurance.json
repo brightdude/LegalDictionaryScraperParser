@@ -1,0 +1,11 @@
+{
+    "Multiple-Line Insurance": {
+        "definition": "an insurance contract that provides coverage against multiple perils",
+        "sub_definitions": {
+            "1": {
+                "1": "an insurance contract that provides coverage against multiple perils (as liability and loss of property)"
+            }
+        },
+        "references": {}
+    }
+}

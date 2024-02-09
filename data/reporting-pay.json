@@ -1,0 +1,11 @@
+{
+    "Reporting Pay": {
+        "definition": "payment made to a worker who reports for work without having previously been told that no work is available",
+        "sub_definitions": {
+            "1": {
+                "1": "payment made to a worker who reports for work without having previously been told that no work is available"
+            }
+        },
+        "references": {}
+    }
+}

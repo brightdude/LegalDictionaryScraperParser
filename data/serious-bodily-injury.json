@@ -1,0 +1,15 @@
+{
+    "Serious Bodily Injury": {
+        "definition": "bodily injury which involves substantial risk of death",
+        "compare": "bodily injury",
+        "sub_definitions": {
+            "1": {
+                "1": "bodily injury which involves substantial risk of death, protracted and obvious disfigurement, or protracted loss or impairment of the function of a bodily member or organ or mental faculty compare",
+                "compares": "bodily injury"
+            }
+        },
+        "references": {
+            "bodily injury": "https://dictionary.findlaw.com/definition/bodily-injury.html"
+        }
+    }
+}

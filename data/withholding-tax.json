@@ -1,0 +1,11 @@
+{
+    "Withholding Tax": {
+        "definition": "a deduction",
+        "sub_definitions": {
+            "1": {
+                "1": "a deduction (as from wages, fees, or dividends) levied at a source of income as advance payment on income tax"
+            }
+        },
+        "references": {}
+    }
+}

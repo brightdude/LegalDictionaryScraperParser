@@ -1,0 +1,15 @@
+{
+    "Occupant": {
+        "definition": "one who occupies a particular place [an of the car] [the of the apartment] 2",
+        "origin": "[an of the car]",
+        "sub_definitions": {
+            "1": {
+                "definition": "one who occupies a particular place [an of the car] [the of the apartment]"
+            },
+            "2": {
+                "definition": "one who acquires title by occupancy"
+            }
+        },
+        "references": {}
+    }
+}

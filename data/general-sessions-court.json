@@ -1,0 +1,11 @@
+{
+    "General Sessions Court": {
+        "definition": "a court sitting in each county seat in Tennessee and having limited jurisdiction over civil matters and some minor criminal matters",
+        "sub_definitions": {
+            "1": {
+                "1": "a court sitting in each county seat in Tennessee and having limited jurisdiction over civil matters and some minor criminal matters"
+            }
+        },
+        "references": {}
+    }
+}

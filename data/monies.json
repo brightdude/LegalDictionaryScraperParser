@@ -1,0 +1,8 @@
+{
+    "Monies": {
+        "definition": "Monies",
+        "references": {
+            "money": "https://dictionary.findlaw.com/definition/money.html"
+        }
+    }
+}

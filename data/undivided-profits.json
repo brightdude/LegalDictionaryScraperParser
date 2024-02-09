@@ -1,0 +1,15 @@
+{
+    "Undivided Profits": {
+        "definition": "earnings of a business that have been retained instead of being distributed to stockholders or owners or designated as surplus compare surplus",
+        "compare": "surplus",
+        "sub_definitions": {
+            "1": {
+                "1": "earnings of a business that have been retained instead of being distributed to stockholders or owners or designated as surplus compare",
+                "compares": "surplus"
+            }
+        },
+        "references": {
+            "surplus": "https://dictionary.findlaw.com/definition/surplus.html"
+        }
+    }
+}

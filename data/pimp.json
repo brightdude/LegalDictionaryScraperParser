@@ -1,0 +1,20 @@
+{
+    "Pimp": {
+        "definition": "one who derives income from the earnings of a prostitute usually by soliciting business compare panderer vi",
+        "compare": "panderer",
+        "sub_definitions": {
+            "1": {
+                "1": "one who derives income from the earnings of a prostitute usually by soliciting business compare",
+                "compares": "panderer"
+            },
+            "2": {
+                "1": "to work as a pimp compare",
+                "compares": "pandering"
+            }
+        },
+        "references": {
+            "panderer": "https://dictionary.findlaw.com/definition/panderer.html",
+            "pandering": "https://dictionary.findlaw.com/definition/pandering.html"
+        }
+    }
+}

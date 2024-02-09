@@ -1,0 +1,20 @@
+{
+    "Deduct": {
+        "definition": "to take away",
+        "origin": "[must be capitalized…rather than immediately ed \"D. Q. Posin\"]",
+        "compare": "amortize",
+        "sub_definitions": {
+            "1": {
+                "1": "to take away (an amount) from a total"
+            },
+            "2": {
+                "1": "to take as a deduction [must be capitalized…rather than immediately",
+                "ed": "\"D. Q. Posin\"] compare",
+                "compares": "amortize"
+            }
+        },
+        "references": {
+            "amortize": "https://dictionary.findlaw.com/definition/amortize.html"
+        }
+    }
+}

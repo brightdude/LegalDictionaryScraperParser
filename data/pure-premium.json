@@ -1,0 +1,13 @@
+{
+    "Pure Premium": {
+        "definition": "net premium",
+        "sub_definitions": {
+            "1": {
+                "1": "net premium"
+            }
+        },
+        "references": {
+            "net premium": "https://dictionary.findlaw.com/definition/net-premium.html"
+        }
+    }
+}

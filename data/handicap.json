@@ -1,0 +1,11 @@
+{
+    "Handicap": {
+        "definition": "a physical disability",
+        "sub_definitions": {
+            "1": {
+                "1": "a physical disability (as a bodily impairment or a devastating disease)"
+            }
+        },
+        "references": {}
+    }
+}

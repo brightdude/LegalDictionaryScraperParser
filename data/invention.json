@@ -1,0 +1,20 @@
+{
+    "Invention": {
+        "definition": "a device",
+        "compare": "aggregation",
+        "sub_definitions": {
+            "1": {
+                "1": "a device, process, or discovery under U.S. patent law that is new and useful, that reflects extraordinary creative ability or skill, and that makes a distinct and recognized contribution to and advancement of science"
+            },
+            "2": {
+                "1": "the act or process of creating such an invention compare",
+                "compares": "aggregation"
+            }
+        },
+        "references": {
+            "aggregation": "https://dictionary.findlaw.com/definition/aggregation.html",
+            "combination": "https://dictionary.findlaw.com/definition/combination.html",
+            "equivalent": "https://dictionary.findlaw.com/definition/equivalent.html"
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "Clearly Erroneous": {
+        "definition": "being or containing a finding of fact that is not supported by substantial or competent evidence or by reasonable inferences [findings of fact…shall not be set aside unless clearly erroneous \" Federal Rules of Civil Procedure Rule 52",
+        "origin": "[findings of fact…shall not be set aside unless clearly erroneous \" Federal Rules of Civil Procedure Rule 52(a)\"]",
+        "compare": "Constitution",
+        "sub_definitions": {
+            "1": {
+                "1": "being or containing a finding of fact that is not supported by substantial or competent evidence or by reasonable inferences [findings of fact…shall not be set aside unless",
+                "Federal Rules of Civil Procedure": "Rule 52(a)\"] see also",
+                "compares": "abuse of discretion",
+                "note": " The requirement that findings be clearly erroneous to be set aside is a standard of review used esp. by an appellate court when reviewing a trial judge's (as opposed to a jury's) findings of fact for error."
+            }
+        },
+        "references": {
+            "Constitution": "https://dictionary.findlaw.com/definition/constitution.html",
+            "abuse of discretion": "https://dictionary.findlaw.com/definition/abuse-of-discretion.html",
+            "de novo": "https://dictionary.findlaw.com/definition/de-novo.html"
+        }
+    }
+}

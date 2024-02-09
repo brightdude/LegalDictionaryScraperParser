@@ -1,0 +1,23 @@
+{
+    "Admission": {
+        "definition": "the act or process of admitting [ into evidence] 2 a",
+        "origin": "[ into evidence]",
+        "sub_definitions": {
+            "1": {
+                "definition": "the act or process of admitting [ into evidence]"
+            },
+            "2 a": {
+                "definition": "a party's acknowledgment that a fact or statement is true",
+                "sub_terms": {
+                    "b": "a party's prior out-of-court statement or action that is inconsistent with his or her position at trial and that tends to establish guilt compareat"
+                },
+                "note": " Under the Federal Rules of Evidence an admission is not hearsay. Silence can sometimes be construed as an admission where a person would reasonably be expected to speak up.",
+                "compares": "confession"
+            }
+        },
+        "references": {
+            "confession": "https://dictionary.findlaw.com/definition/confession.html",
+            "declaration": "https://dictionary.findlaw.com/definition/declaration.html"
+        }
+    }
+}

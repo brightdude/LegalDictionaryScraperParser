@@ -1,0 +1,27 @@
+{
+    "Holder": {
+        "definition": "a person that holds",
+        "origin": "[the of a patent]",
+        "sub_definitions": {
+            "1": {
+                "definition": "a person that holds",
+                "sub_terms": {
+                    "a": "[the of a patent] often used in combination [a stock]",
+                    "b": "one that holds or occupies the property of another by agreement and esp. under a lease"
+                }
+            },
+            "2 a": {
+                "definition": "a person who under the Uniform Commercial Code is in possession of a negotiable instrument that names and is made payable to the possessor or that is payable to bearer",
+                "sub_terms": {
+                    "b": "a person under the U.C.C. in possession of goods named in a document of title if the goods are deliverable to bearer or to the order of the possessor"
+                }
+            },
+            "3": {
+                "definition": "an individual (as a trustee or debtor) or legal or commercial entity that under the Civil Code's provisions for disposition of unclaimed property is in possession of property belonging to another"
+            }
+        },
+        "references": {
+            "owner": "https://dictionary.findlaw.com/definition/owner.html"
+        }
+    }
+}

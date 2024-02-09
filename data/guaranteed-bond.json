@@ -1,0 +1,8 @@
+{
+    "Guaranteed Bond": {
+        "definition": "Guaranteed Bond",
+        "references": {
+            "bond": "https://dictionary.findlaw.com/definition/bond.html"
+        }
+    }
+}

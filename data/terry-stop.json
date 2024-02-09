@@ -1,0 +1,16 @@
+{
+    "Terry Stop": {
+        "definition": "a stop and limited search of a person for weapons justified by a police officer's reasonable conclusion that a crime is being or about to be committed by a person who may be armed and whose responses to questioning do not dispel the officer's fear of danger to the officer or to others compare reasonable suspicion",
+        "origin": "[from Terry v. Ohio , 392 U.S. 1 (1968), case in which the right of police to stop and question a suspect was first discussed]",
+        "compare": "reasonable suspicion",
+        "sub_definitions": {
+            "1": {
+                "1": "a stop and limited search of a person for weapons justified by a police officer's reasonable conclusion that a crime is being or about to be committed by a person who may be armed and whose responses to questioning do not dispel the officer's fear of danger to the officer or to others compare",
+                "compares": "reasonable suspicion"
+            }
+        },
+        "references": {
+            "reasonable suspicion": "https://dictionary.findlaw.com/definition/reasonable-suspicion.html"
+        }
+    }
+}

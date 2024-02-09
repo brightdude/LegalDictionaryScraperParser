@@ -1,0 +1,11 @@
+{
+    "Cotrustee": {
+        "definition": "a joint trustee",
+        "sub_definitions": {
+            "1": {
+                "1": "a joint trustee"
+            }
+        },
+        "references": {}
+    }
+}

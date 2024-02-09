@@ -1,0 +1,11 @@
+{
+    "Rate Base": {
+        "definition": "the total fair value of public utility property that is used in rendering services and that comprises the investment on which a fair rate of return is based in setting utility rates",
+        "sub_definitions": {
+            "1": {
+                "1": "the total fair value of public utility property that is used in rendering services and that comprises the investment on which a fair rate of return is based in setting utility rates"
+            }
+        },
+        "references": {}
+    }
+}

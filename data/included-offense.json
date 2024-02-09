@@ -1,0 +1,15 @@
+{
+    "Included Offense": {
+        "definition": "lesser included offense [permitted…to plead guilty to a logical included offense \"W. R. LaFave and J. H. Israel\"]",
+        "origin": "[permitted…to plead guilty to a logical included offense \"W. R. LaFave and J. H. Israel\"]",
+        "sub_definitions": {
+            "1": {
+                "1": "lesser included offense",
+                "included offense": "\"W. R. LaFave and J. H. Israel\"]"
+            }
+        },
+        "references": {
+            "lesser included offense": "https://dictionary.findlaw.com/definition/lesser-included-offense.html"
+        }
+    }
+}

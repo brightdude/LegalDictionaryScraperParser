@@ -1,0 +1,11 @@
+{
+    "Professional Service": {
+        "definition": "a service requiring specialized knowledge and skill usually of a mental or intellectual nature and usually requiring a license",
+        "sub_definitions": {
+            "1": {
+                "1": "a service requiring specialized knowledge and skill usually of a mental or intellectual nature and usually requiring a license, certification, or registration"
+            }
+        },
+        "references": {}
+    }
+}

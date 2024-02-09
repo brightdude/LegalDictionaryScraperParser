@@ -1,0 +1,11 @@
+{
+    "Subcontractor": {
+        "definition": "one",
+        "sub_definitions": {
+            "1": {
+                "1": "one (as an individual or business) that contracts to perform part or all of the obligations of another's contract"
+            }
+        },
+        "references": {}
+    }
+}

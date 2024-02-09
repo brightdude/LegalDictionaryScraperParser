@@ -1,0 +1,13 @@
+{
+    "Territorial Jurisdiction": {
+        "definition": "jurisdiction",
+        "sub_definitions": {
+            "1": {
+                "1": "jurisdiction"
+            }
+        },
+        "references": {
+            "jurisdiction": "https://dictionary.findlaw.com/definition/jurisdiction.html"
+        }
+    }
+}

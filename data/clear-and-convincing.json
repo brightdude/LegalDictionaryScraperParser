@@ -1,0 +1,18 @@
+{
+    "Clear And Convincing": {
+        "definition": "conforming to or being the standard of proof required for some civil cases or motions in which the party bearing the burden of proof must show that the truth of the allegations is highly probable [ clear and convincing proof] compare reasonable doubt",
+        "origin": "[ clear and convincing proof]",
+        "compare": "reasonable doubt",
+        "sub_definitions": {
+            "1": {
+                "1": "conforming to or being the standard of proof required for some civil cases or motions in which the party bearing the burden of proof must show that the truth of the allegations is highly probable [",
+                "clear and convincing": "proof] compare",
+                "compares": "reasonable doubt"
+            }
+        },
+        "references": {
+            "reasonable doubt": "https://dictionary.findlaw.com/definition/reasonable-doubt.html",
+            "preponderance of the evidence": "https://dictionary.findlaw.com/definition/preponderance-of-the-evidence.html"
+        }
+    }
+}

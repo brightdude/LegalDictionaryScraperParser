@@ -1,0 +1,13 @@
+{
+    "Controller": {
+        "definition": "comptroller",
+        "sub_definitions": {
+            "1": {
+                "1": "comptroller"
+            }
+        },
+        "references": {
+            "comptroller": "https://dictionary.findlaw.com/definition/comptroller.html"
+        }
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "Objection": {
+        "definition": "an act or instance of objecting ;specif",
+        "origin": "[file an to a proposed bankruptcy plan]",
+        "sub_definitions": {
+            "1": {
+                "definition": "an act or instance of objectinga statement of opposition to an aspect of a judicial or other legal proceeding [file an to a proposed bankruptcy plan]"
+            },
+            "2": {
+                "definition": "a reason or argument forming the ground of an objection",
+                "note": " Objections at trial are generally made for the purpose of opposing the admission of improper evidence. Such an objection must be made in a timely manner. Objections prevent the jury from seeing or hearing the evidence and preserve the issue for appeal. Objections may also be made on the ground of the opposing counsel's improper methods (as leading a witness) or for other technical reasons."
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "Fair Value": {
+        "definition": "a reasonable value",
+        "sub_definitions": {
+            "1": {
+                "definition": "a reasonable value (as one set by courts and regulatory commissions) for property"
+            }
+        },
+        "references": {
+            "fair market value": "https://dictionary.findlaw.com/definition/fair-market-value.html"
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "Dictum": {
+        "definition": "dic·ta [-tə] [Latin",
+        "origin": "[-tə]",
+        "sub_definitions": {
+            "dic·ta": {
+                "definition": "[-tə][Latin, utterance, from neuter of, past participle ofto say]a view expressed by a judge in an opinion on a point not necessarily arising from or involved in a case or necessary for determining the rights of the parties involved called alsocompare,,,",
+                "note": " Dicta have persuasive value in making an argument, but they are not binding as precedent.",
+                "compares": "holding",
+                "dictus": "past participle "
+            }
+        },
+        "references": {
+            "holding": "https://dictionary.findlaw.com/definition/holding.html",
+            "judgment": "https://dictionary.findlaw.com/definition/judgment.html",
+            "precedent": "https://dictionary.findlaw.com/definition/precedent.html",
+            "stare decisis": "https://dictionary.findlaw.com/definition/stare-decisis.html"
+        }
+    }
+}

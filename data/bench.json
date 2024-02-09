@@ -1,0 +1,30 @@
+{
+    "Bench": {
+        "definition": "the place where a judge sits in court [asked counsel to approach the ] compare bar",
+        "origin": "[asked counsel to approach the ]",
+        "sub_definitions": {
+            "1": {
+                "definition": "the place where a judge sits in court [asked counsel to approach the ] compare,,,,",
+                "compares": "bar"
+            },
+            "2": {
+                "definition": "the court or system of courts serving an area [the state ] [the federal ]"
+            },
+            "3 a": {
+                "definition": "the office of a judge [appointed to the ]",
+                "sub_terms": {
+                    "b": "the body of persons who hold positions as judges [members of the and bar] compare",
+                    "c": "a judge or panel of judges hearing a case [unless the lawyer is responding to a question from the \"R. H. Bork\"]"
+                },
+                "compares": "bar"
+            }
+        },
+        "references": {
+            "bar": "https://dictionary.findlaw.com/definition/bar.html",
+            "dock": "https://dictionary.findlaw.com/definition/dock.html",
+            "jury box": "https://dictionary.findlaw.com/definition/jury-box.html",
+            "sidebar": "https://dictionary.findlaw.com/definition/sidebar.html",
+            "stand": "https://dictionary.findlaw.com/definition/stand.html"
+        }
+    }
+}

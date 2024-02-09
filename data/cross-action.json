@@ -1,0 +1,18 @@
+{
+    "Cross-Action": {
+        "definition": "an action brought by a defendant in an existing action against a plaintiff or codefendant compare counterclaim",
+        "compare": "counterclaim",
+        "sub_definitions": {
+            "1": {
+                "1": "an action brought by a defendant in an existing action against a plaintiff or codefendant compare",
+                "compares": "counterclaim"
+            }
+        },
+        "references": {
+            "counterclaim": "https://dictionary.findlaw.com/definition/counterclaim.html",
+            "cross-appeal": "https://dictionary.findlaw.com/definition/cross-appeal.html",
+            "cross-claim": "https://dictionary.findlaw.com/definition/cross-claim.html",
+            "third-party claim": "https://dictionary.findlaw.com/definition/third-party-claim.html"
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "Request For Admission": {
+        "definition": "a written request served upon another party to an action",
+        "sub_definitions": {
+            "1": {
+                "1": "a written request served upon another party to an action (as under Federal Rule of Civil Procedure 36) asking that the party admit the truth of certain matters relevant to the action called also",
+                "note": " A party upon whom a request for admission has been served must provide an answer for each matter of which an admission is requested by admitting it, denying it, or giving reasons why it can be neither admitted nor denied. A matter admitted does not have to be proven at trial, but it is established for the purpose of the pending action only."
+            }
+        },
+        "references": {}
+    }
+}

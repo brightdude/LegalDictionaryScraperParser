@@ -1,0 +1,14 @@
+{
+    "Civil Liberty": {
+        "definition": "freedom from arbitrary interference in one's pursuits",
+        "sub_definitions": {
+            "1": {
+                "1": "freedom from arbitrary interference in one's pursuits (as in expressing thoughts, practicing a religion, or pursuing a living) by individuals or esp. by the government and esp. as constitutionally guaranteed usually used in pl. see also",
+                "see also": "civil right"
+            }
+        },
+        "references": {
+            "civil right": "https://dictionary.findlaw.com/definition/civil-right.html"
+        }
+    }
+}

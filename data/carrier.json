@@ -1,0 +1,16 @@
+{
+    "Carrier": {
+        "definition": "an individual or entity engaged in transporting passengers or goods for hire by land",
+        "sub_definitions": {
+            "1": {
+                "definition": "an individual or entity engaged in transporting passengers or goods for hire by land, water, or air"
+            },
+            "2": {
+                "definition": "an insurer that assumes the risks of a policy that it issues to a policyholder"
+            }
+        },
+        "references": {
+            "common carrier": "https://dictionary.findlaw.com/definition/common-carrier.html"
+        }
+    }
+}

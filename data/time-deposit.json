@@ -1,0 +1,8 @@
+{
+    "Time Deposit": {
+        "definition": "Time Deposit",
+        "references": {
+            "deposit": "https://dictionary.findlaw.com/definition/deposit.html"
+        }
+    }
+}

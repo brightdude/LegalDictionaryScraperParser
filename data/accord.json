@@ -1,0 +1,28 @@
+{
+    "Accord": {
+        "definition": "to bring into agreement 2",
+        "origin": "[both cases in ]",
+        "sub_definitions": {
+            "1": {
+                "definition": "agreement of opinion [both cases in ]"
+            },
+            "2": {
+                "definition": "a formal act of agreement[an economic ]"
+            },
+            "3": {
+                "definition": "an accepted offer by which the parties agree that a specified future performance will discharge in full an obligation when performed even though the performance is of less value than the original obligationthe defense that an accord was agreed upon usually used in the phrasecalled alsocompare,,,at,",
+                "compares": "composition",
+                "accord and satisfaction;": "called also"
+            }
+        },
+        "references": {
+            "treaty": "https://dictionary.findlaw.com/definition/treaty.html",
+            "composition": "https://dictionary.findlaw.com/definition/composition.html",
+            "compromise": "https://dictionary.findlaw.com/definition/compromise.html",
+            "novation": "https://dictionary.findlaw.com/definition/novation.html",
+            "satisfaction": "https://dictionary.findlaw.com/definition/satisfaction.html",
+            "contract": "https://dictionary.findlaw.com/definition/contract.html",
+            "transaction": "https://dictionary.findlaw.com/definition/transaction.html"
+        }
+    }
+}

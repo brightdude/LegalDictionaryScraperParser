@@ -1,0 +1,11 @@
+{
+    "Alienist": {
+        "definition": "a psychiatrist who specializes in the legal aspects of psychiatry",
+        "sub_definitions": {
+            "1": {
+                "1": "a psychiatrist who specializes in the legal aspects of psychiatry (as determining sanity or capacity to stand trial)"
+            }
+        },
+        "references": {}
+    }
+}

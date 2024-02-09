@@ -1,0 +1,8 @@
+{
+    "Equity Security": {
+        "definition": "Equity Security",
+        "references": {
+            "security": "https://dictionary.findlaw.com/definition/security.html"
+        }
+    }
+}

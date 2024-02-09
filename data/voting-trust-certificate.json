@@ -1,0 +1,11 @@
+{
+    "Voting Trust Certificate": {
+        "definition": "a certificate issued as evidence of the holder's beneficial interest in a voting trust",
+        "sub_definitions": {
+            "1": {
+                "1": "a certificate issued as evidence of the holder's beneficial interest in a voting trust"
+            }
+        },
+        "references": {}
+    }
+}

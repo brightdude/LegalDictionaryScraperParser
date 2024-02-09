@@ -1,0 +1,8 @@
+{
+    "Private Sale": {
+        "definition": "Private Sale",
+        "references": {
+            "sale": "https://dictionary.findlaw.com/definition/sale.html"
+        }
+    }
+}

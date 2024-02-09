@@ -1,0 +1,17 @@
+{
+    "Counterfeit": {
+        "definition": "made in imitation of a genuine article",
+        "origin": "[Middle French contrefait , past participle of contrefaire to imitate, draw, paint, from contre - counter- + faire to make]",
+        "compare": "forgery",
+        "sub_definitions": {
+            "coun·ter·feit·ern": {
+                "definition": "nsomething counterfeit [allof any coins or obligations \"\"] compare",
+                "compares": "forgery",
+                "s": "of any coins or obligations \""
+            }
+        },
+        "references": {
+            "forgery": "https://dictionary.findlaw.com/definition/forgery.html"
+        }
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Bailment": {
+        "definition": "the transfer of possession but not ownership of personal property",
+        "origin": "[Anglo-French bayllment , from bailler to hand over see bail ]",
+        "compare": "bail",
+        "sub_definitions": {
+            "bailment for hire": {
+                "definition": "a bailment that either benefits both parties or only the baileeone in which the bailee receives compensation called also"
+            },
+            "constructive bailment": {
+                "definition": "a bailment imposed by law when the bailee comes into possession of the property by accident or mistake (as by finding it or receiving a mistaken delivery) called also"
+            },
+            "gratuitous bailment": {
+                "definition": "a bailment in which there is no compensation or benefit to one partyone that benefits only the bailor compare",
+                "compares": "commodatum"
+            },
+            "involuntary bailment": {
+                "definition": "in this entry"
+            }
+        },
+        "references": {
+            "bail": "https://dictionary.findlaw.com/definition/bail.html",
+            "deposit": "https://dictionary.findlaw.com/definition/deposit.html",
+            "loan": "https://dictionary.findlaw.com/definition/loan.html",
+            "commodatum": "https://dictionary.findlaw.com/definition/commodatum.html",
+            "constructive bailment": "https://dictionary.findlaw.com/definition/constructive-bailment.html"
+        }
+    }
+}

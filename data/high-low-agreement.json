@@ -1,0 +1,11 @@
+{
+    "High-Low Agreement": {
+        "definition": "a settlement that is contingent on a jury's award of damages and that sets a minimum amount that the defendant will pay the plaintiff if the award is below that amount and a maximum amount that the defendant will pay if the award is above that amount",
+        "sub_definitions": {
+            "1": {
+                "1": "a settlement that is contingent on a jury's award of damages and that sets a minimum amount that the defendant will pay the plaintiff if the award is below that amount and a maximum amount that the defendant will pay if the award is above that amount"
+            }
+        },
+        "references": {}
+    }
+}

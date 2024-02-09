@@ -1,0 +1,16 @@
+{
+    "Post Mortem": {
+        "definition": "done",
+        "sub_definitions": {
+            "1": {
+                "1": "done, occurring, or collected after death"
+            },
+            "2": {
+                "1": "autopsy"
+            }
+        },
+        "references": {
+            "autopsy": "https://dictionary.findlaw.com/definition/autopsy.html"
+        }
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "Licitation": {
+        "definition": "the act of offering for sale or bidding at an auction ;specif in the civil law of Louisiana",
+        "origin": "[Latin licitatio , from licitari to bid a price, from licere to be for sale]",
+        "sub_definitions": {
+            "1": {
+                "1": "the act of offering for sale or bidding at an auction"
+            },
+            "2": {
+                "1": "a mode of partitioning property held in common by sale at auction"
+            }
+        },
+        "references": {}
+    }
+}

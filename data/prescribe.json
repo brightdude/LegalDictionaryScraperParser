@@ -1,0 +1,17 @@
+{
+    "Prescribe": {
+        "definition": "to claim title or a right to something",
+        "origin": "[a precarious possessor cannot against the owner]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to lay down as a rule or guidespecify with authority [the times, places and manner of holding elections for Senators and Representatives, shall bein each State by the legislature thereof \"art. I\"]",
+                "prescribed": "in each State by the legislature thereof \""
+            },
+            "2": {
+                "definition": "to invalidate or bar the enforcement of by prescription [this claim for damages shall not beso long as the minor's right of action exists against his tutor \"\"]",
+                "prescribed": "so long as the minor's right of action exists against his tutor \""
+            }
+        },
+        "references": {}
+    }
+}

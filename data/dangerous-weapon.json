@@ -1,0 +1,15 @@
+{
+    "Dangerous Weapon": {
+        "definition": "an object that when used as an instrument of offense is capable of causing serious bodily injury compare deadly weapon",
+        "compare": "deadly weapon",
+        "sub_definitions": {
+            "1": {
+                "1": "an object that when used as an instrument of offense is capable of causing serious bodily injury compare",
+                "compares": "deadly weapon"
+            }
+        },
+        "references": {
+            "deadly weapon": "https://dictionary.findlaw.com/definition/deadly-weapon.html"
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "Libel": {
+        "definition": "complaint used esp. in admiralty and divorce cases 2 a",
+        "origin": "[Anglo-French, from Latin libellus , diminutive of liber book]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to make or publish a libel againstto hurt the reputation of by libel [respondent's complaint alleged that he had beenby statements in a full-page advertisement \", 376 U.S. 254 (1964)\"]",
+                "libeled": "by statements in a full-page advertisement \"",
+                "New York Times Co. v. Sullivan": "376 U.S. 254 (1964)"
+            },
+            "2 a": {
+                "definition": "a defamatory statement or representation esp. in the form of written or printed wordsa false published statement that injures an individual's reputation (as in business) or otherwise exposes him or her to public contempt",
+                "sub_terms": {
+                    "b": "the publication of such a libel",
+                    "c": "the crime or tort of publishing a libel see alsoin the Important Cases section compare,vt"
+                },
+                "note": " Although libel is defined under state case law or statute, the U.S. Supreme Court has enumerated some First Amendment protections that apply to matters of public concern. InNew York Times Co. v. Sullivan, the Court held that in order to recover damages a public person (as a celebrity or politician) who alleges libel (as by a newspaper) has to prove that “the statement was made with ‘actual malice’ — that is, with knowledge that it was false or with reckless disregard of whether it was false or not” in order to recover damages. The Court has also held that the states cannot allow a private person to recover damages for libel against a media defendant without a showing of fault (as negligence) on the defendant's part. These protections do not apply to matters that are not of public concern (as an individual's credit report) and that are not published by a member of the mass media. A libel plaintiff must generally establish that the alleged libel refers to him or her specifically, that it was published to others, and that some injury (as to reputation) occurred that gives him or her a right to recover damages (as actual, general, presumed, or special damages). The defendant may plead and establish the truth of the statements as a defense. Criminal libel may have additional elements, as in tending to provoke a breach of peace or in blackening the memory of someone who is dead, and may not have to be published to someone other than the person libeled.",
+                "compares": "defamation",
+                "see also": "single publication rule",
+                "New York Times Co. v. Sullivan": "in the Important Cases section compare"
+            },
+            "2": {
+                "definition": "to proceed against in law by filing a libel (as against a ship or goods) [several French ships werein Boston \"J. K. Owens\"]",
+                "libeled": "in Boston \"J. K. Owens\"]"
+            }
+        },
+        "references": {
+            "complaint": "https://dictionary.findlaw.com/definition/complaint.html",
+            "single publication rule": "https://dictionary.findlaw.com/definition/single-publication-rule.html",
+            "defamation": "https://dictionary.findlaw.com/definition/defamation.html",
+            "slander": "https://dictionary.findlaw.com/definition/slander.html"
+        }
+    }
+}

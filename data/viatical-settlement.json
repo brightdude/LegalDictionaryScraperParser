@@ -1,0 +1,12 @@
+{
+    "Viatical Settlement": {
+        "definition": "an agreement by which the owner of a life insurance policy covering a person",
+        "origin": "[probably from Latin viaticum provision for a journey]",
+        "sub_definitions": {
+            "1": {
+                "1": "an agreement by which the owner of a life insurance policy covering a person (as the owner) with a catastrophic or life-threatening illness receives compensation for less than the expected death benefit of the policy in return for an assignment, transfer, sale, devise, or bequest of the death benefit or ownership of the policy to the other party (as a company specializing in such transactions)"
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "Expose": {
+        "definition": "to subject to risk from a harmful action or condition",
+        "origin": "[all of which I shall for sale at public auction \" Detroit Law Journal \"]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to subject to risk from a harmful action or condition",
+                "sub_terms": {
+                    "a": "to make (one) open to liability or financial loss",
+                    "b": "to leave (a child) uncared-for and lacking shelter from the elements"
+                }
+            },
+            "2": {
+                "definition": "to cause to be visible or open to view",
+                "sub_terms": {
+                    "a": "to offer publicly for sale [all of which I shall for sale at public auction \"\"]",
+                    "b": "to purposely uncover (one's private body parts) or leave open to view in a place or situation in which such conduct is likely to be deemed offensive or indecent esp. as set forth by statute see also"
+                },
+                "see also": "indecent exposure"
+            }
+        },
+        "references": {
+            "indecent exposure": "https://dictionary.findlaw.com/definition/indecent-exposure.html"
+        }
+    }
+}

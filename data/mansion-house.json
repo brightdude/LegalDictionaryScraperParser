@@ -1,0 +1,11 @@
+{
+    "Mansion House": {
+        "definition": "a dwelling house of any size and any buildings",
+        "sub_definitions": {
+            "1": {
+                "1": "a dwelling house of any size and any buildings (as barns or stables) within the curtilage"
+            }
+        },
+        "references": {}
+    }
+}

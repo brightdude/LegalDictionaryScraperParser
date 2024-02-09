@@ -1,0 +1,47 @@
+{
+    "Injunction": {
+        "definition": "an equitable remedy in the form of a court order compelling a party to do or refrain from doing a specified act compare cease-and-desist order at order",
+        "origin": "[Middle French injonction , from Late Latin injunction- injunctio , from Latin injungere to enjoin, from in- in + jungere to join]",
+        "compare": "order",
+        "sub_definitions": {
+            "affirmative injunction": {
+                "definition": "an injunction requiring a positive act on the part of the defendantin this entry"
+            },
+            "final injunction": {
+                "definition": "in this entry"
+            },
+            "interlocutory injunction": {
+                "definition": "an injunction that orders the maintenance of the status quo between the parties prior to a final determination of the matterin this entry"
+            },
+            "mandatory injunction": {
+                "definition": "an injunction that compels the defendant to do some positive act rather than simply to maintain the situation as it was when the action was brought comparein this entry",
+                "compares": "prohibitory injunction"
+            },
+            "per·ma·nent injunction": {
+                "definition": "an injunction imposed after a hearing and remaining in force at least until the defendant has complied with its provisions called also"
+            },
+            "preliminary injunction": {
+                "definition": "an interlocutory injunction issued before a trial for purposes of preventing the defendant from acting in a way that will irreparably harm the plaintiff's ability to enforce his or her rights at the trial called alsocompareat",
+                "note": " Before a preliminary injunction can be issued, there must be a hearing with prior notice to the defendant. Under Federal Rule of Civil Procedure 65, the hearing and the trial may be consolidated."
+            },
+            "prohibitory injunction": {
+                "definition": "an injunction that prohibits the defendant from taking a particular action and maintains the positions of the parties until there is a hearing to determine the matter in dispute"
+            },
+            "tem·po·rary injunction": {
+                "definition": "in this entry"
+            }
+        },
+        "references": {
+            "order": "https://dictionary.findlaw.com/definition/order.html",
+            "damage": "https://dictionary.findlaw.com/definition/damage.html",
+            "judgment": "https://dictionary.findlaw.com/definition/judgment.html",
+            "mandamus": "https://dictionary.findlaw.com/definition/mandamus.html",
+            "performance": "https://dictionary.findlaw.com/definition/performance.html",
+            "stay": "https://dictionary.findlaw.com/definition/stay.html",
+            "mandatory injunction": "https://dictionary.findlaw.com/definition/mandatory-injunction.html",
+            "permanent injunction": "https://dictionary.findlaw.com/definition/permanent-injunction.html",
+            "preliminary injunction": "https://dictionary.findlaw.com/definition/preliminary-injunction.html",
+            "prohibitory injunction": "https://dictionary.findlaw.com/definition/prohibitory-injunction.html"
+        }
+    }
+}

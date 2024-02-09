@@ -1,0 +1,15 @@
+{
+    "Craft Union": {
+        "definition": "a labor union with membership limited to workers in the same craft",
+        "compare": "industrial union",
+        "sub_definitions": {
+            "1": {
+                "1": "a labor union with membership limited to workers in the same craft (as carpentry or plumbing) compare",
+                "compares": "industrial union"
+            }
+        },
+        "references": {
+            "industrial union": "https://dictionary.findlaw.com/definition/industrial-union.html"
+        }
+    }
+}

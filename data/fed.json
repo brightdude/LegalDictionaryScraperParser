@@ -1,0 +1,12 @@
+{
+    "Fed": {
+        "definition": "the Board of Governors of the Federal Reserve System see also Federal Reserve System in the Important Agencies section",
+        "sub_definitions": {
+            "1": {
+                "1": "the Board of Governors of the Federal Reserve System see also",
+                "Federal Reserve System": "in the Important Agencies section"
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "Prefer": {
+        "definition": "to give",
+        "origin": "[any preferred charges such as child support or alimony \" In re Smiley , 427 P.2d 179 (1967)\"]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to give (a creditor or debt) priority or preference [anycharges such as child support or alimony \", 427 P.2d 179 (1967)\"]",
+                "In re Smiley": "427 P.2d 179 (1967)"
+            },
+            "2": {
+                "definition": "to bring forward for determinationto bring (a charge) against someone [the various means by which a grand jury might charges \", 399 S.E.2d 267 (1990)\"]",
+                "State v. Byrd": "399 S.E.2d 267 (1990)"
+            }
+        },
+        "references": {}
+    }
+}

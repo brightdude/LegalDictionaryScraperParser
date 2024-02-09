@@ -1,0 +1,15 @@
+{
+    "Devastavit": {
+        "definition": "mismanagement or waste of the assets in the estate of a deceased person by the fiduciary in charge of the estate",
+        "origin": "[Medieval Latin, he/she has spoiled (someone's property)]",
+        "sub_definitions": {
+            "1": {
+                "definition": "mismanagement or waste of the assets in the estate of a deceased person by the fiduciary in charge of the estate (as the executor)"
+            },
+            "2": {
+                "definition": "a common-law writ seeking a remedy for devastavit"
+            }
+        },
+        "references": {}
+    }
+}

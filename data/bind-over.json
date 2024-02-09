@@ -1,0 +1,16 @@
+{
+    "Bind Over": {
+        "definition": "to put under a bond to do something",
+        "origin": "[questioned the magistrate's decision to bind over ]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to put under a bond to do something (as appear in court) under court authority"
+            },
+            "2": {
+                "definition": "to transfer (a case or defendant) to another forum after a finding of probable cause at a preliminary hearingto bind a case over [questioned the magistrate's decision to]",
+                "note": " In states that require indictment by a grand jury in felony cases, a case will be bound over to the grand jury if the judge or magistrate finds at the preliminary hearing that there is probable cause to believe that the defendant committed the crime. In states that use an information, the case is bound over to the trial court upon a finding of probable cause."
+            }
+        },
+        "references": {}
+    }
+}

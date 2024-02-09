@@ -1,0 +1,11 @@
+{
+    "Account Rendered": {
+        "definition": "accounts rendered",
+        "sub_definitions": {
+            "accounts rendered": {
+                "definition": "an account presented by a creditor to a debtor for examination and settlement"
+            }
+        },
+        "references": {}
+    }
+}

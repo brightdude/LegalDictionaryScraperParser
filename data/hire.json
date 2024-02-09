@@ -1,0 +1,30 @@
+{
+    "Hire": {
+        "definition": "payment for the temporary use of something or for labor or services 2 a",
+        "origin": "[from the date of until now]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to engage the personal services of or the temporary use of for a fixed sum"
+            },
+            "2 a": {
+                "definition": "the act or an instance of hiring [from the date of until now]",
+                "sub_terms": {
+                    "b": "the state of being hired[while he was in the of the defendant]"
+                }
+            },
+            "3": {
+                "definition": "one who is hired [all newwill enjoy the same medical benefits]",
+                "s": "will enjoy the same medical benefits]"
+            },
+            "for hire:available for use or service in return for payment": {
+                "definition": "vb"
+            },
+            "2": {
+                "definition": "to grant the personal services of or the temporary use ofto take employment"
+            }
+        },
+        "references": {
+            "employment": "https://dictionary.findlaw.com/definition/employment.html"
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "Sexual Harassment": {
+        "definition": "employment discrimination consisting of unwelcome verbal or physical conduct directed at an employee because of his or her sex ;also",
+        "sub_definitions": {
+            "1": {
+                "1": "employment discrimination consisting of unwelcome verbal or physical conduct directed at an employee because of his or her sex"
+            },
+            "2": {
+                "1": "the tort of engaging in such discrimination see also",
+                "see also": "hostile environment sexual harassment",
+                "note": " Sexual harassment has been found by federal courts to violate the protection in the Civil Rights Act of 1964 against discrimination in employment. There are also state statutes under which sexual harassment actions may be brought. In order to recover against an employer under a sexual harassment suit, the plaintiff has to show that the harassment affected the employment (as by being severe or pervasive) and that the employer is liable under respondeat superior because of actual or constructive knowledge of the harassment. Strict liability is often imposed for harassment of an employee by a supervisor or for quid pro quo sexual harassment."
+            }
+        },
+        "references": {
+            "hostile environment sexual harassment": "https://dictionary.findlaw.com/definition/hostile-environment-sexual-harassment.html",
+            "quid pro quo sexual harassment": "https://dictionary.findlaw.com/definition/quid-pro-quo-sexual-harassment.html"
+        }
+    }
+}

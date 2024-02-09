@@ -1,0 +1,8 @@
+{
+    "Enrolled Bill": {
+        "definition": "Enrolled Bill",
+        "references": {
+            "bill": "https://dictionary.findlaw.com/definition/bill.html"
+        }
+    }
+}

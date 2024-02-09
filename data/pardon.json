@@ -1,0 +1,20 @@
+{
+    "Pardon": {
+        "definition": "a release from the legal penalties of an offense 2",
+        "sub_definitions": {
+            "1": {
+                "definition": "a release from the legal penalties of an offense"
+            },
+            "2": {
+                "definition": "an official warrant of remission of penalty as an act of clemency compare",
+                "compares": "commute"
+            },
+            "3": {
+                "definition": "excuse or forgiveness for a fault or offense"
+            }
+        },
+        "references": {
+            "commute": "https://dictionary.findlaw.com/definition/commute.html"
+        }
+    }
+}

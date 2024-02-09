@@ -1,0 +1,17 @@
+{
+    "Adult": {
+        "definition": "a person who has reached an age specified by law compare child",
+        "compare": "child",
+        "sub_definitions": {
+            "1": {
+                "1": "a person who has reached an age specified by law compare",
+                "compares": "child"
+            }
+        },
+        "references": {
+            "child": "https://dictionary.findlaw.com/definition/child.html",
+            "infant": "https://dictionary.findlaw.com/definition/infant.html",
+            "minor": "https://dictionary.findlaw.com/definition/minor.html"
+        }
+    }
+}

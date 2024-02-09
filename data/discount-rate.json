@@ -1,0 +1,14 @@
+{
+    "Discount Rate": {
+        "definition": "the interest on an annual basis deducted in advance on a loan 2",
+        "sub_definitions": {
+            "1": {
+                "definition": "the interest on an annual basis deducted in advance on a loan"
+            },
+            "2": {
+                "definition": "the interest levied by the Federal Reserve for advances and rediscounts"
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "States' Rights": {
+        "definition": "rights and powers not forbidden to the states nor vested in the federal government by the U.S. Constitution 2 sing in constr",
+        "sub_definitions": {
+            "1": {
+                "definition": "rights and powers not forbidden to the states nor vested in the federal government by the U.S. Constitution"
+            },
+            "sing in constr": {
+                "definition": "a doctrine based on states' rights that has been used to justify state resistance to federal authority in matters seen as the exclusive concern of the states and that is most often associated with the states favoring slavery and secession in the 19th century compare",
+                "compares": "federalism"
+            }
+        },
+        "references": {
+            "federalism": "https://dictionary.findlaw.com/definition/federalism.html"
+        }
+    }
+}

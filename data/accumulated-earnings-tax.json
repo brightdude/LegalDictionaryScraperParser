@@ -1,0 +1,11 @@
+{
+    "Accumulated Earnings Tax": {
+        "definition": "a tax levied on the taxable income of a corporation that is accumulated by the corporation rather than distributed to shareholders and that is not retained for the reasonable needs of the business",
+        "sub_definitions": {
+            "1": {
+                "1": "a tax levied on the taxable income of a corporation that is accumulated by the corporation rather than distributed to shareholders and that is not retained for the reasonable needs of the business"
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "Recourse": {
+        "definition": "the act of turning to someone or something for assistance esp. in obtaining redress b",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "the act of turning to someone or something for assistance esp. in obtaining redress",
+                "sub_terms": {
+                    "b": "a means to a desired end esp. in the nature of a remedy or justicethe end itself"
+                }
+            },
+            "2": {
+                "definition": "the right or ability to demand payment or compensationthe right to demand payment from the endorser or drawer of a negotiable instrument see alsoatcompare",
+                "note": " Under Article 3 of the Uniform Commercial Code, the phrasewithout recourseon a negotiable instrument limits the liability of the endorser or drawer. If an endorsement states that it is made without recourse, the endorser is not liable to pay, subject to various conditions, if the instrument is dishonored. Similarly, if a draft states that it is drawn without recourse, the drawer is not liable to pay, subject to various conditions, if the draft is dishonored, provided that it is not a check.",
+                "compares": "non-recourse"
+            }
+        },
+        "references": {
+            "note": "https://dictionary.findlaw.com/definition/note.html",
+            "non-recourse": "https://dictionary.findlaw.com/definition/non-recourse.html"
+        }
+    }
+}

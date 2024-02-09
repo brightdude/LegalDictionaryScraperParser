@@ -1,0 +1,17 @@
+{
+    "Registration": {
+        "definition": "the act of registering 2",
+        "sub_definitions": {
+            "1": {
+                "definition": "the act of registering"
+            },
+            "2": {
+                "definition": "an entry in a register"
+            },
+            "3": {
+                "definition": "a document certifying an act of registering"
+            }
+        },
+        "references": {}
+    }
+}

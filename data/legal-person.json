@@ -1,0 +1,11 @@
+{
+    "Legal Person": {
+        "definition": "a body of persons or an entity",
+        "sub_definitions": {
+            "1": {
+                "1": "a body of persons or an entity (as a corporation) considered as having many of the rights and responsibilities of a natural person and esp. the capacity to sue and be sued"
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "Ethical Consideration": {
+        "definition": "a recommendation made in the ABA Model Code of Professional Responsibility of what would or would not be ethical behavior by a lawyer under specified circumstances compare disciplinary rule",
+        "compare": "disciplinary rule",
+        "sub_definitions": {
+            "1": {
+                "1": "a recommendation made in the ABA Model Code of Professional Responsibility of what would or would not be ethical behavior by a lawyer under specified circumstances compare",
+                "compares": "disciplinary rule"
+            }
+        },
+        "references": {
+            "disciplinary rule": "https://dictionary.findlaw.com/definition/disciplinary-rule.html"
+        }
+    }
+}

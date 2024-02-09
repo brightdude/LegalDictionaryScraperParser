@@ -1,0 +1,18 @@
+{
+    "Due Care": {
+        "definition": "the care that an ordinarily reasonable and prudent person would use under the same or similar circumstances called also ordinary care reasonable care see also due diligence compare fault",
+        "compare": "due diligence",
+        "sub_definitions": {
+            "1": {
+                "1": "the care that an ordinarily reasonable and prudent person would use under the same or similar circumstances called also",
+                "see also": "due diligence",
+                "compares": "fault"
+            }
+        },
+        "references": {
+            "due diligence": "https://dictionary.findlaw.com/definition/due-diligence.html",
+            "fault": "https://dictionary.findlaw.com/definition/fault.html",
+            "negligence": "https://dictionary.findlaw.com/definition/negligence.html"
+        }
+    }
+}

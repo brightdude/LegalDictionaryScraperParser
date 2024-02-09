@@ -1,0 +1,13 @@
+{
+    "Incompetency": {
+        "definition": "incompetence",
+        "sub_definitions": {
+            "1": {
+                "1": "incompetence"
+            }
+        },
+        "references": {
+            "incompetence": "https://dictionary.findlaw.com/definition/incompetence.html"
+        }
+    }
+}

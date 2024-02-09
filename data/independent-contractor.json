@@ -1,0 +1,15 @@
+{
+    "Independent Contractor": {
+        "definition": "one that contracts to do work or perform a service for another and that retains total and free control over the means or methods used in doing the work or performing the service compare employee",
+        "compare": "employee",
+        "sub_definitions": {
+            "1": {
+                "1": "one that contracts to do work or perform a service for another and that retains total and free control over the means or methods used in doing the work or performing the service compare",
+                "compares": "employee"
+            }
+        },
+        "references": {
+            "employee": "https://dictionary.findlaw.com/definition/employee.html"
+        }
+    }
+}

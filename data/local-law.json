@@ -1,0 +1,22 @@
+{
+    "Local Law": {
+        "definition": "a law limited in application to a particular district within a territory called also local act compare general law",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "a law limited in application to a particular district within a territory called alsocompare,",
+                "sub_terms": {
+                    "b": ""
+                },
+                "compares": "general law"
+            },
+            "2": {
+                "definition": "the laws and legal principles and rules of a state other than those concerned with conflicts of law"
+            }
+        },
+        "references": {
+            "general law": "https://dictionary.findlaw.com/definition/general-law.html",
+            "public law": "https://dictionary.findlaw.com/definition/public-law.html",
+            "special law": "https://dictionary.findlaw.com/definition/special-law.html"
+        }
+    }
+}

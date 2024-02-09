@@ -1,0 +1,15 @@
+{
+    "Noncustodial": {
+        "definition": "not taking place while in custody [a interrogation of a suspect] 2",
+        "origin": "[a interrogation of a suspect]",
+        "sub_definitions": {
+            "1": {
+                "definition": "not taking place while in custody [a interrogation of a suspect]"
+            },
+            "2": {
+                "definition": "of or being a parent who does not have sole custody of a child or who has custody a smaller portion of the time"
+            }
+        },
+        "references": {}
+    }
+}

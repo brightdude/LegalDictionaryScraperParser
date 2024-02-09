@@ -1,0 +1,15 @@
+{
+    "Prudent Man Rule": {
+        "definition": "a rule giving discretion to a fiduciary and esp. a trustee to manage another's affairs and invest another's money with such skill and care as a person of ordinary prudence and intelligence would use in managing his or her own affairs or investments called also prudent person rule compare legal list",
+        "compare": "legal list",
+        "sub_definitions": {
+            "1": {
+                "1": "a rule giving discretion to a fiduciary and esp. a trustee to manage another's affairs and invest another's money with such skill and care as a person of ordinary prudence and intelligence would use in managing his or her own affairs or investments called also",
+                "compares": "legal list"
+            }
+        },
+        "references": {
+            "legal list": "https://dictionary.findlaw.com/definition/legal-list.html"
+        }
+    }
+}

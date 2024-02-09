@@ -1,0 +1,18 @@
+{
+    "Quantum Meruit": {
+        "definition": "a claim or count grounded on an implied contract that the defendant would pay the plaintiff as much as deserved for services or materials provided ;specif",
+        "origin": "[Latin, as much as he/she deserved]",
+        "sub_definitions": {
+            "1": {
+                "definition": "a claim or count grounded on an implied contract that the defendant would pay the plaintiff as much as deserved for services or materials provideda count in a common-law action for assumpsit claiming payment of the value of labor provided"
+            },
+            "2": {
+                "definition": "a theory or doctrine that permits recovery by a party for services or materials provided despite the absence of an express contract when they were accepted and used by the defendant under circumstances which gave reasonable notice that the plaintiff expected to be paid for them compare",
+                "compares": "unjust enrichment"
+            }
+        },
+        "references": {
+            "unjust enrichment": "https://dictionary.findlaw.com/definition/unjust-enrichment.html"
+        }
+    }
+}

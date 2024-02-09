@@ -1,0 +1,20 @@
+{
+    "Express": {
+        "definition": "directly and distinctly stated or expressed rather than implied or left to inference compare implied vt",
+        "compare": "implied",
+        "sub_definitions": {
+            "1": {
+                "1": "directly and distinctly stated or expressed rather than implied or left to inference compare",
+                "compares": "implied"
+            },
+            "2": {
+                "1": "to make known (one's thoughts, ideas, or opinions) by words, conduct, or symbols see also",
+                "see also": "expression"
+            }
+        },
+        "references": {
+            "implied": "https://dictionary.findlaw.com/definition/implied.html",
+            "expression": "https://dictionary.findlaw.com/definition/expression.html"
+        }
+    }
+}

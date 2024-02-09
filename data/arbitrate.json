@@ -1,0 +1,15 @@
+{
+    "Arbitrate": {
+        "definition": "to act as arbitrator for 2",
+        "origin": "[agreed to their dispute]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to act as arbitrator for"
+            },
+            "2": {
+                "definition": "to bring to arbitration for settlement [agreed to their dispute]to act as arbitrator"
+            }
+        },
+        "references": {}
+    }
+}

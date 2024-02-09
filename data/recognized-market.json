@@ -1,0 +1,12 @@
+{
+    "Recognized Market": {
+        "definition": "a market in which a secured party sells collateral upon a debtor's default",
+        "sub_definitions": {
+            "1": {
+                "1": "a market in which a secured party sells collateral upon a debtor's default, which does not rely on competitive bidding or haggling, and in which prices are stated publicly and presumed to be commercially reasonable",
+                "note": " Under the Uniform Commercial Code, a creditor is not required to notify a debtor of the sale of collateral in a recognized market."
+            }
+        },
+        "references": {}
+    }
+}

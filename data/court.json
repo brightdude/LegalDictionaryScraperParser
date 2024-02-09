@@ -1,0 +1,31 @@
+{
+    "Court": {
+        "definition": "an official assembly for the administration of justice",
+        "origin": "[Old French, enclosed space, royal entourage, court of justice, from Latin cohort - cohors farmyard, armed force, retinue]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "an official assembly for the administration of justicea unit of the judicial branch of government [the judicial power of the United States shall be vested in one supreme Court, and in such inferioras the Congress may from time to time ordain and establish \"art. III\"] see also the Judicial System in the back matter",
+                "sub_terms": {
+                    "b": "a session of such a court",
+                    "c": "the Supreme Court of the United States"
+                },
+                "s": "as the Congress may from time to time ordain and establish \"",
+                "U.S. Constitution": "art. III\"] see also the Judicial System in the back matter"
+            },
+            "2": {
+                "definition": "a place (as a building, hall, or room) for the administration of justice [order in the ]"
+            },
+            "3": {
+                "definition": "a judge or judges acting in official capacity [an issue to be decided by the ] [the may neither preside at nor attend the meeting of creditors \"J. H. Williamson\"]"
+            },
+            "4": {
+                "definition": "a legislative body [the Generalof Massachusetts]",
+                "Court": "of Massachusetts]"
+            },
+            "5": {
+                "definition": "a body (as the International Court of Justice) exercising judicial powers over its members or the members of a body represented by it [an ecclesiastical ]"
+            }
+        },
+        "references": {}
+    }
+}

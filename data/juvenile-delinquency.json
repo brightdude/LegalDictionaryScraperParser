@@ -1,0 +1,14 @@
+{
+    "Juvenile Delinquency": {
+        "definition": "a violation of the law committed by a juvenile that would have been a crime if committed by an adult ;also",
+        "sub_definitions": {
+            "1": {
+                "1": "a violation of the law committed by a juvenile that would have been a crime if committed by an adult"
+            },
+            "2": {
+                "1": "antisocial behavior by juveniles that is subject to legal action"
+            }
+        },
+        "references": {}
+    }
+}

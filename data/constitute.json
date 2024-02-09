@@ -1,0 +1,29 @@
+{
+    "Constitute": {
+        "definition": "to appoint to an office or function [those who are constituted heirs or named legatees \" Louisiana Civil Code \"] [legal authority s all magistrates] 2",
+        "origin": "[those who are constituted heirs or named legatees \" Louisiana Civil Code \"]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to appoint to an office or function [those who areheirs or named legatees \"\"] [legal authorityall magistrates]",
+                "Louisiana Civil Code": "\"] [legal authority",
+                "s": "all magistrates]"
+            },
+            "2": {
+                "definition": "[to tribunals inferior to the supreme Court \"art. I\"]"
+            },
+            "3 a": {
+                "definition": "to put (as an agreement) into required form",
+                "sub_terms": {
+                    "b": "to qualify as [a letter can a will \"W. M. McGovern, Jr.\"] [failure to act may negligence]",
+                    "c": "to form the substance or whole of [the bondsthe entire estate]"
+                },
+                "et al.": "\"] [failure to act may negligence]",
+                "constituted": "the entire estate]"
+            }
+        },
+        "references": {
+            "establish": "https://dictionary.findlaw.com/definition/establish.html",
+            "found": "https://dictionary.findlaw.com/definition/found.html"
+        }
+    }
+}

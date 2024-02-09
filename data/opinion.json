@@ -1,0 +1,70 @@
+{
+    "Opinion": {
+        "definition": "a belief stronger than impression and less strong than positive knowledge b",
+        "origin": "[an of title]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "a belief stronger than impression and less strong than positive knowledge",
+                "sub_terms": {
+                    "b": "a formal expression of a judgment or appraisal by an expert see alsoatcompare"
+                },
+                "compares": "fact"
+            },
+            "2 a": {
+                "definition": "advice or evaluation regarding the legal issues involved in a situation given by an attorney to a client [an of title] called alsosee alsoat",
+                "sub_terms": {
+                    "b": "an advisory opinion issued by an authorized public official (as an attorney general) or a recognized body (as the American Bar Association)"
+                }
+            },
+            "3 a": {
+                "definition": "an opinion of a court that sets forth the court's views or intended decision in a case but does not constitute the judgment",
+                "sub_terms": {
+                    "b": "an opinion of a court or judge setting forth the conclusions and findings and containing or constituting the actual order, judgment, or decree in the case"
+                }
+            },
+            "advisory opinion": {
+                "definition": "a nonbinding opinion or evaluation of a court or other judicial or quasi-judicial authority or body regarding the effect of the law on a situation that does not present an actual controversy between parties [to answer questions which were not brought before this Court would be to issue an\", 843 P.2d 1190 (1992)\"]",
+                "note": " Advisory opinions are issued esp. by administrative agencies and by some state courts. Federal courts are constrained by the U.S. Constitution to deciding only cases or controversies and cannot issue advisory opinions.",
+                "JBC of Wyoming Corp. v. City of Cheyenne": "843 P.2d 1190 (1992)"
+            },
+            "concurring opinion": {
+                "definition": "an opinion by a judge who agrees with the result in a case but not necessarily with the reasoning used to reach it"
+            },
+            "dissenting opinion": {
+                "definition": "an opinion by a judge who disagrees with the result in a case"
+            },
+            "majority opinion": {
+                "definition": "an opinion in a case that is written by one judge and in which a majority of the judges on the court join"
+            },
+            "1": {
+                "definition": "a brief opinion of a court that announces the result of a case without extensive discussion and that is usually unpublished and cannot be cited as precedent"
+            },
+            "2": {
+                "definition": "an opinion of the U.S. Tax Court that is ordered not to be published but that is authoritative as precedent"
+            },
+            "per curiam opinion": {
+                "definition": "a usually very brief unanimous opinion attributed to the court as a whole and not to any particular judge"
+            },
+            "plurality opinion": {
+                "definition": "an opinion with which a majority of the judges on the court concur in result but not in reasoning"
+            },
+            "sep·a·rate opinion": {
+                "definition": "an opinion written separately by a judge who dissents or who concurs only in the result of the majority opinion"
+            },
+            "slip opinion": {
+                "definition": "an opinion published in temporary form soon after the decision is rendered",
+                "sub_terms": {
+                    "b": "a written explanation for a decision reached by an official (as an arbitrator) presiding over the nonjudicial resolution of a dispute"
+                }
+            }
+        },
+        "references": {
+            "testimony": "https://dictionary.findlaw.com/definition/testimony.html",
+            "fact": "https://dictionary.findlaw.com/definition/fact.html",
+            "letter": "https://dictionary.findlaw.com/definition/letter.html",
+            "holding": "https://dictionary.findlaw.com/definition/holding.html",
+            "judgment": "https://dictionary.findlaw.com/definition/judgment.html",
+            "ruling": "https://dictionary.findlaw.com/definition/ruling.html"
+        }
+    }
+}

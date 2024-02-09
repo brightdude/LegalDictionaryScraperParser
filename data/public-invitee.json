@@ -1,0 +1,11 @@
+{
+    "Public Invitee": {
+        "definition": "a person invited to enter or remain on property for a purpose for which the property is held open to the public",
+        "sub_definitions": {
+            "1": {
+                "1": "a person invited to enter or remain on property for a purpose for which the property is held open to the public"
+            }
+        },
+        "references": {}
+    }
+}

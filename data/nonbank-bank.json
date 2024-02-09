@@ -1,0 +1,8 @@
+{
+    "Nonbank Bank": {
+        "definition": "Nonbank Bank",
+        "references": {
+            "bank": "https://dictionary.findlaw.com/definition/bank.html"
+        }
+    }
+}

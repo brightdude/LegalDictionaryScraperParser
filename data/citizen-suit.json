@@ -1,0 +1,11 @@
+{
+    "Citizen Suit": {
+        "definition": "a suit brought by citizens under a provision of an environmental law",
+        "sub_definitions": {
+            "1": {
+                "1": "a suit brought by citizens under a provision of an environmental law (as the Resource Conservation and Recovery Act) that gives citizens a private right of action against violators of the law and authorizes the court to award injunctive relief and sometimes to impose penalties"
+            }
+        },
+        "references": {}
+    }
+}

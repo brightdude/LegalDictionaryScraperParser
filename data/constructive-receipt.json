@@ -1,0 +1,11 @@
+{
+    "Constructive Receipt": {
+        "definition": "the receipt of taxable income",
+        "sub_definitions": {
+            "1": {
+                "1": "the receipt of taxable income (as interest on a savings account) that is implied by the income's ready availability to the taxpayer although it has not actually been collected"
+            }
+        },
+        "references": {}
+    }
+}

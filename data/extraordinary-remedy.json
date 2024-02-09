@@ -1,0 +1,16 @@
+{
+    "Extraordinary Remedy": {
+        "definition": "a procedure for obtaining judicial relief allowed when no other method is available",
+        "sub_definitions": {
+            "1": {
+                "1": "a procedure for obtaining judicial relief allowed when no other method is available, appropriate, or useful see also",
+                "see also": "habeas corpus"
+            }
+        },
+        "references": {
+            "habeas corpus": "https://dictionary.findlaw.com/definition/habeas-corpus.html",
+            "mandamus": "https://dictionary.findlaw.com/definition/mandamus.html",
+            "quo warranto": "https://dictionary.findlaw.com/definition/quo-warranto.html"
+        }
+    }
+}

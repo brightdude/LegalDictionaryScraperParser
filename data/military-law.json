@@ -1,0 +1,18 @@
+{
+    "Military Law": {
+        "definition": "law enforced by military rather than civil authority ;specif",
+        "compare": "martial law",
+        "sub_definitions": {
+            "1": {
+                "1": "law enforced by military rather than civil authority"
+            },
+            "2": {
+                "1": "law prescribed by statute for the government of the armed forces and accompanying civilian employees compare",
+                "compares": "martial law"
+            }
+        },
+        "references": {
+            "martial law": "https://dictionary.findlaw.com/definition/martial-law.html"
+        }
+    }
+}

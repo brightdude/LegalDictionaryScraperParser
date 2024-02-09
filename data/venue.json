@@ -1,0 +1,23 @@
+{
+    "Venue": {
+        "definition": "the place or county in which take place the alleged events from which a legal action arises used esp. at common law 2",
+        "origin": "[Anglo-French, place where a jury is summoned, alteration (influenced by venue arrival, attendance) of vinné visné , literally, neighborhood, neighbors, from Old French, ultimately from Latin vicinus neighboring]",
+        "sub_definitions": {
+            "1": {
+                "definition": "the place or county in which take place the alleged events from which a legal action arises used esp. at common law"
+            },
+            "2": {
+                "definition": "the place from which a jury is drawn and in which trial is held see alsocompare",
+                "compares": "jurisdiction",
+                "see also": "change of venue"
+            },
+            "3": {
+                "definition": "a statement showing that a case is brought to the proper court or authority"
+            }
+        },
+        "references": {
+            "change of venue": "https://dictionary.findlaw.com/definition/change-of-venue.html",
+            "jurisdiction": "https://dictionary.findlaw.com/definition/jurisdiction.html"
+        }
+    }
+}

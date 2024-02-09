@@ -1,0 +1,11 @@
+{
+    "Endowment Insurance": {
+        "definition": "life insurance in which the benefit is paid to the policyowner if he or she is still living at the end of the policy's term",
+        "sub_definitions": {
+            "1": {
+                "1": "life insurance in which the benefit is paid to the policyowner if he or she is still living at the end of the policy's term (as 20 years)"
+            }
+        },
+        "references": {}
+    }
+}

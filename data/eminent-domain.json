@@ -1,0 +1,17 @@
+{
+    "Eminent Domain": {
+        "definition": "the right of the government to take property from a private owner for public use by virtue of the superior dominion of its sovereignty over all lands within its jurisdiction see also condemn",
+        "sub_definitions": {
+            "1": {
+                "1": "the right of the government to take property from a private owner for public use by virtue of the superior dominion of its sovereignty over all lands within its jurisdiction see also",
+                "see also": "condemn",
+                "note": " The Fifth Amendment to the U.S. Constitution requires the government to compensate the owner of property taken by eminent domain, stating “nor shall private property be taken for public use, without just compensation.” State constitutions contain similar provisions requiring that the property owner receive just compensation for the property taken."
+            }
+        },
+        "references": {
+            "condemn": "https://dictionary.findlaw.com/definition/condemn.html",
+            "expropriate": "https://dictionary.findlaw.com/definition/expropriate.html",
+            "take": "https://dictionary.findlaw.com/definition/take.html"
+        }
+    }
+}

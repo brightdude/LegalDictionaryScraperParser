@@ -1,0 +1,22 @@
+{
+    "Statute": {
+        "definition": "a law enacted by the legislative branch of a government see also code",
+        "origin": "[Latin statutum law, regulation, from neuter of statutus , past participle of statuere to set up, station, from status position, state]",
+        "sub_definitions": {
+            "1": {
+                "definition": "a law enacted by the legislative branch of a government see also,",
+                "see also": "code"
+            },
+            "2": {
+                "definition": "an act of a corporation or its founder intended as a permanent rule"
+            },
+            "3": {
+                "definition": "an international instrument setting up an agency and regulating its scope or authority [the of the International Court of Justice]"
+            }
+        },
+        "references": {
+            "code": "https://dictionary.findlaw.com/definition/code.html",
+            "statutory law": "https://dictionary.findlaw.com/definition/statutory-law.html"
+        }
+    }
+}

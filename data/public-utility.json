@@ -1,0 +1,11 @@
+{
+    "Public Utility": {
+        "definition": "a business organization",
+        "sub_definitions": {
+            "1": {
+                "1": "a business organization (as an electric company) performing a public service and subject to special government regulation"
+            }
+        },
+        "references": {}
+    }
+}

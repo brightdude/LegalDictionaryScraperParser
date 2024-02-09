@@ -1,0 +1,30 @@
+{
+    "Document": {
+        "definition": "a writing",
+        "origin": "[dÄ -kyə-ment]",
+        "sub_definitions": {
+            "1": {
+                "definition": "a writing (as a deed or lease) conveying information see also",
+                "see also": "instrument"
+            },
+            "2 a": {
+                "definition": "something (as a writing, photograph, or recording) that may be used as evidence",
+                "sub_terms": {
+                    "b": "an official paper (as a license) relied on as the basis, proof, or support of something (as a right or privilege)[dÄ -kyə-ment] vt"
+                }
+            },
+            "1 a": {
+                "definition": "to furnish documentary evidence of",
+                "sub_terms": {
+                    "b": "to provide with exact references to authoritative supporting information"
+                }
+            },
+            "2": {
+                "definition": "to furnish (as a ship) with documents (as ship's papers)"
+            }
+        },
+        "references": {
+            "instrument": "https://dictionary.findlaw.com/definition/instrument.html"
+        }
+    }
+}

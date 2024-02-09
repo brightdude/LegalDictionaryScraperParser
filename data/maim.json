@@ -1,0 +1,15 @@
+{
+    "Maim": {
+        "definition": "to mutilate",
+        "compare": "mayhem",
+        "sub_definitions": {
+            "1": {
+                "1": "to mutilate, disfigure, or wound seriously compare",
+                "compares": "mayhem"
+            }
+        },
+        "references": {
+            "mayhem": "https://dictionary.findlaw.com/definition/mayhem.html"
+        }
+    }
+}

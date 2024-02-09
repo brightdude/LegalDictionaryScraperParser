@@ -1,0 +1,18 @@
+{
+    "Parol": {
+        "definition": "an oral declaration or statement [where the evidence of the gift rests in \" Matter of Cohn",
+        "origin": "[Anglo-French, speech, talk, from Old French parole ]",
+        "sub_definitions": {
+            "1": {
+                "definition": "executed or made by word of mouth or by a writing not under seal [a agreement]"
+            },
+            "2 a": {
+                "definition": "given or expressed by word of mouthoral as distinguished from written",
+                "sub_terms": {
+                    "b": "relating to matters outside of a writing"
+                }
+            }
+        },
+        "references": {}
+    }
+}

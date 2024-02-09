@@ -1,0 +1,91 @@
+{
+    "Sale": {
+        "definition": "the transfer of title to property from one party to another for a price ;also",
+        "origin": "[vice-president of s ]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "the transfer of title to property from one party to another for a pricethe contract of such a transaction see alsocompare,,,",
+                "compares": "barter",
+                "see also": "short"
+            },
+            "absolute sale": {
+                "definition": "a sale that takes place without conditions and with title simply passing to the buyer upon payment of the price comparein this entry",
+                "compares": "conditional sale"
+            },
+            "bulk sale": {
+                "definition": "a sale not in the ordinary course of the seller's business of more than half of the seller's inventory called also",
+                "note": " Article 6 of the Uniform Commercial Code governs bulk sales. Under section 6-102(c), in order for a sale to be considered a bulk sale, the buyer (or an auctioneer or liquidator if the sale is an auction) must have been given notice or been able upon reasonable inquiry to have had notice that the seller will not afterward continue to operate the same or a similar kind of business."
+            },
+            "cash sale": {
+                "definition": "a sale in which payment must be made in cash",
+                "note": " Under U.C.C. section 2-310, payment must be made in cash at the time and place that the buyer receives the goods unless there is a prior agreement between the parties for a sale on credit."
+            },
+            "conditional sale": {
+                "definition": "a sale that is complete only when one or more conditions are meta sale in which the seller extends credit to the buyer to purchase the item and takes a security interest in the item with the buyer receiving title when the debt has been fully paid off comparein this entry",
+                "compares": "absolute sale"
+            },
+            "execution sale": {
+                "definition": "a sale carried out to execute a judgment under authority of a judicial officer (as a court clerk) but not by court order"
+            },
+            "forced sale": {
+                "definition": "a sale of property ordered by a court in order to satisfy a creditor's judgment against a debtor"
+            },
+            "foreclosure sale": {
+                "definition": "a sale of property upon default of a mortgage to satisfy the debt"
+            },
+            "judicial sale": {
+                "definition": "a sale of property conducted by an authorized official by order of a courtin this entry"
+            },
+            "private sale": {
+                "definition": "an often unadvertised sale of property that is not open to the general public and does not take place at a set time or place"
+            },
+            "public sale": {
+                "definition": "a sale (as an auction) that is publicly advertised and that takes place at a location open to the public"
+            },
+            "sale in gross": {
+                "definition": "a sale of a tract of land that is not made with a guarantee as to the exact amount of land involvedthe sale of an undivided property (as in execution of a judgment)"
+            },
+            "sale on ap·prov·al": {
+                "definition": "a conditional sale whose completion depends on acceptance of the goods by a buyer (as a consumer) receiving them primarily for use with the option to return them if they do not meet his or her approval even though they conform to contract"
+            },
+            "sale or return": {
+                "definition": "a conditional sale whose completion depends on acceptance of the goods by a buyer (as a merchant) receiving them primarily for resale with the option to return them if they are not resold even though they conform to contract"
+            },
+            "sheriff's sale": {
+                "definition": "a forced sale of property by a sheriff or deputy sheriff"
+            },
+            "tax sale": {
+                "definition": "a forced sale of property resulting from nonpayment of taxes by the owner compareat",
+                "sub_terms": {
+                    "b": "a contract for selling or disposing of a security or an interest in a security for value see also,"
+                },
+                "see also": "short"
+            },
+            "2": {
+                "definition": "the transfer of a controlled substance to another person for money or other consideration"
+            },
+            "3": {
+                "definition": "a selling of goods at lower than usual prices"
+            },
+            "4": {
+                "sub_terms": {
+                    "a": "operations and activities involved in promoting and selling goods and services [vice-president of]",
+                    "b": "gross receipts",
+                    "c": "income calculated under the accrual basis of accounting"
+                }
+            }
+        },
+        "references": {
+            "short": "https://dictionary.findlaw.com/definition/short.html",
+            "barter": "https://dictionary.findlaw.com/definition/barter.html",
+            "donation": "https://dictionary.findlaw.com/definition/donation.html",
+            "exchange": "https://dictionary.findlaw.com/definition/exchange.html",
+            "gift": "https://dictionary.findlaw.com/definition/gift.html",
+            "conditional sale": "https://dictionary.findlaw.com/definition/conditional-sale.html",
+            "absolute sale": "https://dictionary.findlaw.com/definition/absolute-sale.html",
+            "forced sale": "https://dictionary.findlaw.com/definition/forced-sale.html",
+            "lien": "https://dictionary.findlaw.com/definition/lien.html",
+            "wash sale": "https://dictionary.findlaw.com/definition/wash-sale.html"
+        }
+    }
+}

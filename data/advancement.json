@@ -1,0 +1,19 @@
+{
+    "Advancement": {
+        "definition": "something given in advance ;specif",
+        "compare": "ademption",
+        "sub_definitions": {
+            "1": {
+                "1": "something given in advance"
+            },
+            "2": {
+                "1": "money or property given as a gift by a living person (as by a parent to a child) with the intention that the amount the recipient inherits under the law from the person's estate will be reduced proportionately compare",
+                "compares": "ademption",
+                "note": " Advancements apply only when the person making the gift dies without a will. The Uniform Probate Code requires written evidence that the gift was intended to be an advancement. A person who gives a gift that is not intended as an advancement cannot later change it to an advancement. A gift given as an advancement can, however, be changed into an outright gift."
+            }
+        },
+        "references": {
+            "ademption": "https://dictionary.findlaw.com/definition/ademption.html"
+        }
+    }
+}

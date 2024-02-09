@@ -1,0 +1,11 @@
+{
+    "Legislative Session": {
+        "definition": "a session of the U.S. Senate that is not an executive session",
+        "sub_definitions": {
+            "1": {
+                "1": "a session of the U.S. Senate that is not an executive session"
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "Armed Robbery": {
+        "definition": "Armed Robbery",
+        "references": {
+            "robbery": "https://dictionary.findlaw.com/definition/robbery.html"
+        }
+    }
+}

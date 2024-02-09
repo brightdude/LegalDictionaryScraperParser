@@ -1,0 +1,16 @@
+{
+    "Submissible": {
+        "definition": "sufficient for submission to a trier of fact",
+        "origin": "[the claimant has the burden of proving a case \" Manor Square, Inc. v. Heartthrob of Kansas City, Inc. , 854 S.W.2d 38 (1993)\"]",
+        "sub_definitions": {
+            "1": {
+                "1": "sufficient for submission to a trier of fact"
+            },
+            "2": {
+                "1": "capable of being submitted for decision [the claimant has the burden of proving a case \"",
+                "Manor Square, Inc. v. Heartthrob of Kansas City, Inc.": "854 S.W.2d 38 (1993)"
+            }
+        },
+        "references": {}
+    }
+}

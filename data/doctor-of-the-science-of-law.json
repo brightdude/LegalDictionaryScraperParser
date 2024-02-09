@@ -1,0 +1,17 @@
+{
+    "Doctor Of The Science Of Law": {
+        "definition": "a degree conferred for advanced study",
+        "compare": "doctor of laws",
+        "sub_definitions": {
+            "1": {
+                "1": "a degree conferred for advanced study, research, and completion and approval of a dissertation in law compare",
+                "compares": "doctor of laws"
+            }
+        },
+        "references": {
+            "doctor of laws": "https://dictionary.findlaw.com/definition/doctor-of-laws.html",
+            "juris doctor": "https://dictionary.findlaw.com/definition/juris-doctor.html",
+            "master of laws": "https://dictionary.findlaw.com/definition/master-of-laws.html"
+        }
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "False Swearing": {
+        "definition": "the making of false statements under oath or affirmation in a setting other than a judicial proceeding ;also",
+        "compare": "perjury",
+        "sub_definitions": {
+            "1": {
+                "1": "the making of false statements under oath or affirmation in a setting other than a judicial proceeding"
+            },
+            "2": {
+                "1": "the crime of false swearing compare",
+                "compares": "perjury"
+            }
+        },
+        "references": {
+            "perjury": "https://dictionary.findlaw.com/definition/perjury.html"
+        }
+    }
+}

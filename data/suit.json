@@ -1,0 +1,21 @@
+{
+    "Suit": {
+        "definition": "a proceeding to enforce a right or claim ;specif",
+        "origin": "[Anglo-French siute suite suit request to initiate legal proceedings, literally, pursuit, from siute , feminine past participle of suire to follow, from Old French sivre see sue ]",
+        "sub_definitions": {
+            "1": {
+                "1": "a proceeding to enforce a right or claim"
+            },
+            "2": {
+                "1": "an action brought in a court seeking a remedy for injuries suffered or a determination of rights"
+            },
+            "3": {
+                "1": "lawsuit"
+            }
+        },
+        "references": {
+            "sue": "https://dictionary.findlaw.com/definition/sue.html",
+            "lawsuit": "https://dictionary.findlaw.com/definition/lawsuit.html"
+        }
+    }
+}

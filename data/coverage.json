@@ -1,0 +1,16 @@
+{
+    "Coverage": {
+        "definition": "protection or indemnification by an insurance policy [the policy provides extensive against burglary] 2",
+        "origin": "[the policy provides extensive against burglary]",
+        "sub_definitions": {
+            "1": {
+                "definition": "protection or indemnification by an insurance policy [the policy provides extensive against burglary]"
+            },
+            "2": {
+                "definition": "a risk assumed by the terms of an insurance contract [the policy lists four: liability, medical payments, uninsured motorists, and physical damage]",
+                "s": ": liability, medical payments, uninsured motorists, and physical damage]"
+            }
+        },
+        "references": {}
+    }
+}

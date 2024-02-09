@@ -1,0 +1,11 @@
+{
+    "Two Witness Rule": {
+        "definition": "a rule requiring the testimony of at least two witnesses in order to convict for perjury",
+        "sub_definitions": {
+            "1": {
+                "1": "a rule requiring the testimony of at least two witnesses in order to convict for perjury"
+            }
+        },
+        "references": {}
+    }
+}

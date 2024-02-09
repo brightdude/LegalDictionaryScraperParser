@@ -1,0 +1,57 @@
+{
+    "Partnership": {
+        "definition": "an association of two or more persons or entities that conduct a business for profit as co-owners see also Uniform Partnership Act in the Important Laws section compare corporation",
+        "compare": "corporation",
+        "sub_definitions": {
+            "commercial partnership": {
+                "definition": "in this entry"
+            },
+            "family partnership": {
+                "definition": "a partnership in which the partners are members of a family"
+            },
+            "general partnership": {
+                "definition": "a partnership in which each partner is liable for all partnership debts and obligations in full regardless of the amount of the individual partner's capital contribution comparein this entry",
+                "compares": "limited partnership"
+            },
+            "limited liability partnership": {
+                "definition": "a partnership formed under applicable state statute in which the partnership is liable as an entity for debts and obligations and the partners are not liable personally"
+            },
+            "lim·it·ed partnership": {
+                "definition": "a partnership in which the business is managed by one or more general partners and is provided with capital by limited partners who do not participate in management but who share in profits and whose individual liability is limited to the amount of their respective capital contributions comparein this entry",
+                "compares": "general partnership"
+            },
+            "master limited partnership": {
+                "definition": "a limited partnership that offers interests for sale on the marketthe interests themselves sold as securities"
+            },
+            "min·ing partnership": {
+                "definition": "a partnership in which two or more persons jointly own a mining claim and actually engage in extracting minerals with the purpose of sharing profits and losses"
+            },
+            "non·trad·ing partnership": {
+                "definition": "a partnership that is not engaged in the buying and selling of goods called alsocomparein this entry",
+                "compares": "trading partnership"
+            },
+            "partnership at will": {
+                "definition": "a partnership whose duration is not fixed by contract and that is terminable at will by any partner"
+            },
+            "partnership by estoppel": {
+                "definition": "a partnership created by operation of law when a defendant by words or conduct represents himself or herself to the plaintiff or to the public as a partner and the plaintiff relies on the representation to his or her detriment"
+            },
+            "partnership in commendam": {
+                "definition": "in this entry"
+            },
+            "trad·ing partnership": {
+                "definition": "a partnership whose business involves the buying and selling of goods called alsocomparein this entry",
+                "compares": "nontrading partnership"
+            }
+        },
+        "references": {
+            "corporation": "https://dictionary.findlaw.com/definition/corporation.html",
+            "joint venture": "https://dictionary.findlaw.com/definition/joint-venture.html",
+            "sole proprietorship": "https://dictionary.findlaw.com/definition/sole-proprietorship.html",
+            "trading partnership": "https://dictionary.findlaw.com/definition/trading-partnership.html",
+            "limited partnership": "https://dictionary.findlaw.com/definition/limited-partnership.html",
+            "general partnership": "https://dictionary.findlaw.com/definition/general-partnership.html",
+            "nontrading partnership": "https://dictionary.findlaw.com/definition/nontrading-partnership.html"
+        }
+    }
+}

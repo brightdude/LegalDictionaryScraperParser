@@ -1,0 +1,17 @@
+{
+    "Controversy": {
+        "definition": "-sies 1",
+        "origin": "[suits at common law, where the value in shall exceed twenty dollars \" U.S. Constitution amend. VII\"]",
+        "sub_definitions": {
+            "1": {
+                "definition": "a state of dispute or disagreement [suits at common law, where the value in shall exceed twenty dollars \"amend. VII\"]",
+                "U.S. Constitution": "amend. VII\"]"
+            },
+            "2": {
+                "definition": "a civil action involving a real and immediate dispute between parties with adverse interests",
+                "note": " Article III of the U.S. Constitution gives the judiciary the power to decide cases and controversies. Article III's limitation of the judicial power to cases or controversies requires that an action brought in the federal court involve parties with standing to sue and questions that are ripe and not moot."
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "Petty": {
+        "definition": "relatively minor in degree [a offense punishable by not more than six months in prison] compare grand",
+        "origin": "[a offense punishable by not more than six months in prison]",
+        "compare": "grand",
+        "sub_definitions": {
+            "1": {
+                "1": "relatively minor in degree [a offense punishable by not more than six months in prison] compare",
+                "compares": "grand"
+            }
+        },
+        "references": {
+            "grand": "https://dictionary.findlaw.com/definition/grand.html"
+        }
+    }
+}

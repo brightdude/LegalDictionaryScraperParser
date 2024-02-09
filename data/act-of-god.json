@@ -1,0 +1,18 @@
+{
+    "Act Of God": {
+        "definition": "an extraordinary natural event",
+        "compare": "force majeure",
+        "sub_definitions": {
+            "1": {
+                "1": "an extraordinary natural event (as a flood or earthquake) that cannot be reasonably foreseen or prevented compare",
+                "compares": "force majeure",
+                "note": " It is a defense against liability for injury if the injury is directly and exclusively caused by an act of God."
+            }
+        },
+        "references": {
+            "force majeure": "https://dictionary.findlaw.com/definition/force-majeure.html",
+            "inevitable accident": "https://dictionary.findlaw.com/definition/inevitable-accident.html",
+            "unavoidable accident": "https://dictionary.findlaw.com/definition/unavoidable-accident.html"
+        }
+    }
+}

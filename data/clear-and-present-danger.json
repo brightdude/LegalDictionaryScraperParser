@@ -1,0 +1,21 @@
+{
+    "Clear And Present Danger": {
+        "definition": "a risk or threat to safety or other public interests that is serious and imminent ;esp",
+        "origin": "[a clear and present danger of harm to others or himself]",
+        "sub_definitions": {
+            "1": {
+                "1": "a risk or threat to safety or other public interests that is serious and imminent"
+            },
+            "2": {
+                "1": "one that justifies limitation of a right (as freedom of speech or press) by the legislative or executive branch of government [a",
+                "clear and present danger": "of harm to others or himself] see also",
+                "see also": "freedom of speech",
+                "Schenck v. United States": "in the Important Cases section"
+            }
+        },
+        "references": {
+            "freedom of speech": "https://dictionary.findlaw.com/definition/freedom-of-speech.html",
+            "Constitution": "https://dictionary.findlaw.com/definition/constitution.html"
+        }
+    }
+}

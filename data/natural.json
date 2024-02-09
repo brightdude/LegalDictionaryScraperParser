@@ -1,0 +1,37 @@
+{
+    "Natural": {
+        "definition": "based on an inherent sense of right and wrong [ justice] see also natural law",
+        "origin": "[ justice]",
+        "sub_definitions": {
+            "1": {
+                "definition": "based on an inherent sense of right and wrong [ justice] see also,",
+                "see also": "natural law"
+            },
+            "2 a": {
+                "definition": "existing as part of or determined by nature [the condition of the land]",
+                "sub_terms": {
+                    "b": "being in accordance with or arising from nature esp. as distinguished from operation of law see alsocompare",
+                    "c": "arising from the usual course of events [a result of the accident]"
+                },
+                "compares": "artificial",
+                "see also": "natural person"
+            },
+            "3 a": {
+                "definition": "begotten as distinguished from adopted",
+                "sub_terms": {
+                    "b": "being a relation by consanguinity as distinguished from adoption [ parents]"
+                }
+            },
+            "4": {
+                "definition": "[a child]"
+            }
+        },
+        "references": {
+            "natural law": "https://dictionary.findlaw.com/definition/natural-law.html",
+            "natural right": "https://dictionary.findlaw.com/definition/natural-right.html",
+            "natural person": "https://dictionary.findlaw.com/definition/natural-person.html",
+            "artificial": "https://dictionary.findlaw.com/definition/artificial.html",
+            "illegitimate": "https://dictionary.findlaw.com/definition/illegitimate.html"
+        }
+    }
+}

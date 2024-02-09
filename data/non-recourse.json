@@ -1,0 +1,16 @@
+{
+    "Non-Recourse": {
+        "definition": "of",
+        "origin": "[a mortgage]",
+        "compare": "recourse",
+        "sub_definitions": {
+            "1": {
+                "1": "of, relating to, or being a debt whose satisfaction may be obtained on default only out of the particular collateral given and not out of the debtor's other assets [a mortgage] [a creditor] compare",
+                "compares": "recourse"
+            }
+        },
+        "references": {
+            "recourse": "https://dictionary.findlaw.com/definition/recourse.html"
+        }
+    }
+}

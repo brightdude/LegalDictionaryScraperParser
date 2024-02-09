@@ -1,0 +1,13 @@
+{
+    "Apprehension": {
+        "definition": "arrest",
+        "sub_definitions": {
+            "1": {
+                "1": "arrest"
+            }
+        },
+        "references": {
+            "arrest": "https://dictionary.findlaw.com/definition/arrest.html"
+        }
+    }
+}

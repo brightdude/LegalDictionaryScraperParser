@@ -1,0 +1,16 @@
+{
+    "Taxable Distribution": {
+        "definition": "a generation-skipping transfer of property held in trust that is subject to a generation-skipping transfer tax payable by a skip person when he or she receives a distribution of income or principal compare direct skip",
+        "compare": "direct skip",
+        "sub_definitions": {
+            "1": {
+                "1": "a generation-skipping transfer of property held in trust that is subject to a generation-skipping transfer tax payable by a skip person when he or she receives a distribution of income or principal compare",
+                "compares": "direct skip"
+            }
+        },
+        "references": {
+            "direct skip": "https://dictionary.findlaw.com/definition/direct-skip.html",
+            "taxable termination": "https://dictionary.findlaw.com/definition/taxable-termination.html"
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "Domestic Violence": {
+        "definition": "violence committed by one family or household member against another see also restraining order at order",
+        "sub_definitions": {
+            "1": {
+                "1": "violence committed by one family or household member against another see also"
+            }
+        },
+        "references": {
+            "order": "https://dictionary.findlaw.com/definition/order.html"
+        }
+    }
+}

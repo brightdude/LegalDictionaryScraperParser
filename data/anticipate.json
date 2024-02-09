@@ -1,0 +1,18 @@
+{
+    "Anticipate": {
+        "definition": "to bar or invalidate",
+        "origin": "[the patent on the compound had been anticipated by the Beilstein reference \" Misani v. Ortho Pharm. Corp. , 210 A.2d 609 (1965)\"]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to bar or invalidate (a patent) by anticipation [the patent on the compound had beenby the Beilstein reference \", 210 A.2d 609 (1965)\"]",
+                "Misani v. Ortho Pharm. Corp.": "210 A.2d 609 (1965)"
+            },
+            "2": {
+                "definition": "to negate the novelty of (an invention) by its appearance in prior art [appeared to havea variable light makeup mirror \", 503 N.Y.S.2d 334 (1986)\"]",
+                "anticipated": "a variable light makeup mirror \"",
+                "Wilson v. Bristol-Myers Co.": "503 N.Y.S.2d 334 (1986)"
+            }
+        },
+        "references": {}
+    }
+}

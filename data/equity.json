@@ -1,0 +1,47 @@
+{
+    "Equity": {
+        "definition": "-ties [Latin aequitat- aequitas fairness",
+        "origin": "[Latin aequitat- aequitas fairness, justice, from aequus equal, fair]",
+        "sub_definitions": {
+            "-ties": {
+                "definition": "[Latinfairness, justice, fromequal, fair]"
+            },
+            "1 a": {
+                "definition": "justice according to fairness esp. as distinguished from mechanical application of rules [prompted by considerations of ] [comity between nations, and require it to be paid for \"F. A. Magruder\"]",
+                "sub_terms": {
+                    "b": "something that is equitablean instance of equity [the inequities produced by the system are outnumbered by the]"
+                }
+            },
+            "2 a": {
+                "definition": "a system of law originating in the English chancery and comprising a settled and formal body of substantive and procedural rules and doctrines that supplement, aid, or override common and statutory law [the judicial power shall extend to all cases, in law and , arising under this Constitution \"art. III\"] see alsocompare,",
+                "sub_terms": {
+                    "b": "the principles that developed in the courts of equityjustice in accordance with equity [ treats a devisee who procures a will by fraud as a constructive trustee \"W. M. McGovern, Jr.\"]justice in accordance with natural law",
+                    "c": "a court of equity [sat alone for some time in \"O. W. Holmes, Jr.\"]"
+                },
+                "note": " The courts of equity arose in England from a need to provide relief for claims that did not conform to the writ system existing in the courts of law. Originally, the courts of equity exercised great discretion in fashioning remedies. Over time, they established precedents, rules, and doctrines of their own that were distinct from those used in the courts of law. Although for a time the courts of equity rivaled the law courts in power, the law courts maintained an advantage partly as a result of forcing the equity courts to hear only those cases for which there was no adequate remedy at law. The courts of law and equity were united in England in 1873. Courts of equity also developed in the United States, but in most states and in the federal system courts of law and courts of equity have been joined. The courts apply both legal and equitable principles and offer both legal and equitable relief, although generally equitable relief is still granted when there is no adequate remedy at law.",
+                "compares": "common law",
+                "see also": "chancery",
+                "U.S. Constitution": "art. III\"] see also"
+            },
+            "3": {
+                "definition": "a body of doctrines and rules developed to enlarge, supplement, or override any narrow or rigid system of law"
+            },
+            "4 a": {
+                "definition": "a right, claim, or interest existing or valid in equity",
+                "sub_terms": {
+                    "b": "the money value of a property or of an interest in property in excess of any claims or liens (as mortgage indebtedness) against it",
+                    "c": "a risk interest or ownership right in propertythe ownership interests of shareholders in a company",
+                    "d": "the common stock of a corporation compare,"
+                },
+                "compares": "asset"
+            }
+        },
+        "references": {
+            "chancery": "https://dictionary.findlaw.com/definition/chancery.html",
+            "common law": "https://dictionary.findlaw.com/definition/common-law.html",
+            "law": "https://dictionary.findlaw.com/definition/law.html",
+            "asset": "https://dictionary.findlaw.com/definition/asset.html",
+            "debt": "https://dictionary.findlaw.com/definition/debt.html"
+        }
+    }
+}

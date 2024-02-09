@@ -1,0 +1,34 @@
+{
+    "Finding": {
+        "definition": "a determination resulting from judicial or administrative examination or inquiry",
+        "compare": "factfinding",
+        "sub_definitions": {
+            "usu pl": {
+                "definition": "a written statement of such determinations see alsocompare,,,",
+                "compares": "decision",
+                "see also": "factfinding"
+            },
+            "finding of fact": {
+                "definition": "a determination made by the trier of fact as to a factual issue based on the evidence presented in a case",
+                "note": " Conclusions of law are based on findings of fact."
+            },
+            "finding of law": {
+                "definition": "a court's determination of the law as applied to a case"
+            },
+            "gen·er·al finding": {
+                "definition": "a finding that the facts in general support a judgment in favor of one of the parties"
+            },
+            "spe·cial finding": {
+                "definition": "a finding setting out the ultimate facts upon which the court's judgment is based"
+            }
+        },
+        "references": {
+            "factfinding": "https://dictionary.findlaw.com/definition/factfinding.html",
+            "decision": "https://dictionary.findlaw.com/definition/decision.html",
+            "holding": "https://dictionary.findlaw.com/definition/holding.html",
+            "opinion": "https://dictionary.findlaw.com/definition/opinion.html",
+            "ruling": "https://dictionary.findlaw.com/definition/ruling.html",
+            "conclusion of law": "https://dictionary.findlaw.com/definition/conclusion-of-law.html"
+        }
+    }
+}

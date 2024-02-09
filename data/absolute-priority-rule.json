@@ -1,0 +1,11 @@
+{
+    "Absolute Priority Rule": {
+        "definition": "a rule that provides for the satisfaction in full of claims of senior creditors before any payments can be made to junior creditors under a chapter 11 bankruptcy plan",
+        "sub_definitions": {
+            "1": {
+                "1": "a rule that provides for the satisfaction in full of claims of senior creditors before any payments can be made to junior creditors under a chapter 11 bankruptcy plan"
+            }
+        },
+        "references": {}
+    }
+}

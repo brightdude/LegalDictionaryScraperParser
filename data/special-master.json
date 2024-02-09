@@ -1,0 +1,13 @@
+{
+    "Special Master": {
+        "definition": "master",
+        "sub_definitions": {
+            "1": {
+                "1": "master"
+            }
+        },
+        "references": {
+            "master": "https://dictionary.findlaw.com/definition/master.html"
+        }
+    }
+}

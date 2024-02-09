@@ -1,0 +1,24 @@
+{
+    "Action": {
+        "definition": "a judicial proceeding for the enforcement or protection of a right",
+        "origin": "[Latin actio legal proceeding, from agere to do, carry out, initiate legal proceedings]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "a judicial proceeding for the enforcement or protection of a right, the redress or prevention of a wrong, or the punishment of a public offense compareat",
+                "sub_terms": {
+                    "b": "the right to bring or maintain such a legal or judicial proceeding"
+                }
+            },
+            "2": {
+                "definition": "an act or decision by an executive or legislative body of a government (as an administrative agency) or of an organization (as a Board of Directors) [the power of courts to invalidate statutes and executive\"R. H. Bork\"]",
+                "s": "\"R. H. Bork\"]"
+            },
+            "3": {
+                "definition": "a voluntary act of will that manifests itself externallya mode of conduct"
+            }
+        },
+        "references": {
+            "proceeding": "https://dictionary.findlaw.com/definition/proceeding.html"
+        }
+    }
+}

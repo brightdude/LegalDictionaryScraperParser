@@ -1,0 +1,15 @@
+{
+    "Bona Fide Holder": {
+        "definition": "a holder of a negotiable instrument who acquired title to the instrument in the ordinary course of business for value before it became due and without knowledge of any defect in title compare holder in due course",
+        "compare": "holder in due course",
+        "sub_definitions": {
+            "1": {
+                "1": "a holder of a negotiable instrument who acquired title to the instrument in the ordinary course of business for value before it became due and without knowledge of any defect in title compare",
+                "compares": "holder in due course"
+            }
+        },
+        "references": {
+            "holder in due course": "https://dictionary.findlaw.com/definition/holder-in-due-course.html"
+        }
+    }
+}

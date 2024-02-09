@@ -1,0 +1,11 @@
+{
+    "Non-Skip Person": {
+        "definition": "a person who is not a skip person",
+        "sub_definitions": {
+            "1": {
+                "1": "a person who is not a skip person"
+            }
+        },
+        "references": {}
+    }
+}

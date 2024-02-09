@@ -1,0 +1,14 @@
+{
+    "Residue": {
+        "definition": "something that remains after a part is taken",
+        "sub_definitions": {
+            "1": {
+                "1": "something that remains after a part is taken, separated, or designated"
+            },
+            "2": {
+                "1": "the part of a testator's estate remaining after the satisfaction of all debts, charges, taxes, and legacies other than residuary legacies"
+            }
+        },
+        "references": {}
+    }
+}

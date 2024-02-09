@@ -1,0 +1,19 @@
+{
+    "Ex Parte": {
+        "definition": "on behalf of or involving only one party to a legal matter and in the absence of and usually without notice to the other party [an ex parte motion] [relief granted ex parte ] used in citations to indicate the party seeking judicial relief in a case [ Ex Parte Jones",
+        "origin": "[Medieval Latin, on behalf (of)]",
+        "compare": "in re",
+        "sub_definitions": {
+            "1": {
+                "1": "on behalf of or involving only one party to a legal matter and in the absence of and usually without notice to the other party [an",
+                "ex parte": "] used in citations to indicate the party seeking judicial relief in a case [",
+                "Ex Parte": "Jones, 7 U.S. 2 (1866)] compare",
+                "compares": "in re"
+            }
+        },
+        "references": {
+            "in re": "https://dictionary.findlaw.com/definition/in-re.html",
+            "inter partes": "https://dictionary.findlaw.com/definition/inter-partes.html"
+        }
+    }
+}

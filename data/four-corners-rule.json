@@ -1,0 +1,12 @@
+{
+    "Four Corners Rule": {
+        "definition": "a rule holding that if a document",
+        "sub_definitions": {
+            "1": {
+                "1": "a rule holding that if a document (as a contract, deed, or will) appears on its face to be complete no outside evidence may be used to challenge it",
+                "note": " The number of states that accept the four corners rule is in decline."
+            }
+        },
+        "references": {}
+    }
+}

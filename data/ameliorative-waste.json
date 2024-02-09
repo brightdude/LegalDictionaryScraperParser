@@ -1,0 +1,14 @@
+{
+    "Ameliorative Waste": {
+        "definition": "ameliorating waste at waste",
+        "sub_definitions": {
+            "1": {
+                "1": "ameliorating waste"
+            }
+        },
+        "references": {
+            "ameliorating waste": "https://dictionary.findlaw.com/definition/ameliorating-waste.html",
+            "waste": "https://dictionary.findlaw.com/definition/waste.html"
+        }
+    }
+}

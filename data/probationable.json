@@ -1,0 +1,15 @@
+{
+    "Probationable": {
+        "definition": "not precluding probation",
+        "origin": "[a offense]",
+        "sub_definitions": {
+            "1": {
+                "1": "not precluding probation"
+            },
+            "2": {
+                "1": "punishable by probation [a offense]"
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "Demeanor": {
+        "definition": "outward manner",
+        "sub_definitions": {
+            "1": {
+                "1": "outward manner"
+            },
+            "2": {
+                "1": "way of conducting oneself",
+                "note": " A jury may consider a witness's demeanor on the stand in determining the witness's credibility."
+            }
+        },
+        "references": {}
+    }
+}

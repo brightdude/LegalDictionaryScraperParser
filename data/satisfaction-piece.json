@@ -1,0 +1,11 @@
+{
+    "Satisfaction Piece": {
+        "definition": "a formal written acknowledgment by an obligee",
+        "sub_definitions": {
+            "1": {
+                "1": "a formal written acknowledgment by an obligee (as a mortgagee) that an obligation has been satisfied and that the obligor is discharged"
+            }
+        },
+        "references": {}
+    }
+}

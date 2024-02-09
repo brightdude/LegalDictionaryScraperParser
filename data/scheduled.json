@@ -1,0 +1,12 @@
+{
+    "Scheduled": {
+        "definition": "insured or effective in accordance with a schedule listing particular property",
+        "origin": "[ personal property]",
+        "sub_definitions": {
+            "1": {
+                "1": "insured or effective in accordance with a schedule listing particular property, injuries, or services covered [ personal property] [ coverage]"
+            }
+        },
+        "references": {}
+    }
+}

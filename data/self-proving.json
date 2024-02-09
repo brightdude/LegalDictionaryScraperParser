@@ -1,0 +1,15 @@
+{
+    "Self-Proving": {
+        "definition": "containing proof of its own validity [a will] 2",
+        "origin": "[a will]",
+        "sub_definitions": {
+            "1": {
+                "definition": "containing proof of its own validity [a will]"
+            },
+            "2": {
+                "definition": "providing or being the evidence that renders something self-provingbeing an affidavit signed by the witnesses to a will attesting to the will's validity"
+            }
+        },
+        "references": {}
+    }
+}

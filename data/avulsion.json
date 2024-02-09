@@ -1,0 +1,19 @@
+{
+    "Avulsion": {
+        "definition": "a sudden cutting off of land by flood or change in the course of a body of water ;esp",
+        "origin": "[Latin avulsio act of tearing away, from avellere to tear away, from a - off, away + vellere to pull, pluck]",
+        "compare": "accretion",
+        "sub_definitions": {
+            "1": {
+                "1": "a sudden cutting off of land by flood or change in the course of a body of water"
+            },
+            "2": {
+                "1": "one that separates a portion from one person's property and joins it to the property of another compare",
+                "compares": "accretion"
+            }
+        },
+        "references": {
+            "accretion": "https://dictionary.findlaw.com/definition/accretion.html"
+        }
+    }
+}

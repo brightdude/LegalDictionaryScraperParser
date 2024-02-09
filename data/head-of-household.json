@@ -1,0 +1,11 @@
+{
+    "Head Of Household": {
+        "definition": "an unmarried individual who is not a surviving spouse and who maintains a household which for more than one-half of the taxable year is the principal abode of a person who qualifies as a dependent under section 2",
+        "sub_definitions": {
+            "1": {
+                "1": "an unmarried individual who is not a surviving spouse and who maintains a household which for more than one-half of the taxable year is the principal abode of a person who qualifies as a dependent under section 2(b) of the Internal Revenue Code"
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "Onerous": {
+        "definition": "excessively burdensome or costly 2",
+        "origin": "[an donation]",
+        "sub_definitions": {
+            "1": {
+                "definition": "excessively burdensome or costly"
+            },
+            "2": {
+                "definition": "involving a return benefit, compensation, or consideration [an donation] used chiefly in the civil law of Louisiana see alsoatcompare",
+                "compares": "gratuitous"
+            }
+        },
+        "references": {
+            "contract": "https://dictionary.findlaw.com/definition/contract.html",
+            "gratuitous": "https://dictionary.findlaw.com/definition/gratuitous.html"
+        }
+    }
+}

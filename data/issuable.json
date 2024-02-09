@@ -1,0 +1,15 @@
+{
+    "Issuable": {
+        "definition": "open to contest",
+        "origin": "[an fact]",
+        "sub_definitions": {
+            "1": {
+                "definition": "open to contest, debate, or litigation [an fact]made on the merits and subject to dispute [an plea] [an defense]"
+            },
+            "2": {
+                "definition": "authorized for issue [bonds under the merger terms]"
+            }
+        },
+        "references": {}
+    }
+}

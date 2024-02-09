@@ -1,0 +1,18 @@
+{
+    "Roll Over": {
+        "definition": "to defer payment of",
+        "origin": "[ roll over IRA funds]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "to defer payment of (an obligation)",
+                "sub_terms": {
+                    "b": "to renegotiate the terms of (a financial agreement)"
+                }
+            },
+            "2": {
+                "definition": "to place (invested funds) in a new investment of the same kind [IRA funds]"
+            }
+        },
+        "references": {}
+    }
+}

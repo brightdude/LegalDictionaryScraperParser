@@ -1,0 +1,13 @@
+{
+    "Subchapter S": {
+        "definition": "a subchapter of chapter 1 of the Internal Revenue Code that allows a small business corporation's taxable income to be computed in a manner similar to that used for a partnership see also S corporation at corporation",
+        "sub_definitions": {
+            "1": {
+                "1": "a subchapter of chapter 1 of the Internal Revenue Code that allows a small business corporation's taxable income to be computed in a manner similar to that used for a partnership see also"
+            }
+        },
+        "references": {
+            "corporation": "https://dictionary.findlaw.com/definition/corporation.html"
+        }
+    }
+}

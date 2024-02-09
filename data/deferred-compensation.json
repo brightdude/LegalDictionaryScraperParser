@@ -1,0 +1,11 @@
+{
+    "Deferred Compensation": {
+        "definition": "current compensation",
+        "sub_definitions": {
+            "1": {
+                "1": "current compensation (as wages or salary) deferred until a later time usually for the purpose of investment (as in a retirement plan)"
+            }
+        },
+        "references": {}
+    }
+}

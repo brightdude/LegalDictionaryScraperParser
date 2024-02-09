@@ -1,0 +1,23 @@
+{
+    "Prima Facie": {
+        "definition": "at first view",
+        "origin": "[Latin]",
+        "compare": "ex facie",
+        "sub_definitions": {
+            "1": {
+                "1": "at first view"
+            },
+            "2": {
+                "1": "on first appearance absent other information or evidence [guidelines which would",
+                "prima facie": "accredit new entrance examinations as nondiscriminatory \"S. L. Lynch\"] compare",
+                "compares": "ex facie"
+            },
+            "3": {
+                "1": "sufficient to establish a fact or case unless disproved ["
+            }
+        },
+        "references": {
+            "ex facie": "https://dictionary.findlaw.com/definition/ex-facie.html"
+        }
+    }
+}

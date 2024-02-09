@@ -1,0 +1,11 @@
+{
+    "Parolable": {
+        "definition": "qualified for parole",
+        "sub_definitions": {
+            "1": {
+                "1": "qualified for parole"
+            }
+        },
+        "references": {}
+    }
+}

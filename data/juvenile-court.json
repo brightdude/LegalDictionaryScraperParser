@@ -1,0 +1,15 @@
+{
+    "Juvenile Court": {
+        "definition": "a court that has jurisdiction over juvenile delinquency proceedings or other civil proceedings involving minors or juveniles compare family court",
+        "compare": "family court",
+        "sub_definitions": {
+            "1": {
+                "1": "a court that has jurisdiction over juvenile delinquency proceedings or other civil proceedings involving minors or juveniles compare",
+                "compares": "family court"
+            }
+        },
+        "references": {
+            "family court": "https://dictionary.findlaw.com/definition/family-court.html"
+        }
+    }
+}

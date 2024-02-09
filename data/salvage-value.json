@@ -1,0 +1,15 @@
+{
+    "Salvage Value": {
+        "definition": "the value of damaged property 2",
+        "sub_definitions": {
+            "1": {
+                "definition": "the value of damaged property"
+            },
+            "2": {
+                "definition": "the actual or estimated value realized on the sale of a fixed asset at the end of its useful life",
+                "note": " Salvage value is used in calculating depreciation."
+            }
+        },
+        "references": {}
+    }
+}

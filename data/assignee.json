@@ -1,0 +1,11 @@
+{
+    "Assignee": {
+        "definition": "a person to whom a right or property is transferred",
+        "sub_definitions": {
+            "1": {
+                "1": "a person to whom a right or property is transferred"
+            }
+        },
+        "references": {}
+    }
+}

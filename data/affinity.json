@@ -1,0 +1,14 @@
+{
+    "Affinity": {
+        "definition": "-ties",
+        "sub_definitions": {
+            "-ties": {
+                "definition": "relationship by marriage compare",
+                "compares": "consanguinity"
+            }
+        },
+        "references": {
+            "consanguinity": "https://dictionary.findlaw.com/definition/consanguinity.html"
+        }
+    }
+}

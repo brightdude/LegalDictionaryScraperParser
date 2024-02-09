@@ -1,0 +1,11 @@
+{
+    "Joint Tenant": {
+        "definition": "one who holds an estate by or in joint tenancy",
+        "sub_definitions": {
+            "1": {
+                "1": "one who holds an estate by or in joint tenancy"
+            }
+        },
+        "references": {}
+    }
+}

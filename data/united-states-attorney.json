@@ -1,0 +1,11 @@
+{
+    "United States Attorney": {
+        "definition": "an attorney in the Department of Justice who is appointed either by the president or the attorney general of the United States and acts as the prosecutor in federal criminal cases and as counsel for the U.S. in civil actions within the federal judicial district to which he or she is assigned",
+        "sub_definitions": {
+            "1": {
+                "1": "an attorney in the Department of Justice who is appointed either by the president or the attorney general of the United States and acts as the prosecutor in federal criminal cases and as counsel for the U.S. in civil actions within the federal judicial district to which he or she is assigned"
+            }
+        },
+        "references": {}
+    }
+}

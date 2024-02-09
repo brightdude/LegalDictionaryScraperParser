@@ -1,0 +1,21 @@
+{
+    "Knowing": {
+        "definition": "having or reflecting knowledge [a and intelligent waiver of counsel] see also intelligent 2",
+        "origin": "[a and intelligent waiver of counsel]",
+        "sub_definitions": {
+            "1": {
+                "definition": "having or reflecting knowledge [a and intelligent waiver of counsel] see also",
+                "see also": "intelligent"
+            },
+            "2": {
+                "definition": "[ possession] [ endangerment] compare",
+                "compares": "mens rea"
+            }
+        },
+        "references": {
+            "intelligent": "https://dictionary.findlaw.com/definition/intelligent.html",
+            "deliberate": "https://dictionary.findlaw.com/definition/deliberate.html",
+            "mens rea": "https://dictionary.findlaw.com/definition/mens-rea.html"
+        }
+    }
+}

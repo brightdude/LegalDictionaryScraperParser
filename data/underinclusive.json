@@ -1,0 +1,11 @@
+{
+    "Underinclusive": {
+        "definition": "not sufficiently inclusive",
+        "origin": "[an classification]",
+        "compare": "overinclusive",
+        "sub_definitions": {},
+        "references": {
+            "overinclusive": "https://dictionary.findlaw.com/definition/overinclusive.html"
+        }
+    }
+}

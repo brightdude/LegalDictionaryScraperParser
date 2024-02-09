@@ -1,0 +1,69 @@
+{
+    "Hearing": {
+        "definition": "a proceeding of relative formality at which evidence and arguments may be presented on the matter at issue to be decided by a person or body having decision-making authority compare trial NOTE",
+        "origin": "[fa-ti-kō-]",
+        "sub_definitions": {
+            "1": {
+                "definition": "a hearing conducted by the U.S. Senate to examine a nominee for the U.S. Supreme Court",
+                "note": " Article II of the U.S. Constitution provides for presidential appointment of Supreme Court justices “by and with the advice and consent of the Senate.”"
+            },
+            "administrative hearing": {
+                "definition": "a hearing conducted by an official (as an administrative law judge) or a body (as a review board) of an administrative agency regarding an agency action and esp. an action under dispute"
+            },
+            "2": {
+                "definition": "a trial in equity practice"
+            },
+            "discharge hearing": {
+                "definition": "a hearing in a bankruptcy case in which a debtor is informed that his or her discharge has been granted or is told the reasons why it has not been granted"
+            },
+            "fair hearing": {
+                "definition": "a hearing that is conducted impartially and in accordance with due process and for which the defendant has reasonable opportunity to prepare, the assistance of counsel, the right to present evidence, the opportunity to cross-examine adverse witnesses, and often the right to a jury"
+            },
+            "fat·i·co hearing": {
+                "definition": "[fa-ti-kō-]a hearing sometimes held prior to the sentencing of a convicted criminal at which the parties may offer evidence as to appropriate sentencing"
+            },
+            "Franks hearing": {
+                "definition": "[fraks-]a hearing to determine whether statements made by police officers in an affidavit that was used to obtain a search warrant by which evidence incriminating the defendant was found are false and constitute perjury or reckless disregard for the truth"
+            },
+            "Hunt·ley hearing": {
+                "definition": "[hənt-lē-]a Jackson-Denno hearing in the form of procedure used in New York"
+            },
+            "Jack·son-Den·no hearing": {
+                "definition": "[jak-sən-de-nō-]a hearing to determine if a confession or statements made by a defendant were given involuntarily and so should be suppressed as evidence"
+            },
+            "Mapp hearing": {
+                "definition": "[map-]a hearing to determine whether evidence should be suppressed on the ground that it was obtained as the result of an illegal search and seizure"
+            },
+            "preliminary hearing": {
+                "definition": "a hearing held after a criminal defendant's first appearance in court esp. for the purpose of determining whether there is probable cause to believe that the defendant committed the felony with which he or she is charged called also"
+            },
+            "pre·ter·mi·na·tion hearing": {
+                "definition": "[prē-tər-mə-nā-shən-]a hearing held prior to the termination of a property interest (as employment or a benefit)"
+            },
+            "probable cause hearing": {
+                "definition": "in this entry"
+            },
+            "reaffirmation hearing": {
+                "definition": "a hearing in a bankruptcy case at which a debtor may reaffirm dischargeable debts",
+                "note": " The reaffirmation hearing and discharge hearing are usually held simultaneously."
+            },
+            "suppression hearing": {
+                "definition": "a hearing held in a criminal case to determine the admissibility of evidence that the defendant seeks to suppress see alsoat"
+            },
+            "taint hearing": {
+                "definition": "a hearing held in a criminal case to determine if the prosecution's evidence is inadmissible because of some taint (as because it was obtained through procedures that violated the defendant's constitutional rights)"
+            },
+            "valuation hearing": {
+                "definition": "a hearing held in a bankruptcy case to determine the value of the debtor's property in which a creditor claims a lien or security interest"
+            },
+            "Wade hearing": {
+                "definition": "[wād-]a hearing in a criminal case to determine whether a witness's identification of the defendant (as in court or in a lineup) is tainted (as because of unfairly suggestive procedures) and therefore inadmissible as evidence"
+            }
+        },
+        "references": {
+            "trial": "https://dictionary.findlaw.com/definition/trial.html",
+            "preliminary hearing": "https://dictionary.findlaw.com/definition/preliminary-hearing.html",
+            "motion": "https://dictionary.findlaw.com/definition/motion.html"
+        }
+    }
+}

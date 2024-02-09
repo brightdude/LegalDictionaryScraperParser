@@ -1,0 +1,20 @@
+{
+    "Conviction": {
+        "definition": "the act or process of convicting ;also",
+        "origin": "[a prior of murder]",
+        "sub_definitions": {
+            "1": {
+                "definition": "the act or process of convictingthe final judgment entered after a finding of guilt [a prior of murder] [would not overturn the ] compare",
+                "note": " Jurisdictions differ as to what constitutes conviction for various statutes (as habitual offender statutes).Convictionis rarely applied to civil cases.",
+                "compares": "acquittal"
+            },
+            "2": {
+                "definition": "[the judge will enter a judgment of \"W. R. LaFave and J. H. Israel\"]"
+            }
+        },
+        "references": {
+            "acquittal": "https://dictionary.findlaw.com/definition/acquittal.html",
+            "guilt": "https://dictionary.findlaw.com/definition/guilt.html"
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "Court Of Domestic Relations": {
+        "definition": "family court",
+        "sub_definitions": {
+            "1": {
+                "1": "family court"
+            }
+        },
+        "references": {
+            "family court": "https://dictionary.findlaw.com/definition/family-court.html"
+        }
+    }
+}

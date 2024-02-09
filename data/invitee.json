@@ -1,0 +1,19 @@
+{
+    "Invitee": {
+        "definition": "an invited person ;specif",
+        "compare": "licensee",
+        "sub_definitions": {
+            "1": {
+                "1": "an invited person"
+            },
+            "2": {
+                "1": "a person (as a customer) who is present in a place by the express or implied invitation of the occupier in control of the place under circumstances that impose a duty on the occupier to use reasonable care to protect the safety of the invited person compare",
+                "compares": "licensee"
+            }
+        },
+        "references": {
+            "licensee": "https://dictionary.findlaw.com/definition/licensee.html",
+            "trespasser": "https://dictionary.findlaw.com/definition/trespasser.html"
+        }
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "Bailable": {
+        "definition": "eligible for bail [a provision that all prisoners are before conviction] 2",
+        "origin": "[a provision that all prisoners are before conviction]",
+        "sub_definitions": {
+            "1": {
+                "definition": "eligible for bail [a provision that all prisoners are before conviction]"
+            },
+            "2": {
+                "definition": "appropriate for or allowing bail [offenses that were not ]"
+            }
+        },
+        "references": {}
+    }
+}

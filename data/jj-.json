@@ -1,0 +1,14 @@
+{
+    "Jj.": {
+        "definition": "Jj.",
+        "sub_definitions": {
+            "1": {
+                "definition": "judges"
+            },
+            "2": {
+                "definition": "justices"
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "Mortgage Bond": {
+        "definition": "Mortgage Bond",
+        "references": {
+            "bond": "https://dictionary.findlaw.com/definition/bond.html"
+        }
+    }
+}

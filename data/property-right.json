@@ -1,0 +1,18 @@
+{
+    "Property Right": {
+        "definition": "a right or interest in or involving property",
+        "origin": "[a conflict between environmental regulations and property rights ]",
+        "sub_definitions": {
+            "1": {
+                "definition": "a right or interest in or involving property (as real property) [a conflict between environmental regulations and]"
+            },
+            "2": {
+                "definition": "at"
+            }
+        },
+        "references": {
+            "property interest": "https://dictionary.findlaw.com/definition/property-interest.html",
+            "interest": "https://dictionary.findlaw.com/definition/interest.html"
+        }
+    }
+}

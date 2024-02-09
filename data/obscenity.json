@@ -1,0 +1,14 @@
+{
+    "Obscenity": {
+        "definition": "-ties 1",
+        "sub_definitions": {
+            "1": {
+                "definition": "the quality or state of being obscene"
+            },
+            "2": {
+                "definition": "something (as an utterance or act) that is obsceneobscene material"
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "Adjudge": {
+        "definition": "adjudicate 2",
+        "origin": "[ costs to the plaintiff]",
+        "sub_definitions": {
+            "2": {
+                "definition": "to award, grant, or impose judicially [ costs to the plaintiff]"
+            }
+        },
+        "references": {
+            "adjudicate": "https://dictionary.findlaw.com/definition/adjudicate.html"
+        }
+    }
+}

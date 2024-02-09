@@ -1,0 +1,16 @@
+{
+    "Elective Share": {
+        "definition": "the share",
+        "compare": "curtesy",
+        "sub_definitions": {
+            "1": {
+                "1": "the share (as one third) of an estate set by statute that a widow or widower or sometimes a child is entitled to claim in lieu of any provisions made in a will or in the event of being disinherited unjustifiably called also",
+                "compares": "curtesy"
+            }
+        },
+        "references": {
+            "curtesy": "https://dictionary.findlaw.com/definition/curtesy.html",
+            "dower": "https://dictionary.findlaw.com/definition/dower.html"
+        }
+    }
+}

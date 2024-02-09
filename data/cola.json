@@ -1,0 +1,14 @@
+{
+    "Cola": {
+        "definition": "Cola",
+        "sub_definitions": {
+            "1": {
+                "definition": "cost-of-living adjustment"
+            },
+            "2": {
+                "definition": "cost-of-living allowance"
+            }
+        },
+        "references": {}
+    }
+}

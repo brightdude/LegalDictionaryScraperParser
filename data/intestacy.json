@@ -1,0 +1,19 @@
+{
+    "Intestacy": {
+        "definition": "-cies 1",
+        "origin": "[the invalidation of the will resulted in her ]",
+        "sub_definitions": {
+            "1": {
+                "definition": "the state of dying intestatean intestate state or condition [the invalidation of the will resulted in her ]"
+            },
+            "2": {
+                "definition": "at[wills should be construed to avoid whenever possible \", 741 P.2d 1172 (1987)\"] [ the remaining property passed by to the heirs]",
+                "Smith v. Estate of Peters": "741 P.2d 1172 (1987)\"] [ the remaining property passed by to the heir"
+            }
+        },
+        "references": {
+            "intestate succession": "https://dictionary.findlaw.com/definition/intestate-succession.html",
+            "succession": "https://dictionary.findlaw.com/definition/succession.html"
+        }
+    }
+}

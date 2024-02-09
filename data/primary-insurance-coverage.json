@@ -1,0 +1,11 @@
+{
+    "Primary Insurance Coverage": {
+        "definition": "coverage under an insurance policy in which the insurer is immediately liable upon the happening of a covered event",
+        "sub_definitions": {
+            "1": {
+                "1": "coverage under an insurance policy in which the insurer is immediately liable upon the happening of a covered event"
+            }
+        },
+        "references": {}
+    }
+}

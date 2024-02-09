@@ -1,0 +1,15 @@
+{
+    "Terre Tenant": {
+        "definition": "one in actual possession of land ;specif",
+        "origin": "[Anglo-French terre tenaunt freeholder, from Old French terre land + tenant holding, from present participle of tenir to hold]",
+        "sub_definitions": {
+            "1": {
+                "1": "one in actual possession of land"
+            },
+            "2": {
+                "1": "one who purchases land after a lien of mortgage or judgment has attached used chiefly in the law of Pennsylvania"
+            }
+        },
+        "references": {}
+    }
+}

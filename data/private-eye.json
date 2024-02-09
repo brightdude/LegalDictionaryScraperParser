@@ -1,0 +1,13 @@
+{
+    "Private Eye": {
+        "definition": "private investigator",
+        "sub_definitions": {
+            "1": {
+                "1": "private investigator"
+            }
+        },
+        "references": {
+            "private investigator": "https://dictionary.findlaw.com/definition/private-investigator.html"
+        }
+    }
+}

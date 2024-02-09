@@ -1,0 +1,11 @@
+{
+    "Credit Insurance": {
+        "definition": "insurance paid for by a debtor to assure payment of any outstanding credit balance in the event of death or disability",
+        "sub_definitions": {
+            "1": {
+                "1": "insurance paid for by a debtor to assure payment of any outstanding credit balance in the event of death or disability"
+            }
+        },
+        "references": {}
+    }
+}

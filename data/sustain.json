@@ -1,0 +1,18 @@
+{
+    "Sustain": {
+        "definition": "to support as true",
+        "origin": "[ an objection]",
+        "sub_definitions": {
+            "1": {
+                "definition": "to support as true, legal, or just"
+            },
+            "2": {
+                "definition": "to allow or uphold as valid [ an objection] compare",
+                "compares": "overrule"
+            }
+        },
+        "references": {
+            "overrule": "https://dictionary.findlaw.com/definition/overrule.html"
+        }
+    }
+}

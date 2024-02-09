@@ -1,0 +1,24 @@
+{
+    "Defamation": {
+        "definition": "communication to third parties of false statements about a person that injure the reputation of or deter others from associating with that person see also libel",
+        "origin": "[every repetition of the is a publication \"W. L. Prosser and W. P. Keeton\"]",
+        "sub_definitions": {
+            "1": {
+                "definition": "communication to third parties of false statements about a person that injure the reputation of or deter others from associating with that person see also,in the Important Cases section compare,,",
+                "compares": "disparagement",
+                "see also": "libel",
+                "New York Times Co. v. Sullivan": "in the Important Cases section compare"
+            },
+            "2": {
+                "definition": "a defamatory communication [every repetition of the is a publication \"W. L. Prosser and W. P. Keeton\"]"
+            }
+        },
+        "references": {
+            "libel": "https://dictionary.findlaw.com/definition/libel.html",
+            "slander": "https://dictionary.findlaw.com/definition/slander.html",
+            "disparagement": "https://dictionary.findlaw.com/definition/disparagement.html",
+            "false light": "https://dictionary.findlaw.com/definition/false-light.html",
+            "slander of title": "https://dictionary.findlaw.com/definition/slander-of-title.html"
+        }
+    }
+}

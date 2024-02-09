@@ -1,0 +1,16 @@
+{
+    "General Court-Martial": {
+        "definition": "a court-martial consisting of a military judge and usually at least five members and having authority to impose a sentence of dishonorable discharge or death compare special court-martial",
+        "compare": "special court-martial",
+        "sub_definitions": {
+            "1": {
+                "1": "a court-martial consisting of a military judge and usually at least five members and having authority to impose a sentence of dishonorable discharge or death compare",
+                "compares": "special court-martial"
+            }
+        },
+        "references": {
+            "special court-martial": "https://dictionary.findlaw.com/definition/special-court-martial.html",
+            "summary court-martial": "https://dictionary.findlaw.com/definition/summary-court-martial.html"
+        }
+    }
+}

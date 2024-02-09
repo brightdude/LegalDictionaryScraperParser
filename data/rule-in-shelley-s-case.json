@@ -1,0 +1,14 @@
+{
+    "Rule In Shelley's Case": {
+        "definition": "a former common-law rule that converted a life estate of an ancestor into an estate in fee and destroyed the remainder to the heirs that was created in the same instrument as that creating the life estate see also executory interest at interest",
+        "origin": "[from Wolfe v. Shelley , a 1581 English case invoking the rule]",
+        "sub_definitions": {
+            "1": {
+                "1": "a former common-law rule that converted a life estate of an ancestor into an estate in fee and destroyed the remainder to the heirs that was created in the same instrument as that creating the life estate see also"
+            }
+        },
+        "references": {
+            "interest": "https://dictionary.findlaw.com/definition/interest.html"
+        }
+    }
+}

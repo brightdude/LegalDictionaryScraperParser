@@ -1,0 +1,23 @@
+{
+    "Minor": {
+        "definition": "a person who has not yet reached the age of majority compare adult",
+        "origin": "[a official]",
+        "compare": "adult",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "being less important or serious [a official] [a offense]",
+                "sub_terms": {
+                    "b": "involving, relating to, or dealing with less important matters"
+                }
+            },
+            "2": {
+                "definition": "having the status of a minor [ children]"
+            }
+        },
+        "references": {
+            "adult": "https://dictionary.findlaw.com/definition/adult.html",
+            "juvenile": "https://dictionary.findlaw.com/definition/juvenile.html",
+            "major": "https://dictionary.findlaw.com/definition/major.html"
+        }
+    }
+}

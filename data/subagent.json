@@ -1,0 +1,11 @@
+{
+    "Subagent": {
+        "definition": "an agent who is appointed by another agent",
+        "sub_definitions": {
+            "1": {
+                "1": "an agent who is appointed by another agent (as an insurance agent) and for whom the principal agent is responsible or liable"
+            }
+        },
+        "references": {}
+    }
+}

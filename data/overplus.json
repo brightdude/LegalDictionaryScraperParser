@@ -1,0 +1,13 @@
+{
+    "Overplus": {
+        "definition": "surplus",
+        "sub_definitions": {
+            "1": {
+                "1": "surplus"
+            }
+        },
+        "references": {
+            "surplus": "https://dictionary.findlaw.com/definition/surplus.html"
+        }
+    }
+}

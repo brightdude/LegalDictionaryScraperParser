@@ -1,0 +1,15 @@
+{
+    "Particular": {
+        "definition": "of or relating to a designated property or to the inheritance of it compare universal",
+        "compare": "universal",
+        "sub_definitions": {
+            "1": {
+                "1": "of or relating to a designated property or to the inheritance of it compare",
+                "compares": "universal"
+            }
+        },
+        "references": {
+            "universal": "https://dictionary.findlaw.com/definition/universal.html"
+        }
+    }
+}

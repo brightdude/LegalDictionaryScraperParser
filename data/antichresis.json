@@ -1,0 +1,16 @@
+{
+    "Antichresis": {
+        "definition": "a written pledge and transfer from a debtor to a creditor of possession of immovable property giving the creditor the right to the fruits",
+        "origin": "[New Latin, from Greek, from anti - opposite + chrēsis use, from chrēsthai to use, need]",
+        "compare": "pawn",
+        "sub_definitions": {
+            "1": {
+                "1": "a written pledge and transfer from a debtor to a creditor of possession of immovable property giving the creditor the right to the fruits (as rents) of the property which are to be deducted from the interest or principal of the debt compare",
+                "compares": "pawn"
+            }
+        },
+        "references": {
+            "pawn": "https://dictionary.findlaw.com/definition/pawn.html"
+        }
+    }
+}

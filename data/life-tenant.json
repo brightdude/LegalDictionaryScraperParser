@@ -1,0 +1,14 @@
+{
+    "Life Tenant": {
+        "definition": "a tenant having possession of property for the duration of his or her life",
+        "sub_definitions": {
+            "1": {
+                "1": "a tenant having possession of property for the duration of his or her life"
+            },
+            "2": {
+                "1": "one having a life estate in property"
+            }
+        },
+        "references": {}
+    }
+}

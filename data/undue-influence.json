@@ -1,0 +1,18 @@
+{
+    "Undue Influence": {
+        "definition": "improper influence that deprives a person of freedom of choice or substitutes another's choice or desire for the person's own compare coercion",
+        "compare": "coercion",
+        "sub_definitions": {
+            "1": {
+                "1": "improper influence that deprives a person of freedom of choice or substitutes another's choice or desire for the person's own compare",
+                "compares": "coercion",
+                "note": " It is a doctrine of equity that a contract, deed, donation, or testamentary disposition can be set aside if the court finds that someone has exercised undue influence over the maker at the time that the contract, conveyance, or will was made. To establish a prima facie case it is usually necessary to show a susceptibility to undue influence (as from mental impairment), the opportunity and disposition on someone's part to exercise such influence, and that the transaction would not have been made except for the undue influence."
+            }
+        },
+        "references": {
+            "coercion": "https://dictionary.findlaw.com/definition/coercion.html",
+            "duress": "https://dictionary.findlaw.com/definition/duress.html",
+            "necessity": "https://dictionary.findlaw.com/definition/necessity.html"
+        }
+    }
+}

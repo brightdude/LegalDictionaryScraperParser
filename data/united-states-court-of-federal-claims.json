@@ -1,0 +1,15 @@
+{
+    "United States Court Of Federal Claims": {
+        "definition": "a federal court having nationwide trial jurisdiction over claims against the United States see also federal circuit NOTE",
+        "sub_definitions": {
+            "1": {
+                "1": "a federal court having nationwide trial jurisdiction over claims against the United States see also",
+                "see also": "federal circuit",
+                "note": " The claims over which this court has jurisdiction include those based on the Constitution, acts of Congress, regulations of an executive agency, contracts with the United States, actions for damages not sounding in tort, claims of American Indian groups against the United States, and certain tax cases (as claims for tax refunds). Private bills are referred to it from Congress for advisory findings as to whether there is a genuine legal or equitable claim for relief. The court does not have jurisdiction over claims for pensions or claims based on treaties with foreign nations."
+            }
+        },
+        "references": {
+            "federal circuit": "https://dictionary.findlaw.com/definition/federal-circuit.html"
+        }
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "Tariff": {
+        "definition": "a schedule of duties imposed by a government on imported or in some countries exported goods b",
+        "origin": "[Italian tariffa , from Arabic tarīf notification]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "a schedule of duties imposed by a government on imported or in some countries exported goods",
+                "sub_terms": {
+                    "b": "a duty or rate of duty imposed in such a schedule"
+                }
+            },
+            "2": {
+                "definition": "a document filed with the appropriate government agency that sets forth the rates, charges, and other provisions pertaining to services furnished by a business (as a carrier) or public utility"
+            }
+        },
+        "references": {}
+    }
+}

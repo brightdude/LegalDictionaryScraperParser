@@ -1,0 +1,25 @@
+{
+    "Subscribe": {
+        "definition": "to write",
+        "origin": "[Latin subscribere , literally, to write beneath, from sub- under + scribere to write]",
+        "sub_definitions": {
+            "sub·scrib·ing": {
+                "definition": "[Latin, literally, to write beneath, fromunder +to write]"
+            },
+            "1": {
+                "definition": "to sign one's name to a documentto give consent or approval by signing one's name"
+            },
+            "2 a": {
+                "definition": "to sign (as a document) with one's own hand in token of consent, obligation, or attestation [such witnesses shall the will in the presence of the testator \"\"]",
+                "sub_terms": {
+                    "b": "to pledge (a gift or contribution) by writing one's name with the amount",
+                    "c": "to sell (stock) by subscription [over two million shares have been]"
+                }
+            },
+            "2": {
+                "definition": "to agree to purchase and pay for securities esp. of a new offering [a right to to a share of stock \"D. Q. Posin\"]"
+            }
+        },
+        "references": {}
+    }
+}

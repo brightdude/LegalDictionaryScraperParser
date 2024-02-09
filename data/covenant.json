@@ -1,0 +1,29 @@
+{
+    "Covenant": {
+        "definition": "an official agreement or compact [an international on human rights] 2 a",
+        "origin": "[an international on human rights]",
+        "sub_definitions": {
+            "1": {
+                "definition": "an official agreement or compact [an international on human rights]"
+            },
+            "2 a": {
+                "definition": "a contract in its entirety or a promise within a contract for the performance or nonperformance of a particular act [a not to sue]a promise relating to the transfer, possession, or ownership of real property see also,",
+                "sub_terms": {
+                    "b": "a warranty in a deed assuring the grantee esp. against defects in title [a for quiet enjoyment] see also"
+                },
+                "see also": "run"
+            },
+            "3": {
+                "definition": "a common-law action to recover damages for breach of a contract under seal compare,",
+                "compares": "assumpsit"
+            }
+        },
+        "references": {
+            "covenant not to compete": "https://dictionary.findlaw.com/definition/covenant-not-to-compete.html",
+            "restrictive covenant": "https://dictionary.findlaw.com/definition/restrictive-covenant.html",
+            "run": "https://dictionary.findlaw.com/definition/run.html",
+            "assumpsit": "https://dictionary.findlaw.com/definition/assumpsit.html",
+            "debt": "https://dictionary.findlaw.com/definition/debt.html"
+        }
+    }
+}

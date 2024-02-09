@@ -1,0 +1,30 @@
+{
+    "Discovery": {
+        "definition": "-er·ies 1",
+        "origin": "[applied for a patent for the ]",
+        "sub_definitions": {
+            "1": {
+                "definition": "the act or process of discovering"
+            },
+            "2": {
+                "definition": "something discovered [applied for a patent for the ]"
+            },
+            "3 a": {
+                "definition": "the methods used by parties to a civil or criminal action to obtain information held by the other party that is relevant to the action see also,,",
+                "sub_terms": {
+                    "b": "the disclosure of information held by the opposing party in an action [a party may obtain of the existence and contents of any insurance agreement \"Rule 26(b)(2)\"] see also,"
+                },
+                "note": " Discovery allowed under Federal Rule of Civil Procedure 26 is far-reaching. With some exceptions, a party may obtain discovery of any relevant information as long as it is not privileged, including information that itself would not be admissible at trial but that is likely to lead to the discovery of admissible evidence. Criminal discovery, however, has been more controversial. Under Federal Rule of Criminal Procedure 16, a defendant may obtain discovery of his or her own written or recorded statements or confessions, results of examinations and tests, his or her recorded testimony before a grand jury, and testimony to be given by the prosecution's expert witnesses. A defendant may also inspect the prosecution's books, documents, photographs, objects, and other items of evidence. Under Federal Rule of Criminal Procedure 12.1, the prosecution must also disclose the names of witnesses that will be called to rebut the defendant's alibi defense. The defendant must also permit the prosecution to inspect books, documents, photographs, and objects and must disclose reports of examinations or tests and testimony of expert witnesses.",
+                "see also": "privilege",
+                "Federal Rules of Civil Procedure": "Rule 26(b)(2)\"] see also"
+            }
+        },
+        "references": {
+            "deposition": "https://dictionary.findlaw.com/definition/deposition.html",
+            "interrogatory": "https://dictionary.findlaw.com/definition/interrogatory.html",
+            "request for production": "https://dictionary.findlaw.com/definition/request-for-production.html",
+            "privilege": "https://dictionary.findlaw.com/definition/privilege.html",
+            "work product doctrine": "https://dictionary.findlaw.com/definition/work-product-doctrine.html"
+        }
+    }
+}

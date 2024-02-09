@@ -1,0 +1,24 @@
+{
+    "Transaction": {
+        "definition": "something transacted ;esp",
+        "sub_definitions": {
+            "1": {
+                "definition": "something transactedan exchange or transfer of goods, services, or funds"
+            },
+            "2 a": {
+                "definition": "an act, process, or instance of transacting",
+                "sub_terms": {
+                    "b": "an action or activity involving two parties or things that reciprocally affect or influence each other"
+                }
+            },
+            "3": {
+                "definition": "an onerous contract that is intended by the parties to prevent or end actual or possible litigation and in which they make reciprocal concessions compare,",
+                "compares": "accord"
+            }
+        },
+        "references": {
+            "accord": "https://dictionary.findlaw.com/definition/accord.html",
+            "satisfaction": "https://dictionary.findlaw.com/definition/satisfaction.html"
+        }
+    }
+}

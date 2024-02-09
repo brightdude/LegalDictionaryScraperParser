@@ -1,0 +1,15 @@
+{
+    "Fieri Facias": {
+        "definition": "a writ authorizing a sheriff to seize and sell certain items of the property of a debtor in order to satisfy a creditor's judgment against the debtor see also execution",
+        "origin": "[Medieval Latin, literally, may you cause it to be done, from words used in the writ, typically de terris et cattalis fieri facias may you raise from the lands and chattels (of the defendant) (a given sum)]",
+        "sub_definitions": {
+            "1": {
+                "1": "a writ authorizing a sheriff to seize and sell certain items of the property of a debtor in order to satisfy a creditor's judgment against the debtor see also",
+                "see also": "execution"
+            }
+        },
+        "references": {
+            "execution": "https://dictionary.findlaw.com/definition/execution.html"
+        }
+    }
+}

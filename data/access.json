@@ -1,0 +1,30 @@
+{
+    "Access": {
+        "definition": "permission",
+        "origin": "[public to federal land]",
+        "sub_definitions": {
+            "1": {
+                "definition": "permission, liberty, or ability to enter, approach, communicate with, or pass to and from a place, thing, or person [public to federal land] [ to the courts]"
+            },
+            "2": {
+                "definition": "opportunity for sexual intercourse"
+            },
+            "3": {
+                "definition": "a landowner's legal right to pass from his or her land to a highway and to return without being obstructed"
+            },
+            "4": {
+                "definition": "freedom or ability to obtain, make use of, or participate in something [the right to equal treatment holds with respect to a limited set of interests — like voting — and demands that every person have the same to these interests \"L. H. Tribe\"]"
+            },
+            "5 a": {
+                "definition": "a way by which a thing or place may be approached or reached",
+                "sub_terms": {
+                    "b": "passage to and from a place [provide a means of to the land]"
+                }
+            },
+            "6": {
+                "definition": "opportunity to view or copy a copyrighted work"
+            }
+        },
+        "references": {}
+    }
+}

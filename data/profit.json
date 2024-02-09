@@ -1,0 +1,29 @@
+{
+    "Profit": {
+        "definition": "gain in excess of expenditures",
+        "sub_definitions": {
+            "1": {
+                "definition": "gain in excess of expenditures",
+                "sub_terms": {
+                    "a": "the excess of the selling price of goods over their cost",
+                    "b": "net income from a business, investment, or capital appreciation compare,"
+                },
+                "compares": "earnings"
+            },
+            "2": {
+                "definition": "a benefit or advantage from the use of property see also,compare,,",
+                "compares": "easement",
+                "see also": "mesne profits"
+            }
+        },
+        "references": {
+            "earnings": "https://dictionary.findlaw.com/definition/earnings.html",
+            "loss": "https://dictionary.findlaw.com/definition/loss.html",
+            "mesne profits": "https://dictionary.findlaw.com/definition/mesne-profits.html",
+            "profit a prendre": "https://dictionary.findlaw.com/definition/profit-a-prendre.html",
+            "easement": "https://dictionary.findlaw.com/definition/easement.html",
+            "right of way": "https://dictionary.findlaw.com/definition/right-of-way.html",
+            "servitude": "https://dictionary.findlaw.com/definition/servitude.html"
+        }
+    }
+}

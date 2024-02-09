@@ -1,0 +1,15 @@
+{
+    "Occurrence Policy": {
+        "definition": "an insurance policy that provides coverage for an event occurring within the policy period even if the discovery or claim is made later compare claims made policy",
+        "compare": "claims made policy",
+        "sub_definitions": {
+            "1": {
+                "1": "an insurance policy that provides coverage for an event occurring within the policy period even if the discovery or claim is made later compare",
+                "compares": "claims made policy"
+            }
+        },
+        "references": {
+            "claims made policy": "https://dictionary.findlaw.com/definition/claims-made-policy.html"
+        }
+    }
+}

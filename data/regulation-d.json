@@ -1,0 +1,11 @@
+{
+    "Regulation D": {
+        "definition": "a regulation of the Securities and Exchange Commission governing the limited offer and sale",
+        "sub_definitions": {
+            "1": {
+                "1": "a regulation of the Securities and Exchange Commission governing the limited offer and sale (as by a private offering) of unregistered securities"
+            }
+        },
+        "references": {}
+    }
+}

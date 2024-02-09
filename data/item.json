@@ -1,0 +1,14 @@
+{
+    "Item": {
+        "definition": "a distinct part in an enumeration",
+        "sub_definitions": {
+            "1": {
+                "definition": "a distinct part in an enumeration, account, or series"
+            },
+            "2": {
+                "definition": "a financial instrument (as a check or draft)"
+            }
+        },
+        "references": {}
+    }
+}

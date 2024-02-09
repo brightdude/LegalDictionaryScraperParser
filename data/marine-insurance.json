@@ -1,0 +1,15 @@
+{
+    "Marine Insurance": {
+        "definition": "insurance against loss by damage to or destruction of cargo or the means or instruments of its transportation whether on land",
+        "sub_definitions": {
+            "1": {
+                "1": "insurance against loss by damage to or destruction of cargo or the means or instruments of its transportation whether on land, sea, or air see also",
+                "see also": "inland marine insurance"
+            }
+        },
+        "references": {
+            "inland marine insurance": "https://dictionary.findlaw.com/definition/inland-marine-insurance.html",
+            "ocean marine insurance": "https://dictionary.findlaw.com/definition/ocean-marine-insurance.html"
+        }
+    }
+}

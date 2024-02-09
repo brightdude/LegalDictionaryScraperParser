@@ -1,0 +1,11 @@
+{
+    "Regular Session": {
+        "definition": "a session",
+        "sub_definitions": {
+            "1": {
+                "1": "a session (as of a court) that is designated to happen at fixed intervals or specified times"
+            }
+        },
+        "references": {}
+    }
+}

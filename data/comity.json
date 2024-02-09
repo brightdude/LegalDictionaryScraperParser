@@ -1,0 +1,17 @@
+{
+    "Comity": {
+        "definition": "comity of nations 2",
+        "sub_definitions": {
+            "2": {
+                "definition": "the informal and voluntary recognition by courts of one jurisdiction of the laws and judicial decisions of another called alsocompare,,",
+                "compares": "choice of law"
+            }
+        },
+        "references": {
+            "comity of nations": "https://dictionary.findlaw.com/definition/comity-of-nations.html",
+            "choice of law": "https://dictionary.findlaw.com/definition/choice-of-law.html",
+            "federalism": "https://dictionary.findlaw.com/definition/federalism.html",
+            "full faith and credit": "https://dictionary.findlaw.com/definition/full-faith-and-credit.html"
+        }
+    }
+}

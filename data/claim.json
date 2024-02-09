@@ -1,0 +1,34 @@
+{
+    "Claim": {
+        "definition": "a demand for something",
+        "origin": "[Old French, from clamer to call, claim, from Latin clamare to shout, proclaim]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "a demand for something (as money) due or believed to be duea demand for a benefit (as under the workers' compensation law) or contractual payment (as under an insurance policy)",
+                "sub_terms": {
+                    "b": "a paper embodying such a demand [filing a with the court]"
+                }
+            },
+            "2": {
+                "definition": "a title to something (as a debt or privilege) in the possession of another [assigned her to the proceeds]"
+            },
+            "3 a": {
+                "definition": "a right to seek a judicial remedy arising from a wrong or injury suffered [a plaintiff who has been injured in an accident has…one for a broken arm, another for a ruptured spleen, and so forth \"J. H. Friedenthal\"]the formal assertion of such a right [bringing a in the district court]",
+                "sub_terms": {
+                    "b": "[a plaintiff stated a against a seller of applesauce when she alleged that her children…ate the applesauce…and were then so discomforted that they had to have their stomachs pumped \"J. J. White and R. S. Summers\"] see also",
+                    "c": "a right to payment or to an equitable remedy as set forth in the Bankruptcy Code see also"
+                },
+                "note": " A cause of action may encompass more than one claim as the term is used in sense 3a.Claimis often used to meancause of action, however, esp. in modern federal practice.",
+                "see also": "proof of claim"
+            },
+            "4": {
+                "definition": "a formal assertion made by an applicant for a patent of the novelty and patentability of an invention with a description of the invention and its purpose"
+            }
+        },
+        "references": {
+            "cause of action": "https://dictionary.findlaw.com/definition/cause-of-action.html",
+            "res judicata": "https://dictionary.findlaw.com/definition/res-judicata.html",
+            "proof of claim": "https://dictionary.findlaw.com/definition/proof-of-claim.html"
+        }
+    }
+}

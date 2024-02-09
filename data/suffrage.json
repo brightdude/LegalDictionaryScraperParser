@@ -1,0 +1,17 @@
+{
+    "Suffrage": {
+        "definition": "a vote in deciding a controverted question or the choice of a person for an office or trust [no State…shall be deprived of its equal in the Senate \" U.S. Constitution art. V\"] 2",
+        "origin": "[Latin suffragium vote, political support, from suffragari to support with one's vote]",
+        "sub_definitions": {
+            "1": {
+                "definition": "a vote in deciding a controverted question or the choice of a person for an office or trust [no State…shall be deprived of its equal in the Senate \"art. V\"]"
+            },
+            "2": {
+                "definition": "the right of votingthe exercise of such right"
+            }
+        },
+        "references": {
+            "franchise": "https://dictionary.findlaw.com/definition/franchise.html"
+        }
+    }
+}

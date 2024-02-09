@@ -1,0 +1,69 @@
+{
+    "Note": {
+        "definition": "a written promise to pay a debt ;specif",
+        "origin": "[kÄ g-nō-vit-, kōg-]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "a written promise to pay a debtin this entry"
+            },
+            "bank note": {
+                "definition": "a promissory note issued by a bank payable to bearer on demand but without interest and circulating as money"
+            },
+            "cog·no·vit note": {
+                "definition": "[kÄ g-nō-vit-, kōg-]a note in which the maker acknowledges the debt and authorizes the entry of judgment against him or her without notice or a hearinga note containing a confession of judgment"
+            },
+            "collateral note": {
+                "definition": "a note secured esp. by a collateral mortgage and pledged to secure an obligation of which a hand note usually serves as evidence"
+            },
+            "demand note": {
+                "definition": "a note payable on demand comparein this entry",
+                "compares": "time note"
+            },
+            "floating rate note": {
+                "definition": "a negotiable note that yields an indexed and periodically adjusted variable rate of interest called also"
+            },
+            "hand note": {
+                "definition": "a note for an obligation secured by a collateral note"
+            },
+            "non-recourse note": {
+                "definition": "a note whose satisfaction upon default may be obtained only out of the collateral securing it"
+            },
+            "promissory note": {
+                "definition": "a note containing an unconditional promise to pay on demand or at a fixed or determined future time a particular sum of money to or to the order of a specified person or to the bearer"
+            },
+            "recourse note": {
+                "definition": "a note whose satisfaction upon default may be obtained from the debtor's assets other than and in addition to the collateral securing it"
+            },
+            "re·new·al note": {
+                "definition": "a note that continues an obligation due under a previous note"
+            },
+            "tax an·tic·i·pa·tion note": {
+                "definition": "a note issued by a state or municipality on pending tax revenue to fund immediate governmental expenditures"
+            },
+            "time note": {
+                "definition": "a note payable at a specified time in the future comparein this entry",
+                "compares": "demand note"
+            },
+            "Treasury note": {
+                "definition": "a negotiable note issued by the U.S. government with a maturity date of one to ten years from the date of issue called alsocompareatat",
+                "sub_terms": {
+                    "b": "a piece of paper money"
+                }
+            },
+            "2": {
+                "definition": "to make a notarial memorandum of nonpayment of (a negotiable instrument) on presentation"
+            },
+            "1": {
+                "definition": "to recognize the existence or presence of [probable jurisdiction]",
+                "noted": "probable jurisdiction]"
+            }
+        },
+        "references": {
+            "promissory note": "https://dictionary.findlaw.com/definition/promissory-note.html",
+            "time note": "https://dictionary.findlaw.com/definition/time-note.html",
+            "demand note": "https://dictionary.findlaw.com/definition/demand-note.html",
+            "bill": "https://dictionary.findlaw.com/definition/bill.html",
+            "bond": "https://dictionary.findlaw.com/definition/bond.html"
+        }
+    }
+}

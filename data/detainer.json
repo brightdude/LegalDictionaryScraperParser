@@ -1,0 +1,22 @@
+{
+    "Detainer": {
+        "definition": "the act of keeping something in one's possession ;specif",
+        "origin": "[Anglo-French detenoure , from detenir to restrain, detain, from Old French, from Latin detinere ]",
+        "sub_definitions": {
+            "1": {
+                "definition": "the act of keeping something in one's possession"
+            },
+            "2": {
+                "definition": "detention in custody"
+            },
+            "3": {
+                "definition": "a notification sent by a prosecutor, judge, or other official advising a prison official that a prisoner is wanted to answer criminal charges and requesting continued detention of the prisoner or notification of the prisoner's impending release compare",
+                "compares": "extradition"
+            }
+        },
+        "references": {
+            "unlawful detainer": "https://dictionary.findlaw.com/definition/unlawful-detainer.html",
+            "extradition": "https://dictionary.findlaw.com/definition/extradition.html"
+        }
+    }
+}

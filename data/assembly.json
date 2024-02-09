@@ -1,0 +1,23 @@
+{
+    "Assembly": {
+        "definition": "-blies 1 a",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "a company of persons collected together in one place usually for some common purpose",
+                "sub_terms": {
+                    "b": "a legislative body esp. that makes up the lower house of a legislature see also,"
+                },
+                "see also": "general assembly"
+            },
+            "2": {
+                "definition": "the act of coming togetherthe condition of being assembled see also",
+                "see also": "unlawful assembly"
+            }
+        },
+        "references": {
+            "general assembly": "https://dictionary.findlaw.com/definition/general-assembly.html",
+            "legislative assembly": "https://dictionary.findlaw.com/definition/legislative-assembly.html",
+            "unlawful assembly": "https://dictionary.findlaw.com/definition/unlawful-assembly.html"
+        }
+    }
+}

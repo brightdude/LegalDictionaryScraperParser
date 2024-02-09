@@ -1,0 +1,14 @@
+{
+    "Consumer Credit": {
+        "definition": "credit extended by merchants or banks to finance the purchase of consumer goods",
+        "compare": "debt",
+        "sub_definitions": {
+            "1": {
+                "1": "credit extended by merchants or banks to finance the purchase of consumer goods (as home appliances) or services (as travel or hotel accommodations) compare"
+            }
+        },
+        "references": {
+            "debt": "https://dictionary.findlaw.com/definition/debt.html"
+        }
+    }
+}

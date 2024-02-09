@@ -1,0 +1,22 @@
+{
+    "Chattel": {
+        "definition": "an item of tangible or intangible personal property ;esp",
+        "origin": "[Old French chatel goods, property, from Medieval Latin capitale , from neuter of capitalis chief, principal see capital ]",
+        "compare": "capital",
+        "sub_definitions": {
+            "chattels personal": {
+                "definition": "an item of tangible movable personal property (as livestock or an automobile) that is not permanently connected with real estate"
+            },
+            "chattels real": {
+                "definition": "an interest (as a leasehold or profit a prendre) in an item of immovable property (as land or a building) that is less than a freehold estate compare",
+                "note": " Interests that are considered chattels real have been treated by the common law as personal property despite being interests in real property.",
+                "compares": "fixture"
+            }
+        },
+        "references": {
+            "capital": "https://dictionary.findlaw.com/definition/capital.html",
+            "chattel personal": "https://dictionary.findlaw.com/definition/chattel-personal.html",
+            "fixture": "https://dictionary.findlaw.com/definition/fixture.html"
+        }
+    }
+}

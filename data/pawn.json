@@ -1,0 +1,24 @@
+{
+    "Pawn": {
+        "definition": "a pledge and transfer of possession of movable or personal property to a creditor which gives the creditor the privilege of satisfying the debt from the property",
+        "origin": "[shall not take as a any workman's tools]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "a pledge and transfer of possession of movable or personal property to a creditor which gives the creditor the privilege of satisfying the debt from the property (as by selling it) if the debt is not repaid within a specified timethe property pledged [shall not take as a any workman's tools] compare",
+                "sub_terms": {
+                    "b": "the state of being so pledged or burdened by such a pledge [goods held in ]"
+                },
+                "compares": "antichresis"
+            },
+            "2": {
+                "definition": "the act of pawningvtto put (personal or movable property) in pawn [when it is redeemed by the person whoit] compare",
+                "compares": "hypothecate",
+                "ed": "it] compare"
+            }
+        },
+        "references": {
+            "antichresis": "https://dictionary.findlaw.com/definition/antichresis.html",
+            "hypothecate": "https://dictionary.findlaw.com/definition/hypothecate.html"
+        }
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "Surety Company": {
+        "definition": "Surety Company",
+        "references": {
+            "company": "https://dictionary.findlaw.com/definition/company.html"
+        }
+    }
+}

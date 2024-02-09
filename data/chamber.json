@@ -1,0 +1,21 @@
+{
+    "Chamber": {
+        "definition": "a judge's office ;specif",
+        "origin": "[four other judges met in my chambers \"R. H. Bork\"]",
+        "sub_definitions": {
+            "1": {
+                "definition": "a judge's officethe private office where a judge carries on business other than court sessions (as conferences or signing papers) usually used in pl. [four other judges met in my\"R. H. Bork\"] [a hearing in]",
+                "chambers": "\"R. H. Bork\"] [a hearing in"
+            },
+            "2 a": {
+                "definition": "a hall for the meetings of a deliberative, legislative, or judicial body or assembly [to run back into the House \"Tip O'Neill\"]",
+                "sub_terms": {
+                    "b": "a legislative or judicial body[approved by two-thirds of each of Congress \"\"]"
+                }
+            }
+        },
+        "references": {
+            "house": "https://dictionary.findlaw.com/definition/house.html"
+        }
+    }
+}

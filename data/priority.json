@@ -1,0 +1,18 @@
+{
+    "Priority": {
+        "definition": "-ties",
+        "origin": "[secured interests have over unsecured ones]",
+        "sub_definitions": {
+            "-ties": {
+                "definition": "precedence in exercise of rights in the same subject matter [secured interests have over unsecured ones]adj"
+            },
+            "1": {
+                "definition": "having precedence over another in the exercise of rights in the same subject matter [a creditor] [a claim]"
+            },
+            "2": {
+                "definition": "of or relating to priority [a contest]"
+            }
+        },
+        "references": {}
+    }
+}

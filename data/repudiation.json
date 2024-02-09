@@ -1,0 +1,17 @@
+{
+    "Repudiation": {
+        "definition": "the rejection or renunciation of a duty or obligation",
+        "sub_definitions": {
+            "1": {
+                "1": "the rejection or renunciation of a duty or obligation (as under a contract)"
+            },
+            "2": {
+                "1": "anticipatory repudiation",
+                "note": " A party aggrieved by a repudiation may consider a repudiated contract to have been breached and bring an action for relief."
+            }
+        },
+        "references": {
+            "anticipatory repudiation": "https://dictionary.findlaw.com/definition/anticipatory-repudiation.html"
+        }
+    }
+}

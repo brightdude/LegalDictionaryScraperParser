@@ -1,0 +1,22 @@
+{
+    "Res": {
+        "definition": "a thing",
+        "origin": "[Latin]",
+        "sub_definitions": {
+            "1": {
+                "definition": "a thing (as a property, interest, or status) as opposed to a person that is the object of rights and esp. that is the subject matter of litigation [a court with jurisdiction over the of the suit] compare,,",
+                "compares": "in personam"
+            },
+            "2": {
+                "definition": "[the of the trust was the marital home \", 428 N.E.2d 1130 (1981)\"]",
+                "Stopka v. Commercial Embroidery, Inc.": "428 N.E.2d 1130 (1981)"
+            }
+        },
+        "references": {
+            "in personam": "https://dictionary.findlaw.com/definition/in-personam.html",
+            "in rem": "https://dictionary.findlaw.com/definition/in-rem.html",
+            "quasi in rem": "https://dictionary.findlaw.com/definition/quasi-in-rem.html",
+            "corpus": "https://dictionary.findlaw.com/definition/corpus.html"
+        }
+    }
+}

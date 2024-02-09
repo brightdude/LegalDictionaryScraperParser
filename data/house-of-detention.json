@@ -1,0 +1,19 @@
+{
+    "House Of Detention": {
+        "definition": "a place where prisoners and occasionally witnesses are detained pending a trial compare house of correction",
+        "compare": "house of correction",
+        "sub_definitions": {
+            "1": {
+                "1": "a place where prisoners and occasionally witnesses are detained pending a trial compare",
+                "compares": "house of correction"
+            }
+        },
+        "references": {
+            "house of correction": "https://dictionary.findlaw.com/definition/house-of-correction.html",
+            "jail": "https://dictionary.findlaw.com/definition/jail.html",
+            "lockup": "https://dictionary.findlaw.com/definition/lockup.html",
+            "penitentiary": "https://dictionary.findlaw.com/definition/penitentiary.html",
+            "prison": "https://dictionary.findlaw.com/definition/prison.html"
+        }
+    }
+}

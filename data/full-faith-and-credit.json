@@ -1,0 +1,19 @@
+{
+    "Full Faith And Credit": {
+        "definition": "the recognition and enforcement of the public acts",
+        "compare": "Constitution",
+        "sub_definitions": {
+            "1": {
+                "1": "the recognition and enforcement of the public acts, records, and judicial proceedings of one state by another see also",
+                "compares": "choice of law",
+                "note": " Unlike comity, full faith and credit is a requirement created by the U.S. Constitution and the U.S. Code. A public law or a judicial decision may not, however, be entitled to full faith and credit for specific reasons (as for having been decided by a court not having jurisdiction). Full faith and credit is given only in civil cases; states recognize each other's criminal laws through the mechanism of extradition."
+            }
+        },
+        "references": {
+            "Constitution": "https://dictionary.findlaw.com/definition/constitution.html",
+            "choice of law": "https://dictionary.findlaw.com/definition/choice-of-law.html",
+            "comity": "https://dictionary.findlaw.com/definition/comity.html",
+            "federalism": "https://dictionary.findlaw.com/definition/federalism.html"
+        }
+    }
+}

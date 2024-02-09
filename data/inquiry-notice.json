@@ -1,0 +1,14 @@
+{
+    "Inquiry Notice": {
+        "definition": "implied notice at notice",
+        "sub_definitions": {
+            "1": {
+                "1": "implied notice"
+            }
+        },
+        "references": {
+            "implied notice": "https://dictionary.findlaw.com/definition/implied-notice.html",
+            "notice": "https://dictionary.findlaw.com/definition/notice.html"
+        }
+    }
+}

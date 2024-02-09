@@ -1,0 +1,15 @@
+{
+    "Change Of Venue": {
+        "definition": "a procedure available under title 28 section 1404 of the U.S. Code for the transfer of a case by a court in which the case is brought to another court where the case could have been properly brought and which would be more convenient for the parties and witnesses and better serve the interests of justice compare forum non conveniens",
+        "compare": "forum non conveniens",
+        "sub_definitions": {
+            "1": {
+                "1": "a procedure available under title 28 section 1404 of the U.S. Code for the transfer of a case by a court in which the case is brought to another court where the case could have been properly brought and which would be more convenient for the parties and witnesses and better serve the interests of justice compare",
+                "compares": "forum non conveniens"
+            }
+        },
+        "references": {
+            "forum non conveniens": "https://dictionary.findlaw.com/definition/forum-non-conveniens.html"
+        }
+    }
+}

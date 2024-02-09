@@ -1,0 +1,20 @@
+{
+    "Per Se Rule": {
+        "definition": "a generalized rule applied without consideration for specific circumstances [would go even further and apply a per se rule of invalidity to affirmative action programs \"Alan Freeman\"] called also flat rule 2",
+        "origin": "[would go even further and apply a per se rule of invalidity to affirmative action programs \"Alan Freeman\"]",
+        "sub_definitions": {
+            "1": {
+                "definition": "a generalized rule applied without consideration for specific circumstances [would go even further and apply aof invalidity to affirmative action programs \"Alan Freeman\"] called also",
+                "per se rule": "of invalidity to affirmative action programs \"Alan Freeman\"] called also"
+            },
+            "2": {
+                "definition": "a rule that considers a particular restraint of trade to be manifestly contrary to competition and so does not require an inquiry into precise harm or purpose for an instance of it to be declared illegal [applied theto price-fixing by public utilities] compare",
+                "compares": "rule of reason",
+                "per se rule": "to price-fixing by public utilities] compare"
+            }
+        },
+        "references": {
+            "rule of reason": "https://dictionary.findlaw.com/definition/rule-of-reason.html"
+        }
+    }
+}

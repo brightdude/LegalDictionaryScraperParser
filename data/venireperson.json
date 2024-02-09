@@ -1,0 +1,11 @@
+{
+    "Venireperson": {
+        "definition": "a member of a venire called also venireman veniremember",
+        "sub_definitions": {
+            "1": {
+                "1": "a member of a venire called also"
+            }
+        },
+        "references": {}
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "Veto": {
+        "definition": "ve·toes [Latin",
+        "origin": "[Latin, I forbid, refuse assent to]",
+        "sub_definitions": {
+            "ve·toes": {
+                "definition": "[Latin, I forbid, refuse assent to]"
+            },
+            "1": {
+                "definition": "an authoritative prohibition"
+            },
+            "2 a": {
+                "definition": "a power vested in a chief executive to prevent permanently or temporarily the enactment of measures passed by a legislature",
+                "sub_terms": {
+                    "b": "the exercise of such authority see alsocomparevt"
+                },
+                "compares": "legislative veto",
+                "see also": "pocket veto"
+            },
+            "ve·to·ing": {
+                "definition": "to refuse to admit or approveto refuse assent to (a legislative bill) so as to prevent enactment or cause reconsideration see also",
+                "see also": "override"
+            }
+        },
+        "references": {
+            "pocket veto": "https://dictionary.findlaw.com/definition/pocket-veto.html",
+            "legislative veto": "https://dictionary.findlaw.com/definition/legislative-veto.html",
+            "override": "https://dictionary.findlaw.com/definition/override.html"
+        }
+    }
+}

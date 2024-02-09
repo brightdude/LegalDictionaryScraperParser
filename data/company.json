@@ -1,0 +1,42 @@
+{
+    "Company": {
+        "definition": "-nies",
+        "sub_definitions": {
+            "-nies": {
+                "definition": "an association of persons for carrying on a commercial or industrial enterprise compare,",
+                "compares": "corporation"
+            },
+            "finance company": {
+                "definition": "a company that makes usually small short-term loans to individuals"
+            },
+            "growth company": {
+                "definition": "a company that grows at a greater rate than the economy as a whole and that usually directs a relatively high proportion of income back into the business"
+            },
+            "holding company": {
+                "definition": "a company whose sole function is to own and control other companies"
+            },
+            "investment company": {
+                "definition": "a company that earns income solely or primarily by holding and investing in securities issued by other companies or by government agencies"
+            },
+            "joint-stock company": {
+                "definition": "a business organization whose capital is represented by shares owned by stockholders each of whom is personally liable for the company's debts"
+            },
+            "limited liability company": {
+                "definition": "an unincorporated company formed under applicable state statute whose members cannot be held liable for the acts, debts, or obligations of the company and that may elect to be taxed as a partnership"
+            },
+            "mu·tu·al company": {
+                "definition": "an insurance company whose capital is owned by its policyholders"
+            },
+            "surety company": {
+                "definition": "a company that provides surety bonds for a fee"
+            },
+            "trust company": {
+                "definition": "a company and often a commercial bank acting as trustee for individuals and businesses and providing related financial or estate planning services"
+            }
+        },
+        "references": {
+            "corporation": "https://dictionary.findlaw.com/definition/corporation.html",
+            "partnership": "https://dictionary.findlaw.com/definition/partnership.html"
+        }
+    }
+}

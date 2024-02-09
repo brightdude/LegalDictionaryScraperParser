@@ -1,0 +1,19 @@
+{
+    "Index": {
+        "definition": "a numerical measure or indicator",
+        "origin": "[under the contract wages were ed to inflation]",
+        "sub_definitions": {
+            "1": {
+                "1": "a numerical measure or indicator (as of inflation or economic performance) see also",
+                "see also": "consumer price index"
+            },
+            "2": {
+                "1": "to link (as wages, rates, or investments) to an index [under the contract wages were",
+                "ed": "to inflation]"
+            }
+        },
+        "references": {
+            "consumer price index": "https://dictionary.findlaw.com/definition/consumer-price-index.html"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "Fine": {
+        "definition": "a sum imposed as punishment for an offense compare restitution 2",
+        "origin": "[Anglo-French fin fine & Medieval Latin finis end, boundary, agreement, payment for release or privilege, monetary penalty, from Latin finis end, boundary]",
+        "sub_definitions": {
+            "1": {
+                "definition": "a sum imposed as punishment for an offense compare",
+                "compares": "restitution"
+            },
+            "2": {
+                "definition": "a forfeiture or penalty paid to an injured party in a civil actionvt"
+            },
+            "fin·ing": {
+                "definition": "to impose a fine onpunish by fine"
+            }
+        },
+        "references": {
+            "restitution": "https://dictionary.findlaw.com/definition/restitution.html"
+        }
+    }
+}

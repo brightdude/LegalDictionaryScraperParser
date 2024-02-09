@@ -1,0 +1,16 @@
+{
+    "Exculpatory": {
+        "definition": "tending or serving to exculpate [an clause in a contract] compare inculpatory",
+        "origin": "[an clause in a contract]",
+        "compare": "inculpatory",
+        "sub_definitions": {
+            "1": {
+                "1": "tending or serving to exculpate [an clause in a contract] compare",
+                "compares": "inculpatory"
+            }
+        },
+        "references": {
+            "inculpatory": "https://dictionary.findlaw.com/definition/inculpatory.html"
+        }
+    }
+}

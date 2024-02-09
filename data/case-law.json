@@ -1,0 +1,14 @@
+{
+    "Case Law": {
+        "definition": "law established by judicial decisions in cases as distinguished from law created by legislation called also decisional law see also common law",
+        "sub_definitions": {
+            "1": {
+                "1": "law established by judicial decisions in cases as distinguished from law created by legislation called also",
+                "see also": "common law"
+            }
+        },
+        "references": {
+            "common law": "https://dictionary.findlaw.com/definition/common-law.html"
+        }
+    }
+}

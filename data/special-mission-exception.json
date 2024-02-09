@@ -1,0 +1,11 @@
+{
+    "Special Mission Exception": {
+        "definition": "an exception to the going and coming rule that allows recovery under workers' compensation to an employee who was injured while going to or coming from work on an errand that was part of the employee's regular duties or that was at the request of the employer or otherwise within the scope of the employment",
+        "sub_definitions": {
+            "1": {
+                "1": "an exception to the going and coming rule that allows recovery under workers' compensation to an employee who was injured while going to or coming from work on an errand that was part of the employee's regular duties or that was at the request of the employer or otherwise within the scope of the employment"
+            }
+        },
+        "references": {}
+    }
+}

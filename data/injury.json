@@ -1,0 +1,18 @@
+{
+    "Injury": {
+        "definition": "-ries [Latin injuria",
+        "origin": "[Latin injuria , from injurus injurious, from in- not + jur- jus right]",
+        "sub_definitions": {
+            "-ries": {
+                "definition": "[Latin, frominjurious, fromnot +right]"
+            },
+            "1": {
+                "definition": "an act that wrongs or harms anothera violation of a legally protected interest (as the physical or mental well-being, property, reputation, or rights of another) for which the law allows an action for legal or equitable relief"
+            },
+            "2": {
+                "definition": "hurt, damage, or loss sustained"
+            }
+        },
+        "references": {}
+    }
+}

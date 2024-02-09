@@ -1,0 +1,12 @@
+{
+    "Hearsay Rule": {
+        "definition": "a rule barring the admission of hearsay as evidence NOTE",
+        "sub_definitions": {
+            "1": {
+                "1": "a rule barring the admission of hearsay as evidence",
+                "note": " The hearsay rule is stated in Rule 802 of the Federal Rules of Evidence. Hearsay is inadmissible as evidence because of the unavailability of cross-examination to test the accuracy of the statement. There are numerous exceptions to the rule, however, mainly for statements made under circumstances that assure reliability. Statements made spontaneously, for example, or as part of a business or medical record are inherently trustworthy and thus excepted from the rule. A statement need not be made orally for purposes of the hearsay rule. Written statements, gestures, and even motion pictures are included."
+            }
+        },
+        "references": {}
+    }
+}

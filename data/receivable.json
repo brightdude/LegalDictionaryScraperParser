@@ -1,0 +1,18 @@
+{
+    "Receivable": {
+        "definition": "capable of being received 2",
+        "origin": "[notes ]",
+        "sub_definitions": {
+            "1": {
+                "definition": "capable of being received"
+            },
+            "2": {
+                "definition": "subject to call for payment [notes ] see also",
+                "see also": "account receivable"
+            }
+        },
+        "references": {
+            "account receivable": "https://dictionary.findlaw.com/definition/account-receivable.html"
+        }
+    }
+}

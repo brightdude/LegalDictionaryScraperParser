@@ -1,0 +1,11 @@
+{
+    "Banking": {
+        "definition": "the business of a bank or banker",
+        "sub_definitions": {
+            "1": {
+                "1": "the business of a bank or banker"
+            }
+        },
+        "references": {}
+    }
+}

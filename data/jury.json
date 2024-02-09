@@ -1,0 +1,25 @@
+{
+    "Jury": {
+        "definition": "ju·ries [Anglo-French juree",
+        "origin": "[Anglo-French juree , from feminine past participle of Old French jurer to swear, from Latin jurare , from jur- jus law]",
+        "sub_definitions": {
+            "ju·ries": {
+                "definition": "[Anglo-French, from feminine past participle of Old Frenchto swear, from Latin, fromlaw]a body of individuals sworn to give a decision on some matter submitted to thema body of individuals selected and sworn to inquire into a question of fact and to give their verdict according to the evidence occasionally used with a pl. verb [the are always to decide whether the inference shall be drawn \"Oliver Wendell Holmes, Jr.\"] see also,,,,,,,,to thein the back matter",
+                "note": " The jury of American and English law most likely originated in early Anglo-Norman property proceedings, where a body of 12 knights or freemen who were from the area, and usually familiar with the parties, would take an oath and answer questions put to them by a judge in order to determine property rights. Jury verdicts began to be used in felony cases in the early 1200s as the use of the trial by ordeal declined. The questions put to those early juries were usually questions of fact or mixed questions of fact and law. Modern juries may deal with questions of law in addition to questions of fact when rendering general verdicts, or in specific cases under state law. Federal juries are usually limited to dealing with questions of fact. The modern jury can vary in size depending on the proceeding but is usually made up of 6 or 12 members. According to federal law, federal grand and petit juries must be “selected at random from a fair cross-section of the community in the district or division wherein the court convenes.” State jury selection varies and occasionally differs from federal, but the states still must meet constitutional requirements for due process. The U.S. Supreme Court has stated in a series of decisions that a jury is to be composed of “peers and equals,” and that systematic exclusion of a particular class (as on the basis of gender, race, or ancestry) from a jury violates the equal protection clause and the defendant's right to a jury trial. A defendant is not, however, entitled to a jury of any particular composition.",
+                "see also": "advisory jury"
+            }
+        },
+        "references": {
+            "advisory jury": "https://dictionary.findlaw.com/definition/advisory-jury.html",
+            "array": "https://dictionary.findlaw.com/definition/array.html",
+            "grand jury": "https://dictionary.findlaw.com/definition/grand-jury.html",
+            "inquest": "https://dictionary.findlaw.com/definition/inquest.html",
+            "jury nullification": "https://dictionary.findlaw.com/definition/jury-nullification.html",
+            "petit jury": "https://dictionary.findlaw.com/definition/petit-jury.html",
+            "special jury": "https://dictionary.findlaw.com/definition/special-jury.html",
+            "trial jury": "https://dictionary.findlaw.com/definition/trial-jury.html",
+            "venire": "https://dictionary.findlaw.com/definition/venire.html",
+            "Constitution": "https://dictionary.findlaw.com/definition/constitution.html"
+        }
+    }
+}

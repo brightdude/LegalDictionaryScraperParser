@@ -1,0 +1,11 @@
+{
+    "Trust Agreement": {
+        "definition": "an agreement establishing and setting forth the material terms of a trust",
+        "sub_definitions": {
+            "1": {
+                "1": "an agreement establishing and setting forth the material terms of a trust"
+            }
+        },
+        "references": {}
+    }
+}

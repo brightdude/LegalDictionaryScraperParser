@@ -1,0 +1,17 @@
+{
+    "Falsify": {
+        "definition": "to make false",
+        "origin": "[the motel clerk had falsified the records \"M. A. Kelly\"]",
+        "sub_definitions": {
+            "-fy·ing": {
+                "definition": "to make false",
+                "sub_terms": {
+                    "a": "to make (as a document) false by mutilation, alteration, or addition [the motel clerk hadthe records \"M. A. Kelly\"]",
+                    "b": "to report (as information) falsely [the informanthis testimony]"
+                },
+                "falsified": "his testimony]"
+            }
+        },
+        "references": {}
+    }
+}

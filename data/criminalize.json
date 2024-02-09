@@ -1,0 +1,17 @@
+{
+    "Criminalize": {
+        "definition": "to make criminal",
+        "origin": "[the statute criminalizing the use of contraceptives \"R. H. Bork\"]",
+        "sub_definitions": {
+            "-iz·ing": {
+                "definition": "to make criminal[the statutethe use of contraceptives \"R. H. Bork\"] compare",
+                "compares": "illegalize",
+                "criminalizing": "the use of contraceptives \"R. H. Bork\"] compare"
+            }
+        },
+        "references": {
+            "outlaw": "https://dictionary.findlaw.com/definition/outlaw.html",
+            "illegalize": "https://dictionary.findlaw.com/definition/illegalize.html"
+        }
+    }
+}

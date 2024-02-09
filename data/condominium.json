@@ -1,0 +1,22 @@
+{
+    "Condominium": {
+        "definition": "-ums [New Latin",
+        "origin": "[New Latin, joint dominion, from Latin com - with, together + dominium rule, ownership]",
+        "sub_definitions": {
+            "-ums": {
+                "definition": "[New Latin, joint dominion, from Latin- with, together +rule, ownership]"
+            },
+            "1": {
+                "definition": "ownership of real property that is characterized by separate ownership of portions of the property (as units in an apartment building) and undivided or joint ownership of the remainder (as the common areas of an apartment building) [the conversion of real property to the form of ownership \", 727 F.2d 287 (1984)\"] compare",
+                "compares": "cooperative",
+                "Troy Ltd. v. Renna": "727 F.2d 287 (1984)\"] compa"
+            },
+            "2": {
+                "definition": "real property (as an apartment or building) having condominium ownership [a two-bedroom ]"
+            }
+        },
+        "references": {
+            "cooperative": "https://dictionary.findlaw.com/definition/cooperative.html"
+        }
+    }
+}

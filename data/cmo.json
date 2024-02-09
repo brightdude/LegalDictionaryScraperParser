@@ -1,0 +1,13 @@
+{
+    "Cmo": {
+        "definition": "collateralized mortgage obligation",
+        "sub_definitions": {
+            "1": {
+                "1": "collateralized mortgage obligation"
+            }
+        },
+        "references": {
+            "collateralized mortgage obligation": "https://dictionary.findlaw.com/definition/collateralized-mortgage-obligation.html"
+        }
+    }
+}

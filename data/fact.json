@@ -1,0 +1,64 @@
+{
+    "Fact": {
+        "definition": "something that has actual existence",
+        "origin": "[Latin factum deed, real happening, something done, from neuter of factus , past participle of facere to do, make]",
+        "sub_definitions": {
+            "1": {
+                "definition": "something that has actual existencea matter of objective reality"
+            },
+            "2": {
+                "definition": "any of the circumstances of a case that exist or are alleged to exist in realitya thing whose actual occurrence or existence is to be determined by the evidence presented at trial see alsoat,at,compare,",
+                "compares": "law"
+            },
+            "adjudicative fact": {
+                "definition": "a fact particularly related to the parties to an esp. administrative proceeding comparein this entry",
+                "compares": "legislative fact"
+            },
+            "collateral fact": {
+                "definition": "a fact that has no direct relation to or immediate bearing on the case or matter in question comparein this entry",
+                "compares": "material fact"
+            },
+            "constitutional fact": {
+                "definition": "a fact that relates to the determination of a constitutional issue (as violation of a constitutional right) used esp. of administrative findings of fact"
+            },
+            "evidentiary fact": {
+                "definition": "a fact that is part of the situation from which a case arises and that is established by testimony or other evidence called alsocomparein this entry",
+                "compares": "ultimate fact"
+            },
+            "legislative fact": {
+                "definition": "a fact of general social, economic, or scientific relevance that does not change from case to case comparein this entry",
+                "compares": "adjudicative fact"
+            },
+            "material fact": {
+                "definition": "a fact that affects decision making",
+                "sub_terms": {
+                    "a": "a fact upon which the outcome of all or part of a lawsuit depends",
+                    "b": "a fact that would influence a reasonable person under the circumstances in making an investment decision (as in purchasing a security or voting for a corporate officer or action)"
+                }
+            },
+            "mediate fact": {
+                "definition": "in this entry"
+            },
+            "predicate fact": {
+                "definition": "in this entry"
+            },
+            "ul·ti·mate fact": {
+                "definition": "[əl-ti-mət-]a conclusion of law or esp. mixed fact and law that is necessary to the determination of issues in a case and that is established by evidentiary facts comparein this entry",
+                "compares": "evidentiary fact"
+            }
+        },
+        "references": {
+            "finding": "https://dictionary.findlaw.com/definition/finding.html",
+            "judicial notice": "https://dictionary.findlaw.com/definition/judicial-notice.html",
+            "question": "https://dictionary.findlaw.com/definition/question.html",
+            "trier of fact": "https://dictionary.findlaw.com/definition/trier-of-fact.html",
+            "law": "https://dictionary.findlaw.com/definition/law.html",
+            "opinion": "https://dictionary.findlaw.com/definition/opinion.html",
+            "legislative fact": "https://dictionary.findlaw.com/definition/legislative-fact.html",
+            "material fact": "https://dictionary.findlaw.com/definition/material-fact.html",
+            "ultimate fact": "https://dictionary.findlaw.com/definition/ultimate-fact.html",
+            "adjudicative fact": "https://dictionary.findlaw.com/definition/adjudicative-fact.html",
+            "evidentiary fact": "https://dictionary.findlaw.com/definition/evidentiary-fact.html"
+        }
+    }
+}

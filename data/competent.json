@@ -1,0 +1,32 @@
+{
+    "Competent": {
+        "definition": "having or showing requisite or adequate ability or qualities [a lawyer] [ representation by counsel] 2 a",
+        "origin": "[a lawyer]",
+        "sub_definitions": {
+            "1": {
+                "definition": "having or showing requisite or adequate ability or qualities [a lawyer] [ representation by counsel]"
+            },
+            "2 a": {
+                "definition": "free from addiction or mental defect that renders one incapable of taking care of oneself or one's property",
+                "sub_terms": {
+                    "b": "capable of understanding one's position as a criminal defendant and the nature of the criminal proceedings and able to participate in one's defense compare,,"
+                },
+                "compares": "capacity"
+            },
+            "3": {
+                "definition": "legally qualified or adequate",
+                "sub_terms": {
+                    "a": "having the necessary power or authority [a judge of jurisdiction \"\"]",
+                    "b": "qualified for presentation in courtadmissible as evidence or capable of giving admissible evidence [a witness]",
+                    "c": "[a waiver]"
+                }
+            }
+        },
+        "references": {
+            "capacity": "https://dictionary.findlaw.com/definition/capacity.html",
+            "incompetent": "https://dictionary.findlaw.com/definition/incompetent.html",
+            "insanity": "https://dictionary.findlaw.com/definition/insanity.html",
+            "intelligent": "https://dictionary.findlaw.com/definition/intelligent.html"
+        }
+    }
+}

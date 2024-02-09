@@ -1,0 +1,14 @@
+{
+    "Land Contract": {
+        "definition": "land installment contract at contract",
+        "sub_definitions": {
+            "1": {
+                "1": "land installment contract"
+            }
+        },
+        "references": {
+            "land installment contract": "https://dictionary.findlaw.com/definition/land-installment-contract.html",
+            "contract": "https://dictionary.findlaw.com/definition/contract.html"
+        }
+    }
+}

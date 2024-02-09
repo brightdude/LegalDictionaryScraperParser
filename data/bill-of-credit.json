@@ -1,0 +1,8 @@
+{
+    "Bill Of Credit": {
+        "definition": "Bill Of Credit",
+        "references": {
+            "bill": "https://dictionary.findlaw.com/definition/bill.html"
+        }
+    }
+}

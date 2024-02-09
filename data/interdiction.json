@@ -1,0 +1,18 @@
+{
+    "Interdiction": {
+        "definition": "removal of the right to care for one's own person and affairs called also complete interdiction full interdiction compare limited interdiction 2",
+        "origin": "[ of drugs]",
+        "sub_definitions": {
+            "1": {
+                "definition": "removal of the right to care for one's own person and affairs called alsocompare",
+                "compares": "limited interdiction"
+            },
+            "2": {
+                "definition": "the act or an instance of interdicting [ of drugs]"
+            }
+        },
+        "references": {
+            "limited interdiction": "https://dictionary.findlaw.com/definition/limited-interdiction.html"
+        }
+    }
+}

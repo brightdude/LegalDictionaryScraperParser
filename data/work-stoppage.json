@@ -1,0 +1,12 @@
+{
+    "Work Stoppage": {
+        "definition": "a cessation of work by employees as a job action NOTE",
+        "sub_definitions": {
+            "1": {
+                "1": "a cessation of work by employees as a job action",
+                "note": "Work stoppageis often used to refer to a cessation of work that is less serious and more spontaneous than one referred to as astrike. As used in the Labor Management Relations Actstrikerefers to “any…concerted stoppage of work by employees…and any concerted slowdown or other concerted interruption of operations by employees.”"
+            }
+        },
+        "references": {}
+    }
+}

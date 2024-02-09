@@ -1,0 +1,15 @@
+{
+    "Hypothecate": {
+        "definition": "to pledge as security without delivery of title or possession compare pawn hy·poth·e·ca·tion   [-pÄ -thə-kā-shən] n",
+        "origin": "[Medieval Latin hypothecare to pledge, from Late Latin hypotheca pledge, from Greek hypothēkē , from hypotithenai to put under, deposit as pledge]",
+        "sub_definitions": {
+            "-cat·ing": {
+                "definition": "[Medieval Latinto pledge, from Late Latinpledge, from Greek, fromto put under, deposit as pledge]to pledge as security without delivery of title or possession compare",
+                "compares": "pawn"
+            }
+        },
+        "references": {
+            "pawn": "https://dictionary.findlaw.com/definition/pawn.html"
+        }
+    }
+}

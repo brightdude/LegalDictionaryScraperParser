@@ -1,0 +1,21 @@
+{
+    "Judge": {
+        "definition": "to hear and decide",
+        "origin": "[Old French jugier , from Latin judicare , from judic- judex judge, from jus right, law + dicere to decide, say]",
+        "sub_definitions": {
+            "judg·ing": {
+                "definition": "[Old French, from Latin, fromjudge, fromright, law +to decide, say]"
+            },
+            "1": {
+                "definition": "to hear and decide (as a litigated question) in a court of justice [ a case]"
+            },
+            "2": {
+                "definition": "to pronounce after inquiry and deliberation [he wasincompetent]to make a determination[ between two accounts]na public official vested with the authority to hear, determine, and preside over legal matters brought in courtone (as a justice of the peace) who performs one or more functions of such an official",
+                "judged": "incompetent]"
+            }
+        },
+        "references": {
+            "decide": "https://dictionary.findlaw.com/definition/decide.html"
+        }
+    }
+}

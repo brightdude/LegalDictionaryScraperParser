@@ -1,0 +1,25 @@
+{
+    "Capitalization": {
+        "definition": "the act or process of capitalizing [ of earnings] 2",
+        "origin": "[ of earnings]",
+        "sub_definitions": {
+            "1": {
+                "definition": "the act or process of capitalizing [ of earnings]"
+            },
+            "2": {
+                "definition": "a sum resulting from a process of capitalizingat[inadequate ]"
+            },
+            "3": {
+                "definition": "total capital liabilities of a business including both equity capital and debt capital",
+                "note": " Equity capital is considered a liability because the investors may recall some or all of it (as by redeeming stock). Inadequate capitalization of a business is considered by courts in cases dealing with equitable subordination of creditors or piercing the corporate veil."
+            },
+            "4": {
+                "definition": "the total par value or the stated value of no-par issues of authorized capital stock"
+            }
+        },
+        "references": {
+            "paid-in capital": "https://dictionary.findlaw.com/definition/paid-in-capital.html",
+            "capital": "https://dictionary.findlaw.com/definition/capital.html"
+        }
+    }
+}

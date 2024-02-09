@@ -1,0 +1,14 @@
+{
+    "United States Court Of Veterans Appeals": {
+        "definition": "a federal court having exclusive jurisdiction to review decisions of the Board of Veterans' Appeals see also federal circuit",
+        "sub_definitions": {
+            "1": {
+                "1": "a federal court having exclusive jurisdiction to review decisions of the Board of Veterans' Appeals see also",
+                "see also": "federal circuit"
+            }
+        },
+        "references": {
+            "federal circuit": "https://dictionary.findlaw.com/definition/federal-circuit.html"
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "Simple Mortgage Clause": {
+        "definition": "open mortgage clause",
+        "sub_definitions": {
+            "1": {
+                "1": "open mortgage clause"
+            }
+        },
+        "references": {
+            "open mortgage clause": "https://dictionary.findlaw.com/definition/open-mortgage-clause.html"
+        }
+    }
+}

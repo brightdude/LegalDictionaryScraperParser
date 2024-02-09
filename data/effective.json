@@ -1,0 +1,26 @@
+{
+    "Effective": {
+        "definition": "producing a desired effect [an revocation of the contract] 2",
+        "origin": "[an revocation of the contract]",
+        "sub_definitions": {
+            "1": {
+                "definition": "producing a desired effect [an revocation of the contract]"
+            },
+            "2": {
+                "definition": "capable of bringing about an effect [ assistance of counsel] see also",
+                "see also": "ineffective assistance of counsel"
+            },
+            "3": {
+                "definition": "being in effect"
+            },
+            "4": {
+                "definition": "equal to the rate of simple interest that yields the same amount when the rate is paid once at the end of the interest period as a quoted rate of interest does when calculated at compound interest over the same period compare",
+                "compares": "nominal"
+            }
+        },
+        "references": {
+            "ineffective assistance of counsel": "https://dictionary.findlaw.com/definition/ineffective-assistance-of-counsel.html",
+            "nominal": "https://dictionary.findlaw.com/definition/nominal.html"
+        }
+    }
+}

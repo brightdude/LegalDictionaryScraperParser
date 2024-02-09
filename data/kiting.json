@@ -1,0 +1,13 @@
+{
+    "Kiting": {
+        "definition": "check-kiting",
+        "sub_definitions": {
+            "1": {
+                "1": "check-kiting"
+            }
+        },
+        "references": {
+            "check-kiting": "https://dictionary.findlaw.com/definition/check-kiting.html"
+        }
+    }
+}

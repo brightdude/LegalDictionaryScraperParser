@@ -1,0 +1,19 @@
+{
+    "Disorderly Conduct": {
+        "definition": "conduct that is likely to lead to a disturbance of the public peace or that offends public decency ;also",
+        "compare": "breach of the peace",
+        "sub_definitions": {
+            "1": {
+                "1": "conduct that is likely to lead to a disturbance of the public peace or that offends public decency"
+            },
+            "2": {
+                "1": "the petty offense of engaging in disorderly conduct compare",
+                "compares": "breach of the peace",
+                "note": " The termdisorderly conductis used in statutes to identify various acts against the public peace. It has been held to include the use of obscene language in public, the blocking of public ways, and the making of threats. A statute must identify acts that constitute disorderly conduct with sufficient clarity in order to avoid being held unconstitutional because of vagueness."
+            }
+        },
+        "references": {
+            "breach of the peace": "https://dictionary.findlaw.com/definition/breach-of-the-peace.html"
+        }
+    }
+}

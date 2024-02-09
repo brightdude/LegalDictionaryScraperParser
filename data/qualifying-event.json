@@ -1,0 +1,15 @@
+{
+    "Qualifying Event": {
+        "definition": "an event or condition",
+        "sub_definitions": {
+            "1": {
+                "1": "an event or condition (as a terminal illness) that permits an acceleration or continuation of benefits or coverage"
+            },
+            "2": {
+                "1": "an event involving an employee covered by a group health insurance plan that would result in a termination of coverage for the employee or a qualified beneficiary if not for federal provisions for the continuation of such coverage (as for six months)",
+                "note": " Qualifying events for continuation of group health insurance coverage include the death, divorce, or legal separation of the employee, termination from employment for a reason other than gross misconduct, reduction in working hours, and the change in status of a child who ceases to be classified as a dependent under the terms of the plan. An employee is entitled to notice of the right to continuation after a qualifying event occurs."
+            }
+        },
+        "references": {}
+    }
+}

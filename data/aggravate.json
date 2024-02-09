@@ -1,0 +1,17 @@
+{
+    "Aggravate": {
+        "definition": "to make more serious",
+        "origin": "[maliciousness aggravated the offense]",
+        "sub_definitions": {
+            "-vat·ing": {
+                "definition": "to make more serious, more severe, or worse [maliciousnessthe offense] [her preexisting condition] [factors] compare",
+                "compares": "mitigate",
+                "aggravated": "her preexisting condition] [",
+                "aggravating": "factors] compare"
+            }
+        },
+        "references": {
+            "mitigate": "https://dictionary.findlaw.com/definition/mitigate.html"
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "Means": {
+        "definition": "something enabling one to achieve a desired end [a of self-defense] b",
+        "origin": "[a of self-defense]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "something enabling one to achieve a desired end [a of self-defense]",
+                "sub_terms": {
+                    "b": ""
+                }
+            },
+            "2": {
+                "definition": "resources (as income and assets) at one's disposal"
+            }
+        },
+        "references": {
+            "cause": "https://dictionary.findlaw.com/definition/cause.html"
+        }
+    }
+}

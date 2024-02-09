@@ -1,0 +1,14 @@
+{
+    "Portfolio": {
+        "definition": "the securities held by an investor",
+        "sub_definitions": {
+            "1": {
+                "1": "the securities held by an investor"
+            },
+            "2": {
+                "1": "the commercial paper held by a financial institution (as a bank)"
+            }
+        },
+        "references": {}
+    }
+}

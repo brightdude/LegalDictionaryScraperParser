@@ -1,0 +1,11 @@
+{
+    "Codefendant": {
+        "definition": "a joint defendant",
+        "sub_definitions": {
+            "1": {
+                "1": "a joint defendant"
+            }
+        },
+        "references": {}
+    }
+}

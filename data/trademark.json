@@ -1,0 +1,24 @@
+{
+    "Trademark": {
+        "definition": "a mark that is used by a manufacturer or merchant to identify the origin or ownership of goods and to distinguish them from others and the use of which is protected by law see also dilution",
+        "compare": "dilution",
+        "sub_definitions": {
+            "1": {
+                "1": "a mark that is used by a manufacturer or merchant to identify the origin or ownership of goods and to distinguish them from others and the use of which is protected by law see also",
+                "see also": "dilution",
+                "Trademark Act of 1946": "in the Important Laws section compare",
+                "compares": "copyright",
+                "note": " The Patent and Trademark Office registers trademarks and service marks that are used in interstate commerce or in intrastate commerce that affects interstate commerce. There are also state registration statutes for marks used in intrastate commerce. A trademark or service mark need not be registered for an owner to enforce his or her rights in court. The common law recognizes ownership of a trademark, established by actual and first use of the mark, but it extends only to the areas or markets where the mark is used. Federal registration of a trademark gives rise to a federal cause of action for infringement in addition to the common-law claim. Registration also serves as evidence of the owner's exclusive right to the continuous use and validity of the mark, and as constructive notice to the world of the claim to the mark. To be a valid trademark at common law and for federal registration, a mark must be distinctive; a descriptive mark may become distinctive by acquiring secondary meaning."
+            }
+        },
+        "references": {
+            "dilution": "https://dictionary.findlaw.com/definition/dilution.html",
+            "infringement": "https://dictionary.findlaw.com/definition/infringement.html",
+            "strong mark": "https://dictionary.findlaw.com/definition/strong-mark.html",
+            "weak mark": "https://dictionary.findlaw.com/definition/weak-mark.html",
+            "copyright": "https://dictionary.findlaw.com/definition/copyright.html",
+            "patent": "https://dictionary.findlaw.com/definition/patent.html",
+            "service mark": "https://dictionary.findlaw.com/definition/service-mark.html"
+        }
+    }
+}

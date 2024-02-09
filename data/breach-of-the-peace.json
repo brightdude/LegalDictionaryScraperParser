@@ -1,0 +1,20 @@
+{
+    "Breach Of The Peace": {
+        "definition": "a disturbance of public peace or order [insulting language causing a breach of the peace ] see also fighting words 2",
+        "origin": "[insulting language causing a breach of the peace ]",
+        "sub_definitions": {
+            "1": {
+                "definition": "a disturbance of public peace or order [insulting language causing a] see also",
+                "see also": "fighting words"
+            },
+            "2": {
+                "definition": "the offense of causing a breach of the peace compare",
+                "compares": "disorderly conduct"
+            }
+        },
+        "references": {
+            "fighting words": "https://dictionary.findlaw.com/definition/fighting-words.html",
+            "disorderly conduct": "https://dictionary.findlaw.com/definition/disorderly-conduct.html"
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "Confirmation": {
+        "definition": "the act or process of confirming",
+        "origin": "[seeking of the agreement]",
+        "sub_definitions": {
+            "1": {
+                "definition": "the act or process of confirming, assuring, or upholding [seeking of the agreement]the ratification of an executive act by a legislative body [senate of the Supreme Court nominee]"
+            },
+            "2": {
+                "definition": "something that confirms",
+                "sub_terms": {
+                    "a": "an express or implied contract by which a person makes a voidable agreement bindinga definite expression or written memorandum that verifies or substantiates an agreement previously made orally or informally",
+                    "b": "a declaration whereby a person corrects the parts of an obligation that are null to make them enforceable",
+                    "c": "a conveyance by which valid title to an estate is transferred to a person already in possession or by which an estate is increased"
+                }
+            }
+        },
+        "references": {}
+    }
+}

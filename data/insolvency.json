@@ -1,0 +1,18 @@
+{
+    "Insolvency": {
+        "definition": "-cies 1",
+        "sub_definitions": {
+            "1": {
+                "definition": "the fact or state of being insolvent compare",
+                "compares": "bankruptcy"
+            },
+            "2": {
+                "definition": "insufficiency (as of an estate) to discharge all enforceable debts",
+                "note": " Insolvency matters are covered under the Bankruptcy Code."
+            }
+        },
+        "references": {
+            "bankruptcy": "https://dictionary.findlaw.com/definition/bankruptcy.html"
+        }
+    }
+}

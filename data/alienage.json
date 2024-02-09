@@ -1,0 +1,11 @@
+{
+    "Alienage": {
+        "definition": "the status of an alien",
+        "sub_definitions": {
+            "1": {
+                "1": "the status of an alien"
+            }
+        },
+        "references": {}
+    }
+}

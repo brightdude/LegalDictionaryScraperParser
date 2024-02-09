@@ -1,0 +1,31 @@
+{
+    "Civil": {
+        "definition": "concerning",
+        "origin": "[Latin civilis , from civis citizen]",
+        "sub_definitions": {
+            "1": {
+                "definition": "concerning, befitting, or applying to individual citizens or to citizens as a whole [a duty] see also",
+                "see also": "civil right"
+            },
+            "2": {
+                "definition": "marked by public orderpeaceable in behavior"
+            },
+            "3": {
+                "definition": "of or relating to a legal system based on Roman law as opposed to the English common law see also the Judicial System in the back matter"
+            },
+            "4": {
+                "definition": "relating to private rights and to judicial proceedings in connection with themrelating to legal matters other than those characterized as criminal [a action] [a infraction]"
+            },
+            "5": {
+                "definition": "defined by law[a disability]"
+            },
+            "6": {
+                "definition": "of, relating to, or involving the general public, their activities, needs, ways, or civic affairs as distinguished from special (as military or religious) affairs [the authorities] [the service]"
+            }
+        },
+        "references": {
+            "civil right": "https://dictionary.findlaw.com/definition/civil-right.html",
+            "legal": "https://dictionary.findlaw.com/definition/legal.html"
+        }
+    }
+}

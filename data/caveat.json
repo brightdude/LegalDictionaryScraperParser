@@ -1,0 +1,18 @@
+{
+    "Caveat": {
+        "definition": "a warning enjoining one from certain acts or practices b",
+        "origin": "[Latin, may he/she beware]",
+        "sub_definitions": {
+            "1 a": {
+                "definition": "a warning enjoining one from certain acts or practices",
+                "sub_terms": {
+                    "b": "an explanation to prevent a misinterpretation"
+                }
+            },
+            "2": {
+                "definition": "a notice to a court or judicial officer to suspend a proceeding until the opposition can be heard [a entered in the probate court to stop the proving of the will]"
+            }
+        },
+        "references": {}
+    }
+}

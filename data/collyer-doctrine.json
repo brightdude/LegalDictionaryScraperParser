@@ -1,0 +1,16 @@
+{
+    "Collyer Doctrine": {
+        "definition": "a doctrine in labor law under which the National Labor Relations Board will defer an issue brought before it to arbitration if the issue can be resolved under the collective bargaining agreement in arbitration compare spielberg doctrine",
+        "origin": "[from Collyer Insulated Wire , 192 N.L.R.B. 837 (1971), the ruling that resulted in it]",
+        "compare": "spielberg doctrine",
+        "sub_definitions": {
+            "1": {
+                "1": "a doctrine in labor law under which the National Labor Relations Board will defer an issue brought before it to arbitration if the issue can be resolved under the collective bargaining agreement in arbitration compare",
+                "compares": "spielberg doctrine"
+            }
+        },
+        "references": {
+            "spielberg doctrine": "https://dictionary.findlaw.com/definition/spielberg-doctrine.html"
+        }
+    }
+}

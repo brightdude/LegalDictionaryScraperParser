@@ -1,0 +1,11 @@
+{
+    "Clearinghouse": {
+        "definition": "an institution that arranges for payment of checks owed by one bank to another",
+        "sub_definitions": {
+            "1": {
+                "1": "an institution that arranges for payment of checks owed by one bank to another"
+            }
+        },
+        "references": {}
+    }
+}
